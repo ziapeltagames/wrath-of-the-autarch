@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.collections.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" fx:id="upkeepAnchorPane" minHeight="296.951171875" prefHeight="400.951171875" prefWidth="808.999977929685" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="wota.strategic.ui.SeasonalUpkeepController">
+  <children>
+    <Label layoutX="453.0" layoutY="14.0" prefWidth="184.0" text="Total Resources / Trading">
+      <font>
+        <Font name="System Bold" size="15.0" fx:id="x1" />
+      </font>
+    </Label>
+    <Button fx:id="finishUpkeepButton" layoutX="675.0" layoutY="360.0" mnemonicParsing="false" onAction="#finishUpkeep" text="Finish Upkeep" />
+    <GridPane hgap="10.0" layoutX="453.0" layoutY="42.0" prefWidth="340.0" vgap="0.0">
+      <children>
+        <Label text="Stronghold BP" GridPane.columnIndex="2" GridPane.rowIndex="0" />
+        <Label text="Burgan Vale BP" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+        <Label text="Crescent Hold BP" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+        <Label text="Lily Manor BP" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+        <Label text="Gravewood BP" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+        <Label text="Sunriders BP" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+        <TextField fx:id="strongholdBP" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="0" />
+        <TextField fx:id="burganValeBP" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+        <TextField fx:id="crescentHoldBP" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+        <TextField fx:id="lilyManorBP" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+        <TextField fx:id="gravewoodBP" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+        <TextField fx:id="sunridersBP" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+        <Label text="Food" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <TextField fx:id="totalFood" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+        <Label text="Timber" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+        <TextField fx:id="totalTimber" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <Label text="Ore" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+        <TextField fx:id="totalOre" prefWidth="131.0001220703125" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <Label text="Mana" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+        <TextField fx:id="totalMana" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+        <Label text="Luxuries" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+        <TextField fx:id="totalLuxuries" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      </children>
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" prefWidth="60.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="135.0" minWidth="10.0" prefWidth="63.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="154.0" minWidth="10.0" prefWidth="122.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="126.0" minWidth="10.0" prefWidth="65.0" />
+      </columnConstraints>
+      <padding>
+        <Insets />
+      </padding>
+      <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      </rowConstraints>
+    </GridPane>
+    <TabPane layoutX="14.0" layoutY="14.0" prefHeight="261.0" prefWidth="411.9998779296875" side="TOP" tabClosingPolicy="UNAVAILABLE">
+      <tabs>
+        <Tab text="Purchase Developments">
+          <content>
+            <AnchorPane id="Content" depthTest="INHERIT" minHeight="0.0" minWidth="0.0" prefHeight="209.0" prefWidth="412.0000999999975">
+              <children>
+                <GridPane hgap="10.0" layoutX="14.0" layoutY="12.0" prefHeight="195.00009999999747" prefWidth="384.0001220703125" vgap="0.0">
+                  <children>
+                    <Label text="Development" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0" />
+                    <ChoiceBox id="selectDevelopmentBox" fx:id="developmentsChoiceBox" prefWidth="224.0" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="0">
+                      <items>
+                        <FXCollections fx:factory="observableArrayList">
+                          <String fx:value="Item 1" />
+                          <String fx:value="Item 2" />
+                          <String fx:value="Item 3" />
+                        </FXCollections>
+                      </items>
+                    </ChoiceBox>
+                    <Label text="Ore" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                    <TextField fx:id="devOreCost" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                    <Label text="Mana" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                    <TextField fx:id="devManaCost" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                    <Label text="Luxuries" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                    <TextField fx:id="devLuxuriesCost" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+                    <Label text="Timber" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+                    <TextField fx:id="devTimberCost" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                    <TextField fx:id="devFoodCost" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                    <Label text="Food" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+                    <Label text="BP" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+                    <TextField fx:id="devBPCost" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                    <Button fx:id="purchaseDevelopmentButton" alignment="CENTER" contentDisplay="LEFT" font="$x1" mnemonicParsing="false" onAction="#purchaseDevelopment" prefWidth="93.0" text="Purchase" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.halignment="RIGHT" GridPane.rowIndex="5" />
+                    <Label text="Region" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                    <ChoiceBox fx:id="devRegionSelect" prefWidth="224.0" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="1">
+                      <items>
+                        <FXCollections fx:factory="observableArrayList">
+                          <String fx:value="Item 1" />
+                          <String fx:value="Item 2" />
+                          <String fx:value="Item 3" />
+                        </FXCollections>
+                      </items>
+                    </ChoiceBox>
+                  </children>
+                  <columnConstraints>
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="242.0" minWidth="10.0" prefWidth="203.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="226.0" minWidth="10.0" prefWidth="224.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="226.0" minWidth="10.0" prefWidth="224.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="226.0" minWidth="10.0" prefWidth="224.0" />
+                  </columnConstraints>
+                  <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  </rowConstraints>
+                </GridPane>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Purchase Troops">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="273.0" prefWidth="400.0">
+              <children>
+                <GridPane hgap="10.0" layoutX="14.0" layoutY="12.0" prefHeight="195.00009999999747" prefWidth="384.0001220703125" vgap="0.0">
+                  <children>
+                    <Label text="Unit" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0" />
+                    <ChoiceBox id="selectDevelopmentBox" fx:id="unitsChoiceBox" prefWidth="224.0" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="0">
+                      <items>
+                        <FXCollections fx:factory="observableArrayList">
+                          <String fx:value="Item 1" />
+                          <String fx:value="Item 2" />
+                          <String fx:value="Item 3" />
+                        </FXCollections>
+                      </items>
+                    </ChoiceBox>
+                    <Label text="Ore" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                    <TextField id="devOreCost" fx:id="unitOreCost" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                    <Label text="Mana" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                    <TextField id="devManaCost" fx:id="unitManaCost" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                    <Label text="Luxuries" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                    <TextField id="devLuxuriesCost" fx:id="unitLuxuriesCost" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+                    <Label text="Timber" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+                    <TextField id="devTimberCost" fx:id="unitTimberCost" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                    <TextField id="devFoodCost" fx:id="unitFoodCost" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                    <Label text="Food" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+                    <Label text="BP" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+                    <TextField id="devBPCost" fx:id="unitBPCost" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                    <Button id="purchaseDevelopmentButton" alignment="CENTER" contentDisplay="LEFT" font="$x1" mnemonicParsing="false" onAction="#purchaseUnit" prefWidth="93.0" text="Purchase" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.halignment="RIGHT" GridPane.rowIndex="5" />
+                    <Label text="Total Units" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                    <Label text="Population" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                    <TextField fx:id="totalUnits" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                    <TextField fx:id="strongholdPopulation" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                  </children>
+                  <columnConstraints>
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="242.0" minWidth="10.0" prefWidth="203.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="226.0" minWidth="10.0" prefWidth="224.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="226.0" minWidth="10.0" prefWidth="224.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="226.0" minWidth="10.0" prefWidth="224.0" />
+                  </columnConstraints>
+                  <rowConstraints>
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  </rowConstraints>
+                </GridPane>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+      </tabs>
+    </TabPane>
+    <TextArea fx:id="statusTextArea" layoutX="14.0" layoutY="275.0" prefHeight="111.951171875" prefWidth="652.0" wrapText="true" />
+  </children>
+</AnchorPane>

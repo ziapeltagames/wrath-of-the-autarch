@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" fx:id="threatAnchorPane" prefHeight="595.0" prefWidth="968.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="wota.strategic.ui.ThreatDeterminationController">
+  <children>
+    <Label layoutX="14.0" layoutY="14.0" text="Threats">
+      <font>
+        <Font name="System Bold" size="15.0" fx:id="x1" />
+      </font>
+    </Label>
+    <TableView fx:id="threatsTable" prefHeight="366.0" prefWidth="939.0" AnchorPane.bottomAnchor="180.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="49.0">
+      <columns>
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="179.0" text="Name" fx:id="threatNameTableColumn" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="103.0" text="Conflict Type" fx:id="threatConflictTypeTableColumn" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="74.0" text="Difficulty" fx:id="threatDifficultyTableColumn" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="90.0" text="Faction" fx:id="threatFactionTableColumn" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="111.0" text="Target Region" fx:id="threatTargetRegionTableColumn" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="114.0" text="Target Faction" fx:id="threatTargetFactionTableColumn" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="96.0" text="Target Hero" fx:id="threatTargetHeroTableColumn" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="173.0" text="Target Development" fx:id="threatTargetDevelopmentTableColumn" />
+      </columns>
+    </TableView>
+    <Button id="finishUpkeepButton" fx:id="finishThreatsButton" layoutX="827.0" layoutY="554.0" mnemonicParsing="false" onAction="#finishThreats" prefWidth="127.0" text="Finish Threats" />
+    <TextArea fx:id="statusTextArea" layoutX="13.0" layoutY="516.0" prefHeight="65.0" prefWidth="805.0" wrapText="true" />
+    <GridPane hgap="5.0" minHeight="25.0" prefHeight="91.00009999999747" prefWidth="939.0001220703125" vgap="5.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="415.0">
+      <children>
+        <Label text="Guard Force:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+        <Label text="Diplomats:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+        <Button fx:id="removeInfiltrationThreatButton" mnemonicParsing="false" onAction="#removeInfiltrationThreat" prefWidth="209.0" text="Remove Infiltration Threat" GridPane.columnIndex="7" GridPane.halignment="LEFT" GridPane.rowIndex="1" />
+        <Label prefWidth="252.0" text="Spies:" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+        <Label text="Infantry:" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+        <Button fx:id="removeSkirmishThreatButton" cancelButton="false" defaultButton="false" mnemonicParsing="false" onAction="#removeSkirmishThreat" prefWidth="218.0" text="Remove Skirmish Threat" textAlignment="LEFT" GridPane.columnIndex="3" GridPane.hgrow="ALWAYS" GridPane.rowIndex="1" GridPane.vgrow="ALWAYS" />
+        <Label fx:id="skirmishUses" prefWidth="200.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <Label fx:id="diplomacyUses" prefWidth="200.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <Label id="infiltrationMaxDifficulty" fx:id="infiltrationUses" prefWidth="200.0" text="0" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+        <Label id="warfareMaxDifficulty" fx:id="warfareUses" prefWidth="200.0" text="0" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+        <Button fx:id="removeDiplomacyThreatButton" mnemonicParsing="false" onAction="#removeDiplomacyThreat" prefWidth="218.0" text="Remove Diplomacy Threat" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+        <Button id="removeMilitaryThreatButton" fx:id="removeWarfareThreatButton" mnemonicParsing="false" onAction="#removeWarfareThreat" prefWidth="209.0" text="Remove Warfare Threat" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+        <Label alignment="CENTER_LEFT" contentDisplay="LEFT" text="Uses" textAlignment="LEFT" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="0" GridPane.valignment="CENTER" />
+        <Label text="Uses" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="0" />
+        <Label id="diplomacyMaxDifficulty" fx:id="skirmishMaxDifficulty" prefWidth="200.0" text="0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+        <Label fx:id="diplomacyMaxDifficulty" prefWidth="200.0" text="0" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+        <Label fx:id="infiltrationMaxDifficulty" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+        <Label fx:id="warfareMaxDifficulty" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+        <Label alignment="CENTER" contentDisplay="CENTER" text="Max Difficulty" textAlignment="CENTER" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="0" />
+        <Label text="Max Difficulty" GridPane.columnIndex="6" GridPane.halignment="CENTER" GridPane.rowIndex="0" />
+      </children>
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="265.0" minWidth="10.0" prefWidth="92.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="254.0" minWidth="10.0" prefWidth="61.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="256.0" minWidth="10.0" prefWidth="99.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="256.0" minWidth="10.0" prefWidth="205.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="233.0" minWidth="10.0" prefWidth="74.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="233.0" minWidth="10.0" prefWidth="62.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="233.0" minWidth="10.0" prefWidth="102.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="233.0" minWidth="10.0" prefWidth="209.0" />
+      </columnConstraints>
+      <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      </rowConstraints>
+    </GridPane>
+  </children>
+</AnchorPane>

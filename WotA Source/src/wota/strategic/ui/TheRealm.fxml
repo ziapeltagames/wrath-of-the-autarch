@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" fx:id="mainAnchorPane" pickOnBounds="true" prefHeight="620.0" prefWidth="934.0" snapToPixel="true" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="wota.strategic.ui.TheRealmController">
+  <children>
+    <Button id="button" fx:id="nextTurn" onAction="#takeTurn" text="Resolve Next Season" AnchorPane.bottomAnchor="16.0" AnchorPane.rightAnchor="14.0" />
+    <MenuBar layoutY="14.0" prefWidth="822.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0">
+      <menus>
+        <Menu mnemonicParsing="false" text="File">
+          <items>
+            <MenuItem mnemonicParsing="false" onAction="#loadFile" text="Load" />
+            <MenuItem mnemonicParsing="false" onAction="#saveFile" text="Save" />
+            <MenuItem mnemonicParsing="false" onAction="#saveFileAs" text="Save As..." />
+          </items>
+        </Menu>
+      </menus>
+    </MenuBar>
+    <Label layoutY="54.0" text="Stability" AnchorPane.rightAnchor="458.0" />
+    <Label layoutY="54.0" text="Population" AnchorPane.rightAnchor="309.0" />
+    <TabPane prefHeight="469.0" prefWidth="822.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="43.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="108.0">
+      <tabs>
+        <Tab text="Resources and Faction Status">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <GridPane gridLinesVisible="false" hgap="10.0" prefHeight="400.0" prefWidth="800.0" vgap="5.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <children>
+                    <Label prefWidth="119.0" text="Stronghold BP" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                    <Label prefWidth="140.0" text="Burgan Vale BP" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                    <Label prefWidth="140.0" text="Crescent Hold BP" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                    <Label prefWidth="140.0" text="Gravewood BP" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                    <Label prefWidth="140.0" text="Lily Manor BP" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+                    <Label prefWidth="140.0" text="Sunriders BP" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+                    <TextField fx:id="strongholdBPTextField" prefWidth="200.0" text="0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                    <TextField fx:id="burganValeBPTextField" prefWidth="200.0" text="0" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                    <TextField fx:id="crescentHoldBPTextField" prefWidth="200.0" text="0" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                    <TextField fx:id="gravewoodBPTextField" prefWidth="200.0" text="0" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+                    <TextField fx:id="lilyManorBPTextField" prefWidth="200.0" text="0" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+                    <TextField fx:id="sunridersBPTextField" prefWidth="200.0" text="0" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+                    <Label text="Mana" GridPane.columnIndex="0" GridPane.rowIndex="5" />
+                    <Label text="Luxuries" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+                    <Label text="Ore" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+                    <Label text="Timber" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+                    <TextField fx:id="strongholdManaTextField" prefWidth="200.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                    <TextField fx:id="strongholdLuxuriesTextField" prefWidth="200.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                    <TextField fx:id="strongholdOreTextField" prefWidth="200.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                    <TextField fx:id="strongholdTimberTextField" prefWidth="47.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                    <Label text="Food" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                    <TextField fx:id="strongholdFoodTextField" prefWidth="200.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                    <Label text="Resources and BP" GridPane.columnIndex="0" GridPane.columnSpan="4" GridPane.halignment="CENTER" GridPane.rowIndex="0">
+                      <font>
+                        <Font name="System Bold" size="15.0" fx:id="x1" />
+                      </font>
+                    </Label>
+                    <Label prefWidth="101.0" text="Autarch" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+                    <Label prefWidth="101.0" text="Burgan Vale" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+                    <Label prefWidth="101.0" text="Crescent Hold" GridPane.columnIndex="5" GridPane.rowIndex="3" />
+                    <Label prefWidth="101.0" text="Gravewood" GridPane.columnIndex="5" GridPane.rowIndex="4" />
+                    <Label prefWidth="101.0" text="Lily Manor" GridPane.columnIndex="5" GridPane.rowIndex="5" />
+                    <Label prefWidth="102.0" text="Sunriders" GridPane.columnIndex="5" GridPane.rowIndex="6" />
+                    <Label alignment="TOP_CENTER" font="$x1" prefWidth="101.0" text="Disposition" textAlignment="CENTER" GridPane.columnIndex="6" GridPane.rowIndex="0" />
+                    <Label alignment="TOP_CENTER" font="$x1" prefWidth="93.0" text="Stability" textAlignment="CENTER" GridPane.columnIndex="7" GridPane.rowIndex="0" />
+                    <Label alignment="TOP_CENTER" font="$x1" prefWidth="107.0" text="Population" textAlignment="CENTER" GridPane.columnIndex="8" GridPane.rowIndex="0" />
+                    <TextField fx:id="autarchDisposition" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+                    <TextField fx:id="burganValeDisposition" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+                    <TextField fx:id="crescentHoldDisposition" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="3" />
+                    <TextField fx:id="gravewoodDisposition" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="4" />
+                    <TextField fx:id="lilyManorDisposition" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="5" />
+                    <TextField fx:id="sunridersDisposition" prefWidth="200.0" text="0" GridPane.columnIndex="6" GridPane.rowIndex="6" />
+                    <TextField fx:id="autarchStability" prefWidth="200.0" text="0" GridPane.columnIndex="7" GridPane.rowIndex="1" />
+                    <TextField fx:id="burganValeStability" prefWidth="200.0" text="0" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+                    <TextField fx:id="crescentHoldStability" prefWidth="200.0" text="0" GridPane.columnIndex="7" GridPane.rowIndex="3" />
+                    <TextField fx:id="gravewoodStability" prefWidth="200.0" text="0" GridPane.columnIndex="7" GridPane.rowIndex="4" />
+                    <TextField fx:id="lilyManorStability" prefWidth="200.0" text="0" GridPane.columnIndex="7" GridPane.rowIndex="5" />
+                    <TextField fx:id="sunridersStability" prefWidth="200.0" text="0" GridPane.columnIndex="7" GridPane.rowIndex="6" />
+                    <TextField fx:id="autarchPopulation" prefWidth="200.0" text="0" GridPane.columnIndex="8" GridPane.rowIndex="1" />
+                    <TextField fx:id="burganValePopulation" prefWidth="200.0" text="0" GridPane.columnIndex="8" GridPane.rowIndex="2" />
+                    <TextField fx:id="crescentHoldPopulation" prefWidth="200.0" text="0" GridPane.columnIndex="8" GridPane.rowIndex="3" />
+                    <TextField fx:id="gravewoodPopulation" prefWidth="200.0" text="0" GridPane.columnIndex="8" GridPane.rowIndex="4" />
+                    <TextField fx:id="lilyManorPopulation" prefWidth="200.0" text="0" GridPane.columnIndex="8" GridPane.rowIndex="5" />
+                    <TextField fx:id="sunridersPopulation" prefWidth="200.0" text="0" GridPane.columnIndex="8" GridPane.rowIndex="6" />
+                    <Label font="$x1" text="Autarch Threat Pools" GridPane.columnIndex="0" GridPane.columnSpan="3" GridPane.halignment="CENTER" GridPane.rowIndex="7" />
+                    <Label text="Unallocated" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="8" />
+                    <Label text="Diplomacy" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="9" />
+                    <Label text="Infiltration" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="10" />
+                    <Label text="Skirmish" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="11" />
+                    <Label text="Warfare" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="12" />
+                    <TextField fx:id="autarchThreatTextField" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="8" />
+                    <TextField fx:id="autarchDiplomacyTextField" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="9" />
+                    <TextField fx:id="autarchInfiltrationTextField" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="10" />
+                    <TextField fx:id="autarchSkirmishTextField" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="11" />
+                    <TextField fx:id="autarchWarfareTextField" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="12" />
+                  </children>
+                  <columnConstraints>
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="98.0" minWidth="10.0" prefWidth="49.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="129.0" minWidth="10.0" prefWidth="38.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="178.0" minWidth="10.0" prefWidth="119.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="121.0" minWidth="10.0" prefWidth="39.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="133.0" minWidth="10.0" prefWidth="49.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="135.0" minWidth="10.0" prefWidth="110.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="121.0" minWidth="10.0" prefWidth="87.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="121.0" minWidth="10.0" prefWidth="66.0" />
+                    <ColumnConstraints hgrow="SOMETIMES" maxWidth="121.0" minWidth="10.0" prefWidth="86.0" />
+                  </columnConstraints>
+                  <rowConstraints>
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  </rowConstraints>
+                </GridPane>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Heroes">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="366.0" prefWidth="1023.0">
+              <children>
+                <TableView fx:id="heroTable" editable="true" prefHeight="400.0" prefWidth="800.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <columns>
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="236.0" text="Name" fx:id="heroNameColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="94.0" text="Major Focus" fx:id="heroMajorColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="95.0" text="Minor Focus" fx:id="heroMinorColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="51.0" text="Rank" fx:id="heroRankColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="46.0" text="XP" fx:id="heroXPColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="52.0" text="Cons." fx:id="heroConsequencesColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="54.0" text="Caster" fx:id="heroSpellcasterColumn" />
+                    <TableColumn prefWidth="75.0" text="Backlash" fx:id="heroBacklashColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="179.0" text="Region" fx:id="heroRegionColumn" />
+                  </columns>
+                </TableView>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Regions">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <TableView fx:id="regionTable" editable="true" prefHeight="400.0" prefWidth="800.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <columns>
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="123.0" text="Name" fx:id="regionNameColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="45.0" text="Food" fx:id="regionFoodColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="60.0" text="Timber" fx:id="regionTimberColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="32.0" text="Ore" fx:id="regionOreColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="45.0" text="Mana" fx:id="regionManaColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="65.0" text="Luxuries" fx:id="regionLuxuriesColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="109.0" text="Consequences" fx:id="regionConsequencesColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="53.0" text="Threat" fx:id="regionThreatColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="349.0" text="Developments" fx:id="regionDevelopmentsColumn" />
+                  </columns>
+                </TableView>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Developments">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <TableView fx:id="developmentsTable" editable="true" prefHeight="400.0" prefWidth="800.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <columns>
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="161.0" text="Name" fx:id="developmentsNameColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="105.0" text="Region" fx:id="developmentsRegionColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="616.0" text="Effect" fx:id="developmentsEffectColumn" />
+                  </columns>
+                </TableView>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Military Units">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <TableView id="strongholdUnitsTableView" fx:id="unitsTableView" prefHeight="393.0" prefWidth="800.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <columns>
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="143.0" text="Type" fx:id="unitsTypeColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="133.0" text="Quality" fx:id="unitsQualityColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="148.0" text="Available" fx:id="unitsAvailableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="126.0" text="Offense" fx:id="unitsOffenseColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="120.0" text="Defense" fx:id="unitsDefenseColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="116.0" text="Morale" fx:id="unitsMoraleColumn" />
+                  </columns>
+                </TableView>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Trades">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <TableView fx:id="tradesTable" prefHeight="400.0" prefWidth="800.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <columns>
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="242.0" text="Faction" fx:id="tradesFactionTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="153.0" text="Give" fx:id="tradesGiveTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="83.0" text="Amount" fx:id="tradesGiveAmountTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="140.0" text="Receive" fx:id="tradesReceiveTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="98.0" text="Amount" fx:id="tradesReceiveAmountTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="167.0" text="Seasons Remaining" fx:id="tradesSeasonsRemainingTableColumn" />
+                  </columns>
+                </TableView>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Conditions">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <TableView id="strongholdUnitsTableView" fx:id="conditionsTableView" prefHeight="393.0" prefWidth="800.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <columns>
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="206.0" text="Type" fx:id="conditionsTypeTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="137.0" text="Target Faction" fx:id="conditionsFactionTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="137.0" text="Target Region" fx:id="conditionsRegionTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="175.0" text="Target Development" fx:id="conditionsDevelopmentTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="137.0" text="Target Hero" fx:id="conditionsHeroTableColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="89.0" text="Seasons" fx:id="conditionsSeasonTableColumn" />
+                  </columns>
+                </TableView>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Dev Listings">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <TableView id="developmentsTable" fx:id="listingsTableView" editable="true" prefHeight="400.0" prefWidth="800.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="11.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="14.0">
+                  <columns>
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="126.0" text="Name" fx:id="listingsNameColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="78.0" text="Type" fx:id="listingsTypeColumn" />
+                    <TableColumn editable="true" maxWidth="5000.0" minWidth="10.0" prefWidth="38.0" text="BP" fx:id="listingsBPColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="59.0" text="Timber" fx:id="listingsTimberColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="49.0" text="Ore" fx:id="listingsOreColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="59.0" text="Mana" fx:id="listingsManaColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="57.0" text="Lux" fx:id="listingsLuxColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="101.0" text="Prerequisites" fx:id="listingsPrerequisitesColumn" />
+                    <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="315.0" text="Effect" fx:id="listingsEffectColumn" />
+                  </columns>
+                </TableView>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+      </tabs>
+    </TabPane>
+    <TextField fx:id="strongholdName" layoutY="51.0" prefWidth="392.0" text="Stronghold Name" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="528.0" />
+    <TextField fx:id="strongholdStability" layoutY="51.0" prefWidth="53.0" text="0" AnchorPane.rightAnchor="394.0" />
+    <TextField fx:id="strongholdPopulation" layoutY="51.0" prefWidth="53.0" text="0" AnchorPane.rightAnchor="243.0" />
+    <Label layoutY="54.0" text="Season" AnchorPane.rightAnchor="74.0" />
+    <TextField fx:id="currentSeason" layoutY="51.0" prefWidth="41.0" text="0" AnchorPane.rightAnchor="26.0" />
+    <Label layoutY="54.0" text="Year" AnchorPane.rightAnchor="193.0" />
+    <TextField fx:id="currentYear" layoutY="51.0" prefWidth="48.0" text="0" AnchorPane.rightAnchor="137.0" />
+  </children>
+  <stylesheets>
+    <URL value="@WotAModel.css" />
+  </stylesheets>
+</AnchorPane>

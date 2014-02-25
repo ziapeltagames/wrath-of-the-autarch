@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    
+    <xs:element name="wrathsavefile">    
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="stronghold" type="strongholdtype"/>
+                <xs:element name="neutralregion" type="regiontype" maxOccurs="unbounded"/>
+                <xs:element name="faction" type="factiontype" maxOccurs="unbounded"/>
+                <xs:element name="regionalthreat" type="regionthreattype" maxOccurs="unbounded"/>
+                <xs:element name="diplomaticthreat" type="diplomaticthreattype" maxOccurs="unbounded"/>
+                <xs:element name="factionthreat" type="factionthreattype" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="strongholdtype">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="stability" type="xs:integer"/>
+            <xs:element name="population" type="xs:integer"/>
+            <xs:element name="year" type="xs:integer"/>
+            <xs:element name="season" type="xs:integer"/>
+            <xs:element name="investedFood" type="xs:integer"/>
+            <xs:element name="investedTimber" type="xs:integer"/>
+            <xs:element name="investedOre" type="xs:integer"/>
+            <xs:element name="investedMana" type="xs:integer"/>
+            <xs:element name="investedLuxuries" type="xs:integer"/>
+            <xs:element name="investedBP" type="xs:integer"/>
+            <xs:element name="burganValeBP" type="xs:integer"/>
+            <xs:element name="crescentHoldBP" type="xs:integer"/>
+            <xs:element name="gravewoodBP" type="xs:integer"/>
+            <xs:element name="lilyManorBP" type="xs:integer"/>
+            <xs:element name="sunridersBP" type="xs:integer"/>
+            <xs:element name="hero" type="herotype" minOccurs="10" maxOccurs="10"/>
+            <xs:element name="development" type="developmenttype" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="unit" type="unittype" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="region" type="regiontype" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="trade" type="tradetype" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="condition" type="conditiontype" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="herotype">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="XP" type="xs:integer"/>
+            <xs:element name="rank" type="xs:integer"/>            
+            <xs:element name="majorfocus" type="xs:string"/>
+            <xs:element name="minorfocus" type="xs:string"/>
+            <xs:element name="spellcaster" type="xs:boolean"/>
+            <xs:element name="region" type="xs:string"/>
+            <xs:element name="consequences" type="xs:integer"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="developmenttype">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="region" type="xs:string"/>
+            <xs:element name="used" type="xs:boolean"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="unittype">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="amount" type="xs:integer"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="tradetype">
+        <xs:sequence>
+            <xs:element name="faction" type="xs:string"/>
+            <xs:element name="give" type="xs:string"/>
+            <xs:element name="giveamount" type="xs:integer"/>
+            <xs:element name="receive" type="xs:string"/>
+            <xs:element name="receiveamount" type="xs:integer"/>
+            <xs:element name="seasons" type="xs:integer"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="conditiontype">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="remainingSeasons" type="xs:integer"/>
+            <xs:element name="hero" type="herotype"/>
+            <xs:element name="region" type="xs:string"/>
+            <xs:element name="development" type="xs:string"/>
+            <xs:element name="faction" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="regiontype">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="food" type="xs:integer"/>
+            <xs:element name="timber" type="xs:integer"/>
+            <xs:element name="ore" type="xs:integer"/>
+            <xs:element name="mana" type="xs:integer"/>
+            <xs:element name="luxuries" type="xs:integer"/>
+            <xs:element name="population" type="xs:integer"/>
+            <xs:element name="development" type="developmenttype" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="minigame" type="xs:string"/>
+            <xs:element name="difficulty" type="xs:integer"/>            
+        </xs:sequence>
+    </xs:complexType>    
+    
+    <xs:complexType name="factiontype">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="stability" type="xs:integer"/>
+            <xs:element name="population" type="xs:integer"/>
+            <xs:element name="disposition" type="xs:integer"/>
+            <xs:element name="unallocatedPool" type="xs:integer"/>
+            <xs:element name="skirmishPool" type="xs:integer"/>
+            <xs:element name="infiltrationPool" type="xs:integer"/>
+            <xs:element name="diplomacyPool" type="xs:integer"/>
+            <xs:element name="warfarePool" type="xs:integer"/>
+            <xs:element name="development" type="developmenttype" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="unit" type="unittype" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="region" type="regiontype" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="regionthreattype">
+        <xs:sequence>
+            <xs:element name="region" type="xs:string"/>
+            <xs:element name="minigame" type="xs:string"/>
+            <xs:element name="difficulty" type="xs:integer"/>           
+        </xs:sequence>
+    </xs:complexType>      
+
+    <xs:complexType name="diplomaticthreattype">
+        <xs:sequence>
+            <xs:element name="faction" type="xs:string"/>
+            <xs:element name="minigame" type="xs:string"/>
+            <xs:element name="difficulty" type="xs:integer"/>           
+        </xs:sequence>
+    </xs:complexType>  
+            
+    <xs:complexType name="factionthreattype">
+        <xs:sequence>
+            <xs:element name="faction" type="xs:string"/>
+            <xs:element name="type" type="xs:string"/>   
+            <xs:element name="targetfaction" type="xs:string"/>     
+            <xs:element name="targetregion" type="xs:string"/> 
+            <xs:element name="targethero" type="xs:string"/>
+            <xs:element name="targetdevelopment" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType> 
+                    
+</xs:schema>
