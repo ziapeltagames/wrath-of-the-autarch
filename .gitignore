@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/WotA Source/nbproject/private/
+/WotA Source/build/
+/WotA Source/dist/

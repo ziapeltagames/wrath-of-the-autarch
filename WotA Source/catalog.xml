@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
-    <system systemId="file:/C:/Users/plewis/Documents/Role-playing%20Games/WotA/Source%20Repository/wrath-of-the-autarch/WotA%20Source/src/wota/xml%20schemas/WotaModel.xsd" uri="xml-resources/jaxb/WotA%20Save%20File/WotaModel.xsd"/>
-</catalog>
