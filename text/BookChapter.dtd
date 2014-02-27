@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT chapter ANY>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT header1 (#PCDATA)>
+<!ELEMENT header2 (#PCDATA)>
+<!ELEMENT header3 (#PCDATA)>
+<!ELEMENT body1 (#PCDATA|aspect|term|strong|list|character|region|b|i)*>
+<!ELEMENT body2 (#PCDATA|aspect|term|strong|list|character|region|b|i)*>
+<!ELEMENT callout (#PCDATA|aspect|term|strong|list|b|i)*>
+<!ELEMENT aspect (#PCDATA)>
+<!ELEMENT strong (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+<!ELEMENT term (#PCDATA)>
+<!ELEMENT list (#PCDATA|l1|l2|l3)*>
+<!ELEMENT l1 (#PCDATA|aspect|term|strong|b|i)*>
+<!ELEMENT l2 (#PCDATA|aspect|term|strong|b|i)*>
+<!ELEMENT l3 (#PCDATA|aspect|term|strong|b|i)*>
+<!ELEMENT character (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
