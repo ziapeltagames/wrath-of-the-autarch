@@ -1,24 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- Standard InDesign tags. -->
+
+<!-- The default root element of any XML. -->
+<!ELEMENT Root ANY>
+
+<!-- A Story usually creates a new text frame. -->
+<!ELEMENT Story ANY>
+
+<!-- For table formatting. -->
+<!ELEMENT Table ANY>
+<!ELEMENT Cell ANY>
+
+<!-- Image import. -->
+<!ELEMENT Image ANY>
+
+<!-- Not as standard, but these tags provide
+     lots of flexibility in creating design elements. -->
 <!ELEMENT chapter ANY>
-<!ELEMENT section (#PCDATA)>
-<!ELEMENT header1 (#PCDATA)>
-<!ELEMENT header2 (#PCDATA)>
-<!ELEMENT header3 (#PCDATA)>
-<!ELEMENT header4 (#PCDATA)>
-<!ELEMENT body1 (#PCDATA|aspect|term|strong|fate|list|character|region|b|i)*>
-<!ELEMENT body2 (#PCDATA|aspect|term|strong|fate|list|character|region|b|i)*>
-<!ELEMENT example1 (#PCDATA|aspect|term|strong|fate|list|character|region|b|i)*>
-<!ELEMENT callout (#PCDATA|aspect|term|strong|fate|list|b|i)*>
+<!ELEMENT section ANY>
+<!ELEMENT h1 ANY>
+<!ELEMENT h2 ANY>
+<!ELEMENT h3 ANY>
+<!ELEMENT h4 ANY>
+<!ELEMENT p1 ANY>
+<!ELEMENT p2 ANY>
+<!ELEMENT example ANY>
+<!ELEMENT callout ANY>
 <!ELEMENT aspect (#PCDATA)>
-<!ELEMENT strong (#PCDATA)>
-<!ELEMENT b (#PCDATA)>
-<!ELEMENT i (#PCDATA)>
+<!ELEMENT stunt (#PCDATA)>
+
+<!-- This is for using the Fate font. -->
 <!ELEMENT fate (#PCDATA)>
 <!ELEMENT term (#PCDATA)>
-<!ELEMENT list (#PCDATA|l1|l2|l3)*>
+<!ELEMENT strong (#PCDATA)>
+<!ELEMENT em (#PCDATA)>
+<!ELEMENT b (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT ul (#PCDATA|l1|l2|l3)*>
 <!ELEMENT l1 (#PCDATA|aspect|term|strong|b|i)*>
 <!ELEMENT l2 (#PCDATA|aspect|term|strong|b|i)*>
 <!ELEMENT l3 (#PCDATA|aspect|term|strong|b|i)*>
-<!ELEMENT character (#PCDATA)>
-<!ELEMENT region (#PCDATA)>
+
+<!ELEMENT development ANY>
+<!ELEMENT devel_title ANY>
+<!ELEMENT devel_cost ANY>
+
+<!ELEMENT statblock ANY>
+<!ELEMENT statblock_name ANY>
+<!ELEMENT statblock_stat ANY>
+
+<!ELEMENT leadrow (#PCDATA)>
+<!ELEMENT row (#PCDATA)>
+
