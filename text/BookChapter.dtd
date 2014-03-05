@@ -18,26 +18,42 @@
 <!-- Not as standard, but these tags provide
      lots of flexibility in creating design elements. -->
 <!ELEMENT chapter ANY>
+<!ELEMENT chapref ANY>
+
 <!ELEMENT section ANY>
+<!ELEMENT secref ANY>
+
 <!ELEMENT h1 ANY>
 <!ELEMENT h2 ANY>
 <!ELEMENT h3 ANY>
 <!ELEMENT h4 ANY>
 <!ELEMENT p1 ANY>
 <!ELEMENT p2 ANY>
+
+<!-- These elements are more specific to RPG texts and Fate. -->
 <!ELEMENT example ANY>
 <!ELEMENT callout ANY>
 <!ELEMENT aspect (#PCDATA)>
+<!ELEMENT challenge (#PCDATA)>
+<!ELEMENT skill (#PCDATA)>
+
 <!ELEMENT stunt (#PCDATA)>
+<!ELEMENT stuntt (#PCDATA)>
+<!ELEMENT stuntp (#PCDATA)>
+<!ELEMENT stuntd (#PCDATA)>
 
 <!-- This is for using the Fate font. -->
 <!ELEMENT fate (#PCDATA)>
+
+<!-- General text layout tags. -->
 <!ELEMENT term (#PCDATA)>
 <!ELEMENT strong (#PCDATA)>
+<!ELEMENT book (#PCDATA)>
 <!ELEMENT em (#PCDATA)>
 <!ELEMENT b (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
+<!-- Tags for lists. -->
 <!ELEMENT ul (#PCDATA|l1|l2|l3)*>
 <!ELEMENT l1 (#PCDATA|aspect|term|strong|b|i)*>
 <!ELEMENT l2 (#PCDATA|aspect|term|strong|b|i)*>
@@ -51,6 +67,9 @@
 <!ELEMENT statblock_name ANY>
 <!ELEMENT statblock_stat ANY>
 
+<!ELEMENT mission ANY>
+<!ELEMENT mission_title ANY>
+<!ELEMENT mission_entry ANY>
+
 <!ELEMENT leadrow (#PCDATA)>
 <!ELEMENT row (#PCDATA)>
-
