@@ -1,11 +1,243 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!DOCTYPE Root SYSTEM "BookChapter.dtd">
+
 <Root>
     <Story>
         <chapter>Developments</chapter>
         <p1></p1>
-        
+        <h1>Arcane Developments</h1>
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Channeling</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">5</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">5</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Channeling </devel_cost>
+        </development>
+        <p1>Roll d10 - d6 for backlash checks</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Improved Casting</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Spellcaster abilities increased by one</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Mages Guild</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">24</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">9</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">16</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Expert Casting Expert Channeling </devel_cost>
+        </development>
+        <p1>Spell abilities improved by one rank</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Improved Channeling</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Roll d8 - d6 for backlash checks</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Expert Channeling</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Advanced Channeling </devel_cost>
+        </development>
+        <p1>Roll d12 - d6 for backlash checks</p1>
+
         <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
             <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Expert Casting</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">11</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Advanced Casting </devel_cost>
+        </development>
+        <p1>Spellcaster abilities increased by three</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Arcane Academy</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">5</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Advanced Casting Advanced Channeling </devel_cost>
+        </development>
+        <p1>May recruit battle mages for war</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Mana Forge</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">5</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Channel one more mana in region</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Casting</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">5</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Casting </devel_cost>
+        </development>
+        <p1>Spellcaster abilities increased by two</p1>
+
+        <h1>Diplomacy Developments</h1>
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Center of Culture</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">18</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Arts and Entertainment </devel_cost>
+        </development>
+        <p1>Extra re-roll on diplomacy missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Superb Diplomats</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Ignore one diplomacy threat per year</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Trade Relationships</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Trade Guild </devel_cost>
+        </development>
+        <p1>Extra re-roll on diplomacy missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Festival</devel_title>
             <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
             <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
             <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
@@ -19,8 +251,620 @@
             <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
             <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
             <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
-            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">None</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
         </development>
+        <p1>Add one stability</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Epic Diplomats</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Fantastic Diplomats </devel_cost>
+        </development>
+        <p1>Ignore three diplomacy threats per year</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Arts and Entertainment</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">9</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Trade Guild </devel_cost>
+        </development>
+        <p1>Extra re-roll on diplomacy missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Trade Capital</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">16</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Trade Relationships </devel_cost>
+        </development>
+        <p1>Extra re-roll on diplomacy missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Trade Guild</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Extra re-roll on diplomacy missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Fantastic Diplomats</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Superb Diplomats </devel_cost>
+        </development>
+        <p1>Ignore two diplomacy threats per year</p1>
+
+        <h1>Infiltration Developments</h1>
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Floor Plans</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">22</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Influential Contacts Advanced Thieves Tools </devel_cost>
+        </development>
+        <p1>Extra re-roll on infiltration missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Fantastic Spies</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Superb Spies </devel_cost>
+        </development>
+        <p1>Ignore two infiltration threats per year</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Epic Spies</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Fantastic Spies </devel_cost>
+        </development>
+        <p1>Ignore three infiltration threats per year</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Thieves Tools</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">18</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Thieves Tools </devel_cost>
+        </development>
+        <p1>Extra re-roll on infiltration missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Expert Thieves Tools</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">24</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Advanced Thieves Tools </devel_cost>
+        </development>
+        <p1>Extra re-roll on infiltration missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Superb Spies</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Ignore one infiltration threat per year</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Influential Contacts</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">16</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Local Contacts </devel_cost>
+        </development>
+        <p1>Extra re-roll on infiltration missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Local Contacts</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Extra re-roll on infiltration missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Improved Thieves Tools</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Extra re-roll on infiltration missions</p1>
+
+        <h1>Skirmish Developments</h1>
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Bowyer</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">30</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Bowyer </devel_cost>
+        </development>
+        <p1>Extra re-roll on skirmish missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Superb Guard Force</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Ignore one skirmish threat per year</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Armorer</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">16</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">20</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Advanced Swordsmith </devel_cost>
+        </development>
+        <p1>Extra re-roll on skirmish missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Epic Guard Force</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Fantastic Guard Force </devel_cost>
+        </development>
+        <p1>Ignore three skirmish threats per year</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Improved Bowyer</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">24</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Swordsmith </devel_cost>
+        </development>
+        <p1>Extra re-roll on skirmish missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Improved Armorer</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">16</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Swordsmith </devel_cost>
+        </development>
+        <p1>Extra re-roll on skirmish missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Improved Swordsmith</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Extra re-roll on skirmish missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Swordsmith</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">18</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Armorer </devel_cost>
+        </development>
+        <p1>Extra re-roll on skirmish missions</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Fantastic Guard Force</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Superb Guard Force </devel_cost>
+        </development>
+        <p1>Ignore two skirmish threats per year</p1>
+
+        <h1>Warfare Developments</h1>
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Keep</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>Region gains a keep</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Castle</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">20</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">60</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">27</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Keep </devel_cost>
+        </development>
+        <p1>Keep is upgraded to a castle</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Siegecraft</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">22</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">4</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Barracks </devel_cost>
+        </development>
+        <p1>May construct catapults</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Fletcher</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">22</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Barracks </devel_cost>
+        </development>
+        <p1>May recruit archers</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Improved Barracks</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Barracks </devel_cost>
+        </development>
+        <p1>Infantry roll d8 - d6 for offense and defense</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Gunpowder</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">18</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">21</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">36</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Siegecraft </devel_cost>
+        </development>
+        <p1>May construct cannons</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Barracks</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Improved Barracks </devel_cost>
+        </development>
+        <p1>Infantry roll d10 - d6 for offense and defense</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Barracks</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></devel_cost>
+        </development>
+        <p1>May recruit infantry for war</p1>
+
+        <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+            <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Stables</devel_title>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Food</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">20</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Timber</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">22</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Ore</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">20</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Luxuries</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Prerequisites</devel_cost>
+            <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Barracks </devel_cost>
+        </development>
+        <p1>May recruit cavalry</p1>
         
     </Story>
 </Root>

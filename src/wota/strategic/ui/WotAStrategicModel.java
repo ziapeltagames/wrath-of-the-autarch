@@ -1347,7 +1347,12 @@ public class WotAStrategicModel extends Application {
         for (Development nextDevelopment : getDevelopments().values()) {
             getDevelopmentList().add(nextDevelopment);
         }
+        
+        outputInDesignDevelopments();
 
+    }
+
+    private void outputDevelopmentResourceTotals() {
         for (TechTree nextDevType : TechTree.values()) {
             int dfood = 0;
             int dmana = 0;
@@ -1373,7 +1378,78 @@ public class WotAStrategicModel extends Application {
             System.out.println("Luxuries: " + dlux);
             System.out.println("BP: " + dbp);
         }
+    }
 
+    /* 
+     A helper method for the main document. Dumps out all the
+     details for all of the developments into a table format that
+     InDesign recognizes.
+     */
+    private void outputInDesignDevelopments() {
+
+        for (TechTree nextDevType : TechTree.values()) {
+            System.out.print("<h1>");
+            System.out.print(nextDevType.name());
+            System.out.print(" Developments</h1>\n");
+            for (Development development : getDevelopments().values()) {
+                if (development.getTree() == nextDevType) {
+                    StringBuilder devBuffer = new StringBuilder();
+                    devBuffer.append("<development xmlns:aid=\"http://ns.adobe.com/AdobeInDesign/4.0/\" aid:table=\"table\" aid:trows=\"8\" aid:tcols=\"2\">\n");
+                    devBuffer.append("<devel_title aid:table=\"cell\" aid:theader=\"\" aid:crows=\"1\" aid:ccols=\"2\">");
+                    devBuffer.append(development.getName());
+                    devBuffer.append("</devel_title>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("Build Points");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append(development.getBp());
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("Food");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append(development.getFood());
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("Timber");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append(development.getTimber());
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("Ore");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append(development.getOre());
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("Mana");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append(development.getMana());
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("Luxuries");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append(development.getLuxury());
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("Prerequisites");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    development.getPrerequisites().stream().forEach((preq) -> {
+                        devBuffer.append(preq.getName()).append(" ");
+                    });
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("</development>\n");
+                    devBuffer.append("<p1>");
+                    devBuffer.append(development.getDescription());
+                    devBuffer.append("</p1>\n");
+                    System.out.println(devBuffer.toString());
+                }
+            }
+        }
     }
 
     /* 
