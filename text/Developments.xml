@@ -5,8 +5,28 @@
 <Root>
     <Story>
         <chapter>Developments</chapter>
-        <p1></p1>
+        <p1>Developments are upgrades to the Stronghold which provide certain mechanical benefits. Developments might be physical structures like a Mage Tower, scientific advancements such as Cartography, or even groups of people, like Diplomats.</p1>
+        <p1>Developments may either affect the Stronghold directly, by improving resource usage or providing various sorts of troops for military conflict, or developments might affect every hero associated with the Stronghold, giving them access to certain abilities they wouldn’t normally have. These sorts of developments are like stunts for all the heroes, not just one.</p1>
+        <p1>If the development is a physical structure, sometimes it is tied to a region, although many developments are not built in a particular region.</p1>
+        <h1>Building Developments</h1>
+        <h2>Regional Developments</h2>
+        <p1>Occasionally, a development is very closely related to a particular region.  On the Stronghold sheet, the development should be listed under the region description.  Developments which are tied to regions allow for duplicates (with a limit of one per region, unless noted otherwise). If a region containing a development is ever lost for some reason, the development is lost with it.  Furthermore, if a region has a threat which prevents any production of goods, the development will also no longer function until the threat conditions are removed.</p1>
+        <h1>Factions and Developments</h1>
+        <p1>Every faction in the game also has a list of developments they control, listed in the various faction chapters.  However, usually the listed effects are generally ignored for the faction, unless specifically called out in the development description.</p1>
+        <h2>Infiltration</h2>
+        <p1>Developments for factions tend to function more as targets for the Stronghold to infiltrate rather than as sources of mechanical benefits.  As described in the Missions and Infiltration chapters, most developments provide benefits for the Stronghold when targeted with Espionage or Sabotage missions.  These benefits may help the Stronghold learn information and build the development easier, or they might target the faction, causing them to lose stability or incur some other negative effect.</p1>
+        <h3>Espionage and Sabotage Missions</h3>
+        <p1>There are two missions that are always available to the Stronghold for each development that a faction has, unless specified otherwise in the development listing: Espionage and Sabotage.</p1>
+        <p1>Each mission lists the benefits to the Stronghold for successful completion, as well as the security level (low, medium, or high).  The penalties (minor, major, or severe) for getting caught are based on the type of mission (Espionage or Sabotage).  Usually, infiltration missions involving destroying resources or disrupting stability generally carry the more severe penalties for getting caught, while espionage sorts of activities may not.  These details are described more in the Infiltration chapter.</p1>
+        <p1>The Stronghold may steal secrets that will help them create the development or otherwise target it without the intention of wreaking destruction.   The penalty for getting caught depends on the security level of the mission.</p1>
+        <h2>Threats</h2>
+        <p1>Also listed in the description for each development are a list of effects that can occur if a faction (frequently the Autarch), targets the Stronghold’s development as part of a Threat.  More details are given in the Threats section of the various faction chapters.</p1>
+        <p1>Frequently, the effects of a faction targeting the Stronghold’s developments are the same as when the Stronghold sabotages a faction’s developments.</p1>
+        <h1>Types of Developments</h1>
+        <p1>The developments are loosely grouped into four types: arcane, diplomatic, military, and technology.  Over the course of the campaign, it won’t be possible to build all the developments listed.  For the most part, each of these categories forms their own tech trees, such that the best developments of each type require focusing heavily in that area.</p1>
+        <p1>As discussed in the Getting Started chapter, it’s very helpful to develop a long term strategy to defeating the Autarch.  Picking which developments to build is part of this strategy, and will help to shape the focus of the campaign.</p1>
         <h1>Arcane Developments</h1>
+        <p1>Arcane developments expedite gathering mana, as well as giving bonuses toward the casting of secrets (see the Magic chapter for more details on secrets).  Other developments give access to magically augmented weapons and units in combat.</p1>
         <development xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
             <devel_title aid:table="cell" aid:theader="" aid:crows="1" aid:ccols="2">Advanced Channeling</devel_title>
             <devel_cost aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Build Points</devel_cost>
