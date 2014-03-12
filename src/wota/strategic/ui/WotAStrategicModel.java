@@ -902,27 +902,30 @@ public class WotAStrategicModel extends Application {
         /* Arcane */
         Development manForge
                 = new Development(DevelopmentType.Mana_Forge,
-                        "Mana Forge", TechTree.Arcane,
-                        true, 6, 0, 6, 6, 5, 0, null,
+                        TechTree.Arcane,
+                        true, false, 6, 0, 6, 6, 5, 0, null,
                         "Channel one more mana in region",
+                        "Region provides one additional mana when calculating channeled mana. Does not provide any additional resources for developments or trade.",
                         DevelopmentFunction.Miscellaneous);
         developments.put(manForge.getType(), manForge);
 
         preq = new ArrayList<>();
         Development improvedCasting
                 = new Development(DevelopmentType.Improved_Casting,
-                        "Improved Casting", TechTree.Arcane,
-                        false, 3, 0, 2, 0, 4, 0, preq,
+                        TechTree.Arcane,
+                        false, true, 3, 0, 2, 0, 4, 0, preq,
                         "Spellcaster abilities increased by one",
+                        "Step up the plus die on spell effect rolls.",
                         DevelopmentFunction.Offense);
         developments.put(improvedCasting.getType(), improvedCasting);
 
         preq = new ArrayList<>();
         Development improvedChanneling
                 = new Development(DevelopmentType.Improved_Channeling,
-                        "Improved Channeling", TechTree.Arcane,
-                        false, 4, 0, 0, 2, 4, 0, preq,
+                        TechTree.Arcane,
+                        false, true, 4, 0, 0, 2, 4, 0, preq,
                         "Roll d8 - d6 for backlash checks",
+                        "Step up the plus die on backlash checks.",
                         DevelopmentFunction.Offense);
         developments.put(improvedChanneling.getType(), improvedChanneling);
 
@@ -930,9 +933,10 @@ public class WotAStrategicModel extends Application {
         preq.add(improvedCasting);
         Development advancedCasting
                 = new Development(DevelopmentType.Advanced_Casting,
-                        "Advanced Casting", TechTree.Arcane,
-                        false, 4, 0, 3, 0, 5, 0, preq,
+                        TechTree.Arcane,
+                        false, true, 4, 0, 3, 0, 5, 0, preq,
                         "Spellcaster abilities increased by two",
+                        "Step up the plus die on spell effect rolls.",
                         DevelopmentFunction.Offense);
         developments.put(advancedCasting.getType(), advancedCasting);
 
@@ -940,9 +944,10 @@ public class WotAStrategicModel extends Application {
         preq.add(improvedChanneling);
         Development advancedChanneling
                 = new Development(DevelopmentType.Advanced_Channeling,
-                        "Advanced Channeling", TechTree.Arcane,
-                        false, 5, 0, 0, 3, 5, 0, preq,
+                        TechTree.Arcane,
+                        false, true, 5, 0, 0, 3, 5, 0, preq,
                         "Roll d10 - d6 for backlash checks",
+                        "Step up the plus die on backlash checks.",
                         DevelopmentFunction.Offense);
         developments.put(advancedChanneling.getType(), advancedChanneling);
 
@@ -951,9 +956,10 @@ public class WotAStrategicModel extends Application {
         preq.add(advancedChanneling);
         Development battleMages
                 = new Development(DevelopmentType.Arcane_Academy,
-                        "Arcane Academy", TechTree.Arcane,
-                        false, 6, 0, 0, 0, 5, 0, preq,
+                        TechTree.Arcane,
+                        false, false, 6, 0, 0, 0, 5, 0, preq,
                         "May recruit battle mages for war",
+                        "May recruit battle mage units.",
                         DevelopmentFunction.Offense);
         developments.put(battleMages.getType(), battleMages);
 
@@ -961,9 +967,10 @@ public class WotAStrategicModel extends Application {
         preq.add(advancedCasting);
         Development expertCasting
                 = new Development(DevelopmentType.Expert_Casting,
-                        "Expert Casting", TechTree.Arcane,
-                        false, 11, 0, 6, 2, 3, 0, preq,
+                        TechTree.Arcane,
+                        false, true, 11, 0, 6, 2, 3, 0, preq,
                         "Spellcaster abilities increased by three",
+                        "Step up the plus die on spell effect rolls.",
                         DevelopmentFunction.Offense);
         developments.put(expertCasting.getType(), expertCasting);
 
@@ -971,9 +978,10 @@ public class WotAStrategicModel extends Application {
         preq.add(advancedChanneling);
         Development expertChanneling
                 = new Development(DevelopmentType.Expert_Channeling,
-                        "Expert Channeling", TechTree.Arcane,
-                        false, 6, 0, 0, 3, 3, 0, preq,
+                        TechTree.Arcane,
+                        false, true, 6, 0, 0, 3, 3, 0, preq,
                         "Roll d12 - d6 for backlash checks",
+                        "Step up the plus die on backlash checks.",
                         DevelopmentFunction.Offense);
         developments.put(expertChanneling.getType(), expertChanneling);
 
@@ -982,48 +990,53 @@ public class WotAStrategicModel extends Application {
         preq.add(expertChanneling);
         Development magesGuild
                 = new Development(DevelopmentType.Mages_Guild,
-                        "Mages Guild", TechTree.Arcane,
-                        false, 24, 0, 8, 9, 16, 2, preq,
+                        TechTree.Arcane,
+                        false, false, 24, 0, 8, 9, 16, 2, preq,
                         "Spell abilities improved by one rank",
+                        "All heroes gain one Lore stunt. Must meet any stunt prerequisites.",
                         DevelopmentFunction.Offense);
         developments.put(magesGuild.getType(), magesGuild);
 
         /* Infiltration */
         preq = new ArrayList<>();
         Development superbSpies
-                = new Development(DevelopmentType.Superb_Spies,
-                        "Superb Spies", TechTree.Infiltration,
-                        false, 6, 10, 4, 4, 0, 2, preq,
+                = new Development(DevelopmentType.Great_Spies,
+                        TechTree.Infiltration,
+                        false, false, 6, 10, 4, 4, 0, 2, preq,
                         "Ignore one infiltration threat per year",
+                        "Ignore one infiltration threat per year of Great (4) difficulty or less.",
                         DevelopmentFunction.Defense);
         developments.put(superbSpies.getType(), superbSpies);
 
         preq = new ArrayList<>();
         preq.add(superbSpies);
         Development fantasticSpies
-                = new Development(DevelopmentType.Fantastic_Spies,
-                        "Fantastic Spies", TechTree.Infiltration,
-                        false, 8, 12, 6, 6, 0, 4, preq,
+                = new Development(DevelopmentType.Superb_Spies,
+                        TechTree.Infiltration,
+                        false, false, 8, 12, 6, 6, 0, 4, preq,
                         "Ignore two infiltration threats per year",
+                        "Ignore two infiltration threats per year of Superb (5) difficulty or less.",
                         DevelopmentFunction.Defense);
         developments.put(fantasticSpies.getType(), fantasticSpies);
 
         preq = new ArrayList<>();
         preq.add(fantasticSpies);
         Development epicSpies
-                = new Development(DevelopmentType.Epic_Spies,
-                        "Epic Spies", TechTree.Infiltration,
-                        false, 10, 14, 6, 6, 0, 6, preq,
+                = new Development(DevelopmentType.Fantastic_Spies,
+                        TechTree.Infiltration,
+                        false, false, 10, 14, 6, 6, 0, 6, preq,
                         "Ignore three infiltration threats per year",
+                        "Ignore three infiltration threats per year of Fantastic (6) difficulty or less.",
                         DevelopmentFunction.Defense);
         developments.put(epicSpies.getType(), epicSpies);
 
         preq = new ArrayList<>();
         Development impThievesTools
                 = new Development(DevelopmentType.Improved_Thieves_Tools,
-                        "Improved Thieves Tools", TechTree.Infiltration,
-                        false, 6, 0, 3, 12, 0, 0, preq,
+                        TechTree.Infiltration,
+                        false, true, 6, 0, 3, 12, 0, 0, preq,
                         "Extra re-roll on infiltration missions",
+                        "Step up the plus die on rolls where thieves tools are useful.",
                         DevelopmentFunction.Offense);
         developments.put(impThievesTools.getType(), impThievesTools);
 
@@ -1031,9 +1044,10 @@ public class WotAStrategicModel extends Application {
         preq.add(impThievesTools);
         Development advThievesTools
                 = new Development(DevelopmentType.Advanced_Thieves_Tools,
-                        "Advanced Thieves Tools", TechTree.Infiltration,
-                        false, 12, 0, 4, 18, 0, 4, preq,
+                        TechTree.Infiltration,
+                        false, true, 12, 0, 4, 18, 0, 4, preq,
                         "Extra re-roll on infiltration missions",
+                        "Step up the plus die on rolls where thieves tools are useful.",
                         DevelopmentFunction.Offense);
         developments.put(advThievesTools.getType(), advThievesTools);
 
@@ -1041,28 +1055,31 @@ public class WotAStrategicModel extends Application {
         preq.add(advThievesTools);
         Development expThievesTools
                 = new Development(DevelopmentType.Expert_Thieves_Tools,
-                        "Expert Thieves Tools", TechTree.Infiltration,
-                        false, 14, 0, 8, 24, 0, 8, preq,
+                        TechTree.Infiltration,
+                        false, true, 14, 0, 8, 24, 0, 8, preq,
                         "Extra re-roll on infiltration missions",
+                        "Step up the plus die on rolls where thieves tools are useful.",
                         DevelopmentFunction.Offense);
         developments.put(expThievesTools.getType(), expThievesTools);
 
         preq = new ArrayList<>();
         Development localContacts
-                = new Development(DevelopmentType.Local_Contacts,
-                        "Local Contacts", TechTree.Infiltration,
-                        false, 14, 0, 2, 2, 0, 2, preq,
+                = new Development(DevelopmentType.Basic_Cover,
+                        TechTree.Infiltration,
+                        false, false, 14, 0, 2, 2, 0, 2, preq,
                         "Extra re-roll on infiltration missions",
+                        "Step up the plus die when leveraging a cover story.",
                         DevelopmentFunction.Offense);
         developments.put(localContacts.getType(), localContacts);
 
         preq = new ArrayList<>();
         preq.add(localContacts);
         Development influentialContacts
-                = new Development(DevelopmentType.Influential_Contacts,
-                        "Influential Contacts", TechTree.Infiltration,
-                        false, 16, 0, 4, 4, 0, 4, preq,
+                = new Development(DevelopmentType.Deep_Cover,
+                        TechTree.Infiltration,
+                        false, false, 16, 0, 4, 4, 0, 4, preq,
                         "Extra re-roll on infiltration missions",
+                        "Step up the plus die when leveraging a cover story.",
                         DevelopmentFunction.Offense);
         developments.put(influentialContacts.getType(), influentialContacts);
 
@@ -1071,48 +1088,53 @@ public class WotAStrategicModel extends Application {
         preq.add(advThievesTools);
         Development floorPlans
                 = new Development(DevelopmentType.Floor_Plans,
-                        "Floor Plans", TechTree.Infiltration,
-                        false, 22, 0, 6, 6, 0, 8, preq,
+                        TechTree.Infiltration,
+                        false, true, 22, 0, 6, 6, 0, 8, preq,
                         "Extra re-roll on infiltration missions",
+                        "Place two notecards on your turn when setting up the House during Infiltration.",
                         DevelopmentFunction.Offense);
         developments.put(floorPlans.getType(), floorPlans);
 
         /* Diplomacy */
         preq = new ArrayList<>();
         Development superDiplomats
-                = new Development(DevelopmentType.Superb_Diplomats,
-                        "Superb Diplomats", TechTree.Diplomacy,
-                        false, 6, 10, 4, 4, 0, 2, preq,
+                = new Development(DevelopmentType.Great_Diplomats,
+                        TechTree.Diplomacy,
+                        false, false, 6, 10, 4, 4, 0, 2, preq,
                         "Ignore one diplomacy threat per year",
+                        "Ignore one diplomacy threat per year of Great (4) difficulty or less.",
                         DevelopmentFunction.Defense);
         developments.put(superDiplomats.getType(), superDiplomats);
 
         preq = new ArrayList<>();
         preq.add(superDiplomats);
         Development fantasticDiplomats
-                = new Development(DevelopmentType.Fantastic_Diplomats,
-                        "Fantastic Diplomats", TechTree.Diplomacy,
-                        false, 8, 12, 6, 6, 0, 4, preq,
+                = new Development(DevelopmentType.Superb_Diplomats,
+                        TechTree.Diplomacy,
+                        false, false, 8, 12, 6, 6, 0, 4, preq,
                         "Ignore two diplomacy threats per year",
+                        "Ignore two diplomacy threats per year of Superb (5) difficulty or less.",
                         DevelopmentFunction.Defense);
         developments.put(fantasticDiplomats.getType(), fantasticDiplomats);
 
         preq = new ArrayList<>();
         preq.add(fantasticDiplomats);
         Development epicDiplomats
-                = new Development(DevelopmentType.Epic_Diplomats,
-                        "Epic Diplomats", TechTree.Diplomacy,
-                        false, 10, 14, 6, 6, 0, 6, preq,
+                = new Development(DevelopmentType.Fantastic_Diplomats,
+                        TechTree.Diplomacy,
+                        false, false, 10, 14, 6, 6, 0, 6, preq,
                         "Ignore three diplomacy threats per year",
+                        "Ignore three diplomacy threats per year of Fantastic (6) difficulty or less.",
                         DevelopmentFunction.Defense);
         developments.put(epicDiplomats.getType(), epicDiplomats);
 
         preq = new ArrayList<>();
         Development tradeGuild
                 = new Development(DevelopmentType.Trade_Guild,
-                        "Trade Guild", TechTree.Diplomacy,
-                        false, 6, 0, 6, 6, 0, 3, preq,
+                        TechTree.Diplomacy,
+                        false, false, 6, 0, 6, 6, 0, 3, preq,
                         "Extra re-roll on diplomacy missions",
+                        "Plus one step on social die rolls when officially representing the Stronghold.",
                         DevelopmentFunction.Offense);
         developments.put(tradeGuild.getType(), tradeGuild);
 
@@ -1120,9 +1142,10 @@ public class WotAStrategicModel extends Application {
         preq.add(tradeGuild);
         Development artsAndEntertainment
                 = new Development(DevelopmentType.Arts_and_Entertainment,
-                        "Arts and Entertainment", TechTree.Diplomacy,
-                        false, 6, 0, 12, 9, 0, 4, preq,
+                        TechTree.Diplomacy,
+                        false, false, 6, 0, 12, 9, 0, 4, preq,
                         "Extra re-roll on diplomacy missions",
+                        "Plus one step on social die rolls when officially representing the Stronghold.",
                         DevelopmentFunction.Offense);
         developments.put(artsAndEntertainment.getType(), artsAndEntertainment);
 
@@ -1130,9 +1153,10 @@ public class WotAStrategicModel extends Application {
         preq.add(artsAndEntertainment);
         Development centerOfCulture
                 = new Development(DevelopmentType.Center_of_Culture,
-                        "Center of Culture", TechTree.Diplomacy,
-                        false, 8, 0, 18, 12, 0, 6, preq,
+                        TechTree.Diplomacy,
+                        false, false, 8, 0, 18, 12, 0, 6, preq,
                         "Extra re-roll on diplomacy missions",
+                        "Plus one step on social die rolls when officially representing the Stronghold.",
                         DevelopmentFunction.Offense);
         developments.put(centerOfCulture.getType(), centerOfCulture);
 
@@ -1140,9 +1164,10 @@ public class WotAStrategicModel extends Application {
         preq.add(tradeGuild);
         Development tradeRelationships
                 = new Development(DevelopmentType.Trade_Relationships,
-                        "Trade Relationships", TechTree.Diplomacy,
-                        false, 12, 0, 6, 6, 0, 6, preq,
+                        TechTree.Diplomacy,
+                        false, false, 12, 0, 6, 6, 0, 6, preq,
                         "Extra re-roll on diplomacy missions",
+                        "Each hero gains two additional relationships with leaders from other factions.",
                         DevelopmentFunction.Offense);
         developments.put(tradeRelationships.getType(), tradeRelationships);
 
@@ -1150,57 +1175,63 @@ public class WotAStrategicModel extends Application {
         preq.add(tradeRelationships);
         Development tradeCapital
                 = new Development(DevelopmentType.Trade_Capital,
-                        "Trade Capital", TechTree.Diplomacy,
-                        false, 16, 0, 8, 8, 0, 8, preq,
+                        TechTree.Diplomacy,
+                        false, false, 16, 0, 8, 8, 0, 8, preq,
                         "Extra re-roll on diplomacy missions",
+                        "Disposition increase takes three seasons of trade instead of two.",
                         DevelopmentFunction.Offense);
         developments.put(tradeCapital.getType(), tradeCapital);
 
         preq = new ArrayList<>();
         Development festival
                 = new Development(DevelopmentType.Festival,
-                        "Festival", TechTree.Diplomacy,
-                        false, 0, 0, 0, 0, 0, 0, preq,
+                        TechTree.Diplomacy,
+                        false, false, 0, 0, 0, 0, 0, 0, preq,
                         "Add one stability",
+                        " Add one stability to the Stronghold. The cost listed for this development is per region under the Stronghold's control.",
                         DevelopmentFunction.Miscellaneous);
         developments.put(festival.getType(), festival);
 
         /* Skirmish */
         preq = new ArrayList<>();
         Development superbGuardForce
-                = new Development(DevelopmentType.Superb_Guard_Force,
-                        "Superb Guard Force", TechTree.Skirmish,
-                        false, 6, 10, 4, 4, 0, 2, preq,
+                = new Development(DevelopmentType.Great_Guard_Force,
+                        TechTree.Skirmish,
+                        false, false, 6, 10, 4, 4, 0, 2, preq,
                         "Ignore one skirmish threat per year",
+                        "Ignore one skirmish threat per year of difficulty Great (4) or less.",
                         DevelopmentFunction.Defense);
         developments.put(superbGuardForce.getType(), superbGuardForce);
 
         preq = new ArrayList<>();
         preq.add(superbGuardForce);
         Development fantasticGuardForce
-                = new Development(DevelopmentType.Fantastic_Guard_Force,
-                        "Fantastic Guard Force", TechTree.Skirmish,
-                        false, 8, 12, 6, 6, 0, 4, preq,
+                = new Development(DevelopmentType.Superb_Guard_Force,
+                        TechTree.Skirmish,
+                        false, false, 8, 12, 6, 6, 0, 4, preq,
                         "Ignore two skirmish threats per year",
+                        "Ignore two skirmish threats per year of difficulty Superb (5) or less.",
                         DevelopmentFunction.Defense);
         developments.put(fantasticGuardForce.getType(), fantasticGuardForce);
 
         preq = new ArrayList<>();
         preq.add(fantasticGuardForce);
         Development epicGuardForce
-                = new Development(DevelopmentType.Epic_Guard_Force,
-                        "Epic Guard Force", TechTree.Skirmish,
-                        false, 10, 14, 6, 6, 0, 6, preq,
+                = new Development(DevelopmentType.Fantastic_Guard_Force,
+                        TechTree.Skirmish,
+                        false, false, 10, 14, 6, 6, 0, 6, preq,
                         "Ignore three skirmish threats per year",
+                        "Ignore three skirmish threats per year of difficulty Fantastic (6) or less.",
                         DevelopmentFunction.Defense);
         developments.put(epicGuardForce.getType(), epicGuardForce);
 
         preq = new ArrayList<>();
         Development impSwordSmith
                 = new Development(DevelopmentType.Improved_Swordsmith,
-                        "Improved Swordsmith", TechTree.Skirmish,
-                        false, 8, 0, 10, 12, 0, 0, preq,
+                        TechTree.Skirmish,
+                        false, true, 8, 0, 10, 12, 0, 0, preq,
                         "Extra re-roll on skirmish missions",
+                        "Step up the plus dice when attacking with melee weapons.",
                         DevelopmentFunction.Offense);
         developments.put(impSwordSmith.getType(), impSwordSmith);
 
@@ -1208,9 +1239,10 @@ public class WotAStrategicModel extends Application {
         preq.add(impSwordSmith);
         Development improvedArmorer
                 = new Development(DevelopmentType.Improved_Armorer,
-                        "Improved Armorer", TechTree.Skirmish,
-                        false, 10, 0, 12, 16, 0, 0, preq,
+                        TechTree.Skirmish,
+                        false, true, 10, 0, 12, 16, 0, 0, preq,
                         "Extra re-roll on skirmish missions",
+                        "Step up the plus dice when defending against an attack.",
                         DevelopmentFunction.Offense);
         developments.put(improvedArmorer.getType(), improvedArmorer);
 
@@ -1218,9 +1250,10 @@ public class WotAStrategicModel extends Application {
         preq.add(improvedArmorer);
         Development advSwordSmith
                 = new Development(DevelopmentType.Advanced_Swordsmith,
-                        "Advanced Swordsmith", TechTree.Skirmish,
-                        false, 12, 0, 14, 18, 0, 2, preq,
+                        TechTree.Skirmish,
+                        false, true, 12, 0, 14, 18, 0, 2, preq,
                         "Extra re-roll on skirmish missions",
+                        "Step up the plus dice when attacking with melee weapons.",
                         DevelopmentFunction.Offense);
         developments.put(advSwordSmith.getType(), advSwordSmith);
 
@@ -1228,9 +1261,10 @@ public class WotAStrategicModel extends Application {
         preq.add(advSwordSmith);
         Development advArmorer
                 = new Development(DevelopmentType.Advanced_Armorer,
-                        "Advanced Armorer", TechTree.Skirmish,
-                        false, 14, 0, 16, 20, 0, 4, preq,
+                        TechTree.Skirmish,
+                        false, true, 14, 0, 16, 20, 0, 4, preq,
                         "Extra re-roll on skirmish missions",
+                        "Step up the plus dice when defending against an attack.",
                         DevelopmentFunction.Offense);
         developments.put(advArmorer.getType(), advArmorer);
 
@@ -1238,9 +1272,10 @@ public class WotAStrategicModel extends Application {
         preq.add(impSwordSmith);
         Development improvedBowyer
                 = new Development(DevelopmentType.Improved_Bowyer,
-                        "Improved Bowyer", TechTree.Skirmish,
-                        false, 10, 0, 24, 6, 0, 0, preq,
+                        TechTree.Skirmish,
+                        false, true, 10, 0, 24, 6, 0, 0, preq,
                         "Extra re-roll on skirmish missions",
+                        "Step up the plus dice when attacking with ranged weapons.",
                         DevelopmentFunction.Offense);
         developments.put(improvedBowyer.getType(), improvedBowyer);
 
@@ -1248,9 +1283,10 @@ public class WotAStrategicModel extends Application {
         preq.add(improvedBowyer);
         Development advBowyer
                 = new Development(DevelopmentType.Advanced_Bowyer,
-                        "Advanced Bowyer", TechTree.Skirmish,
-                        false, 10, 0, 30, 8, 0, 2, preq,
+                        TechTree.Skirmish,
+                        false, true, 10, 0, 30, 8, 0, 2, preq,
                         "Extra re-roll on skirmish missions",
+                        "Step up the plus dice when attacking with ranged weapons.",
                         DevelopmentFunction.Offense);
         developments.put(advBowyer.getType(), advBowyer);
 
@@ -1258,9 +1294,10 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         Development barracks
                 = new Development(DevelopmentType.Barracks,
-                        "Barracks", TechTree.Warfare,
-                        false, 6, 6, 6, 8, 0, 0, preq,
+                        TechTree.Warfare,
+                        false, false, 6, 6, 6, 8, 0, 0, preq,
                         "May recruit infantry for war",
+                        "May recruit infantry units for war. Also may ignore one Warfare threat each year if defending units outnumber attacking units.",
                         DevelopmentFunction.Defense);
         developments.put(barracks.getType(), barracks);
 
@@ -1268,9 +1305,10 @@ public class WotAStrategicModel extends Application {
         preq.add(barracks);
         Development impBarracks
                 = new Development(DevelopmentType.Improved_Barracks,
-                        "Improved Barracks", TechTree.Warfare,
-                        false, 8, 8, 6, 10, 0, 0, preq,
+                        TechTree.Warfare,
+                        false, false, 8, 8, 6, 10, 0, 0, preq,
                         "Infantry roll d8 - d6 for offense and defense",
+                        "Step up plus dice on infantry Attack and Armor rolls. Also may ignore two Warfare threats each year if defending units outnumber attacking units.",
                         DevelopmentFunction.Defense);
         developments.put(impBarracks.getType(), impBarracks);
 
@@ -1278,9 +1316,10 @@ public class WotAStrategicModel extends Application {
         preq.add(impBarracks);
         Development advancedBarracks
                 = new Development(DevelopmentType.Advanced_Barracks,
-                        "Advanced Barracks", TechTree.Warfare,
-                        false, 10, 10, 6, 12, 0, 0, preq,
+                        TechTree.Warfare,
+                        false, false, 10, 10, 6, 12, 0, 0, preq,
                         "Infantry roll d10 - d6 for offense and defense",
+                        "Step up plus dice on infantry Attack and Armor rolls. Also may ignore three Warfare threats each year if defending units outnumber attacking units.",
                         DevelopmentFunction.Defense);
         developments.put(advancedBarracks.getType(), advancedBarracks);
 
@@ -1288,9 +1327,10 @@ public class WotAStrategicModel extends Application {
         preq.add(barracks);
         Development stables
                 = new Development(DevelopmentType.Stables,
-                        "Stables", TechTree.Warfare,
-                        false, 12, 20, 22, 20, 0, 0, preq,
+                        TechTree.Warfare,
+                        false, false, 12, 20, 22, 20, 0, 0, preq,
                         "May recruit cavalry",
+                        "May recruit cavalry units.",
                         DevelopmentFunction.Miscellaneous);
         developments.put(stables.getType(), stables);
 
@@ -1298,9 +1338,10 @@ public class WotAStrategicModel extends Application {
         preq.add(barracks);
         Development fletcher
                 = new Development(DevelopmentType.Fletcher,
-                        "Fletcher", TechTree.Warfare,
-                        false, 8, 6, 22, 2, 0, 2, preq,
+                        TechTree.Warfare,
+                        false, false, 8, 6, 22, 2, 0, 2, preq,
                         "May recruit archers",
+                        "May recruit archer units.",
                         DevelopmentFunction.Miscellaneous);
         developments.put(fletcher.getType(), fletcher);
 
@@ -1308,9 +1349,10 @@ public class WotAStrategicModel extends Application {
         preq.add(impBarracks);
         Development siegecraft
                 = new Development(DevelopmentType.Siegecraft,
-                        "Siegecraft", TechTree.Warfare,
-                        false, 12, 0, 22, 4, 0, 0, preq,
+                        TechTree.Warfare,
+                        false, false, 12, 0, 22, 4, 0, 0, preq,
                         "May construct catapults",
+                        "May recruit catapult units.",
                         DevelopmentFunction.Miscellaneous);
         developments.put(siegecraft.getType(), siegecraft);
 
@@ -1318,18 +1360,20 @@ public class WotAStrategicModel extends Application {
         preq.add(siegecraft);
         Development gunpowder
                 = new Development(DevelopmentType.Gunpowder,
-                        "Gunpowder", TechTree.Warfare,
-                        false, 18, 0, 21, 36, 0, 0, preq,
+                        TechTree.Warfare,
+                        false, false, 18, 0, 21, 36, 0, 0, preq,
                         "May construct cannons",
+                        "May recruit cannon units.",
                         DevelopmentFunction.Miscellaneous);
         developments.put(gunpowder.getType(), gunpowder);
 
         preq = new ArrayList<>();
         Development keep
                 = new Development(DevelopmentType.Keep,
-                        "Keep", TechTree.Warfare,
-                        true, 8, 0, 10, 14, 0, 0, preq,
+                        TechTree.Warfare,
+                        true, false, 8, 0, 10, 14, 0, 0, preq,
                         "Region gains a keep",
+                        "Place a keep on target region. May build one keep on each region. Factions targeting the region in Warfare must attack with at least one catapult or cannon unit.",
                         DevelopmentFunction.Defense);
         developments.put(keep.getType(), keep);
 
@@ -1337,9 +1381,10 @@ public class WotAStrategicModel extends Application {
         preq.add(keep);
         Development castle
                 = new Development(DevelopmentType.Castle,
-                        "Castle", TechTree.Warfare,
-                        true, 20, 0, 60, 27, 0, 4, preq,
+                        TechTree.Warfare,
+                        true, false, 20, 0, 60, 27, 0, 4, preq,
                         "Keep is upgraded to a castle",
+                        "Swap out keep with a castle. May build one castle on each region. Factions targeting the region in Warfare must attack with at least one cannon unit.",
                         DevelopmentFunction.Defense);
         developments.put(castle.getType(), castle);
 
@@ -1391,60 +1436,75 @@ public class WotAStrategicModel extends Application {
             System.out.print("<h1>");
             System.out.print(nextDevType.name());
             System.out.print(" Developments</h1>\n");
+            System.out.println("<p1>TBD.</p1>");
             for (Development development : getDevelopments().values()) {
                 if (development.getTree() == nextDevType) {
                     StringBuilder devBuffer = new StringBuilder();
-                    devBuffer.append("<development xmlns:aid=\"http://ns.adobe.com/AdobeInDesign/4.0/\" aid:table=\"table\" aid:trows=\"8\" aid:tcols=\"2\">\n");
-                    devBuffer.append("<devel_title aid:table=\"cell\" aid:theader=\"\" aid:crows=\"1\" aid:ccols=\"2\">");
+                    devBuffer.append("<devel_title>");
                     devBuffer.append(development.getName());
-                    devBuffer.append("</devel_title>\n");
+                    devBuffer.append("</devel_title>");
+                    devBuffer.append("<development xmlns:aid=\"http://ns.adobe.com/AdobeInDesign/4.0/\" aid:table=\"table\" aid:trows=\"8\" aid:tcols=\"2\">\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
-                    devBuffer.append("Build Points");
+                    devBuffer.append("<b>Build Points</b>");
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
                     devBuffer.append(development.getBp());
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
-                    devBuffer.append("Food");
+                    devBuffer.append("<b>Food</b>");
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
                     devBuffer.append(development.getFood());
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
-                    devBuffer.append("Timber");
+                    devBuffer.append("<b>Timber</b>");
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
                     devBuffer.append(development.getTimber());
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
-                    devBuffer.append("Ore");
+                    devBuffer.append("<b>Ore</b>");
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
                     devBuffer.append(development.getOre());
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
-                    devBuffer.append("Mana");
+                    devBuffer.append("<b>Mana</b>");
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
                     devBuffer.append(development.getMana());
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
-                    devBuffer.append("Luxuries");
+                    devBuffer.append("<b>Luxuries</b>");
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
                     devBuffer.append(development.getLuxury());
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
-                    devBuffer.append("Prerequisites");
+                    
+                    devBuffer.append("<b>Prerequisites</b>");
                     devBuffer.append("</devel_cost>\n");
                     devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
                     development.getPrerequisites().stream().forEach((preq) -> {
                         devBuffer.append(preq.getName()).append(" ");
                     });
                     devBuffer.append("</devel_cost>\n");
+                    
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    devBuffer.append("<b>Tags</b>");
+                    devBuffer.append("</devel_cost>\n");
+                    devBuffer.append("<devel_cost aid:table=\"cell\" aid:crows=\"1\" aid:ccols=\"1\" aid:ccolwidth=\"131.5\">");
+                    if(development.isRegional()){
+                        devBuffer.append("Regional");
+                    }
+                    else if(development.isKnowledgeBased()){
+                        devBuffer.append("Technical");
+                    }
+                    devBuffer.append("</devel_cost>\n");
+                    
                     devBuffer.append("</development>\n");
                     devBuffer.append("<p1>");
-                    devBuffer.append(development.getDescription());
+                    devBuffer.append(development.getDetailedDescription());
                     devBuffer.append("</p1>\n");
                     System.out.println(devBuffer.toString());
                 }
@@ -1461,45 +1521,50 @@ public class WotAStrategicModel extends Application {
 
         Development theddas
                 = new Development(DevelopmentType.Theddas_Palimpsest,
-                        "Thedda's Palimpsest", TechTree.Artifact,
-                        false, 100, 100, 100, 100, 100, 100, preq,
+                        TechTree.Artifact,
+                        false, false, 100, 100, 100, 100, 100, 100, preq,
                         "Draw one extra mana from regions for Channeling",
+                        "Draw one extra mana from regions for channeling.",
                         DevelopmentFunction.Miscellaneous);
         quests.add(new Quest("Quest for Thedda's Palimpsest",
                 theddas, 7, ConflictType.Skirmish, getFaction("Burgan Vale")));
 
         Development arens
                 = new Development(DevelopmentType.Arens_Forge,
-                        "Aren's Forge", TechTree.Artifact,
-                        false, 100, 100, 100, 100, 100, 100, preq,
+                        TechTree.Artifact,
+                        false, false, 100, 100, 100, 100, 100, 100, preq,
                         "Keeps and Castles may attack in combat",
+                        "Keeps and Castles may attack in combat.",
                         DevelopmentFunction.Defense);
         quests.add(new Quest("Quest for Aren's Forge",
                 arens, 7, ConflictType.Skirmish, getFaction("Crescent Hold")));
 
         Development gossamer
                 = new Development(DevelopmentType.Gossamer_Spirit,
-                        "Gossamer Spirit", TechTree.Artifact,
-                        false, 100, 100, 100, 100, 100, 100, preq,
+                        TechTree.Artifact,
+                        false, false, 100, 100, 100, 100, 100, 100, preq,
                         "Bonuses to Infiltration missions",
+                        "Bonuses to Infiltration missions.",
                         DevelopmentFunction.Offense);
         quests.add(new Quest("Quest for the Gossamer Spirit",
                 gossamer, 7, ConflictType.Infiltration, getFaction("Gravewood")));
 
         Development allure
                 = new Development(DevelopmentType.Serum_of_Allure,
-                        "Serum of Allure", TechTree.Artifact,
-                        false, 100, 100, 100, 100, 100, 100, preq,
+                        TechTree.Artifact,
+                        false, false, 100, 100, 100, 100, 100, 100, preq,
                         "Bonuses to Diplomacy missions",
+                        "Bonuses to Diplomacy missions.",
                         DevelopmentFunction.Offense);
         quests.add(new Quest("Quest for the Serum of Allure",
                 allure, 7, ConflictType.Infiltration, getFaction("Lily Manor")));
 
         Development pelakhar
                 = new Development(DevelopmentType.Pelakhars_Loyalty,
-                        "Pelakhar's Loyalty", TechTree.Artifact,
-                        false, 100, 100, 100, 100, 100, 100, preq,
+                        TechTree.Artifact,
+                        false, false, 100, 100, 100, 100, 100, 100, preq,
                         "Bonuses to Warfare missions",
+                        "Bonuses to Warfare missions.",
                         DevelopmentFunction.Miscellaneous);
         quests.add(new Quest("Quest for Pelakhar's Loyalty",
                 pelakhar, 7, ConflictType.Skirmish, getFaction("Sunriders")));
@@ -1974,7 +2039,7 @@ public class WotAStrategicModel extends Application {
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Fletcher));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Barracks));
-        lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Epic_Diplomats));
+        lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Fantastic_Diplomats));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Center_of_Culture));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Center_of_Culture));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Trade_Capital));
@@ -2137,10 +2202,12 @@ public class WotAStrategicModel extends Application {
     public Development createDevelopment(DevelopmentType type) {
         Development baseDev = getDevelopments().get(type);
         Development dev = new Development(type,
-                baseDev.getName(), baseDev.getTree(), baseDev.isRegional(),
+                baseDev.getTree(), baseDev.isRegional(),
+                baseDev.isKnowledgeBased(),
                 baseDev.getBp(), baseDev.getFood(), baseDev.getTimber(),
                 baseDev.getOre(), baseDev.getMana(), baseDev.getLuxury(),
                 baseDev.getPrerequisites(), baseDev.getDescription(),
+                baseDev.getDetailedDescription(),
                 baseDev.getFunction());
         return dev;
     }

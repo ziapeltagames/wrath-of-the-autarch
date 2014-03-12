@@ -17,17 +17,17 @@ public enum DevelopmentType {
     Advanced_Channeling, Mages_Guild, Mana_Forge, 
     
     /* Diplomacy - 9 */
-    Superb_Diplomats, Fantastic_Diplomats, Epic_Diplomats,
+    Great_Diplomats, Superb_Diplomats, Fantastic_Diplomats,
     Trade_Guild, Trade_Relationships, Trade_Capital,
     Arts_and_Entertainment, Center_of_Culture, Festival,
     
     /* Infiltration - 9 */
-    Superb_Spies, Fantastic_Spies, Epic_Spies, Improved_Thieves_Tools,
-    Advanced_Thieves_Tools, Expert_Thieves_Tools, Local_Contacts,
-    Influential_Contacts, Floor_Plans,
+    Great_Spies, Superb_Spies, Fantastic_Spies, Improved_Thieves_Tools,
+    Advanced_Thieves_Tools, Expert_Thieves_Tools, Basic_Cover,
+    Deep_Cover, Floor_Plans,
     
     /* Skirmish - 9 */
-    Superb_Guard_Force, Fantastic_Guard_Force, Epic_Guard_Force,
+    Great_Guard_Force, Superb_Guard_Force, Fantastic_Guard_Force,
     Improved_Swordsmith, Improved_Armorer, Advanced_Swordsmith,
     Advanced_Armorer, Improved_Bowyer, Advanced_Bowyer,
     

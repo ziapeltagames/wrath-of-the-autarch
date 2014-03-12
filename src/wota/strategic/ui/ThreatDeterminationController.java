@@ -134,13 +134,13 @@ public class ThreatDeterminationController implements Initializable {
         /* Use the next infiltration development. */
         for(Development nextDev : wotaModel.getStronghold().getDevelopments()){
             switch(nextDev.getType()){
+                case Great_Spies:
+                    nextDev.setUsed(true);
+                    return true;
                 case Superb_Spies:
                     nextDev.setUsed(true);
                     return true;
                 case Fantastic_Spies:
-                    nextDev.setUsed(true);
-                    return true;
-                case Epic_Spies:
                     nextDev.setUsed(true);
                     return true;
             }
@@ -170,13 +170,13 @@ public class ThreatDeterminationController implements Initializable {
         /* Use the next infiltration development. */
         for(Development nextDev : wotaModel.getStronghold().getDevelopments()){
             switch(nextDev.getType()){
+                case Great_Diplomats:
+                    nextDev.setUsed(true);
+                    return true;
                 case Superb_Diplomats:
                     nextDev.setUsed(true);
                     return true;
                 case Fantastic_Diplomats:
-                    nextDev.setUsed(true);
-                    return true;
-                case Epic_Diplomats:
                     nextDev.setUsed(true);
                     return true;
             }
@@ -242,13 +242,13 @@ public class ThreatDeterminationController implements Initializable {
         /* Use the next infiltration development. */
         for(Development nextDev : wotaModel.getStronghold().getDevelopments()){
             switch(nextDev.getType()){
+                case Great_Guard_Force:
+                    nextDev.setUsed(true);
+                    return true;
                 case Superb_Guard_Force:
                     nextDev.setUsed(true);
                     return true;
                 case Fantastic_Guard_Force:
-                    nextDev.setUsed(true);
-                    return true;
-                case Epic_Guard_Force:
                     nextDev.setUsed(true);
                     return true;
             }
@@ -301,14 +301,17 @@ public class ThreatDeterminationController implements Initializable {
             }
 
             switch (development.getType()) {
+                case Great_Guard_Force:
+                    skirmishUsesInt++;
+                    break;
                 case Superb_Guard_Force:
                     skirmishUsesInt++;
                     break;
                 case Fantastic_Guard_Force:
                     skirmishUsesInt++;
                     break;
-                case Epic_Guard_Force:
-                    skirmishUsesInt++;
+                case Great_Spies:
+                    infUsesInt++;
                     break;
                 case Superb_Spies:
                     infUsesInt++;
@@ -316,16 +319,13 @@ public class ThreatDeterminationController implements Initializable {
                 case Fantastic_Spies:
                     infUsesInt++;
                     break;
-                case Epic_Spies:
-                    infUsesInt++;
+                case Great_Diplomats:
+                    dipUsesInt++;
                     break;
                 case Superb_Diplomats:
                     dipUsesInt++;
                     break;
                 case Fantastic_Diplomats:
-                    dipUsesInt++;
-                    break;
-                case Epic_Diplomats:
                     dipUsesInt++;
                     break;
                 case Barracks:
@@ -383,14 +383,17 @@ public class ThreatDeterminationController implements Initializable {
         for (Development development : wotaModel.getStronghold().getDevelopments()) {
 
             switch (development.getType()) {
+                case Great_Guard_Force:
+                    skirmishLevel++;
+                    break;
                 case Superb_Guard_Force:
                     skirmishLevel++;
                     break;
                 case Fantastic_Guard_Force:
                     skirmishLevel++;
                     break;
-                case Epic_Guard_Force:
-                    skirmishLevel++;
+                case Great_Spies:
+                    infiltrationLevel++;
                     break;
                 case Superb_Spies:
                     infiltrationLevel++;
@@ -398,16 +401,13 @@ public class ThreatDeterminationController implements Initializable {
                 case Fantastic_Spies:
                     infiltrationLevel++;
                     break;
-                case Epic_Spies:
-                    infiltrationLevel++;
+                case Great_Diplomats:
+                    diplomacyLevel++;
                     break;
                 case Superb_Diplomats:
                     diplomacyLevel++;
                     break;
                 case Fantastic_Diplomats:
-                    diplomacyLevel++;
-                    break;
-                case Epic_Diplomats:
                     diplomacyLevel++;
                     break;
                 case Barracks:

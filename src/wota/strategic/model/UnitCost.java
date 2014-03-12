@@ -17,9 +17,11 @@ public class UnitCost extends Development {
     public UnitCost(UnitType utype, int bp, int food, int timber, int ore,
             int luxury, int mana, ArrayList<Development> prerequisites) {
         super(DevelopmentType.Military_Unit,
-                utype.name(), TechTree.Warfare, false, bp, food, timber,
-                ore, luxury, mana, prerequisites, "",
+                TechTree.Warfare, false, false,
+                bp, food, timber,
+                ore, luxury, mana, prerequisites, "", "",
                 DevelopmentFunction.Miscellaneous);
+        setName(utype.name());
         this.utype.set(utype);
     }
 

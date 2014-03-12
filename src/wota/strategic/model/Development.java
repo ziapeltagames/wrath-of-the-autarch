@@ -25,14 +25,15 @@ public class Development {
     private ArrayList<Development> prerequisites;
 
     public Development(DevelopmentType type,
-            String name, TechTree tree, boolean regional, 
+            TechTree tree, boolean regional, boolean knowledgeBased,
             int bp, int food, int timber, int ore, int mana, int luxury, 
             ArrayList<Development>prerequisites, String description,
-            DevelopmentFunction function) {
+            String detailedDescription, DevelopmentFunction function) {
         this.type.set(type);
-        this.name.set(name);
+        this.name.set(type.name().replaceAll("_", " "));
         this.tree = tree;
         this.regional.set(regional);
+        this.knowledgeBased.set(knowledgeBased);
         this.bp.set(bp);
         this.timber.set(timber);
         this.ore.set(ore);
@@ -41,6 +42,7 @@ public class Development {
         this.prerequisites = prerequisites;
         this.food.set(food);
         this.description.set(description);
+        this.detailedDescription.set(detailedDescription);
         this.used.set(false);
         this.function.set(function);
         if(prerequisites == null){
@@ -97,6 +99,20 @@ public class Development {
 
     public BooleanProperty regionalProperty() {
         return regional;
+    }
+    
+    private final BooleanProperty knowledgeBased = new SimpleBooleanProperty();
+
+    public boolean isKnowledgeBased() {
+        return knowledgeBased.get();
+    }
+
+    public void setKnowledgeBased(boolean value) {
+        knowledgeBased.set(value);
+    }
+
+    public BooleanProperty knowledgeBased() {
+        return knowledgeBased;
     }
     
     private final ObjectProperty<Region> region = 
@@ -218,6 +234,20 @@ public class Development {
     public StringProperty descriptionProperty() {
         return description;
     }
+    
+    private final StringProperty detailedDescription = new SimpleStringProperty();
+
+    public String getDetailedDescription() {
+        return detailedDescription.get();
+    }
+
+    public void setDetailedDescription(String value) {
+        detailedDescription.set(value);
+    }
+
+    public StringProperty detailedDescriptionProperty() {
+        return detailedDescription;
+    }    
 
     private final BooleanProperty used = new SimpleBooleanProperty();
 

@@ -12,19 +12,19 @@ Broken down into topics, chapters, and sections.
 --------------------------------------------------------------------------
 - Fate
 
-    * Differences if you're familiar with Fate 
-    * Using dice, dice rolls
-    * Aspects
-    * Fate points
-    * Core actions
+o Differences if you're familiar with Fate 
+o Using dice, dice rolls
+o Aspects
+o Fate points
+o Core actions
 
 --------------------------------------------------------------------------
 - The First Spring
 
-    * Creating the Stronghold
-    * Strategies
-    * Making some characters
-    * First spring (no threats, challenge phase only)
+o Creating the Stronghold
+o Strategies
+o Making some characters
+o First spring (no threats, challenge phase only)
 
 **************************************************************************
 **************************************************************************
@@ -33,10 +33,10 @@ Broken down into topics, chapters, and sections.
 --------------------------------------------------------------------------
 - Missions
 
-    * Mission structure
-    * Mention challenge phase / conflicts
-    * Mission types
-    * Threats
+o Mission structure
+o Mention challenge phase / conflicts
+o Mission types
+o Threats
 
 --------------------------------------------------------------------------
 - Challenge Phase
