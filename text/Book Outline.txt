@@ -4,10 +4,12 @@ Broken down into topics, chapters, and sections.
 
 **************************************************************************
 **************************************************************************
-* Preparing for War
+* Introduction
 
 --------------------------------------------------------------------------
-- Introduction
+- Preparing for War
+
+o Overview
 
 --------------------------------------------------------------------------
 - Fate
@@ -15,6 +17,7 @@ Broken down into topics, chapters, and sections.
 o Differences if you're familiar with Fate 
 o Using dice, dice rolls
 o Aspects
+o Aspect Burning
 o Fate points
 o Core actions
 
@@ -41,17 +44,22 @@ o Threats
 --------------------------------------------------------------------------
 - Challenge Phase
 
- o How the challenge phase works
+o How the challenge phase works
 
 --------------------------------------------------------------------------
 - Seasons
 
+o Overview diagram?
+
 **************************************************************************
 **************************************************************************
-* Leaders and Heroes
+* Heroes and Leaders
 
 --------------------------------------------------------------------------
 - Characters
+
+o Leaders, heroes, creatures, units
+o Skills in general
 
 --------------------------------------------------------------------------
 - Skills and Stunts
@@ -65,15 +73,72 @@ o Athletics
   x Excellent Climber
   x Shifty Dodge
   x Roll with the Blow
+o Channeling
+o Deceive
 o Empathy
   x The Land Weeps for My Pain
+o Fighting
+o Investigation
+o Intimidation
+o Leadership
+o Lore
+o Marksmanship
+o Nature
+o Notice
+o Physique
+o Rapport
+o Science
+o Society
+o Stealth
+o Tactics
+o Thievery
+o Will
+o Designer's Notes
 
-    TO-DO: What should be in a skill description? Should there be a breakdown
+NOTES: What should be in a skill description? Should there be a breakdown
 of the core actions? How the skill relates to the different Conflicts?
 For now, describe the skill and the stunts, leaving the other pieces out.
+Having those other pieces is probably a good addition.
 
 --------------------------------------------------------------------------
 - Magic
+
+o Mana
+  x Binding to the Land
+  x Starting Mana
+o Wielding Magic
+  x Secrets
+    v Initiate Tier
+    v Advanced Tiers
+  x Casting Check
+  x Backlash Check
+  x Backlash Effects
+o Secrets of the Dead
+  x Shadow Walker
+  x Commune with the Dead
+  x Animate Dead
+  x Army of the Dead 
+o Secrets of the Elements
+  x Fire Strike
+  x Hailstorm
+  x Wind Rider
+  x Earthquake
+o Secrets of the Mind
+  x Web of Lies
+  x Glamour
+  x Paragon of Grace
+  x Collective Will
+o Secrets of the Wilds
+  x Primal Quickness
+  x Fangs of the Wolf
+  x Skin of the Snake
+  x Heart of the Dragon
+o Designer's Notes
+  x Magic Design Philosophy
+  x Power Levels
+
+NOTES: As a general design philosophy, offensive capability is 
+preferred over defensive capability. 
 
 **************************************************************************
 **************************************************************************
@@ -83,12 +148,19 @@ For now, describe the skill and the stunts, leaving the other pieces out.
 - The Stronghold
 
 --------------------------------------------------------------------------
+- Factions
+
+o Differences between the Autarch and other factions
+o How to keep track of the different sorts of faction details
+
+--------------------------------------------------------------------------
 - Developments
 
 Description of the different developments and their effects, costs, etc.
 Graphics of Tech Trees.
 
 o Development Areas
+o Mana infused developments?
 o Arcane
 o Diplomacy
 o Infiltration
@@ -97,7 +169,7 @@ o Warfare
 
 **************************************************************************
 **************************************************************************
-*Conflicts*
+* Conflicts
 
 --------------------------------------------------------------------------
 - Diplomacy
@@ -113,16 +185,10 @@ o Warfare
 
 **************************************************************************
 **************************************************************************
-*Geography*
+* Geography
 
 --------------------------------------------------------------------------
 - Regions
-
---------------------------------------------------------------------------
-- Factions
-
---------------------------------------------------------------------------
-- Threats
 
 --------------------------------------------------------------------------
 - Autarch
@@ -142,12 +208,20 @@ o Warfare
 --------------------------------------------------------------------------
 - Sunriders
 
+--------------------------------------------------------------------------
+- Threats
+
+This chapter has missions of varying difficulties and mini-games,
+for regional and disposition threats.
+Why do threats come after the factions?
+What does this chapter look like?
+
 **************************************************************************
 **************************************************************************
-*Mastering the Game*
+* Mastering the Game
 
 --------------------------------------------------------------------------
-- Strategy Guide
+- Beating the Autarch
 
 --------------------------------------------------------------------------
 - Hacking Wrath of the Autarch

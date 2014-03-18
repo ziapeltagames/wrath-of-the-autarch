@@ -3,112 +3,98 @@
 <Root> 
     <Story>
         <chapter>Magic</chapter>
-        <p1>Among the many resources the land produces, the most potent is also the most difficult to detect and harness.  There is a force, called mana, which flows out from the most wild and untamed parts of the wilderness.</p1>
-        <p1>Through the use of Channeling mana may be detected and harnessed, and through the use of Spellcraft and secrets, it may be released to produce an effect.  Secrets function almost identically to Stunts, with each Secret granting access to an array of effects all related thematically.</p1>
-        <h1>Capturing Mana</h1>
-        Mana is present everywhere, although in some locations, it is present in high enough concentration to be harnessed by characters who have ranks in the Channeling skill.  Retrieving mana from the land is a very slow and solitary process.  For each full season a character spends in a region, they gain at most the mana value of the region to their pool.  
-        The maximum amount of mana which may be drawn from the land is equal to the character’s mana skill times three.  So, the mana attribute of a region reflects how long it takes to draw mana from the region.  A region with zero mana is effectively barren in terms of mana, only containing trace amounts which can’t be harnessed.
-        As described Seasons chapter, characters may be assigned to regions during the upkeep stage after a mission.  Only characters that didn’t go on the mission may be assigned to a region to harness mana (it takes the entire season).  The region where the character’s mana comes from should also be noted on the character sheet.  
-        Example: Kara is sent to the Sunset Isles during the Fall to harness mana.  The Sunset Isles have two mana, Kara’s Channeling skill is four and her current total mana is six. After this season, her total mana is raised by two to eight.  The most mana Kara can have at once is twelve (three times her Channeling). 
-        Gathering mana is a slow process.  Frequently channelers are very solitary, taking solace in understanding the flora and fauna of the region they spend so much time in.  Drawing in mana from the land makes the character part of the land.  If the land is altered or marred in a significant fashion, the mana may be lost, and the character may become injured.  Similarly, if the mana is used incorrectly or too quickly, the land may be affected.  This can occur from backlash as well as altered from various developments.
-        Restrictions
-        When mana is channeled from a region, the region is noted on the character sheet, next to the character’s mana pool.  It isn’t possible for a channeler to retrieve mana from more than one region, as the effort required to create bonds with the land is too great.  Thus, if a character is bound to one region and tries to channel from another, their mana pools starts at zero again.
-        Furthermore, only one channeler may operate in a region at any time.  Multiple channelers may be bound to the same region, but only one can pull in mana during any particular season.
-        Casting Spells
-        In order to use magic, the character needs to have access to mana and a secret.  Mana is used as fuel to power an effect.
-        One way to gain mana is to use the Channeling skill and spend time in a region harnessing the magic there.  There are other ways, however, such as through the use of conduits, physical artifacts which have the magic of the land harnessed in them.  Secrets work like stunts (they are tied to the Spellcraft skill) and are described in more detail later in the chapter.
-        Casting Check and Backlash Check
-        Each Secret describes what occurs when mana expenditure happens.  Generally, the more mana spent, the more powerful the effect.  In order to trigger any effect, at least one mana must be spent.   The first step is to choose an effect and spend the mana.  
-        For some spells, a casting check is necessary.  This check is usually 4dF + Spellcraft, although sometimes other modifiers, such as the mana spent, are added to the roll.  The Secret describes what the result of the casting check accomplishes.  The listed effect always occurs; there isn’t a way to fail a casting check.  Rather, it just determines how powerful the effect is.  This effect takes place immediately.  
-        Spending too much mana could result in terrible backlash.  Any time more mana is spent on a casting check than the character’s Channeling skill; the player rolls 4dF + Channeling, and compares it to the amount of mana spent.  This is called the backlash check.  Fate points may not be spent to alter the check.  Backlash occurs from the release of large amounts of magical energy.   This backlash can take a variety of forms, based on the secret.
-        Blight
-        The land and the caster are intimately connected.  If too much mana is expended during the casting of a spell, the region where the mana came from may become changed; taking on features which are related to the effect produced which caused the mana drain.  Suggestions for the nature of the blights are given in the secret descriptions.
-        For each point below the target number on the backlash check, one resource (food, timber, ore, mana, or luxuries) is removed from the land, chosen by the caster.  
-        Furthermore, after all resources are lost, the land gains a new aspect, as it becomes wild and untamed, the mana turning into bizarre physical features.  Choose wisely the lands where you draw mana from, as a region with no resources isn’t very valuable!
-        Madness
-        In addition to the land, mana also binds people together.  This is how channelers are able to detect emotions and feelings in others.  This allows some secrets to function better when they have a relationship with the target.  Spells with madness backlash can cause stress damage to one of the caster’s loved ones. 
-        Each point below the backlash opposition results in two points of stress for the character that is closest to the caster.  This should be spelled out on the relationship list.  The target may not use their stress track to help absorb the stress hit – all the stress must be taken as consequences.
-        The nature of the consequences is described in more detail under each particular secret.  The nature of the madness relates to the secret which caused them, although the effect is mental.  It is up to the players to decide how the character might react to the stress.  If the character is a hero, the consequences should be noted on the character sheet.
-        Anarchy
-        The final type of blight comes from the Stronghold itself.  Some spells cause backlash to the stability of the Stronghold.  For these powerful secrets, each point below the backlash opposition causes one points of stability loss for the Stronghold.
- 
-        Spell Effects
-        The descriptions for the secrets elaborate each of the different effects they have.  Most powers have some associated mana cost, and require a casting check.
-        Base Effect
-        One option available to most secrets is to spend a point of mana in order to use Spellcraft to function as a skill related to the Secret.  This is common in the narrative phase, but it could happen in the mini-games as well.
-        Example: Kara is attacked by wolves, and spends one point of mana to use her Secret of Fire to roll Spellcraft in order to injure them.
-        In addition, extra mana may be spent as Fate points to modify this roll (add +2 or re-roll as fate points do).  Spending mana doesn’t require invoking an aspect (so lots of mana may be spent on the same roll).  The backlash is determined by adding up the total mana spent.
-        Without spending mana, Spellcraft can’t be used to produce effects related to the secret.  It will just function as per the skill description (for knowledge related to arcane lore). 
-        Secrets
-        Each secret functions just like a stunt.  In the secret description, there is a listing of the variety of effects produced when different amounts of mana are expended.  The other important part of the descriptions is the nature of the madness which occurs during a mishap.
- 
-        Secret of Desire
-        The caster can control wants and desires, from the whims and wishes of a single person up to the leanings and attitudes of an entire population of people.
-        Backlash: Anarchy
-        On failed backlash checks, the Secret of Desire causes strife and discord to spread within the Stronghold.
-        Base Effect
-        By spending a point of mana, the caster may substitute their Spellcraft for any social roll (those relying on Rapport, Deceive, or Intimidate).
-        Initiate Effects
-        Fear (Warfare)
-        Minimum Mana Cost: 5
-        Caster may target a unit in combat, making a Spellcraft check against their Will. Positive shifts are taken as morale stress by the targeted unit.
-        If the unit is routed in battle, it is not lost.
-        Adept Effects
-        Mood of a Nation (Diplomacy)
-        Minimum Mana Cost: 10
-        The caster channels mana in order to change the will of the people in a faction.  This effect may not be used on any faction who has a disposition of -5.
-        Caster Check	Disposition Change
-<16	+1
-        16-20	+2
-        21-25	+3
-        25>	+4
-
- 
-        Secret of Fire
-        The caster can control flame.  From starting simple fires to burning down entire villages, fire is an extension of the will of the caster.
-        Backlash: Blight
-        The land turns into a blighted wasteland.  Permanent molten pits dot the landscape, and frighteningly hot temperatures thwart inhabitants.
-        Base Effect
-        By spending a point of mana, the caster may substitute their Spellcraft for rolls involving attacking people with fire (either Marksmanship or Fighting).
-        Initiate Effects
-        Wall of Fire (Warfare)
-        Mana Cost: 5
-        As an action, the caster my make a ranged attack on a unit, substituting the caster’s Spellcraft skill for the unit’s Marksmanship skill.
-        Adept Effects
-        Inferno (Warfare)
-        Mana Cost: 10
-        As Wall of Fire, except every unit in the target zone is affected.
-        Master Effects
-        Focused Blast (Warfare)
-        Mana Cost: 15
-        Target two zones on the battlefield.  Everything within the two zones is destroyed, including units, leaders, and any fortifications such as castles or keeps.
- 
-        Secret of Life
-        The caster can heal the sick, remove wounds, and at the highest mana expenditures, they can even resurrect an entire unit of troops.
-        Backlash: Madness
-        The character friendly to the caster becomes dead inside.  Withdrawn and distant, shunning human contact.  At the extreme end, they may become completely catatonic, unable or unwilling to motivate themselves to any action whatsoever.
-        Resist Blow (Any)
-        The caster may spend a mana point to reduce any physical stress taken by four.
-        Heal Wounds (Any)
-        Minimum Mana Cost: 1
-        The caster may spend mana to heal the sick or wounded of consequences that have a physical cause.  This takes one action.  
-        Make a caster check, and choose a consequence on a target.  If the caster check is equal to or greater than twice the strength (4, 8, or 12) of the consequence, it is removed.  For example, a caster check of 12 would be necessary to remove a severe consequence.
-        Master Effect
-        Raise the Dead (Season)
-        Mana Cost: 15
-        At the end of any season, the caster may expend 16 mana to resurrect a deceased hero.  This decision is ultimately up to the spotlight player for the session.  Note that the caster isn’t required to go on any mission for the season.  Of course, mana is spent and subtracted from the character’s sheet as normal.
- 
+        <p1>Magic is the fusion of mana and the spellcaster's will, a process known as channeling. Mana is chaotic and omnipresent froce of energy, difficult to control but powerful. It is present everywhere, although in some locations, the untamed and exotic parts of the wilds, it is present in high enough concentration to be harnessed by magic users. Characters with high enough <skill>Lore</skill> may learn <term>Secrets</term>, complex and arcane procedures for channeling mana to produce all manner of fantastical effects.</p1>
+        <h1>Mana</h1>
+        <p1>Mana, for those with attuned channeling abilities, appears as shimmering bands of color, like a tinted hue laid out upon the land. Each region generates its own unique signature of mana, and capable channelers can detect the origin of mana that has been channeled by casters. It can be stored and bound in a wide variety of vessels, although this greatly weaks its potency, making it worthless for use in spells.</p1> 
+        <h2>Binding to the Land</h2>
+        <p1>Before wielding Secrets, a spellcaster must <term>bind</term> to the land. This is an involved process, taking an entire season to accomplish (newly made characters may start play already bound to a region). This is also a solitary time, as the caster takes solace in understanding the flore and fauna of the region. The caster becomes part of the land, in an intimate relationship. The caster will be acutely aware of when the land is damaged or when another caster is attempting to bind to the same region.</p1> 
+        <p1>The regions with the highest amount of mana allow for the most potent use of magic. When a caster binds to a region, the region is noted on the character sheet, next to the character’s mana pool. It isn’t possible for a channeler to bind to more than one region, as the effort required to create bonds with the land is too great. A caster may change which region they are bound to, but this takes an entire season of time (no training or healing is possible).</p1>
+        <h2>Starting Mana</h2>
+        <p1>At the start of each season, every character bound to the land gains an amount of mana equal to their Channeling skill times the mana value of the region divided by two (as usual, round any fractions down).</p1>
+        <example>Kara is bound to the Sunset Isles. The Sunset Isles have two mana, along with a Mana Forge (increasing mana there by one for channeling). Kara’s Channeling skill is four. She will start each season with 4 * 3 = 12 / 2 = 6 mana.</example>        
+        <h1>Wielding Magic</h1>
+        <p1>In order to use magic, a character needs to be bound to a region and have a high enough <skill>Lore</skill> skill to gain access to a Secret. Mana is then expended based on the specific Secret and effect desired, as outlined below.</p1>
+        <h2>Secrets</h2>
+        <p1>Secrets are groupings of thematically linked stunts. Each Secret has four stunts, the four tiers of increasing mystical knowledge with the Secret. These tiers, in order of increasing power, are known as <term>Initiate</term>, <term>Apprentice</term>, <term>Journeyman</term>, and <term>Keeper</term>. Earlier tiered stunts are prerequisites for later tiered stunts. For instance, a character must have the Apprentice level stunt in the Secret of the Elements (Hailstorm) before being able to gain the Journeyman Secret of the Elements stunt (Wind Rider).</p1>
+        <p1>Although it's possible to become an Initiate in multiple Secrets, thus gaining a broad ability, the only way to gain access to the very powerful Keeper stunts is to specialize. Specialists tend to be defined by their Secret. Each Secret tends to be linked with a worldview and ethos that is a core part of the caster.</p1>               
+        <h3>Initiate Tier</h3>
+        <p1>One option available to most secrets is to spend a point of mana in order to use Spellcraft to function as a skill related to the Secret.  This is common in the narrative phase, but it could happen in the mini-games as well.</p1>
+        <example>Kara is attacked by wolves, and spends one point of mana to use her Secret of Fire to roll Spellcraft in order to injure them.</example>
+        <p1>In addition, extra mana may be spent as Fate points to modify this roll (add +2 or re-roll as fate points do).  Spending mana doesn’t require invoking an aspect (so lots of mana may be spent on the same roll).  The backlash is determined by adding up the total mana spent.</p1>
+        <p1>Without spending mana, Spellcraft can’t be used to produce effects related to the secret.  It will just function as per the skill description (for knowledge related to arcane lore).</p1>      
+        <h3>Advanced Tiers</h3>
+        <p1>Advanced Tiers have set mana costs, and produce the described effects. General effects?</p1>
+        <h2>Casting Check</h2>
+        <p1>Each Secret describes what occurs when mana expenditure happens.  Generally, the more mana spent, the more powerful the effect.  In order to trigger any effect, at least one mana must be spent.   The first step is to choose an effect and spend the mana.</p1> 
+        <p1>For some spells, a casting check is necessary.  This check is usually 4dF + Spellcraft, although sometimes other modifiers, such as the mana spent, are added to the roll.  The Secret describes what the result of the casting check accomplishes.  The listed effect always occurs; there isn’t a way to fail a casting check.  Rather, it just determines how powerful the effect is.  This effect takes place immediately.</p1> 
+        <p1>Spending too much mana could result in terrible backlash.  Any time more mana is spent on a casting check than the character’s Channeling skill; the player rolls 4dF + Channeling, and compares it to the amount of mana spent.  This is called the backlash check.  Fate points may not be spent to alter the check.  Backlash occurs from the release of large amounts of magical energy.   This backlash can take a variety of forms, based on the secret.</p1>        
+        <h2>Backlash Check</h2>
+        <h2>Backlash Effects</h2>
+        <p1>The land and the caster are intimately connected.  If too much mana is expended during the casting of a spell, the region where the mana came from may become changed; taking on features which are related to the effect produced which caused the mana drain.  Suggestions for the nature of the blights are given in the secret descriptions.</p1>
+        <p1>For each point below the target number on the backlash check, one resource (food, timber, ore, mana, or luxuries) is removed from the land, chosen by the caster.</p1>  
+        <p1>Furthermore, after all resources are lost, the land gains a new aspect, as it becomes wild and untamed, the mana turning into bizarre physical features.  Choose wisely the lands where you draw mana from, as a region with no resources isn’t very valuable!</p1>        
+        <h1>Secrets of the Dead</h1>
+        <stuntt>Shadow Walker</stuntt>
+        <stuntd>Stealth, realm of the dead.</stuntd>
+        <stuntt>Commune with the Dead</stuntt>
+        <stuntd>Create aspects with three free invokes.</stuntd>
+        <stuntt>Animate Dead</stuntt>
+        <stuntd>Raise a fallen character, weaker and changed.</stuntd>
+        <stuntt>Army of the Dead</stuntt>
+        <stuntd>Infantry of the dead.</stuntd>
+        <h1>Secrets of the Elements</h1>
+        <p1>The caster can control flame. From starting simple fires to burning down entire villages, fire is an extension of the will of the caster.</p1>        
+        <stuntt>Fire Strike</stuntt>
+        <stuntd>Marksmanships, attack with fire.</stuntd>
+        <stuntt>Hailstorm</stuntt>
+        <stuntd>Multiple targets with hail.</stuntd>
+        <stuntt>Wind Rider</stuntt>
+        <stuntd>Move quickly, leave/enter outside zones.</stuntd>
+        <stuntt>Earthquake</stuntt>
+        <stuntd>Destroy keep, castle, units and leaders take massive damage.</stuntd>
+        <h1>Secrets of the Mind</h1>
+        <p1>The caster can control wants and desires, from the whims and wishes of a single person up to the leanings and attitudes of an entire population of people.</p1>        
+        <stuntt>Web of Lies</stuntt>
+        <stuntd>Deceive, lies.</stuntd>
+        <stuntt>Glamour</stuntt>
+        <stuntd>Target subtracts from Notice and Empathy tests.</stuntd>
+        <stuntt>Paragon of Grace</stuntt>
+        <stuntd>Add lore to rapport and society.</stuntd>
+        <stuntt>Collective Will</stuntt>
+        <stuntd>Minor faction becomes an ally.</stuntd>
+        <h1>Secrets of the Wilds</h1>
+        <stuntt>Primal Quickness</stuntt>
+        <stuntd>Athletics, quicker movement.</stuntd>
+        <stuntt>Fangs of the Wolf</stuntt>
+        <stuntd>Skirmish creature.</stuntd>
+        <stuntt>Skin of the Snake</stuntt>
+        <stuntd>Infiltration creature.</stuntd>
+        <stuntt>Heart of the Dragon</stuntt>
+        <stuntd>Warfare creature.</stuntd>
         <h1>Designer’s Notes</h1>
-        <p1>The effect of mana exponentially increases at higher levels, and is based on the difficulty it takes to increase skills from 0 to 18.  For any particular secret, there are smoothing operations done so that the units and effects are easier to manage, but each secret is based on the power curve listed in the table below.  If you wish to design your own secrets, this table can serve as a rough guide for effects.  For instance, if we take 1 mana expenditure to be 1 ft of range, 18 mana would be roughly 3.88 miles.</p1>
-        <p1>Mana Spent	Power	Distance (Example)
-            1-2	1	1 ft.
-            3-5	2	2 ft.
-            6-8	15	15 ft.
-            9-11	84	84 ft.
-            12-14	470	156 yards
-            15-17	2910	970 yards
-            18	20517	3.88 miles</p1>
-        <h2>Dramatic Scenes</h2>
-        <p1>Maybe a point of mana should function like a Fate Point in dramatic scenes, with the added caveat that it must relate to the Secret?</p1>      
+        <p1>The effect of mana exponentially increases at higher levels, and is (loosely) based on the difficulty it takes to improve the skill pyramid. For any particular secret, there are smoothing operations done so that the units and effects are easier to manage, but each secret is based on the power curve listed in the table below. If you wish to design your own secrets, this table can serve as a rough guide for effects. For instance, if we take 1 mana expenditure to be 1 ft of range, 18 mana would be roughly 3.88 miles.</p1>
+        <table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="3">
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mana Spent</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Power</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Distance</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">1-2</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">1</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">1 ft.</cell>   
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3-5</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2 ft.</cell> 
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6-8</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">15</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">15 ft.</cell> 
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">9-11</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">84</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">84 ft.</cell> 
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">12-14</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">470</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">156 yards</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">15+</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2910</cell>
+            <cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">970 yards</cell>           
+        </table>  
     </Story>
 </Root>
