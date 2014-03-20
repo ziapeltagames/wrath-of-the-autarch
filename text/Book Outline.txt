@@ -4,12 +4,18 @@ Broken down into topics, chapters, and sections.
 
 **************************************************************************
 **************************************************************************
-* Introduction
+* Preparing for War
 
 --------------------------------------------------------------------------
-- Preparing for War
+- Introduction
 
-o Overview
+o The Campaign
+  x Characters
+  x The Stronghold
+o The Realm
+o Missions
+o How to Proceed
+o Designer's Notes
 
 --------------------------------------------------------------------------
 - Fate
@@ -64,19 +70,21 @@ o Skills in general
 --------------------------------------------------------------------------
 - Skills and Stunts
 
-Description of skills and their related stunts.
-
 o Skills
 o Stunts
+  x Gaining Stunts
 o Athletics
   x Careful Movement
   x Excellent Climber
   x Shifty Dodge
   x Roll with the Blow
 o Channeling
+  x Chaotic Reserves
+  x Land Give Me Strength
+  x Hurt the Ones You Love
+  x The Land Weeps for My Pain
 o Deceive
 o Empathy
-  x The Land Weeps for My Pain
 o Fighting
 o Investigation
 o Intimidation
@@ -110,7 +118,6 @@ o Wielding Magic
   x Secrets
     v Initiate Tier
     v Advanced Tiers
-  x Casting Check
   x Backlash Check
   x Backlash Effects
 o Secrets of the Dead
@@ -127,7 +134,7 @@ o Secrets of the Mind
   x Web of Lies
   x Glamour
   x Paragon of Grace
-  x Collective Will
+  x Will of Nations
 o Secrets of the Wilds
   x Primal Quickness
   x Fangs of the Wolf

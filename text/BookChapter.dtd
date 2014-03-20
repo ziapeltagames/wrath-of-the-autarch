@@ -10,7 +10,16 @@
 
 <!-- For table formatting. -->
 <!ELEMENT Table ANY>
+<!ATTLIST Table aid:trows CDATA #IMPLIED>
+<!ATTLIST Table aid:tcols CDATA #IMPLIED>
+<!ATTLIST Table aid:table CDATA #IMPLIED>
+<!ATTLIST Table xmlns:aid CDATA #IMPLIED>
+
 <!ELEMENT Cell ANY>
+<!ATTLIST Cell aid:table CDATA #IMPLIED>
+<!ATTLIST Cell aid:crows CDATA #IMPLIED>
+<!ATTLIST Cell aid:ccols CDATA #IMPLIED>
+<!ATTLIST Cell aid:ccolwidth CDATA #IMPLIED>
 
 <!-- Image import. -->
 <!ELEMENT Image ANY>
@@ -27,8 +36,10 @@
 <!ELEMENT h2 ANY>
 <!ELEMENT h3 ANY>
 <!ELEMENT h4 ANY>
+
 <!ELEMENT p1 ANY>
 <!ELEMENT p2 ANY>
+<!ELEMENT cellp ANY>
 
 <!-- These elements are more specific to RPG texts and Fate. -->
 <!ELEMENT example ANY>
@@ -39,8 +50,8 @@
 
 <!ELEMENT stunt (#PCDATA)>
 <!ELEMENT stuntt (#PCDATA)>
-<!ELEMENT stuntp (#PCDATA)>
-<!ELEMENT stuntd (#PCDATA)>
+<!ELEMENT stuntp ANY>
+<!ELEMENT stuntd ANY>
 
 <!-- This is for using the Fate font. -->
 <!ELEMENT fate (#PCDATA)>
@@ -64,12 +75,13 @@
 <!ELEMENT devel_cost ANY>
 
 <!ELEMENT statblock ANY>
-<!ELEMENT statblock_name ANY>
-<!ELEMENT statblock_stat ANY>
+<!ELEMENT sbname ANY>
+<!ELEMENT sbentryl ANY>
+<!ELEMENT sbentryr ANY>
 
 <!ELEMENT mission ANY>
-<!ELEMENT mission_title ANY>
-<!ELEMENT mission_entry ANY>
+<!ELEMENT missiontitle ANY>
+<!ELEMENT missionentry ANY>
 
 <!ELEMENT leadrow (#PCDATA)>
 <!ELEMENT row (#PCDATA)>

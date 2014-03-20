@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE Root SYSTEM "BookChapter.dtd">
 <Root>     
     <Story>
         <chapter>Skills and Stunts</chapter> 
         <p1>Most actions taken by players involve skills and stunts. Typically, when the dice are rolled as part of an action, the result is added to an appropriate skill and compared against the opposition. Stunts provide additional effects that can modify how skills are used or provide special effects during different types of Conflicts.</p1>  
         <h1>Skills</h1> 
         <p1>Due to its Fate lineage, skills in <book>Wrath of the Autarch</book> are fairly broad descriptions of capabilities and areas of expertise. Skills are used in conjunction with the four core actions mentioned in the <chapref>Fate</chapref> chapter. Some skills are more suited to certain core actions than others (for instance, Notice isn&apos;t usually used to Attack with). Every skill can be applied to the Create Advantage and Overcome actions.</p1> 
-        <p1>Since the only action types available in the Challenge Phase are Create an Advantage and Overcome, every skill could play a role in the Challenge Phase. The four types of Conflict tend to focus on specific skills. For instance, Tactics is very useful in Warfare, while Stealth is helpful in Infiltration. Knowing which skills are best for each Conflict is useful when determining which heroes to take on a mission. The skill description also describes what sorts of Conflicts a skill is best suited for.</p1> 
+        <p1>Since the only action types available in the Challenge Phase are Create an Advantage and Overcome, every skill could play a role in the Challenge Phase. The four types of Conflict tend to focus on specific skills. For instance, Tactics is very useful in Warfare, while Stealth is most useful during Infiltration. Knowing which skills are best for each Conflict is useful when determining which heroes to take on a mission. The skill description also describes what sorts of Conflicts a skill is best suited for.</p1> 
         <h1>Stunts</h1> 
         <p1>Stunts are special applications of skills, accessible when a skill reaches a certain level. They allow for additional bonuses to rolls, special benefits during certain Conflicts, or other advantages that go beyond the normal usages of a skill.</p1> 
         <h2>Gaining Stunts</h2> 
-        <p1>When a skill reaches the rank of Great, the player picks one of the stunts listed under the skill description and writes it on their character sheet. For each skill rank above Great, the character gains one additional stunt. Some stunts have other stunts listed as preqrequisites. In that case, the stunt is not available until the character also has all the listed prerequisite stunts.</p1> 
+        <p1>When a skill reaches the rank of Great (+4), the player picks one of the stunts listed under the skill description and writes it on their character sheet. For each skill rank above Great (+4), the character gains one additional stunt. Some stunts have other stunts listed as preqrequisites. In that case, the stunt is not available until the character also has all the listed prerequisite stunts.</p1> 
         <h1>Athletics</h1> 
         <p1>Athletics encompasses not just physical fitness, but also body awareness and movement.  It is used for climbing, swimming, tumbling, and balancing.  If all that matters is raw power, and not some form of movement, then Physique is the more relevant skill.</p1> 
         <stuntt>Careful Movement</stuntt> 
@@ -21,16 +22,16 @@
         <stuntt>Roll with the Blow</stuntt> 
         <stuntp>Prerequisite: Shifty Dodge</stuntp> 
         <stuntd>In a Skirmish, when using Athletics to defend against a Fighting attack, may move two zones away after the attack</stuntd>  
-        <h1>Empathy</h1> 
-        <p1>Empathy is the ability to read another person&apos;s feelings. This is typically used to detect how honest another person is being, as well as reading what they want. It is also used to detect and harness the magic energies that can be found in the wildest regions of the Realm. Empathy is used to determine the amount of mana a spellcaster has available to them. This is discussed more in the <chapref>Magic</chapref> chapter.</p1> 
+        <h1>Channeling</h1> 
+        <p1>Channeling is used to detect and harness the magic energies that can be found in the wildest regions of the Realm. Channeling is also used to determine the amount of starting mana a spellcaster has available to them. See the <chapref>Magic</chapref> chapter for more details on mana, spellcasting, and channeling.</p1> 
+        <stuntt>Chaotic Reserves</stuntt>
+        <stuntd>Bind to a Region and gain mana (if the character doesn't already) each season as a spellcaster. Spend one (and only one) mana on any roll to step up the help and hinder die by one.</stuntd>
+        <stuntt>Land Give Me Strength</stuntt>
+        <stuntd>Bind to a Region as a spellcaster. Destroy one resource there to step up the help die on any roll by two.</stuntd>
+        <stuntt>Hurt the Ones You Love</stuntt>
+        <stuntd>Reduce the amount of backlash rolled by six. In exchange, a character from the same faction as the caster must take a severe consequence. The character should be someone the caster cares about (the caster should have a relevant relationship aspect with the character who takes the consequence). If the target character doesn't have an open severe consequence slot, they are killed instead. The consequence should be thematically appropriate to the type of magic used.</stuntd>   
         <stuntt>The Land Weeps for My Pain</stuntt> 
-        <stuntd>Bind to a Region as a spellcaster. Reduce the stress taken from any attack by one for each resource sacrificed from the land they are bound to. Resources lost this way may not be recovered.</stuntd> 
-        <stuntt>You Don’t Love Me</stuntt> 
-        <stuntd>Step up the help die when defending against being seduced.</stuntd> 
-        <stuntt>I Know a Bad Deal When I Hear It</stuntt> 
-        <stuntd>On any rolls involving recognizing a bad deal, gain a +2.</stuntd> 
-        <stuntt> I’ve Sized You Up</stuntt> 
-        <stuntd>When refreshing the aspect of a target character, add +2.</stuntd> 
+        <stuntd>Bind to a Region as a spellcaster. Reduce the stress taken from any attack by one for each resource sacrificed from the land the character is bound to. Resources lost this way may not be recovered.</stuntd>              
         <h1>Deceive</h1> 
         <p1>Disguises, bluffing, and gambling are all practical applications of the Deceive skill.  Any time lies are involved, the Deceive skill usually comes into play.</p1> 
         <stuntt>Blackmail Artist</stuntt> 
@@ -42,6 +43,14 @@
         <stuntd>However, if the attack fails for some reason, the target’s disposition immediately drops to -1.</stuntd> 
         <stuntt>Trained Actor</stuntt> 
         <stuntd>Step up the help die when the character pretends to be someone they aren’t.</stuntd> 
+        <h1>Empathy</h1> 
+        <p1>Empathy is the ability to read another person&apos;s feelings. This is typically used to detect how honest another person is being, as well as reading what they want.</p1> 
+        <stuntt>You Don’t Love Me</stuntt> 
+        <stuntd>Step up the help die when defending against being seduced.</stuntd> 
+        <stuntt>I Know a Bad Deal When I Hear It</stuntt> 
+        <stuntd>On any rolls involving recognizing a bad deal, gain a +2.</stuntd> 
+        <stuntt> I’ve Sized You Up</stuntt> 
+        <stuntd>When refreshing the aspect of a target character, add +2.</stuntd>         
         <h1>Fighting</h1> 
         <p1>Fighting is knowledge of weapons and the ability to utilize them to defeat others in martial combat.  It also covers unarmed combat.  However, it isn’t used for leading units of many men into battle, which falls under the Tactics skill.</p1> 
         <stuntt>Way of the Sword</stuntt> 
@@ -109,7 +118,13 @@
         <h1>Physique</h1> 
         <p1>Where Athletics governs pure physical power, Physique is used to measure raw physical power and endurance.  Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique.  Bashing open doors or bending bars is also the province of Physique.</p1> 
         <stuntt>Improved Physical Stress</stuntt> 
-        <stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts.  At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences.  Find the rating of the Physique skill below to determine the bonus to physical stress.  •	+1 or +2: A 3-point physical stress box •	+3 or +4: A 4-point physical stress box •	+5 or +6: A 4-point physical stress box and an additional mild consequence slot for physical stress only •	+7 or +8: A 4-point physical stress box and an additional medium consequence slot for physical stress only</stuntd> 
+        <stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts.  At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences.  Find the rating of the Physique skill below to determine the bonus to physical stress.</stuntd>
+        <ul>
+            <l1>+1 or +2: A 3-point physical stress box </l1>
+            <l1>+3 or +4: A 4-point physical stress box </l1>
+            <l1>+5 or +6: A 4-point physical stress box and an additional mild consequence slot for physical stress only </l1>
+            <l1>+7 or +8: A 4-point physical stress box and an additional medium consequence slot for physical stress only</l1>
+        </ul> 
         <h1>Rapport</h1> 
         <p1>Rapport is the process of building lasting friendships.  Characters with high Rapport have a grace and charm which allows them to easily make friends.</p1> 
         <stuntt>Winning Personality </stuntt> 
@@ -174,10 +189,15 @@
         <h1>Will</h1> 
         <p1> A character with a high Will is less affected by witnessing horrors of all stripes.  It is also the ability to focus mentally for long periods of time.</p1> 
         <stuntt>Improved Mental Stress</stuntt> 
-        <stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress.  At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences.  Find the rating of the Will skill below to determine the bonus to mental stress.  •	+1 or +2: A 3-point mental stress box •	+3 or +4: A 4-point mental stress box •	+5 or +6: A 4-point mental stress box and an additional mild consequence slot for mental stress only •	+7 or +8: A 4-point mental stress box and an additional medium consequence slot for mental stress only</stuntd> 
+        <stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress.  At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences.  Find the rating of the Will skill below to determine the bonus to mental stress.</stuntd>
+        <ul>
+            <l1>+1 or +2: A 3-point mental stress box </l1>
+            <l1>+3 or +4: A 4-point mental stress box </l1>
+            <l1>+5 or +6: A 4-point mental stress box and an additional mild consequence slot for mental stress only </l1>
+            <l1>+7 or +8: A 4-point mental stress box and an additional medium consequence slot for mental stress only</l1>
+        </ul>
         <h1>Designer’s Notes</h1> 
         <p1>It would be nice to have a generic set of actions available to use to describe skills, as shown in Fate Core.  Would it be useful to have descriptions of the core actions for the skills, as well as the various ways they’re used in mini-games?</p1> 
-        <p1>The issue is that the four core actions of Fate Core don’t really align to the different types of scenes.  Two of them (create advantage and overcome) seem universal, but attack/defend isn’t related to most of the mini-games.  It’s thus probably necessary to add trappings to skills based on the mini-games, rather than those core actions.</p1> 
-        <p1>Ideas for Stunts: •	Healing •	Initiative •	Combat movement •	Avoid detection during Infiltration •	Extra persuasive •	Military movement •	Thieving tables •	Enemies can’t set up in same zone, or in adjacent zones •	Geography – Find new Cultures?  Minor unit?  Increase resources on region during Conquest? •	Leadership – Increase Loyalty toward target?</p1>     
+        <p1>The issue is that the four core actions of Fate Core don’t really align to the different types of scenes.  Two of them (create advantage and overcome) seem universal, but attack/defend isn’t related to most of the mini-games.  It’s thus probably necessary to add trappings to skills based on the mini-games, rather than those core actions.</p1>   
     </Story> 
 </Root>
