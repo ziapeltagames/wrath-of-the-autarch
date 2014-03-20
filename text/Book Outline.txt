@@ -13,7 +13,10 @@ o The Campaign
   x Characters
   x The Stronghold
 o The Realm
+  x Geography
+  x Magic
 o Missions
+  x Mission Structure
 o How to Proceed
 o Designer's Notes
 

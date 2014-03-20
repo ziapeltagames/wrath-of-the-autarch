@@ -71,13 +71,12 @@
 <!ELEMENT l3 (#PCDATA|aspect|term|strong|b|i)*>
 
 <!ELEMENT development ANY>
-<!ELEMENT devel_title ANY>
-<!ELEMENT devel_cost ANY>
+<!ELEMENT develtitle ANY>
+<!ELEMENT develentry ANY>
 
 <!ELEMENT statblock ANY>
 <!ELEMENT sbname ANY>
-<!ELEMENT sbentryl ANY>
-<!ELEMENT sbentryr ANY>
+<!ELEMENT sbentry ANY>
 
 <!ELEMENT mission ANY>
 <!ELEMENT missiontitle ANY>

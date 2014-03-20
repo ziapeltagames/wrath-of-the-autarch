@@ -19,7 +19,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="Story/text()|Root/text()|Table/text()|Cell/text()|statblock/text()|cellp/text()">
+    <xsl:template match="Story/text()|Root/text()|Table/text()|Cell/text()|statblock/text()|cellp/text()|ul/text()|li/text()|l1/text()|l2/text()">
         <xsl:value-of select="normalize-space()"/>
     </xsl:template>
     
