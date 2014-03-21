@@ -14,11 +14,17 @@ o The Campaign
   x The Stronghold
 o The Realm
   x Geography
-  x Magic
+  x The Land is Alive
+  x The Autarch
+  x Minor Factions
 o Missions
   x Mission Structure
 o How to Proceed
 o Designer's Notes
+
+NOTES: Talk about competition in the designer's notes? Need to mention
+the fact that there aren't fantasy races? Is that important to mention
+here?
 
 --------------------------------------------------------------------------
 - Fate
