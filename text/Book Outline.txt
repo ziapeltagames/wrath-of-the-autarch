@@ -93,29 +93,90 @@ o Channeling
   x Hurt the Ones You Love
   x The Land Weeps for My Pain
 o Deceive
+  x Blackmail Artist
+  x Deep Cover
+  x Trained Actor
+  x With Friends Like These...
 o Empathy
+  x I Know a Bad Deal When I Hear It
+  x I've Sized You Up
+  x Soothing Words
+  x You Don't Love Me
 o Fighting
+  x Favored Weapon
+  x Favored Weapon (Improved)
+  x I'm on a Roll!
+  x No Quarter Given
+  x Whirling Attack
 o Investigation
+  x Digging up Dirt
+  x I'm a Good Detective
+  . ...A Seriously Good Detective
 o Intimidation
+  x Battlefield Savagery
+  x Staggering Beauty
 o Leadership
+  x Band Together
+  x Hold Your Ground!
+  x We Take the Hill!
 o Lore
+  x Initiate
+  x Apprentice
+  x Adept
+  x Keeper
+  x Useful Trivia
 o Marksmanship
+  x Exploit a Weakness
+  x Hit the Weak Point
+  x Rapid Fire
+  x Steady Aim
 o Nature
+  x Animal Companion (Good)
+  x Animal Companion (Great)
+  x Animal Companion (Superb)
+  x Tracker
 o Notice
+  x Clue Finder
+  x Trap Sense
+  x Strike First
 o Physique
+  x Improved Physical Stress
 o Rapport
+  x Close the Deal
+  x Life of the Party
+  x Winning Personality
 o Science
+  x Craft Gunpowder
+  x Healing Kit
+  x Makeshift Device
 o Society
+  x Friends in High Places
+  x High Grace
 o Stealth
+  x Hidden Zone
+  x I'm Invisible
+  x Silent Steps
+  x Sneak Attack
 o Tactics
+  x Battle Master
+  x Coordinated Strike
+  x Set for Charge
 o Thievery
+  x Friends in Low Places
+  x Master Burglar
+  x Master Locksmith
+  x Poisoner
 o Will
+  x Improved Mental Stress
 o Designer's Notes
 
 NOTES: What should be in a skill description? Should there be a breakdown
 of the core actions? How the skill relates to the different Conflicts?
 For now, describe the skill and the stunts, leaving the other pieces out.
 Having those other pieces is probably a good addition.
+
+Should stunts have some sort of standardization?
+Should stunts be limited to conflict types, etc?
 
 --------------------------------------------------------------------------
 - Magic

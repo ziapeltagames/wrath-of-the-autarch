@@ -5,12 +5,13 @@
         <chapter>Skills and Stunts</chapter> 
         <p1>Most actions taken by players involve skills and stunts. Typically, when the dice are rolled as part of an action, the result is added to an appropriate skill and compared against the opposition. Stunts provide additional effects that can modify how skills are used or provide special effects during different types of Conflicts.</p1>  
         <h1>Skills</h1> 
-        <p1>Due to its Fate lineage, skills in <book>Wrath of the Autarch</book> are fairly broad descriptions of capabilities and areas of expertise. Skills are used in conjunction with the four core actions mentioned in the <chapref>Fate</chapref> chapter. Some skills are more suited to certain core actions than others (for instance, Notice isn&apos;t usually used to Attack with). Every skill can be applied to the Create Advantage and Overcome actions.</p1> 
-        <p1>Since the only action types available in the Challenge Phase are Create an Advantage and Overcome, every skill could play a role in the Challenge Phase. The four types of Conflict tend to focus on specific skills. For instance, Tactics is very useful in Warfare, while Stealth is most useful during Infiltration. Knowing which skills are best for each Conflict is useful when determining which heroes to take on a mission. The skill description also describes what sorts of Conflicts a skill is best suited for.</p1> 
+        <p1>Due to its Fate lineage, skills in <book>Wrath of the Autarch</book> are fairly broad descriptions of capabilities and areas of expertise. Skills are used in conjunction with the four core actions mentioned in the <chapref>Fate</chapref> chapter. Some skills are more suited to certain core actions than others (for instance, <skill>Science</skill> isn&apos;t usually used to Attack with). Every skill can be used with the Create Advantage and Overcome actions.</p1> 
+        <p1>Since the only action types available in the Challenge Phase are Create an Advantage and Overcome, every skill could play a role in the Challenge Phase. The four types of Conflicts tend to focus on distinct skills. For instance, Tactics is very useful in Warfare, while Stealth is most useful during Infiltration. Knowing which skills are best for each Conflict is useful when determining which heroes to take on a mission. The skill description also describes what sorts of Conflicts a skill is best suited for.</p1> 
         <h1>Stunts</h1> 
         <p1>Stunts are special applications of skills, accessible when a skill reaches a certain level. They allow for additional bonuses to rolls, special benefits during certain Conflicts, or other advantages that go beyond the normal usages of a skill.</p1> 
         <h2>Gaining Stunts</h2> 
         <p1>When a skill reaches the rank of Great (+4), the player picks one of the stunts listed under the skill description and writes it on their character sheet. For each skill rank above Great (+4), the character gains one additional stunt. Some stunts have other stunts listed as preqrequisites. In that case, the stunt is not available until the character also has all the listed prerequisite stunts.</p1> 
+        <p1>Since characters begin play with one skill at the rank of Great (+4), they also get one stunt from that skill.</p1>
         <h1>Athletics</h1> 
         <p1>Athletics encompasses not just physical fitness, but also body awareness and movement.  It is used for climbing, swimming, tumbling, and balancing.  If all that matters is raw power, and not some form of movement, then Physique is the more relevant skill.</p1> 
         <stuntt>Careful Movement</stuntt> 
@@ -25,69 +26,88 @@
         <h1>Channeling</h1> 
         <p1>Channeling is used to detect and harness the magic energies that can be found in the wildest regions of the Realm. Channeling is also used to determine the amount of starting mana a spellcaster has available to them. See the <chapref>Magic</chapref> chapter for more details on mana, spellcasting, and channeling.</p1> 
         <stuntt>Chaotic Reserves</stuntt>
-        <stuntd>Bind to a Region and gain mana (if the character doesn't already) each season as a spellcaster. Spend one (and only one) mana on any roll to step up the help and hinder die by one.</stuntd>
+        <stuntd>Bind to a Region and gain mana each season as a spellcaster (no changes if already a spellcaster). Spend one and only one mana on any roll to step up both the help and hinder die by one. No backlash with this ability.</stuntd>
         <stuntt>Land Give Me Strength</stuntt>
-        <stuntd>Bind to a Region as a spellcaster. Destroy one resource there to step up the help die on any roll by two.</stuntd>
+        <stuntd>Bind to a Region as a spellcaster. Destroy one resource from the bound region to step up the help die on any roll by two.</stuntd>
         <stuntt>Hurt the Ones You Love</stuntt>
         <stuntd>Reduce the amount of backlash rolled by six. In exchange, a character from the same faction as the caster must take a severe consequence. The character should be someone the caster cares about (the caster should have a relevant relationship aspect with the character who takes the consequence). If the target character doesn't have an open severe consequence slot, they are killed instead. The consequence should be thematically appropriate to the type of magic used.</stuntd>   
         <stuntt>The Land Weeps for My Pain</stuntt> 
         <stuntd>Bind to a Region as a spellcaster. Reduce the stress taken from any attack by one for each resource sacrificed from the land the character is bound to. Resources lost this way may not be recovered.</stuntd>              
         <h1>Deceive</h1> 
-        <p1>Disguises, bluffing, and gambling are all practical applications of the Deceive skill.  Any time lies are involved, the Deceive skill usually comes into play.</p1> 
+        <p1>Disguises, bluffing, and gambling are all practical applications of the Deceive skill. Any time lies are involved, the Deceive skill usually comes into play.</p1> 
         <stuntt>Blackmail Artist</stuntt> 
         <stuntd>Step up the help die on social rolls when the character is blackmailing the target.</stuntd> 
         <stuntt>Deep Cover</stuntt> 
-        <stuntd>If captured during an Infiltration mission, the character may successfully shift blame to some other faction.  Add a relevant permanent aspect to the target faction, indicating their growing distrust and animosity.  Although the Stronghold takes no disposition hits, the caught character suffers all normal penalties.</stuntd> 
-        <stuntt>With Friends like These…</stuntt> 
-        <stuntd>During the Negotiation mini-game, the Deceive skill may be used to make mental stress attacks on characters that have a positive disposition.  Furthermore, the disposition score is added to the roll.</stuntd> 
-        <stuntd>However, if the attack fails for some reason, the target’s disposition immediately drops to -1.</stuntd> 
+        <stuntd>If captured during an Infiltration mission, the character may successfully shift blame to some other faction. Add a relevant permanent aspect to the target faction, indicating their growing distrust and animosity. Although the Stronghold takes no disposition hits, the caught character suffers all normal penalties (they could be detained or executed).</stuntd> 
         <stuntt>Trained Actor</stuntt> 
         <stuntd>Step up the help die when the character pretends to be someone they aren’t.</stuntd> 
+        <stuntt>With Friends like These…</stuntt> 
+        <stuntd>May use deceit even against characters with positive relationship aspects. Furthermore, step up the help die by one when lying to friends.</stuntd>
+        <stuntd>However, on a failed roll, change the relationship aspect to something negative.</stuntd>         
         <h1>Empathy</h1> 
-        <p1>Empathy is the ability to read another person&apos;s feelings. This is typically used to detect how honest another person is being, as well as reading what they want.</p1> 
-        <stuntt>You Don’t Love Me</stuntt> 
-        <stuntd>Step up the help die when defending against being seduced.</stuntd> 
+        <p1>Empathy is the ability to read another person&apos;s feelings. This is typically used to detect how honest another person is being, as well as getting a handle on their emotional state.</p1> 
         <stuntt>I Know a Bad Deal When I Hear It</stuntt> 
-        <stuntd>On any rolls involving recognizing a bad deal, gain a +2.</stuntd> 
-        <stuntt> I’ve Sized You Up</stuntt> 
-        <stuntd>When refreshing the aspect of a target character, add +2.</stuntd>         
+        <stuntd>Step up the help die on any rolls for recognizing a bad deal.</stuntd> 
+        <stuntt>I’ve Sized You Up</stuntt> 
+        <stuntd>Step up the help die when using the Create Advantage action to assess a character's emotional state.</stuntd> 
+        <stuntt>Soothing Words</stuntt>
+        <stuntd>By succeeding at an Empathy roll with a difficulty of Good (+3), may remove someone else's mild consequence related to being weary or psychologically troubled. This roll takes an action.</stuntd>
+        <stuntt>You Don’t Love Me</stuntt> 
+        <stuntd>Step up the help die when defending against being seduced.</stuntd>                
         <h1>Fighting</h1> 
-        <p1>Fighting is knowledge of weapons and the ability to utilize them to defeat others in martial combat.  It also covers unarmed combat.  However, it isn’t used for leading units of many men into battle, which falls under the Tactics skill.</p1> 
-        <stuntt>Way of the Sword</stuntt> 
-        <stuntd>The character has extensive training with a sword.  Spend a fate point to gain a +3 on a roll when using a sword with the Fighting skill.</stuntd> 
-        <stuntt>Way of the Sword (Improved)</stuntt> 
-        <stuntp>Requirement:  Way of the Sword</stuntp> 
-        <stuntd>The character is a sword master.  Spend a fate point to gain a +4 on a roll when using a sword with the Fighting skill.</stuntd> 
-        <stuntt>Whirling Attack</stuntt> 
-        <stuntd>During a Skirmish, may attack every opponent in the same zone with the same attack roll, but must subtract -1 from the roll.</stuntd> 
+        <p1>Fighting is knowledge of weapons and the ability to utilize them to defeat others in martial combat. It also covers unarmed combat. However, it isn’t used for leading units of many men into battle, which falls under the Tactics skill.</p1> 
+        <stuntt>Favored Weapon</stuntt> 
+        <stuntd>The character has extensive training with a particular weapon. Replace one of the character's aspects with an aspect describing their favored weapon (if they don't already have one). Step up the help die when using the favored weapon in combat.</stuntd> 
+        <stuntt>Favored Weapon (Improved)</stuntt> 
+        <stuntp>Requirement:  Favored Weapon</stuntp> 
+        <stuntd>Step up the help die when using the favored weapon in combat.</stuntd> 
         <stuntt>I’m on a Roll!</stuntt> 
-        <stuntp>Requirement: Way of the Sword</stuntp> 
-        <stuntd>When the character succeeds with style on an attack roll, may create a boost without having to lower the number of shifts by one.</stuntd> 
+        <stuntp>Requirement: Favored Weapon</stuntp> 
+        <stuntd>On a successful attack with the favored weapon, gain a boost even if didn't succeed with style. If succeeded with style, gain an extra free invoke.</stuntd>  
+        <stuntt>No Quarter Given</stuntt>
+        <stuntd>During Skirmish or Infiltration, force an opponent to make an opposed roll against your Fighting if they wish to leave the zone. May only be used once per exchange.</stuntd>       
+        <stuntt>Whirling Attack</stuntt> 
+        <stuntd>During Skirmish or Infiltration, may attack every opponent in the same zone with the same attack action, but must step up the hinder die once. Only roll the attack once, but each defender may defend individually.</stuntd> 
         <h1>Investigation</h1> 
-        <p1>Investigation is the ability to corroborate evidence and interpret and analyze clues.  A character with a high Investigation skill also knows who to talk to or where to go next.</p1> 
+        <p1>Investigation is the ability to corroborate evidence and interpret and analyze clues. A character with a high Investigation skill also knows who to talk to or where to go next.</p1> 
         <stuntt>Digging up Dirt</stuntt> 
-        <stuntd>Any time Investigation is used to create an aspect that could be used for blackmail, add +2 to the roll.</stuntd> 
+        <stuntd>Any time Investigation is used to create an aspect that could be used for blackmail, step up the help die.</stuntd> 
         <stuntt>I’m a Good Detective…</stuntt> 
-        <stuntd>Connect that dots that seem completely unrelated to the untrained eye.  When using investigation to solve obstacles in the narrative scene, the player may decide to take narrative control even on a successful roll.</stuntd> 
+        <stuntd>Connect that dots that seem completely unrelated to the untrained eye. When using investigation to overcome a Challenge, the player may decide to take narrative control even on a successful roll.</stuntd> 
         <stuntt>…A Seriously Good Detective</stuntt> 
         <stuntp>Requirements: I’m a Good Detective…</stuntp> 
-        <stuntd>After using I&apos;m a good detective... you may spend a fate point to create a mission aspect.</stuntd> 
+        <stuntd>After using I&apos;m a good detective, may spend a fate point to create a mission aspect.</stuntd> 
         <h1>Intimidation</h1> 
-        <p1>Where Rapport is the act of building long term friendships and making friends, Intimidation is about getting what you want through more direct means.  This isn’t usually the basis for a healthy relationship, but can be very effective in the short term.</p1> 
+        <p1>Where Rapport is the act of building long term friendships and making friends, Intimidation is about getting what you want through more direct means. This isn’t usually the basis for a healthy relationship, but can be very effective motivator in the short term.</p1> 
         <stuntt>Battlefield Savagery</stuntt> 
-        <stuntd>You perform a vicious and disturbing attack.  Spend a fate point to add your Intimidation value to Fighting.  The target may mitigate the stress through both physical and mental stress (may use one stress track from each, instead of just one total).</stuntd> 
+        <stuntd>You perform a vicious and disturbing attack. Spend a fate point to add your Intimidation value to Fighting. However, the target may mitigate the stress through using both the physical and mental stress tracks.</stuntd> 
         <stuntt>Staggering Beauty</stuntt> 
-        <stuntd>Gain a +2 when creating any advantages related to your looks.</stuntd> 
+        <stuntd>Step up the help die when using Create Advantage related to your looks.</stuntd> 
         <h1>Leadership</h1> 
-        <p1>The Leadership skill is used to get the most out of people.  A character with a high Leadership is listened to and respected, if not always liked.</p1> 
-        <stuntt>Battle Coordination (Warfare)</stuntt> 
-        <stuntd>The character may control two more units in battle (for a maximum of seven).</stuntd> 
-        <stuntt>Sage Wisdom</stuntt> 
-        <stuntd>During a narrative scene, an action may be used to reduce or remove a consequence related to weariness or despair by rolling 4dF + Leadership and comparing it to the severity of the consequence: •	Minor: 4 o	Consequence is removed •	Medium: 6 o	Reduce to a minor consequence •	Severe: 8 o	Reduce to a medium consequence</stuntd> 
-        <stuntt>We Take The Hill! (Warfare)</stuntt> 
-        <stuntd>During the Warfare mini-game, the leader may reduce the morale stress of a unit under their command as a leader action.   Roll 4dF + Leadership against a difficulty of 0.  A stress box less than or equal to ½ the number of shifts may be erased.   For instance, on a roll of 4, either the first or second stress box may be cleared.</stuntd> 
+        <p1>The Leadership skill is used to get the most out of people. A character with a high Leadership is listened to and respected, if not always liked.</p1> 
+        <stuntt>Band Together</stuntt>
+        <stuntd>During Warfare, after units have been assigned during an attack action, may move one unit under your command to a different group.</stuntd>
+        <stuntt>Hold Your Ground!</stuntt>
+        <stuntd>During Warfare, step up the help die on one roll each exchange when defending.</stuntd>
+        <stuntt>We Take the Hill!</stuntt> 
+        <stuntd>During Warfare, may attempt to remove a minor consequence of a unit under your command as a leader action. Roll Leadership against a difficulty of Good (+3) to succeed.</stuntd> 
+        <h1>Lore</h1> 
+        <p1>Lore is knowledge of the mystical and arcane facets of the Realm. Knowledge of spells, artifacts, and bizarre creatures of myth. Lore is also essential to learning Secrets, the harnessing of mana to produce magical effects.</p1> 
+        <stuntt>Initiate</stuntt> 
+        <stuntd>The character chooses a Secret and gains access to the Initiate spell from that Secret. Choose a region to bind with, and gain mana each season from the region. See the <chapref>Magic</chapref> chapter for more details.</stuntd> 
+        <stuntt>Apprentice</stuntt> 
+        <stuntp>Requirement: Initiate stunt for chosen Secret</stuntp>
+        <stuntd>The character gains access to the Apprentice spell for the chosen Secrent.</stuntd>
+        <stuntt>Adept</stuntt> 
+        <stuntp>Requirement: Apprentice ability within secret.</stuntp> 
+        <stuntd>The character gains access to the Adept spell for the chosen Secrent.</stuntd> 
+        <stuntt>Keeper</stuntt> 
+        <stuntp>Requirement: Adept ability within secret.</stuntp> 
+        <stuntd>The character gains access to the Keeper spell for the chosen Secrent.</stuntd> 
+        <stuntt>Useful Trivia</stuntt>
+        <stuntd>Step up the help die by one when using the Create Advantage action to recall some bit of arcane lore.</stuntd>        
         <h1>Marksmanship</h1> 
-        <p1>The Marksmanship skill works with any fired weapons, such as slings or bows of any sort.  It also governs thrown weapons like spears or javelins.</p1> 
+        <p1>The Marksmanship skill works with any fired weapons, such as slings or bows of any sort. It also governs thrown weapons like spears or javelins.</p1> 
         <stuntt>Exploit a Weakness</stuntt> 
         <stuntp>Requirement: Hit the Weak Point</stuntp> 
         <stuntd>As the Hit the Weak Point stunt, but may be used twice.</stuntd> 
@@ -98,98 +118,90 @@
         <stuntt>Steady Aim</stuntt> 
         <stuntd>Step down the hinder die when using Create Advantage to help set up a future shot.</stuntd> 
         <h1>Nature</h1> 
-        <p1>Nature imparts an understanding of the flora and fauna of the realm.  It is important for surviving in the wild and handling animals.  Furthermore, Nature covers the general geography of the Realm.  The people and cultures of the Realm are covered by the Society skill.</p1> 
-        <stuntt>Animal Companion (Basic)</stuntt> 
-        <stuntd>Create an animal companion with two skills of rank 3, a minor consequence of -2, and an aspect.  These skills, consequences, and aspects function almost identically to those for your character.  However, the animal’s skills can never be improved. The animal’s skills may be used instead of your character’s skills, and the consequence may be taken by your animal companion instead of your character, as thematically appropriate.</stuntd> 
-        <stuntt>Animal Companion (Advanced)</stuntt> 
+        <p1>Nature imparts an understanding of the flora and fauna of the realm. It is important for surviving in the wild and handling animals. Furthermore, Nature covers the general geography of the Realm. The people and cultures of the Realm are covered by the Society skill.</p1> 
+        <stuntt>Animal Companion (Good)</stuntt> 
+        <stuntd>Create an animal companion with two skills of rank 3, a minor consequence of, and an aspect. These skills, consequences, and aspects function almost identically to those for your character. However, the animal’s skills can never be improved.  The animal’s skills may be used instead of your character’s skills, and the consequence may be taken by your animal companion instead of your character, as thematically appropriate. This functions as a minion. See the <chapref>Characters</chapref> chapter for more details.</stuntd> 
+        <stuntt>Animal Companion (Great)</stuntt> 
         <stuntp>Prerequisite: Animal Companion (Basic)</stuntp> 
-        <stuntd>As basic animal companion, but with two skills of rank 4, a minor consequence of -2, a major consequence of -4, and two aspects.</stuntd> 
-        <stuntt>Animal Companion (Master)</stuntt> 
+        <stuntd>As basic animal companion, but with two skills of rank 4, a minor consequence, a major consequence of, and two aspects.</stuntd> 
+        <stuntt>Animal Companion (Superb)</stuntt> 
         <stuntp>Prerequisite: Animal Companion (Advanced)</stuntp> 
-        <stuntd>As basic animal companion, but with two skills of rank 5, a minor consequence of -2, a major consequence of -4, and a severe consequence of -6, and three aspects.</stuntd> 
+        <stuntd>As basic animal companion, but with two skills of rank 5, a minor consequence of, a major consequence of, a severe consequence of, and three aspects.</stuntd> 
+        <stuntt>Tracker</stuntt>
+        <stuntd>Step up the help die on any rolls involving following tracks in the wilds.</stuntd>
         <h1>Notice</h1> 
-        <p1>Noticing a hiding beast before it strikes or a concealed latch in a dungeon wall are both uses of the Notice skill.  Furthermore, Notice is effective in tracking footprints or detecting whether a creature was present.</p1> 
-        <stuntt>Trap Sense</stuntt> 
-        <stuntd>Gain a +2 to any roll involved in overcoming traps, whether obstacles in the narrative phase, or aspects placed on zones in the Skirmish.</stuntd> 
-        <stuntt>Strike First</stuntt> 
-        <stuntd>In the Skirmish mini-game, your Notice skill is 2 higher for purposes of initiative.</stuntd> 
+        <p1>Noticing a hiding beast before it strikes or a concealed latch in a dungeon wall are both uses of the Notice skill. Furthermore, Notice is effective in tracking footprints or detecting whether a creature was present.</p1> 
         <stuntt>Clue Finder</stuntt> 
-        <stuntd>Gain a +2 to any roll involving finding clues.</stuntd> 
+        <stuntd>Step up the help die on any rolls involved in searching for hidden clues.</stuntd>         
+        <stuntt>Trap Sense</stuntt> 
+        <stuntd>Step up the help die on any roll involved in detecting traps.</stuntd> 
+        <stuntt>Strike First</stuntt> 
+        <stuntd>During Skirmish, your Notice skill is 2 higher for purposes of turn order.</stuntd> 
         <h1>Physique</h1> 
-        <p1>Where Athletics governs pure physical power, Physique is used to measure raw physical power and endurance.  Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique.  Bashing open doors or bending bars is also the province of Physique.</p1> 
+        <p1>Where Athletics governs pure physical power, Physique is used to measure raw physical power and endurance. Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique. Bashing open doors or bending bars is also the province of Physique.</p1> 
         <stuntt>Improved Physical Stress</stuntt> 
-        <stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts.  At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences.  Find the rating of the Physique skill below to determine the bonus to physical stress.</stuntd>
+        <stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Physique skill below to determine the bonus to physical stress.</stuntd>
         <ul>
             <l1>+1 or +2: A 3-point physical stress box </l1>
             <l1>+3 or +4: A 4-point physical stress box </l1>
-            <l1>+5 or +6: A 4-point physical stress box and an additional mild consequence slot for physical stress only </l1>
-            <l1>+7 or +8: A 4-point physical stress box and an additional medium consequence slot for physical stress only</l1>
+            <l1>+5 or +6: A 4-point physical stress box and an additional mild consequence slot</l1>
+            <l1>+7 or +8: A 4-point physical stress box and an additional medium consequence slot</l1>
         </ul> 
         <h1>Rapport</h1> 
-        <p1>Rapport is the process of building lasting friendships.  Characters with high Rapport have a grace and charm which allows them to easily make friends.</p1> 
-        <stuntt>Winning Personality </stuntt> 
-        <stuntd>The character is better at fostering relationships related to friendship, and has two more relationship slots available.  These should be used for relationships related based on friendship.</stuntd> 
-        <stuntt>Life of the Party</stuntt> 
-        <stuntd>Step up the help die on any rolls involving social situations centered on festivities (food, drink, and dancing).</stuntd> 
+        <p1>Rapport is the process of building lasting friendships. Characters with high Rapport have a grace and charm which allows them to easily make friends. It's also useful in brokering deals and creating alliances.</p1> 
         <stuntt>Close the Deal</stuntt> 
-        <stuntd>If a roll to make a trade arrangement is successful, gain a free boost.  If success with style is rolled, the boost has two free aspects.</stuntd> 
+        <stuntd>When a roll to persuade a character on the merits of a deal is successful, gain a free boost. If success with style is rolled, the boost has two free aspects.</stuntd>         
+        <stuntt>Life of the Party</stuntt> 
+        <stuntd>Step up the help die on any rolls involving social situations centered on festivities (food, drink, and dancing).</stuntd>         
+        <stuntt>Winning Personality</stuntt> 
+        <stuntd>The character is better at fostering relationships with those close to them. Gain one relationship aspect to be used with a character from the Stronghold. This stunt may be taken more than once.</stuntd> 
         <h1>Science</h1> 
-        <p1>Medicine, chemical concoctions, vehicles, and feats of engineering are all part of the Science skill.  Where Nature deals with flora and fauna as well as geographies, Science deals more with the man made.</p1> 
-        <stuntt>Healing Kit </stuntt> 
-        <stuntd>Character has knowledge of medicinal techniques for healing minor injuries.  As an action during a narrative scene, 4dF + Science may be rolled to remove physical stress. Compare the roll against a difficulty of zero.  One stress box no higher than half the number of shifts (round down) may be erased.</stuntd> 
+        <p1>Medicine, chemical concoctions, vehicles, and feats of engineering are all part of the Science skill. Where Nature deals with flora and fauna as well as geographies, Science deals more with the man made.</p1> 
+        <stuntt>Craft Gunpowder</stuntd>
+        <stuntd>Step up the help die on Create Advantage action involving the use of gunpowder.</stuntd>
+        <stuntt>Healing Kit</stuntt> 
+        <stuntd>By succeeding at an Empathy roll with a difficulty of Good (+3), may remove someone else's mild consequence related to physical injury. This roll takes an action.</stuntd>        
         <stuntt>Makeshift Device</stuntt> 
-        <stuntd>Gain a +2 to Science rolls when creating advantages dealing with engineered devices created from ad-hoc supplies.</stuntd> 
+        <stuntd>Step up the help die on Create Advantage actions dealing with engineered devices created from ad-hoc supplies.</stuntd> 
         <h1>Society</h1> 
-        <p1>A character with a high Society skill understands the cultural details for the different factions and peoples of the Realm.  These include the traditions, mannerisms, and trappings which the leadership of the Faction finds important, as well as other general details about each Faction.  Society is a useful skill for avoiding an embarrassing faux pas.</p1> 
+        <p1>A character with a high Society skill understands the cultural details for the different factions and peoples of the Realm.  These include the traditions, mannerisms, and trappings which the leadership of the Faction finds important, as well as other general details about each Faction. Society is a useful skill for avoiding an embarrassing faux pas.</p1> 
         <stuntt>Friends in High Places</stuntt> 
-        <stuntd>There are two more relationship slots available, as long as they relate to characters in important positions (leaders and diplomats).</stuntd> 
+        <stuntd>The character has one more relationship slot available. This relationship must involve characters in important positions (leaders and diplomats). This stunt may be taken more than once.</stuntd> 
         <stuntt>High Grace</stuntt> 
-        <stuntd>In the Negotiation mini-game, your Society skill is 2 higher for purposes of initiative.</stuntd> 
-        <h1>Lore</h1> 
-        <p1>Where Empathy is the ability to see the weave of magic which binds people and the land together, Lore is the knowledge of how to use the raw energy to produce an effect.  A high Lore is essential when using secrets, broad categories of magical effect gained when the appropriate stunt is purchased.  Lore is also useful for resisting another’s magic or understanding arcane writings on the subject of magic.</p1> 
-        <stuntt>Apprentice</stuntt> 
-        <stuntd>Gain basic access to one secret. The caster may take advantage of the base effect of the secret. This stunt may be taken multiple times, once for each secret.</stuntd> 
-        <stuntt>Initiate</stuntt> 
-        <stuntp>Requirement:  Apprentice ability within secret.</stuntp> 
-        <stuntd>Gain basic access to the initiate level spells for a chosen apprentice level secret.</stuntd> 
-        <stuntt>Adept</stuntt> 
-        <stuntp>Requirement:  Initiate ability within secret.</stuntp> 
-        <stuntd>Gain basic access to the adept level spells for a chosen initiate level secret.</stuntd> 
-        <stuntt>Master</stuntt> 
-        <stuntp>Requirement:  Adept ability within secret.</stuntp> 
-        <stuntd>Gain basic access to the master level spells for a chosen adept level secret.</stuntd> 
+        <stuntd>For Diplomacy, the character's Society skill is 2 higher for purposes of turn order.</stuntd> 
         <h1>Stealth</h1> 
         <p1>Stealth is the skill to use for moving silently and avoiding detection.</p1> 
         <stuntt>Hidden Zone</stuntt> 
-        <stuntd>The character is adept at finding hidden areas and attacking from them.  During Skirmish setup, no opponents may start in the same zone as this character.</stuntd> 
+        <stuntd>The character is adept at finding hidden areas and attacking from them. During Skirmish setup, no opponents may be placed in the same zone as the character.</stuntd> 
         <stuntt>I’m Invisible</stuntt> 
-        <stuntd>Gain an extra free invocation on any successful Create an Advantage actions involving hiding.</stuntd> 
+        <stuntd>Gain an extra free invoke on any successful Create Advantage actions involving hiding.</stuntd> 
         <stuntt>Silent Steps</stuntt> 
-        <stuntd>Gain the Silent Steps aspect on any Athletics roll for movement.</stuntd> 
+        <stuntd>Gain an extra free invoke on Create Advantage actions involving stealthy movement.</stuntd> 
         <stuntt>Sneak Attack</stuntt> 
         <stuntd>Step up the help die when attacking from a hidden position.</stuntd>  
+        <stuntt></stuntt>
         <h1>Tactics</h1> 
-        <p1>Understanding the use of military force is the cornerstone of Tactics.  Troop movements, weapons of war, combined arms, logistics, and using terrain all are covered by the Tactics skill.</p1> 
-        <stuntt>Battle Master (Warfare)</stuntt> 
-        <stuntd>Spend a fate point to order one unit to complete a specific objective.  Unit no longer needs to remain in the same zone as leader. •	Hold – Unit remains in a particular zone, attacking any enemies within range as desired by ordering leader. •	Pursue – Unit targets another unit, pursuing and attacking them until they are eliminated, at which time they will rejoin their commander. •	Redeploy – Unit moves to join a different leader.</stuntd> 
-        <stuntt>Coordinated Strike (Warfare)</stuntt> 
-        <stuntd>Spend a fate point when commanding at least one unit of Archers, one unit of Cavalry, and one unit of Infantry, to gain +2 on the attack rolls of all commanded units for the turn.</stuntd> 
-        <stuntt>Set for Charge (Warfare)</stuntt> 
-        <stuntd>Gain +2 to any infantry attacks during the turn Cavalry move into your zone.</stuntd> 
+        <p1>Understanding the use of military force is the cornerstone of Tactics. Troop movements, weapons of war, combined arms, logistics, and using terrain all are covered by the Tactics skill.</p1> 
+        <stuntt>Battle Master</stuntt> 
+        <stuntd>During Warfare, spend a fate point to order one unit to complete a specific objective. The unit no longer needs to remain in the same zone as the leader, and may be controlled independently for the duration of the battle.</stuntd> 
+        <stuntt>Coordinated Strike</stuntt> 
+        <stuntd>During Warfare, step up the help die on all unit attacks when commanding at least one unit of Archers, one unit of Cavalry, and one unit of Infantry.</stuntd> 
+        <stuntt>Set for Charge</stuntt> 
+        <stuntd>During Warfare, Step up the help die on infantry attacks during the turn Cavalry move into your zone.</stuntd> 
         <h1>Thievery</h1> 
-        <p1> Thievery is used for any type of larcenous activity, from picking locks to picking pockets.  The skill also encompasses knowledge of security countermeasures.  Furthermore, Thievery imparts some level of streetwise to the character, useful in determining which areas are dangerous or how to obtain contraband.</p1> 
+        <p1> Thievery is used for any type of larcenous activity, from picking locks to picking pockets. The skill also encompasses knowledge of security countermeasures. Furthermore, Thievery imparts some level of streetwise to the character, useful in determining which areas are dangerous or how to obtain contraband.</p1> 
         <stuntt>Friends in Low Places</stuntt> 
         <stuntd>Step up the help die on rolls involving underworld contacts.</stuntd> 
         <stuntt>Master Burglar</stuntt> 
-        <stuntd>With a set of thieves’ tools, the character is able to recover all manner of illicit goods.  When using Create Advantage to create an aspect, the player may declare the aspect to be a luxury, listing it on the Stronghold Sheet.</stuntd> 
-        <stuntt>Sleep Darts</stuntt> 
-        <stuntd>Start each mission with the aspect Sleep Darts with two free invokes.</stuntd> 
-        <stuntt>Master Locksmith</stuntt> 
-        <stuntd>Add a +2 to any rolls involving locks, either creating them or opening them.</stuntd> 
+        <stuntd>The character is able to recover all manner of illicit goods. When using Create Advantage to create an aspect, the player may declare the aspect to be a luxury, listing it on the Stronghold Sheet where it may function as a luxury.</stuntd>    
+        <stuntt>Master Locksmith</stuntt>
+        <stuntd>Gain one step up on the help die on rolls involving creating or opening locks.</stuntd>
+        <stuntt>Poisoner</stuntt> 
+        <stuntd>The character has access and knowledge of poisons. Gain an extra free invoke on Create Advantage rolls involving the creation of poisons.</stuntd> 
         <h1>Will</h1> 
-        <p1> A character with a high Will is less affected by witnessing horrors of all stripes.  It is also the ability to focus mentally for long periods of time.</p1> 
+        <p1> A character with a high Will is less affected by witnessing horrors of all stripes. It is also the ability to focus mentally for long periods of time.</p1> 
         <stuntt>Improved Mental Stress</stuntt> 
-        <stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress.  At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences.  Find the rating of the Will skill below to determine the bonus to mental stress.</stuntd>
+        <stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Will skill below to determine the bonus to mental stress.</stuntd>
         <ul>
             <l1>+1 or +2: A 3-point mental stress box </l1>
             <l1>+3 or +4: A 4-point mental stress box </l1>
@@ -197,7 +209,7 @@
             <l1>+7 or +8: A 4-point mental stress box and an additional medium consequence slot for mental stress only</l1>
         </ul>
         <h1>Designer’s Notes</h1> 
-        <p1>It would be nice to have a generic set of actions available to use to describe skills, as shown in Fate Core.  Would it be useful to have descriptions of the core actions for the skills, as well as the various ways they’re used in mini-games?</p1> 
-        <p1>The issue is that the four core actions of Fate Core don’t really align to the different types of scenes.  Two of them (create advantage and overcome) seem universal, but attack/defend isn’t related to most of the mini-games.  It’s thus probably necessary to add trappings to skills based on the mini-games, rather than those core actions.</p1>   
+        <p1>It would be nice to have a generic set of actions available to use to describe skills, as shown in Fate Core. Would it be useful to have descriptions of the core actions for the skills, as well as the various ways they’re used in mini-games?</p1> 
+        <p1>The issue is that the four core actions of Fate Core don’t really align to the different types of scenes. Two of them (create advantage and overcome) seem universal, but attack/defend isn’t related to most of the mini-games. It’s thus probably necessary to add trappings to skills based on the mini-games, rather than those core actions.</p1>   
     </Story> 
 </Root>
