@@ -29,12 +29,35 @@ here?
 --------------------------------------------------------------------------
 - Fate
 
-o Differences if you're familiar with Fate 
-o Using dice, dice rolls
-o Aspects
-o Aspect Burning
-o Fate points
-o Core actions
+o Actions 
+  x Stepping Dice Up and Down
+  x The Ladder
+  x Aspects
+o Fate Points
+  x Invoking an Aspect
+  x Enduring an Aspect
+  x Compelling an Aspect
+  x Other Uses
+o Creating Aspects
+  x Free Invokes
+    i Rule of Two
+  x Permanent Aspects
+    i Don't Contradict What Exists
+    i Rule of Two Continued
+  x Mission Aspects
+  x Phase Aspects
+  x Boosts
+  x Tracking Aspects
+o Leveraging Aspects
+  x Aspect Crafting
+  x Aspect Burning
+o Core Actions
+  x Create an Advantage
+  x Overcome
+  x Attack
+  x Defend
+  x Taking Stress
+o Designer's Notes
 
 --------------------------------------------------------------------------
 - The First Spring
