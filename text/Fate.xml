@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root>
+    <Story>
     <chapter>Fate</chapter> 
     <p1>
         <book>Wrath of the Autarch</book> is a game built on the Fate engine, as described in <book>Fate Core</book>, released by Evil Hat Productions. Furthermore, <book>WotA</book> is influenced by other Fate games released prior to Fate Core, in particular, the science fiction RPG <book>Diaspora</book>.</p1> 
@@ -108,49 +109,34 @@
     <example>Trying to create the <aspect>Flanked</aspect> aspect on the ogre targets the beast, so it merits an opposed <skill>Athletics</skill> check, or some other relevant skill, to create.</example> 
     <p1>Find the result based on the outcome of the roll compared with the opposition.</p1> 
     <ul>
-        <l1>
-            <b>Failure. </b>If a player fails the roll, either no aspect is created, or the Autarch player can create an aspect, which may not entirely be what the player had in mind. The aspect may not be invoked for free.</l1> 
-        <l1>
-            <b>Tie. </b>In the case of a tie, the player creates a boost. The scope of the boost will be the same (so a mission boost will last the whole mission), but as usual, it may only be invoked once, for free, and then it is removed from play.</l1> 
-        <l1>
-            <b>Success. </b>Create an aspect of the appropriate scope which may be invoked once for free.</l1> 
-        <l1>
-            <b>Success with Style. </b>In this case, the aspect is created as usual, but it may be invoked twice for free, rather than once.  Draw two free invokes on the aspect.</l1>
+        <l1><b>Failure. </b>If a player fails the roll, either no aspect is created, or the Autarch player can create an aspect, which may not entirely be what the player had in mind. The aspect may not be invoked for free.</l1> 
+        <l1><b>Tie. </b>In the case of a tie, the player creates a boost. The scope of the boost will be the same (so a mission boost will last the whole mission), but as usual, it may only be invoked once, for free, and then it is removed from play.</l1> 
+        <l1><b>Success. </b>Create an aspect of the appropriate scope which may be invoked once for free.</l1> 
+        <l1><b>Success with Style. </b>In this case, the aspect is created as usual, but it may be invoked twice for free, rather than once.  Draw two free invokes on the aspect.</l1>
     </ul> 
     <h3>Refreshing Aspects</h3> 
     <p1>In addition to adding new aspects, free invokes may be refreshed on aspects in play using the Create an Advantage action. The procedure is the same – make a relevant skill check against a difficulty based on the opposition. On success, one free invoke is added to the target aspect, and on a success with style, two free invokes are added.</p1> 
-    <h2>
-        <fate>o</fate> Overcome</h2> 
+    <h2><fate>o</fate> Overcome</h2> 
     <p1>Overcome is a catch all action that involves any activity with uncertainty which isn’t a direct attack on another character. Climbing over walls, disarming traps, and even moving quickly around the battlefield are all instances of the Overcome action. The difficulty for these actions is detailed more in the chapters for the <chapref>Challenge Phase</chapref> and the different Conflicts.</p1> 
     <p1>This action may be used to remove an aspect from play. If this aspect is actively being maintained by another character, then getting rid of it will involve active opposition. For instance, getting rid of the thief’s <aspect>Hiding in the Shadows</aspect> would be opposed by the thief’s <aspect>Stealth</aspect> skill.</p1> 
     <p1>Getting rid of an aspect that is not actively maintained has the same difficulty as creating the aspect does (it’s based on the scope and mission difficulty). Of course, a character attempting this action must have a skill that could feasibly remove the aspect in the given situation.</p1> 
     <p1>Find the result based on the outcome of the roll compared with the opposition.</p1> 
     <ul>
-        <l1>
-            <b>Fail.  </b>The default is that the player fails their action. This could involve further penalties depending on whether the failure occurs in the Challenge Phase or the Conflict phase.</l1> 
-        <l1>
-            <b>Tie. </b>On a tie, the player may create a phase duration boost, related somehow to the action.</l1> 
-        <l1>
-            <b>Success. </b>If the target was an aspect, it is removed from play. If the target had a stress track, add stress to the stress track equal to the number of shifts.</l1> 
-        <l1>
-            <b>Success with Style. </b>Same as the general success case, but the player may create a mission duration boost as well.</l1>
+        <l1><b>Fail.  </b>The default is that the player fails their action. This could involve further penalties depending on whether the failure occurs in the Challenge Phase or the Conflict phase.</l1> 
+        <l1><b>Tie. </b>On a tie, the player may create a phase duration boost, related somehow to the action.</l1> 
+        <l1><b>Success. </b>If the target was an aspect, it is removed from play. If the target had a stress track, add stress to the stress track equal to the number of shifts.</l1> 
+        <l1><b>Success with Style. </b>Same as the general success case, but the player may create a mission duration boost as well.</l1>
     </ul> 
-    <h2>
-        <fate>a</fate>Attack</h2> 
+    <h2><fate>a</fate>Attack</h2> 
     <p1>The attack action isn’t used at all during the Challenge phase. It occurs fairly frequently during the Conflicts. The attack action is very broad in use. It covers not just physical attacks, but could involve a volley of arrows from a unit, or a hero attempting to seduce or intimidate another character. It’s any action where the target is another character and the goal is to inflict physical or mental stress.</p1> 
     <p1>The opposition of the attack roll is always active, with the results given below.</p1> 
     <ul>
-        <l1>
-            <b>Fail. </b>Unsuccessful attack. This could mean the defender gets a boost (see the Defend action).</l1> 
-        <l1>
-            <b>Tie. </b>On a tie, the player may create a phase duration boost, related to the attack.</l1> 
-        <l1>
-            <b>Success. </b>The target takes stress equal to the number of shifts rolled.</l1> 
-        <l1>
-            <b>Success with Style. </b>Same as the general success case, but the attacker may create a phase duration boost as well.</l1>
+        <l1><b>Fail. </b>Unsuccessful attack. This could mean the defender gets a boost (see the Defend action).</l1> 
+        <l1><b>Tie. </b>On a tie, the player may create a phase duration boost, related to the attack.</l1> 
+        <l1><b>Success. </b>The target takes stress equal to the number of shifts rolled.</l1> 
+        <l1><b>Success with Style. </b>Same as the general success case, but the attacker may create a phase duration boost as well.</l1>
     </ul> 
-    <h2>
-        <fate>d</fate> Defend</h2> 
+    <h2><fate>d</fate> Defend</h2> 
     <p1>Defend is a little different than the other three actions. It’s not a proactive action, but rather any reaction where active opposition is needed by a character. Failure to defend is really just handled by one of the success cases in the other action types. The real utility of the Defend action is just to clarify which sorts of skills can be used to defend against which sorts of attacks or Overcome actions.</p1> 
     <p1>However, if a player Succeeds with Style while taking a Defend action, they get a boost that lasts for the phase.</p1> 
     <h2>Taking Stress</h2> 
@@ -165,4 +151,5 @@
     <p1>The idea of stepping up and down polyhedral dice is a feature of <book>Dungeon Crawl Classics</book>. It’s a very tactile way to benefit from stunts and developments.</p1> 
     <p1>The other benefit to using step dice is that it opens the door to an easy to remember mechanical way to get Fate points. Even good Fate GMs don’t always do a good job of keeping Fate points flowing, so I’ve employed a number of player facing methods to do this. The terminology for “enduring” an aspect comes from <book>Chronica Fuedalis</book>, which is also a Fate inspired medieval game.</p1> 
     <p1>This concept of a mechanical system from hindering aspects is also a big part of Cortex+, which lets the player gain Fate-like currency by using skills in a potentially negative way. It’s also nice in a game that has more tactical elements to have an easier mechanical way to get Fate points.</p1>
+    </Story>
 </Root>

@@ -22,9 +22,8 @@ o Missions
 o How to Proceed
 o Designer's Notes
 
-NOTES: Talk about competition in the designer's notes? Need to mention
-the fact that there aren't fantasy races? Is that important to mention
-here?
+NOTES: Talk about competition in the designer's notes? Should mention
+the fact that there aren't fantasy races?
 
 --------------------------------------------------------------------------
 - Fate
@@ -62,10 +61,18 @@ o Designer's Notes
 --------------------------------------------------------------------------
 - The First Spring
 
-o Creating the Stronghold
-o Strategies
-o Making some characters
-o First spring (no threats, challenge phase only)
+o The Campaign Arc
+  x Choosing Strategies
+o Stronghold Creation
+  x Stronghold Aspects
+o Hero Creation
+  x Important Skills
+  x Relate to Stronghold Aspects
+  x Start Sketchy
+o Finishing Touches
+  x Choose Alliances
+  x Finalize the Stronghold
+  x Choose First Mission
 
 **************************************************************************
 **************************************************************************
@@ -74,20 +81,27 @@ o First spring (no threats, challenge phase only)
 --------------------------------------------------------------------------
 - Missions
 
-o Mission structure
-o Mention challenge phase / conflicts
-o Mission types
-o Threats
+o Mission structure, challenge phase followed by a conflict
+o Spotlight player, when to choose a hero, etc
+o Mission types, benefits, penalties, and costs
+o Threats, general benefits and penalties, types of threats
 
 --------------------------------------------------------------------------
 - Challenge Phase
 
 o How the challenge phase works
+o Actions in the challenge phase
+o Overcome
+o Create an Advantage
 
 --------------------------------------------------------------------------
 - Seasons
 
 o Overview diagram?
+o Gathering resources
+o Building developments
+o Mission
+o Roll for Threats
 
 **************************************************************************
 **************************************************************************
@@ -98,6 +112,7 @@ o Overview diagram?
 
 o Leaders, heroes, creatures, units
 o Skills in general
+o Elements that make up the characters
 
 --------------------------------------------------------------------------
 - Skills and Stunts
