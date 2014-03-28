@@ -101,6 +101,7 @@ o Overview diagram?
 o Gathering resources
 o Building developments
 o Mission
+o Threat pools?
 o Roll for Threats
 
 **************************************************************************
@@ -262,25 +263,35 @@ preferred over defensive capability.
 --------------------------------------------------------------------------
 - The Stronghold
 
+o What are the resources? 
+o Resources aren't literal goods, they are investments
+
 --------------------------------------------------------------------------
 - Factions
 
 o Differences between the Autarch and other factions
+o Autarch threat pools
 o How to keep track of the different sorts of faction details
 
 --------------------------------------------------------------------------
 - Developments
 
-Description of the different developments and their effects, costs, etc.
-Graphics of Tech Trees.
-
-o Development Areas
-o Mana infused developments?
+o Anatomy of a Development
+  x Regional Developments
+  x Technical Developments
+  x Tech Trees
+  x Effects
+o Espionage and Sabotage
+  x Warfare Developments
 o Arcane
 o Diplomacy
 o Infiltration
 o Skirmish
 o Warfare
+
+NOTES: Introduce a concept of "mana infused" developments?
+Powerful, but really wild? How would this work, would it depend on
+whether the development was offensive or defensive?
 
 **************************************************************************
 **************************************************************************
