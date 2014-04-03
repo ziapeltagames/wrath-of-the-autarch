@@ -23,80 +23,78 @@
         <p1>Arcane developments make channeling and casting spells far more effective.</p1> 
         <devel_title>Mana Forge</devel_title> 
         <development>
-            <Table>
-                <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Build Points</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Food</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Timber</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Ore</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Mana</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">5</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Luxuries</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Prerequisites</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">None</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Tags</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Regional</Cell>
-                </Table>
+            <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Build Points</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Food</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Timber</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Ore</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Mana</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">5</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Luxuries</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Prerequisites</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">None</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Tags</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Regional</Cell>
+            </Table>
         </development> 
         <p1>Region provides one additional mana when calculating starting mana for bound casters. Does not provide any additional resources for developments or trade (don't increase the listed mana value on the region).</p1> 
         <devel_title>Expert Casting</devel_title> 
         <development>
-            <Table>
-                <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Build Points</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">11</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Food</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Timber</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Ore</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Mana</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Luxuries</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Prerequisites</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Advanced Casting</Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                        <b>Tags</b>
-                    </Cell>
-                    <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Technical</Cell>
-                </Table>
+            <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Build Points</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">11</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Food</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Timber</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">6</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Ore</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">2</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Mana</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">3</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Luxuries</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Prerequisites</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Advanced Casting</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Tags</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Technical</Cell>
+            </Table>
         </development> 
         <p1>Step up the help die by one on spell effect rolls.</p1> 
         <devel_title>Mages Guild</devel_title> 
@@ -366,7 +364,7 @@
         </development> 
         <p1>Step up the help die by one on backlash checks.</p1> 
         <h1>Diplomacy Developments</h1> 
-        <p1>Diplomacy developments help with Trade missions or threats that use the Diplomacy Conflict.</p1> 
+        <p1>Improvents for the Stronghold and factions for missions using the Diplomacy Conflict.</p1> 
         <devel_title>Center of Culture</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
@@ -442,8 +440,10 @@
                 <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></Cell>
             </Table>
         </development> 
-        <p1><b>Stronghold: </b> Ignore two diplomacy threats per year of Superb (5) difficulty or less.</p1> 
-        <p1><b>Faction: </b> The difficulty of all Diplomacy missions with the faction is Superb (5).</p1>
+        <p1>
+            <b>Stronghold: </b> Ignore two diplomacy threats per year of Superb (5) difficulty or less.</p1> 
+        <p1>
+            <b>Faction: </b> The difficulty of all Diplomacy missions with the faction is Superb (5).</p1>
         <devel_title>Trade Guild</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
@@ -509,7 +509,7 @@
                     <b>Luxuries</b>
                 </Cell>
                 <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</Cell>
-                <Cell2 aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
                     <b>Prerequisites</b>
                 </Cell>
                 <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Trade Relationships</Cell>
@@ -713,7 +713,7 @@
         </development> 
         <p1>Step up the help die on social die rolls when officially representing the Stronghold.</p1> 
         <h1>Infiltration Developments</h1> 
-        <p1>Infiltration developments help the Stronghold with Espionage, Sabotage, and Assassination missions.</p1> 
+        <p1>Improvents for the Stronghold and factions for missions using the Warfare Conflict.</p1> 
         <devel_title>Superb Spies</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
@@ -751,8 +751,10 @@
                 <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></Cell>
             </Table>
         </development> 
-        <p1><b>Stronghold: </b>Ignore two infiltration threats per year of Superb (5) difficulty or less.</p1> 
-        <p1><b>Faction: </b> The difficulty of all Infiltration missions with the faction is Superb (5).</p1>
+        <p1>
+            <b>Stronghold: </b>Ignore two infiltration threats per year of Superb (5) difficulty or less.</p1> 
+        <p1>
+            <b>Faction: </b> The difficulty of all Infiltration missions with the faction is Superb (5).</p1>
         <devel_title>Deep Cover</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
@@ -866,8 +868,10 @@
                 <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></Cell>
             </Table>
         </development> 
-        <p1><b>Stronghold: </b>Ignore one infiltration threat per year of Great (4) difficulty or less.</p1> 
-        <p1><b>Faction: </b> The difficulty of all Infiltration missions with the faction is Great (4).</p1>
+        <p1>
+            <b>Stronghold: </b>Ignore one infiltration threat per year of Great (4) difficulty or less.</p1> 
+        <p1>
+            <b>Faction: </b> The difficulty of all Infiltration missions with the faction is Great (4).</p1>
         <devel_title>Fantastic Spies</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
@@ -905,8 +909,10 @@
                 <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></Cell>
             </Table>
         </development> 
-        <p1><b>Stronghold: </b>Ignore three infiltration threats per year of Fantastic (6) difficulty or less.</p1> 
-        <p1><b>Faction: </b> The difficulty of all Infiltration missions with the faction is Fantastic (6).</p1>
+        <p1>
+            <b>Stronghold: </b>Ignore three infiltration threats per year of Fantastic (6) difficulty or less.</p1> 
+        <p1>
+            <b>Faction: </b> The difficulty of all Infiltration missions with the faction is Fantastic (6).</p1>
         <devel_title>Advanced Thieves Tools</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
@@ -1637,6 +1643,44 @@
             </Table>
         </development> 
         <p1>May recruit cavalry units.</p1> 
+        <devel_title>Keep</devel_title> 
+        <development>
+            <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Build Points</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Food</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Timber</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Ore</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Mana</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Luxuries</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Prerequisites</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
+                    <b>Tags</b>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Regional</Cell>
+            </Table>
+        </development> 
+        <p1>Place a keep on target region. May build one keep on each region. Factions targeting the region in Warfare must attack with at least one catapult or cannon unit.</p1>         
         <devel_title>Barracks</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
@@ -1676,44 +1720,7 @@
         </development> 
         <p1><b>Stronghold: </b>May recruit infantry units for war. May ignore one Warfare threat each year if defending units outnumber attacking units.</p1> 
         <p1><b>Faction: </b>Step up help die on infantry Attack and Armor rolls. The difficulty of Warfare missions with the faction is Great (4).</p1>
-        <devel_title>Keep</devel_title> 
-        <development>
-            <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Build Points</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">8</Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Food</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Timber</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">10</Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Ore</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">14</Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Mana</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Luxuries</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">0</Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Prerequisites</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5"></Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-                    <b>Tags</b>
-                </Cell>
-                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Regional</Cell>
-            </Table>
-        </development> 
-        <p1>Place a keep on target region. May build one keep on each region. Factions targeting the region in Warfare must attack with at least one catapult or cannon unit.</p1> 
+
         <devel_title>Improved Barracks</devel_title> 
         <development>
             <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="8" aid:tcols="2">

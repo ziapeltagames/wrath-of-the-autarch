@@ -59,7 +59,7 @@ o Core Actions
 o Designer's Notes
 
 --------------------------------------------------------------------------
-- The First Spring
+- Getting Started
 
 o The Campaign Arc
   x Choosing Strategies
@@ -73,6 +73,7 @@ o Finishing Touches
   x Choose Alliances
   x Finalize the Stronghold
   x Choose First Mission
+o Designer's Notes
 
 **************************************************************************
 **************************************************************************
@@ -81,18 +82,98 @@ o Finishing Touches
 --------------------------------------------------------------------------
 - Missions
 
-o Mission structure, challenge phase followed by a conflict
-o Spotlight player, when to choose a hero, etc
-o Mission types, benefits, penalties, and costs
-o Threats, general benefits and penalties, types of threats
+o Structure
+  x Prepare Heroes
+  x Challenge Phase
+  x Conflict
+    i Aspect Burning
+  x Remove Stress
+  x Modify an Aspect
+  x Advance Skills
+  x Mission Results
+o Choosing a Mission
+o Exploration
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Trade
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Espionage
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Sabotage
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Assassination
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Warfare
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Quest
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Regional Threats
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Disposition Threats
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
+o Faction Threats
+  x Resource Costs
+  x Challenges
+  x Conflict
+  x Success
+  x Failure
 
 --------------------------------------------------------------------------
 - Challenge Phase
 
-o How the challenge phase works
-o Actions in the challenge phase
-o Overcome
-o Create an Advantage
+o Challenges
+  x Exchange
+  x Scope
+o Actions
+  x Overcome
+    i Narrative Control
+  x Create an Advantage
+o Fate Points
+  i Autarch Fate Points
+o Ending the Challenge Phase
+o Example: Green Vale
+  x Exchange One
+  x Challenge - Impress Mina
+  x Challenge - Wolves Attack!
+  x Exchange Two
+  x Challenge - On the Hunt
+  x Exchange Three
+  x Conclusion
 
 --------------------------------------------------------------------------
 - Seasons
@@ -263,12 +344,15 @@ preferred over defensive capability.
 --------------------------------------------------------------------------
 - The Stronghold
 
+o Capitals
 o What are the resources? 
 o Resources aren't literal goods, they are investments
+o Gaining aspects? Rule of Two?
 
 --------------------------------------------------------------------------
 - Factions
 
+o What happens when a faction collapses?
 o Differences between the Autarch and other factions
 o Autarch threat pools
 o How to keep track of the different sorts of faction details
@@ -300,14 +384,50 @@ whether the development was offensive or defensive?
 --------------------------------------------------------------------------
 - Diplomacy
 
+o Setup
+  x Exchange
+o Actions
+  x Overcome
+  x Create an Advantage
+  x Attack
+  x Defend
+o Resolution
+
 --------------------------------------------------------------------------
 - Infiltration
+
+o Setup
+  x Exchange
+o Actions
+  x Overcome
+  x Create an Advantage
+  x Attack
+  x Defend
+o Resolution
 
 --------------------------------------------------------------------------
 - Skirmish
 
+o Setup
+  x Exchange
+o Actions
+  x Overcome
+  x Create an Advantage
+  x Attack
+  x Defend
+o Resolution
+
 --------------------------------------------------------------------------
 - Warfare
+
+o Setup
+  x Exchange
+o Actions
+  x Overcome
+  x Create an Advantage
+  x Attack
+  x Defend
+o Resolution
 
 **************************************************************************
 **************************************************************************
