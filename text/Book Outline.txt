@@ -80,60 +80,94 @@ o Designer's Notes
 * Core Concepts
 
 --------------------------------------------------------------------------
+- Seasons
+
+o Structure
+  x Choose Spotlight Player
+  x Ignored Threats
+o Stronghold Upkeep
+  x Gather Resources
+    i Luxuries
+    i Trade Agreements
+    i Feed the Populace
+    i Invest Resources
+    i Build Points
+  x Spend Invested Resources
+    i Mission Costs
+    i Build Developments
+o Mission
+  x Choose Heroes
+  x Training and Recovery
+    i Advance Skills
+  x Relationship Aspects
+  x Starting Fate Points
+  x Play Mission
+  x Remove Stress
+  x Modify an Aspect
+  x Mission Results
+o Future Threats
+  x Regional Threats
+  x Disposition Threats
+  x Faction Threats
+o Next Mission
+o Designer's Notes
+  
+NOTES: Is this a good place to include an overview diagram?
+
+--------------------------------------------------------------------------
 - Missions
 
 o Structure
-  x Prepare Heroes
   x Challenge Phase
   x Conflict
     i Aspect Burning
-  x Remove Stress
-  x Modify an Aspect
-  x Advance Skills
-  x Mission Results
 o Choosing a Mission
 o Exploration
-  x Resource Costs
+  x Requirements
   x Challenges
   x Conflict
   x Success
   x Failure
 o Trade
-  x Resource Costs
+  x Requirements
   x Challenges
   x Conflict
   x Success
   x Failure
 o Espionage
-  x Resource Costs
+  x Requirements
   x Challenges
   x Conflict
   x Success
   x Failure
 o Sabotage
-  x Resource Costs
+  x Requirements
   x Challenges
   x Conflict
   x Success
   x Failure
 o Assassination
-  x Resource Costs
+  x Requirements
   x Challenges
   x Conflict
   x Success
   x Failure
 o Warfare
-  x Resource Costs
+  x Requirements
   x Challenges
   x Conflict
   x Success
   x Failure
 o Quest
-  x Resource Costs
+  x Requirements
   x Challenges
   x Conflict
   x Success
   x Failure
+o Threats
+  x Regional Threats
+  x Disposition Threats
+  x Faction Threats
 o Regional Threats
   x Resource Costs
   x Challenges
@@ -175,16 +209,6 @@ o Example: Green Vale
   x Exchange Three
   x Conclusion
 
---------------------------------------------------------------------------
-- Seasons
-
-o Overview diagram?
-o Gathering resources
-o Building developments
-o Mission
-o Threat pools?
-o Roll for Threats
-
 **************************************************************************
 **************************************************************************
 * Heroes and Leaders
@@ -195,6 +219,7 @@ o Roll for Threats
 o Leaders, heroes, creatures, units
 o Skills in general
 o Elements that make up the characters
+o Consequences, aspects, relationships aspects, stunts, skills
 
 --------------------------------------------------------------------------
 - Skills and Stunts
@@ -457,8 +482,11 @@ o Resolution
 --------------------------------------------------------------------------
 - Threats
 
+Autarch Threat Pools
 This chapter has missions of varying difficulties and mini-games,
 for regional and disposition threats.
+It also has the list of Faction threats, as well
+as costs for the Autarch to use them.
 Why do threats come after the factions?
 What does this chapter look like?
 
