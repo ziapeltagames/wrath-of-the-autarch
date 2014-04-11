@@ -124,12 +124,14 @@ o Structure
 o Choosing a Mission
 o Exploration
   x Requirements
+  x Difficulty
   x Challenges
   x Conflict
   x Success
   x Failure
-o Trade
+o Trade***
   x Requirements
+  x Difficulty
   x Challenges
   x Conflict
   x Success
@@ -168,19 +170,19 @@ o Threats
   x Regional Threats
   x Disposition Threats
   x Faction Threats
-o Regional Threats
+o Regional Threat
   x Resource Costs
   x Challenges
   x Conflict
   x Success
   x Failure
-o Disposition Threats
+o Disposition Threat
   x Resource Costs
   x Challenges
   x Conflict
   x Success
   x Failure
-o Faction Threats
+o Faction Threat
   x Resource Costs
   x Challenges
   x Conflict
@@ -197,6 +199,7 @@ o Actions
   x Overcome
     i Narrative Control
   x Create an Advantage
+  x Skill Advances
 o Fate Points
   i Autarch Fate Points
 o Ending the Challenge Phase
@@ -409,7 +412,10 @@ whether the development was offensive or defensive?
 --------------------------------------------------------------------------
 - Diplomacy
 
+o Challenges
 o Setup
+  x Fill in Diplomacy Table
+  x Trade Charts
   x Exchange
 o Actions
   x Overcome
@@ -421,7 +427,10 @@ o Resolution
 --------------------------------------------------------------------------
 - Infiltration
 
+o Challenges
 o Setup
+  x Building the Map
+  x Aspect Burning
   x Exchange
 o Actions
   x Overcome
@@ -433,7 +442,10 @@ o Resolution
 --------------------------------------------------------------------------
 - Skirmish
 
+o Challenges
 o Setup
+  x Building the Map
+  x Aspect Burning
   x Exchange
 o Actions
   x Overcome
@@ -445,7 +457,12 @@ o Resolution
 --------------------------------------------------------------------------
 - Warfare
 
+o Units
+o Challenges
 o Setup
+  x Order of Battle
+  x Building the Map
+  x Aspect Burning
   x Exchange
 o Actions
   x Overcome
