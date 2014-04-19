@@ -26,7 +26,7 @@ NOTES: Talk about competition in the designer's notes? Should mention
 the fact that there aren't fantasy races?
 
 --------------------------------------------------------------------------
-- Fate
+- Wild Fate
 
 o Actions 
   x Stepping Dice Up and Down
@@ -208,12 +208,12 @@ o Overcome
     i Swap out a Challenge
     i New Challenges
   x Failing Forward
-o Create an Advantage***
+o Create an Advantage
   x Permanent Aspects
 o Skill Advances
 o Ending the Challenge Phase
   x Autarch Fate Points
-o Example: Green Vale
+o Challenge Phase Example: Green Vale
   x Exchange One
   x Challenge - Impress Mina
   x Challenge - Wolves Attack!
@@ -222,8 +222,6 @@ o Example: Green Vale
   x Exchange Three
   x Conclusion
 
-- Round limit? Is Exchange the best terminology?
-- Enduring an aspect? For Overcome rolls?
 NOTES: Should challenges have consequences? It can sometimes lead to creative fatigue if they do, but if they don't they're a little harder as well as possibly not playing nicely with stunts that use consequences.
 
 **************************************************************************
@@ -233,10 +231,30 @@ NOTES: Should challenges have consequences? It can sometimes lead to creative fa
 --------------------------------------------------------------------------
 - Characters
 
-o Leaders, heroes, creatures, units
-o Skills in general
-o Elements that make up the characters
-o Consequences, aspects, relationships aspects, stunts, skills
+o Heroes
+  x Aspects
+  x Relationships
+  x Skills
+  x Stunts
+  x Stress and Consequences
+  x Taken Out
+o Named Characters
+  x Leaders
+  x Boss Monsters
+  X Consequences
+  x Taken Out
+o Nameless Characters
+  x Lieutenants
+  x Minions
+o Units
+  x Skills
+  x Stress
+  x Consequences
+o Henchmen and Familiars
+  x Actions
+  x Aspect Burning
+
+NOTES: Henchman, +1 to roll if they have a supporting skill (help rules), take stress instead of a hero, can't be targeted
 
 --------------------------------------------------------------------------
 - Skills and Stunts
@@ -390,6 +408,12 @@ o Capitals
 o What are the resources? 
 o Resources aren't literal goods, they are investments
 o Gaining aspects? Rule of Two?
+o Capital
+o What are the resources? 
+o Resources aren't literal goods, they are investments
+o Gaining aspects? Rule of Two?
+o Stability, Population, Developments, Aspects, Regions
+o Ally Dispositions
 
 --------------------------------------------------------------------------
 - Factions
@@ -398,6 +422,12 @@ o What happens when a faction collapses?
 o Differences between the Autarch and other factions
 o Autarch threat pools
 o How to keep track of the different sorts of faction details
+o What happens when a faction collapses?
+o Differences between the Autarch and other factions
+o Autarch threat pools
+o How to keep track of the different sorts of faction details
+o How Leaders work, for warfare, and other missions
+o Difficulty charts for the factions, what they're good at
 
 --------------------------------------------------------------------------
 - Developments
@@ -427,63 +457,81 @@ whether the development was offensive or defensive?
 - Diplomacy
 
 o Challenges
+o Opposition
 o Setup
-  x Fill in Diplomacy Table
-  x Trade Charts
+  x Trade Value
+  x Total Support Track
+  x Leader Support Track
+  x Aspect Burning
   x Exchange
 o Actions
-  x Overcome
   x Create an Advantage
+    i Raise Issue
+  x Overcome
+    i Gain Support
+    i Address Issue
   x Attack
   x Defend
+  x Change Offer
 o Resolution
+  x Trade Missions
+  x Other Missions
+
+NOTES: How will aspect burning be handled in Infiltration? What about
+using Luxuries as aspects? 
+
+Finally, how will taking out leaders be handled? Are they gone for good?
 
 --------------------------------------------------------------------------
 - Infiltration
 
-o Guards
 o Challenges
+o Opposition
 o Setup
-  x Building the Map
+  x Conflict Specific
   x Aspect Burning
   x Exchange
-o Actions
-  x Overcome
-  x Create an Advantage
-  x Attack
-  x Defend
+o Overcome
+  x Resolve Challenge
+  x Disable Alarms
+  x Erase Suspicion
+o Create an Advantage
+o Attack 
+o Defend
 o Resolution
+  x Caught
 
 --------------------------------------------------------------------------
 - Skirmish
 
 o Challenges
+o Opposition
 o Setup
-  x Building the Map
+  x Conflict Specifc
   x Aspect Burning
   x Exchange
-o Actions
-  x Overcome
-  x Create an Advantage
-  x Attack
-  x Defend
+o Overcome
+o Create an Advantage
+o Attack 
+o Defend
+o Other Actions
 o Resolution
 
 --------------------------------------------------------------------------
 - Warfare
 
-o Units
 o Challenges
+o Units
+o Opposition
 o Setup
-  x Order of Battle
-  x Building the Map
+  x Conflict Specifc
   x Aspect Burning
   x Exchange
-o Actions
-  x Overcome
-  x Create an Advantage
-  x Attack
-  x Defend
+o Overcome
+o Create an Advantage
+o Attack 
+o Defend
+o Other Actions
 o Resolution
 
 **************************************************************************
