@@ -11,9 +11,9 @@ package wota.strategic.model;
  * @author plewis
  */
 public enum DevelopmentType {
-    /* Arcane - 9 */
-    Arcane_Academy, Expert_Casting, Expert_Channeling,
-    Improved_Casting, Improved_Channeling, Advanced_Casting, 
+    /* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 */
+    Arcane_Academy, Legendary_Casting, Legendary_Channeling,
+    Great_Casting, Great_Channeling, Advanced_Casting, 
     Advanced_Channeling, Mages_Guild, Mana_Forge, 
     
     /* Diplomacy - 9 */

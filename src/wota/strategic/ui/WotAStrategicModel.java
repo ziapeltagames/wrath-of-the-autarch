@@ -911,7 +911,7 @@ public class WotAStrategicModel extends Application {
 
         preq = new ArrayList<>();
         Development improvedCasting
-                = new Development(DevelopmentType.Improved_Casting,
+                = new Development(DevelopmentType.Great_Casting,
                         TechTree.Arcane,
                         false, true, 3, 0, 2, 0, 4, 0, preq,
                         "Spellcaster abilities increased by one",
@@ -921,7 +921,7 @@ public class WotAStrategicModel extends Application {
 
         preq = new ArrayList<>();
         Development improvedChanneling
-                = new Development(DevelopmentType.Improved_Channeling,
+                = new Development(DevelopmentType.Great_Channeling,
                         TechTree.Arcane,
                         false, true, 4, 0, 0, 2, 4, 0, preq,
                         "Roll d8 - d6 for backlash checks",
@@ -966,9 +966,9 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(advancedCasting);
         Development expertCasting
-                = new Development(DevelopmentType.Expert_Casting,
+                = new Development(DevelopmentType.Legendary_Casting,
                         TechTree.Arcane,
-                        false, true, 11, 0, 6, 2, 3, 0, preq,
+                        false, true, 11, 0, 6, 2, 6, 0, preq,
                         "Spellcaster abilities increased by three",
                         "Step up the plus die on spell effect rolls.",
                         DevelopmentFunction.Offense);
@@ -977,7 +977,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(advancedChanneling);
         Development expertChanneling
-                = new Development(DevelopmentType.Expert_Channeling,
+                = new Development(DevelopmentType.Legendary_Channeling,
                         TechTree.Arcane,
                         false, true, 6, 0, 0, 3, 3, 0, preq,
                         "Roll d12 - d6 for backlash checks",
@@ -1186,7 +1186,7 @@ public class WotAStrategicModel extends Application {
         Development festival
                 = new Development(DevelopmentType.Festival,
                         TechTree.Diplomacy,
-                        false, false, 0, 0, 0, 0, 0, 0, preq,
+                        false, false, 2, 3, 4, 2, 0, 2, preq,
                         "Add one stability",
                         " Add one stability to the Stronghold. The cost listed for this development is per region under the Stronghold's control.",
                         DevelopmentFunction.Miscellaneous);
@@ -1692,8 +1692,8 @@ public class WotAStrategicModel extends Application {
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Barracks));
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Gunpowder));
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Siegecraft));
-        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Channeling));
-        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Expert_Channeling));
+        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Great_Channeling));
+        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Legendary_Channeling));
 
         autarch.addUnits(UnitType.Cavalry, 4);
         autarch.addUnits(UnitType.Infantry, 12);
@@ -1783,12 +1783,12 @@ public class WotAStrategicModel extends Application {
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Fletcher));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Arcane_Academy));
-        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Channeling));
-        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Casting));
+        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Great_Channeling));
+        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Great_Casting));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Advanced_Casting));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Advanced_Channeling));
-        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Expert_Channeling));
-        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Expert_Casting));
+        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Legendary_Channeling));
+        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Legendary_Casting));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Mages_Guild));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Center_of_Culture));
 

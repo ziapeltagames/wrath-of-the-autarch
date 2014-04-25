@@ -17,7 +17,9 @@
 
 <!ELEMENT Story ANY>
 
-<!-- For table formatting. -->
+
+
+<!-- Table formatting. -->
 
 <!ELEMENT Table ANY>
 
@@ -28,6 +30,13 @@
 <!ATTLIST Table aid:table CDATA #IMPLIED>
 
 <!ATTLIST Table xmlns:aid CDATA #IMPLIED>
+
+<!ELEMENT tableblock ANY>
+<!ELEMENT leadrow (#PCDATA)>
+
+<!ELEMENT row (#PCDATA)>
+
+
 
 
 
@@ -63,6 +72,8 @@
 
 <!ELEMENT secref ANY>
 
+
+<!-- Headers and paragraph tags -->
 
 
 <!ELEMENT h1 ANY>
@@ -150,27 +161,33 @@
 
 
 
+<!-- Tags for developments. -->
 <!ELEMENT development ANY>
 
 <!ELEMENT develtitle ANY>
 
+<!ELEMENT develcost ANY>
 <!ELEMENT develentry ANY>
 
 
+
+<!-- Tags for regions -->
+<!ELEMENT regionblock ANY>
+
+<!-- Tags for character blocks -->
 <!ELEMENT statblock ANY>
+
 
 <!ELEMENT sbname ANY>
 
 <!ELEMENT sbentry ANY>
 
+<!-- Tags for missions -->
+
 
 <!ELEMENT mission ANY>
+
 
 <!ELEMENT missiontitle ANY>
 
 <!ELEMENT missionentry ANY>
-
-
-<!ELEMENT leadrow (#PCDATA)>
-
-<!ELEMENT row (#PCDATA)>

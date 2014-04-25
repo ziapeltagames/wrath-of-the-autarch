@@ -252,11 +252,11 @@ public class Mission {
              developments can change that.
              */
             if (hero.isSpellcaster()) {
-                if (stronghold.getDevelopment(DevelopmentType.Expert_Casting) != null) {
+                if (stronghold.getDevelopment(DevelopmentType.Legendary_Casting) != null) {
                     tskill = tskill + 2;
                 } else if (stronghold.getDevelopment(DevelopmentType.Advanced_Casting) != null) {
                     tskill = tskill + 1;
-                } else if (stronghold.getDevelopment(DevelopmentType.Improved_Casting) != null) {
+                } else if (stronghold.getDevelopment(DevelopmentType.Great_Casting) != null) {
                     tskill = tskill + 0;
                 } else {
                     tskill = tskill - 1;
@@ -546,11 +546,11 @@ public class Mission {
      */
     private int determineBacklash(Hero caster, int manaSpent) {
         int firstDice = 6;
-        if (stronghold.getDevelopment(DevelopmentType.Expert_Channeling) != null) {
+        if (stronghold.getDevelopment(DevelopmentType.Legendary_Channeling) != null) {
             firstDice = 12;
         } else if (stronghold.getDevelopment(DevelopmentType.Advanced_Channeling) != null) {
             firstDice = 10;
-        } else if (stronghold.getDevelopment(DevelopmentType.Improved_Channeling) != null) {
+        } else if (stronghold.getDevelopment(DevelopmentType.Great_Channeling) != null) {
             firstDice = 8;
         }
         int backlash = manaSpent
