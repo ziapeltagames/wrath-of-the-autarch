@@ -542,22 +542,184 @@ o Resolution
 - Regions
 
 --------------------------------------------------------------------------
-- Autarch
+- The Empire
+
+o Aspects
+o Developments
+  x Arcane
+  x Diplomacy
+  x Infiltration
+  x Skirmish
+  x Warfare
+o Regions
+o Leaders
+o Diplomacy
+  x Challenges
+  x Opposition
+  x Setup
+o Infiltration
+  x Challenges
+  x Opposition
+  x Setup
+o Warfare
+  x Challenges
+  x Units
+  x Opposition
+  x Setup
+o Skirmish
+  x Challenges
+  x Opposition
+  x Setup
 
 --------------------------------------------------------------------------
 - Burgan Vale
 
+o Aspects
+o Developments
+  x Arcane
+  x Diplomacy
+  x Infiltration
+  x Skirmish
+  x Warfare
+o Regions
+o Leaders
+o Diplomacy
+  x Challenges
+  x Opposition
+  x Setup
+o Infiltration
+  x Challenges
+  x Opposition
+  x Setup
+o Warfare
+  x Challenges
+  x Units
+  x Opposition
+  x Setup
+o Skirmish
+  x Challenges
+  x Opposition
+  x Setup
+
 --------------------------------------------------------------------------
 - Crescent Hold
+
+o Aspects
+o Developments
+  x Arcane
+  x Diplomacy
+  x Infiltration
+  x Skirmish
+  x Warfare
+o Regions
+o Leaders
+o Diplomacy
+  x Challenges
+  x Opposition
+  x Setup
+o Infiltration
+  x Challenges
+  x Opposition
+  x Setup
+o Warfare
+  x Challenges
+  x Units
+  x Opposition
+  x Setup
+o Skirmish
+  x Challenges
+  x Opposition
+  x Setup
 
 --------------------------------------------------------------------------
 - Gravewood
 
+o Aspects
+o Developments
+  x Arcane
+  x Diplomacy
+  x Infiltration
+  x Skirmish
+  x Warfare
+o Regions
+o Leaders
+o Diplomacy
+  x Challenges
+  x Opposition
+  x Setup
+o Infiltration
+  x Challenges
+  x Opposition
+  x Setup
+o Warfare
+  x Challenges
+  x Units
+  x Opposition
+  x Setup
+o Skirmish
+  x Challenges
+  x Opposition
+  x Setup
+
 --------------------------------------------------------------------------
 - Lily Manor
 
+o Aspects
+o Developments
+  x Arcane
+  x Diplomacy
+  x Infiltration
+  x Skirmish
+  x Warfare
+o Regions
+o Leaders
+o Diplomacy
+  x Challenges
+  x Opposition
+  x Setup
+o Infiltration
+  x Challenges
+  x Opposition
+  x Setup
+o Warfare
+  x Challenges
+  x Units
+  x Opposition
+  x Setup
+o Skirmish
+  x Challenges
+  x Opposition
+  x Setup
+
 --------------------------------------------------------------------------
 - Sunriders
+
+o Aspects
+o Developments
+  x Arcane
+  x Diplomacy
+  x Infiltration
+  x Skirmish
+  x Warfare
+o Regions
+o Leaders
+o Diplomacy
+  x Challenges
+  x Opposition
+  x Setup
+o Infiltration
+  x Challenges
+  x Opposition
+  x Setup
+o Warfare
+  x Challenges
+  x Units
+  x Opposition
+  x Setup
+o Skirmish
+  x Challenges
+  x Opposition
+  x Setup
 
 --------------------------------------------------------------------------
 - Threats
