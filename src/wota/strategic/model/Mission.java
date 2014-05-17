@@ -254,7 +254,7 @@ public class Mission {
             if (hero.isSpellcaster()) {
                 if (stronghold.getDevelopment(DevelopmentType.Legendary_Casting) != null) {
                     tskill = tskill + 2;
-                } else if (stronghold.getDevelopment(DevelopmentType.Advanced_Casting) != null) {
+                } else if (stronghold.getDevelopment(DevelopmentType.Superb_Casting) != null) {
                     tskill = tskill + 1;
                 } else if (stronghold.getDevelopment(DevelopmentType.Great_Casting) != null) {
                     tskill = tskill + 0;
@@ -548,7 +548,7 @@ public class Mission {
         int firstDice = 6;
         if (stronghold.getDevelopment(DevelopmentType.Legendary_Channeling) != null) {
             firstDice = 12;
-        } else if (stronghold.getDevelopment(DevelopmentType.Advanced_Channeling) != null) {
+        } else if (stronghold.getDevelopment(DevelopmentType.Superb_Channeling) != null) {
             firstDice = 10;
         } else if (stronghold.getDevelopment(DevelopmentType.Great_Channeling) != null) {
             firstDice = 8;

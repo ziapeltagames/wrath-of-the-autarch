@@ -11,10 +11,11 @@ package wota.strategic.model;
  * @author plewis
  */
 public enum DevelopmentType {
-    /* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 *//* Arcane - 9 */
-    Arcane_Academy, Legendary_Casting, Legendary_Channeling,
-    Great_Casting, Great_Channeling, Advanced_Casting, 
-    Advanced_Channeling, Mages_Guild, Mana_Forge, 
+
+    /* Arcane - 9 */
+    Arcane_Military_Academy, Legendary_Casting, Legendary_Channeling,
+    Great_Casting, Great_Channeling, Superb_Casting, 
+    Superb_Channeling, Mages_Guild, Mana_Forge, 
     
     /* Diplomacy - 9 */
     Great_Diplomats, Superb_Diplomats, Fantastic_Diplomats,
@@ -22,17 +23,17 @@ public enum DevelopmentType {
     Arts_and_Entertainment, Center_of_Culture, Festival,
     
     /* Infiltration - 9 */
-    Great_Spies, Superb_Spies, Fantastic_Spies, Improved_Thieves_Tools,
-    Advanced_Thieves_Tools, Expert_Thieves_Tools, Basic_Cover,
-    Deep_Cover, Floor_Plans,
+    Great_Spies, Superb_Spies, Fantastic_Spies, Great_Thieves_Tools,
+    Superb_Thieves_Tools, Legendary_Thieves_Tools, Basic_Cover,
+    Deep_Cover, Reliable_Intelligence,
     
     /* Skirmish - 9 */
     Great_Guard_Force, Superb_Guard_Force, Fantastic_Guard_Force,
-    Improved_Swordsmith, Improved_Armorer, Advanced_Swordsmith,
-    Advanced_Armorer, Improved_Bowyer, Advanced_Bowyer,
+    Great_Swordsmith, Great_Armorer, Superb_Swordsmith,
+    Superb_Armorer, Great_Bowyer, Superb_Bowyer,
     
     /* Warfare - 9 */
-    Barracks, Improved_Barracks, Advanced_Barracks, Stables,
+    Barracks, Great_Barracks, Superb_Barracks, Stables,
     Fletcher, Siegecraft, Gunpowder, Keep, Castle,
     
     /* For units. */

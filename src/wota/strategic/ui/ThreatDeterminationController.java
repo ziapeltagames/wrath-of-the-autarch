@@ -209,10 +209,10 @@ public class ThreatDeterminationController implements Initializable {
                 case Barracks:
                     nextDev.setUsed(true);
                     return true;
-                case Improved_Barracks:
+                case Great_Barracks:
                     nextDev.setUsed(true);
                     return true;
-                case Advanced_Barracks:
+                case Superb_Barracks:
                     nextDev.setUsed(true);
                     return true;
             }
@@ -331,10 +331,10 @@ public class ThreatDeterminationController implements Initializable {
                 case Barracks:
                     warfareUsesInt++;
                     break;
-                case Advanced_Barracks:
+                case Superb_Barracks:
                     warfareUsesInt++;
                     break;
-                case Improved_Barracks:
+                case Great_Barracks:
                     warfareUsesInt++;
                     break;
             }
@@ -413,10 +413,10 @@ public class ThreatDeterminationController implements Initializable {
                 case Barracks:
                     warfareLevel++;
                     break;
-                case Advanced_Barracks:
+                case Superb_Barracks:
                     warfareLevel++;
                     break;
-                case Improved_Barracks:
+                case Great_Barracks:
                     warfareLevel++;
                     break;
             }

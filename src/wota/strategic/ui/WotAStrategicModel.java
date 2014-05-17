@@ -932,7 +932,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(improvedCasting);
         Development advancedCasting
-                = new Development(DevelopmentType.Advanced_Casting,
+                = new Development(DevelopmentType.Superb_Casting,
                         TechTree.Arcane,
                         false, true, 4, 0, 3, 0, 5, 0, preq,
                         "Spellcaster abilities increased by two",
@@ -943,7 +943,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(improvedChanneling);
         Development advancedChanneling
-                = new Development(DevelopmentType.Advanced_Channeling,
+                = new Development(DevelopmentType.Superb_Channeling,
                         TechTree.Arcane,
                         false, true, 5, 0, 0, 3, 5, 0, preq,
                         "Roll d10 - d6 for backlash checks",
@@ -955,7 +955,7 @@ public class WotAStrategicModel extends Application {
         preq.add(advancedCasting);
         preq.add(advancedChanneling);
         Development battleMages
-                = new Development(DevelopmentType.Arcane_Academy,
+                = new Development(DevelopmentType.Arcane_Military_Academy,
                         TechTree.Arcane,
                         false, false, 6, 0, 0, 0, 5, 0, preq,
                         "May recruit battle mages for war",
@@ -1032,7 +1032,7 @@ public class WotAStrategicModel extends Application {
 
         preq = new ArrayList<>();
         Development impThievesTools
-                = new Development(DevelopmentType.Improved_Thieves_Tools,
+                = new Development(DevelopmentType.Great_Thieves_Tools,
                         TechTree.Infiltration,
                         false, true, 6, 0, 3, 12, 0, 0, preq,
                         "Extra re-roll on infiltration missions",
@@ -1043,7 +1043,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(impThievesTools);
         Development advThievesTools
-                = new Development(DevelopmentType.Advanced_Thieves_Tools,
+                = new Development(DevelopmentType.Superb_Thieves_Tools,
                         TechTree.Infiltration,
                         false, true, 12, 0, 4, 18, 0, 4, preq,
                         "Extra re-roll on infiltration missions",
@@ -1054,7 +1054,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(advThievesTools);
         Development expThievesTools
-                = new Development(DevelopmentType.Expert_Thieves_Tools,
+                = new Development(DevelopmentType.Legendary_Thieves_Tools,
                         TechTree.Infiltration,
                         false, true, 14, 0, 8, 24, 0, 8, preq,
                         "Extra re-roll on infiltration missions",
@@ -1087,7 +1087,7 @@ public class WotAStrategicModel extends Application {
         preq.add(influentialContacts);
         preq.add(advThievesTools);
         Development floorPlans
-                = new Development(DevelopmentType.Floor_Plans,
+                = new Development(DevelopmentType.Reliable_Intelligence,
                         TechTree.Infiltration,
                         false, true, 22, 0, 6, 6, 0, 8, preq,
                         "Extra re-roll on infiltration missions",
@@ -1227,7 +1227,7 @@ public class WotAStrategicModel extends Application {
 
         preq = new ArrayList<>();
         Development impSwordSmith
-                = new Development(DevelopmentType.Improved_Swordsmith,
+                = new Development(DevelopmentType.Great_Swordsmith,
                         TechTree.Skirmish,
                         false, true, 8, 0, 10, 12, 0, 0, preq,
                         "Extra re-roll on skirmish missions",
@@ -1238,7 +1238,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(impSwordSmith);
         Development improvedArmorer
-                = new Development(DevelopmentType.Improved_Armorer,
+                = new Development(DevelopmentType.Great_Armorer,
                         TechTree.Skirmish,
                         false, true, 10, 0, 12, 16, 0, 0, preq,
                         "Extra re-roll on skirmish missions",
@@ -1249,7 +1249,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(improvedArmorer);
         Development advSwordSmith
-                = new Development(DevelopmentType.Advanced_Swordsmith,
+                = new Development(DevelopmentType.Superb_Swordsmith,
                         TechTree.Skirmish,
                         false, true, 12, 0, 14, 18, 0, 2, preq,
                         "Extra re-roll on skirmish missions",
@@ -1260,7 +1260,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(advSwordSmith);
         Development advArmorer
-                = new Development(DevelopmentType.Advanced_Armorer,
+                = new Development(DevelopmentType.Superb_Armorer,
                         TechTree.Skirmish,
                         false, true, 14, 0, 16, 20, 0, 4, preq,
                         "Extra re-roll on skirmish missions",
@@ -1271,7 +1271,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(impSwordSmith);
         Development improvedBowyer
-                = new Development(DevelopmentType.Improved_Bowyer,
+                = new Development(DevelopmentType.Great_Bowyer,
                         TechTree.Skirmish,
                         false, true, 10, 0, 24, 6, 0, 0, preq,
                         "Extra re-roll on skirmish missions",
@@ -1282,7 +1282,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(improvedBowyer);
         Development advBowyer
-                = new Development(DevelopmentType.Advanced_Bowyer,
+                = new Development(DevelopmentType.Superb_Bowyer,
                         TechTree.Skirmish,
                         false, true, 10, 0, 30, 8, 0, 2, preq,
                         "Extra re-roll on skirmish missions",
@@ -1304,7 +1304,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(barracks);
         Development impBarracks
-                = new Development(DevelopmentType.Improved_Barracks,
+                = new Development(DevelopmentType.Great_Barracks,
                         TechTree.Warfare,
                         false, false, 8, 8, 6, 10, 0, 0, preq,
                         "Infantry roll d8 - d6 for offense and defense",
@@ -1315,7 +1315,7 @@ public class WotAStrategicModel extends Application {
         preq = new ArrayList<>();
         preq.add(impBarracks);
         Development advancedBarracks
-                = new Development(DevelopmentType.Advanced_Barracks,
+                = new Development(DevelopmentType.Superb_Barracks,
                         TechTree.Warfare,
                         false, false, 10, 10, 6, 12, 0, 0, preq,
                         "Infantry roll d10 - d6 for offense and defense",
@@ -1601,7 +1601,7 @@ public class WotAStrategicModel extends Application {
                         null);
         units.put(UnitType.Militia, milita);
         preq = new ArrayList<>();
-        preq.add(developments.get(DevelopmentType.Arcane_Academy));
+        preq.add(developments.get(DevelopmentType.Arcane_Military_Academy));
         UnitCost battleMages
                 = new UnitCost(UnitType.Battle_Mages, 0, 0, 0, 0, 0, 5,
                         preq);
@@ -1688,8 +1688,8 @@ public class WotAStrategicModel extends Application {
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Fletcher));
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Stables));
-        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Advanced_Barracks));
-        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Barracks));
+        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Superb_Barracks));
+        autarch.getDevelopments().add(createDevelopment(DevelopmentType.Great_Barracks));
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Gunpowder));
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Siegecraft));
         autarch.getDevelopments().add(createDevelopment(DevelopmentType.Great_Channeling));
@@ -1782,11 +1782,11 @@ public class WotAStrategicModel extends Application {
 
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Fletcher));
-        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Arcane_Academy));
+        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Arcane_Military_Academy));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Great_Channeling));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Great_Casting));
-        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Advanced_Casting));
-        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Advanced_Channeling));
+        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Superb_Casting));
+        burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Superb_Channeling));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Legendary_Channeling));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Legendary_Casting));
         burganVale.getDevelopments().add(createDevelopment(DevelopmentType.Mages_Guild));
@@ -1851,7 +1851,7 @@ public class WotAStrategicModel extends Application {
 
         crescentHold.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
         crescentHold.getDevelopments().add(createDevelopment(DevelopmentType.Fletcher));
-        crescentHold.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Barracks));
+        crescentHold.getDevelopments().add(createDevelopment(DevelopmentType.Great_Barracks));
         crescentHold.getDevelopments().add(createDevelopment(DevelopmentType.Gunpowder));
         crescentHold.getDevelopments().add(createDevelopment(DevelopmentType.Siegecraft));
 
@@ -1917,9 +1917,9 @@ public class WotAStrategicModel extends Application {
                 4, 6, 0, 0, 14, 8, 4);
 
         gravewood.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
-        gravewood.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Barracks));
-        gravewood.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Thieves_Tools));
-        gravewood.getDevelopments().add(createDevelopment(DevelopmentType.Expert_Thieves_Tools));
+        gravewood.getDevelopments().add(createDevelopment(DevelopmentType.Great_Barracks));
+        gravewood.getDevelopments().add(createDevelopment(DevelopmentType.Great_Thieves_Tools));
+        gravewood.getDevelopments().add(createDevelopment(DevelopmentType.Legendary_Thieves_Tools));
 
         gravewood.addUnits(UnitType.Archer, 6);
         gravewood.addAlliedUnits(UnitType.Archer, 2);
@@ -1975,8 +1975,9 @@ public class WotAStrategicModel extends Application {
         sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
         sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Fletcher));
         sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Stables));
-        sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Barracks));
-        sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Advanced_Barracks));
+        sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Great_Barracks));
+        sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Superb_Barracks));
+        sunriders.getDevelopments().add(createDevelopment(DevelopmentType.Great_Spies));
 
         sunriders.addUnits(UnitType.Horse_Archers, 8);
         sunriders.addAlliedUnits(UnitType.Horse_Archers, 3);
@@ -2038,7 +2039,7 @@ public class WotAStrategicModel extends Application {
 
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Barracks));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Fletcher));
-        lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Improved_Barracks));
+        lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Great_Barracks));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Fantastic_Diplomats));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Center_of_Culture));
         lilyManor.getDevelopments().add(createDevelopment(DevelopmentType.Center_of_Culture));

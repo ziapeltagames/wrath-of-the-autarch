@@ -214,12 +214,12 @@ public class Faction {
 
         OrderOfBattle infantry = getUnit(UnitType.Infantry);
         if (infantry != null) {
-            if (getDevelopment(DevelopmentType.Advanced_Barracks) != null) {
+            if (getDevelopment(DevelopmentType.Superb_Barracks) != null) {
                 infantry.setQuality(UnitQuality.Elite);
                 offense = 3;
                 defense = 3;
                 morale = 3;
-            } else if (getDevelopment(DevelopmentType.Improved_Barracks) != null) {
+            } else if (getDevelopment(DevelopmentType.Great_Barracks) != null) {
                 infantry.setQuality(UnitQuality.Advanced);
                 offense = 2;
                 defense = 2;
