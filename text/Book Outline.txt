@@ -402,7 +402,7 @@ preferred over defensive capability.
 * Kingdom Building
 
 --------------------------------------------------------------------------
-- The Stronghold
+- Factions
 
 o Capitals
 o What are the resources? 
@@ -411,13 +411,6 @@ o Gaining aspects? Rule of Two?
 o Capital
 o What are the resources? 
 o Resources aren't literal goods, they are investments
-o Gaining aspects? Rule of Two?
-o Stability, Population, Developments, Aspects, Regions
-o Ally Dispositions
-
---------------------------------------------------------------------------
-- Factions
-
 o What happens when a faction collapses?
 o Differences between the Autarch and other factions
 o Autarch threat pools
@@ -428,6 +421,14 @@ o Autarch threat pools
 o How to keep track of the different sorts of faction details
 o How Leaders work, for warfare, and other missions
 o Difficulty charts for the factions, what they're good at
+
+
+--------------------------------------------------------------------------
+- The Stronghold
+
+o Gaining aspects? Rule of Two?
+o Stability, Population, Developments, Aspects, Regions
+o Ally Dispositions
 
 --------------------------------------------------------------------------
 - Developments
@@ -723,6 +724,9 @@ o Skirmish
   x Challenges
   x Opposition
   x Setup
+
+--------------------------------------------------------------------------
+- Quests
 
 --------------------------------------------------------------------------
 - Threats
