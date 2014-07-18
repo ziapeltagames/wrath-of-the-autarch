@@ -404,31 +404,30 @@ preferred over defensive capability.
 --------------------------------------------------------------------------
 - Factions
 
-o Capitals
-o What are the resources? 
-o Resources aren't literal goods, they are investments
-o Gaining aspects? Rule of Two?
-o Capital
-o What are the resources? 
-o Resources aren't literal goods, they are investments
-o What happens when a faction collapses?
-o Differences between the Autarch and other factions
-o Autarch threat pools
-o How to keep track of the different sorts of faction details
-o What happens when a faction collapses?
-o Differences between the Autarch and other factions
-o Autarch threat pools
-o How to keep track of the different sorts of faction details
-o How Leaders work, for warfare, and other missions
-o Difficulty charts for the factions, what they're good at
-
-
---------------------------------------------------------------------------
-- The Stronghold
-
-o Gaining aspects? Rule of Two?
-o Stability, Population, Developments, Aspects, Regions
-o Ally Dispositions
+o Faction Attributes
+  x Stability
+  x Population
+o Common Features
+  x Aspects
+  x Leaders
+  x Regions
+    i Resources
+    i Capital
+  x Developments
+  x Units
+  x Trade Charts
+o Faction Collapse
+o The Stronghold
+  x Stronghold Aspects
+  x Campaign Aspects
+  x Developments
+  x Units
+  x Disposition
+  x Trade Agreements
+o The Empire
+  x Threat Pools
+  x Units
+  x Developments
 
 --------------------------------------------------------------------------
 - Developments
@@ -731,13 +730,16 @@ o Skirmish
 --------------------------------------------------------------------------
 - Threats
 
-Autarch Threat Pools
-This chapter has missions of varying difficulties and mini-games,
-for regional and disposition threats.
-It also has the list of Faction threats, as well
-as costs for the Autarch to use them.
-Why do threats come after the factions?
-What does this chapter look like?
+o Region Threats
+o Ally Threats
+o Region and Ally Sample Threats
+o Campaign Threats
+  x Running Threats
+  x Diplomacy Threats
+  x Infiltration Threats
+  x Skirmish Threats
+  x Warfare Threats
+
 
 **************************************************************************
 **************************************************************************
