@@ -26,7 +26,7 @@ NOTES: Talk about competition in the designer's notes? Should mention
 the fact that there aren't fantasy races?
 
 --------------------------------------------------------------------------
-- Wild Fate
+- Fate
 
 o Actions 
   x Stepping Dice Up and Down
@@ -136,13 +136,6 @@ o Trade
   x Conflict
   x Success
   x Failure
-o Espionage
-  x Requirements
-  x Difficulty
-  x Challenges
-  x Conflict
-  x Success
-  x Failure
 o Sabotage
   x Requirements
   x Difficulty
@@ -151,13 +144,6 @@ o Sabotage
   x Success
   x Failure
 o Assassination
-  x Requirements
-  x Difficulty
-  x Challenges
-  x Conflict
-  x Success
-  x Failure
-o Warfare
   x Requirements
   x Difficulty
   x Challenges
@@ -194,21 +180,21 @@ o Faction Threat (Enemy Threat?)
 --------------------------------------------------------------------------
 - Challenge Phase
 
-o Challenges
+  x Scope
+  x Continuity
+o Challenge Scenes
   x Difficulty
   x Stress
   x Exchange 
-  x Scope
-  x Continuity
   x First Challenge
-o Overcome
+o Resolve Challenge (Overcome)
   x Stress
   x Narrative Control
     i Create a Challenge
     i Swap out a Challenge
     i New Challenges
   x Failing Forward
-o Create an Advantage
+o Create Advantage
   x Permanent Aspects
 o Skill Advances
 o Ending the Challenge Phase
