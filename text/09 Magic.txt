@@ -1,0 +1,131 @@
+<chapter>Magic</chapter>?
+Magic is the fusion of mana pulled from the land and the spellcaster's will to produce and effect. Mana is a chaotic and omnipresent force of energy, difficult to control but potentially very powerful. It is present everywhere, although in some locations, the untamed and exotic parts of the wilds, it is present in high enough concentration that it may be harnessed by magic users. Characters with high enough <skill>Lore</skill> may learn <term>Secrets</term>, complex and arcane procedures for channeling mana to produce all manner of fantastical effects.?
+<h1>Mana</h1>?
+Mana, for those with attuned channeling abilities, appears as shimmering bands of color, like a tinted hue laid out upon the land. Each region generates its own unique signature of mana, and capable channelers can detect the origin of mana that has been channeled by casters. It can be stored and bound in a wide variety of vessels, although this greatly weakens its potency, making it worthless for use in spells.?
+<h2>Binding to the Land</h2>?
+Before wielding Secrets, a spellcaster must <term>bind</term> to the land. This is an involved process, taking an entire season to accomplish (newly made characters may start play already bound to a region). This is also a solitary time, as the caster takes solace in understanding the flora and fauna of the region. The caster becomes part of the land, in an intimate relationship. The caster is acutely aware of when the land is damaged or when another caster is attempting to bind to the same region.?
+The regions with the highest amount of mana allow for the most potent use of magic. When a caster binds to a region, the region is noted on the character sheet, next to the character’s mana pool. It isn’t possible for a channeler to bind to more than one region, as the effort required to create bonds with the land is too great. A caster may change which region they are bound to, but this takes an entire season of time (no training or healing is possible).?
+<h2>Starting Mana</h2>?
+At the start of each season, every character bound to the land gains an amount of mana equal to their Channeling skill plus the mana value of the region. Additionally, certain developments (Mana Forge) and artifacts (Thedda’s Palimpsest) grant additional starting mana for all spellcasters.?<example>Kara is bound to the Sunset Isles. The Sunset Isles have two mana. Kara’s Channeling skill is four. Additionally, the Stronghold has a mana forge, which grants three additional starting mana. Kara will start each season with 2 + 4 + 3 = 9 mana.</example>?
+<h1>Wielding Magic</h1>?
+In order to use magic, a character needs to be bound to a region and have a high enough <skill>Lore</skill> skill to gain access to a Secret. Mana is then expended based on the specific Secret and effect desired, as outlined below.?
+<h2>Secrets</h2>?
+Secrets are groupings of thematically linked stunts. Each Secret has four stunts, the four tiers of increasing mystical knowledge with the Secret. These tiers, in order of increasing power, are known as <term>Initiate</term>, <term>Apprentice</term>, <term>Journeyman</term>, and <term>Keeper</term>. Earlier tiered stunts are prerequisites for later tiered stunts. For instance, a character must have the Apprentice level stunt in the Secret of the Elements (Hailstorm) before being able to gain the Journeyman Secret of the Elements stunt (Wind Rider). Casting a spell is the process of spending mana to use one of these stunts.?
+Although it's possible to become an Initiate in multiple Secrets, thus gaining broad ability, the only way to gain access to the very powerful Keeper stunts is to specialize. Specialists tend to be defined by their Secret. Each Secret tends to be linked with a world view and ethos that is a core part of the caster.
+<h3>Initiate Tier</h3>?
+All of the Initiate stunts are very similar mechanically. By spending a point of mana, the caster's <skill>Lore</skill> skill can be used in place of another skill in certain contexts. Each additional mana spent adds +1 to the result. This allows for the potential to spend lots of mana to get a large bonus on the roll. However, the more mana spent, the greater the chance for backlash (see below).?<example>Kara is an Initiate in the Secret of the Elements. She is attacked by wolves, and spends one point of mana to use her Fire Blast stunt to allow her Lore skill to function as Marksmanship while attacking. She makes an opposed draw against the wolves' Athletics, deciding to spend another two mana to add two to the result. Three total mana is spent for the spell, which comes into play for backlash checks.</example>
+<h3>Advanced Tiers</h3>?
+The stunt effects for the advanced tiers are all very different, although the mana costs are the same across tiers. It costs 5 mana to use an Apprentice secret, 10 mana for a Journeyman secret, and 15 mana for a Keeper secret. The Keeper tier secrets are tremendously powerful and can function as the capstone to an entire Stronghold strategy.?
+<h2>Backlash Check</h2>?
+Spending mana could result in a terrible <term>backlash</term> to the land the caster is bound to. Any time a character spends mana the player rolls Channeling, opposed by the amount of mana spent. This is called the backlash check. Casting powerful spells is risky.?
+<h2>Backlash Effects</h2>?
+The psychic link between the caster and the land flows both ways. One resource (food, timber, ore, mana, or luxuries) is permanently removed from the land the caster is bound to for each point of deficit on the backlash check. The particular resources are chosen by the caster. Also, the region where the mana came from becomes changed; taking on features which are related to the effect produced which caused the mana drain. The Autarch player gives the region a thematically appropriate aspect with one free invoke (or adds a free invoke if there's already an aspect from backlash). For example, the region might gain <aspect>Restless Spirits</aspect> if there is backlash from casting a Secret of the Dead. Choose wisely the lands where you draw mana from, as a region with no resources isn’t very valuable!?
+<h1>Secrets of the Dead</h1>?
+The white ships which sail to the island of the dead usually make no return trips. The mystics who know the Secrets of the Dead can voyage into that other dimension and pull the dead back, whether they want to return or not. Not a practice that most people would look upon favorably, sorcerers who master the Secrets of the Dead are frequently greeted with suspicion by many societies within the Realm.
+<stuntt>Shadow Walker</stuntt>
+<stuntp>1+ Mana</stuntp>
+<stuntd>The caster phases into the realm of the dead, becoming shadowy and difficult to detect. Spend a point of mana to use <skill>Lore</skill> in place of the <skill>Stealth</skill> when moving quietly or hiding. Additional mana may be spent to add +1 to the final result.</stuntd>
+<stuntt>Commune with the Dead</stuntt>
+<stuntp>5 Mana</stuntp>
+<stuntd>The caster contacts someone deceased, absorbing their thoughts and learning their secrets. The caster must know something about the target, if only descriptions gleaned from talking with others. Create a mission aspect with two free invokes that reflects the knowledge so gained. For instance, <fate>2</fate><aspect>Intimate Knowledge of Blackfell Keep</aspect>. This doesn’t require an action to use.</stuntd>
+<stuntt>Animate Human</stuntt>
+<stuntp>10 Mana</stuntp>
+<stuntd>An assassinated faction leader (or hero) is brought back as an undead thrall of the caster. The dead character retains most of their faculties they had while living, although they aren't quite the same mentally or physically. All of their skills are lowered by two and they lose access to all of their stunts. Stress tracks are calculated with the new skills, and they gain one minor consequence. Furthermore, two of their aspects are swapped out for new aspects chosen by The Autarch player.</stuntd>
+<stuntd>These characters are controlled just like other characters, and function as an additional hero that will go on missions with the caster. Only one undead minion may be employed at a time.</stuntd>
+<stuntt>Army of the Dead</stuntt>
+<stuntp>15 Mana</stuntp>
+<stuntd>The caster resurrects a well trained army from history. The army of the dead operate as five infantry, although only the caster may lead them in war. Ignore any command restrictions on unit sizes. (See the <chapref>Warfare</chapref> chapter for more details on how to interpret the unit stat block. None of the developments apply to the army of the dead. If not destroyed in battle, the army crumbles at the end of the season in which it was summoned.</stuntd>
+<stats>
+<name>Soldiers of the Dead (Infantry)</name>
+<skill>Great (+4)	Armor</skill>
+<skill>Good (+3)	Movement, Fighting</skill>
+<skill>Average (+1)	Marksmanship</skill>
+<aspect>Unthinking Killing Machines</aspect>
+<aspect>How Dare You Disturb Our Slumber!</aspect>
+<aspect>Gleefully Seek Destruction </aspect>
+<stunt><b>Aura of Terror</b>- A commander wishing to take units into the same zone as the undead soldiers must succeed at a Great (+4) Command roll.<stunt>
+</stats>
+<h1>Secrets of the Elements</h1>?
+Mastering the elements requires a keen eye for detail. Elemental magic is primarily used for its offensive capabilities, and is well suited to Skirmish and Warfare.
+<stuntt>Fire Strike</stuntt>
+<stuntp>1+ Mana</stuntp>
+<stuntd>The caster harnesses fire, throwing it at a target. Spend a point of mana to use <skill>Lore</skill> in place of the <skill>Marksmanship</skill> to attack a character (not unit) with fire. Additional mana may be spent to add +1 to the final result.</stuntd>
+<stuntt>Hailstorm</stuntt>
+<stuntp>5+ Mana</stuntp>
+<stuntd>Large icy pellets fall from the sky. This works similarly to the <stunt>Fire Strike</stunt> stunt, except every character (not unit) within the same zone is hit (they each may Defend independently). There are no penalties for range. Also, the target zone gets the <aspect>Icy Terrain</aspect> aspect with one free invoke. Additional mana beyond the five may be spent as Fate points to modify the roll.</stuntd>
+<stuntt>Wind Rider</stuntt>
+<stuntp>10 Mana</stuntp>
+<stuntd>The caster’s maximum movement is increased by two, and they furthermore gain access to the Flight (General) stunt for the remainder of the mission.</stuntd>
+<stuntt>Earthquake</stuntt>?<stuntp>15 Mana</stuntp>?<stuntd>The ground opens up and does massive damage to anything standing on it. The caster’s Lore check is used in place of Fighting to attack all characters and units in the target zone (they each get to Defend independently). The Lore check is made only once. Furthermore, the caster’s Lore may be used in place of Siege to attack castles and keeps. There are no penalties for range.</stuntd>?
+<h1>Secrets of the Mind</h1>?
+The caster can control wants and desires, from the whims and wishes of a single person up to the leanings and attitudes of an entire population of people.
+<stuntt>Charm</stuntt>
+<stuntp>1+ Mana</stuntp>
+<stuntd>Spend a point of mana to use <skill>Lore</skill> in place of the <skill>Rapport</skill> when exaggerating the truth. Additional mana may be spent to add +1 to the final result.</stuntd>
+<stuntt>Glamour</stuntt>
+<stuntp>5 Mana</stuntp>
+<stuntd>Caster chooses a target character. Target character subtracts two from Wits skill for remainder of season. Does not require an action to use.</stuntd>
+<stuntt>Paragon of Grace</stuntt>
+<stuntp>10 Mana</stuntp>
+<stuntd>The caster adds their Lore skill to all actions using Rapport and Society. In addition, Society is increased by the value of Lore for determining exchange order in Diplomacy conflicts.</stuntd>
+<stuntt>Collective Will</stuntt>
+<stuntp>15 Mana</stuntp>
+<stuntd>Any minor faction with a disposition of 0 or higher becomes an ally (set disposition to +5).</stuntd>?
+<h1>Secrets of the Wilds</h1>?
+Those who learn the Secrets of the Wild tend to become boorish, losing their way in polite society. They feel more at home amongst the beasts of the world than amongst the refined halls of nobles. The advanced tiers allow the caster to shapeshift into animal forms: wolf, snake, and dragon.?
+Casting any of the shapeshifting spells allows the caster to transform to and from the listed animal for an entire season. The player chooses at the start of each turn whether to be in human or animal form, and must remain that way for their whole turn. This is true for both the Challenge Phase as well as the Conflict Phase.?
+While in animal form, the caster uses the provided stat block instead of their own. Furthermore, the caster loses access to all of their normal skills, stunts, and aspects, with the exception of keeping the ability to transform back into a human. Most of the skills for the animal are expressed in terms of the caster's <skill>Lore</skill> rather than as absolute values. Stress tracks may also change. If the caster gets additional stress, these must be tracked for the remainder of the season (changing from animal to human back to animal does not remove stress or consequences).
+<stuntt>Primal Quickness</stuntt>
+<stuntp>1+ Mana</stuntp>
+<stuntd>The caster taps into a preternatural quickness and strength. Spend a point of mana to use <skill>Lore</skill> in place of <skill>Athletics</skill>. Additional mana may be spent to add +1 to the final result.</stuntd>
+<stuntt>Fangs of the Wolf</stuntt>
+<stuntp>5 Mana</stuntp>?<stuntd>The caster may take the form of a dire wolf. Wolves do not have the ability to speak, so communication is very difficult.</stuntd>
+<stats>
+<name>Majestic Dire Wolf</name>
+<aspect>Highly Attuned Senses</aspect>
+<aspect>Powerful Jaws</aspect>
+<aspect>Insatiable Hunger</aspect>
+<skill>Lore	Survival</skill>
+<skill>Lore – 1	Athletics, Fighting</skill>
+<skill>Lore – 2	Physique, Stealth</skill>
+<skill>As Character	Channeling, Wits, Lore,  Will, Tactics</skill>
+<stress><b>Physical</b>	<fate>4</fate></stress>
+<stress><b>Mental</b>	As Character</stress>
+<stunt><b>Rend-</b>If the wolf successfully attacks a target with Fighting, add +2 to all future attacks to the same target.</stunt>
+<stunt><b>Tracker-</b>Add +2 to Overcome actions using Survival when tracking prey.</stunt>
+</stats>
+<stuntt>Skin of the Snake</stuntt>
+<stuntp>10 Mana</stuntp>
+<stuntd>The caster takes on the form of a viper. Snakes do not have the ability to speak, so communication is difficult.</stuntd>?
+<stats>
+<name>Slithering Viper</name>
+<aspect>Neurotoxic Venom</aspect>
+<aspect>Quick Reactions</aspect>
+<aspect>Physically Weak</aspect>
+<skill>Lore + 1	Stealth</skill>
+<skill>Lore	Fighting, Athletics</skill>
+<skill>Lore - 3	Physique</skill>
+<skill>As Character	Channeling, Wits, Lore, Nature, Will, Tactics</skill>
+<stress>Physical	<fate>2</fate></stress>
+<stress>Mental	As Character</stress>
+<stunt><b>Silent Movement- </b>Add +2 to Create Advantage actions using Stealth.</stunt>
+<stunt><b>Vulnerable- </b>Subtract -2 when defending in combat with Fighting or Athletics.</stunt>
+<stunt><b>Poison- </b>Add +2 when attacking with Fighting.</stunt>
+</stats>
+<stuntt>Heart of the Dragon</stuntt>
+<stuntp>15 Mana</stuntp>
+<stuntd>The caster takes on the form of a massive dragon. The Siege skill and the Movement skill are for use during the Warfare conflict. Dragons can speak and communicate in the common tongue. All skills not listed are the same as they are for the caster.</stuntd>
+<stats>
+<name>Dragon Shape</name>
+<aspect>Powerful Dragon</aspect>
+<aspect>Wings of Fury and Death</aspect>
+<aspect>Bringer of Fear</aspect>
+<aspect>Scales of Iron</aspect>
+<skill>Lore + 2	Siege, Fighting, Marksmanship</skill>
+<skill>Lore	Athletics, Physique, Movement</skill>
+<skill>Lore - 4	Stealth</skill>
+<stress>Physical	<fate>4</fate></stress>
+<stress>Mental	As Character</stress>
+<stunt><b>Flying (General Stunt)</b></stunt>
+<stunt><b>Fiery Breath-</b>May use Marksmanship to attack all characters and units in the target zone.</stunt>
+</stats>

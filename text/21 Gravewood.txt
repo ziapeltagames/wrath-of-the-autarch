@@ -1,0 +1,200 @@
+<chapter>Gravewood</chapter>?
+The old and wild forests known as Gravewood are, not indicative of their name, rich and vibrant with beauty. Mixed with idyllic streams and rocky outcroppings, they are nothing if not breathtaking. However, they are also incredibly treacherous to the human traveler, home to many horrific beasts and further infested with traps and barriers set by xenophobic natives.?
+The people of Gravewood are difficult to approach. They pride themselves on a certain amount of self-sufficiency, able to exist and thrive without much contact with the outside world. The biggest task for the locals is to maintain safe trails through the forest – although this treacherous land also helps discourage visitors.?
+Their communities are decentralized; small villages called havens are built in little clearings throughout the woods. It is not uncommon for groups of families to move between one haven or another, in order to maximize the natural resources that the forest provides.?
+The leaders of the havens form a council of sorts, and vote on matters of consequence as they arise. Responsibilities for defense are shared between all the leaders, while other responsibilities are the sole purview of the individual havens. Leaders are chosen by a variety of means, although most leaders tend to be male. Galya, the leader of Green Haven, has worked her whole life battling a pervasive misogyny among leadership.??
+<h1>Leaders</h1>?
+<stats>
+<name>Sdila (Leader)</name> 	
+<stress><b>Physical</b>	<fate>3</fate></stress>	
+<stress><b>Mental</b>	<fate>4</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	<b>Legendary (+6)</b>	Stealth, Wits	
+<skill><b>Superb (+5)</b>	Thievery, Rapport	</skill>
+<skill><b>Great (+4)</b>	Disguise, Society	</skill>
+<skill><b>Good (+3)</b>	Marksmanship, Will	</skill>
+<skill><b>Decent (+2)</b>	Physique, Command	</skill>
+<skill><b>Average (+1)</b>	Survival, Tactics	</skill>
+<aspect>Leader of the First Haven</aspect>?
+<aspect>Killed a Snow Cat With One Arrow</aspect>?
+<aspect>“Death visits in endless forms”</aspect>?
+<aspect>Weaver of Tall Tales</aspect>	
+<stunt>Trapmaster (General)</stunt>?
+<stunt>Never Forget a Face (Wits)</stunt>?
+<stunt>Passive Aggressive (Rapport)</stunt>	
+</stats>?
+Leader of one of the largest and oldest havens in Gravewood. Sdila is boastful and brags about his achievements to anyone who will listen. Not above taking liberties with the truth.?
+<stats>
+<name>Samo (Leader)</name> 	
+<stress><b>Physical</b>	<fate>4</fate></stress>	
+<stress><b>Mental</b>	<fate>3</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
+<skill><b>Superb (+5)</b>	Fighting, Stealth	</skill>
+<skill><b>Great (+4)</b>	Athletics, Wits	</skill>
+<skill><b>Good (+3)</b>	Physique, Survival	</skill>
+<skill><b>Decent (+2)</b>	Rapport, Thievery	</skill>
+<skill><b>Average (+1)</b>	Will, Society	</skill>
+<aspect>Leader of Briar Haven</aspect>?
+<aspect>The First Haven Boasts too Much</aspect>?
+<aspect>Youthful Exuberance</aspect>?
+<aspect>Puckish Charm</aspect>	
+<stunt>Whirling Attack (Fighting)</stunt>?
+<stunt>Assassin’s Perch (Stealth)</stunt>	
+</stats>?
+A young, headstrong upstart, who places emphasis on ideological purity and self-reliance. Has a potentially dangerous zeal which is difficult to harness.?
+<stats>
+<name>Radia (Leader)</name> 	
+<stress><b>Physical</b>	<fate>2</fate></stress>	
+<stress><b>Mental</b>	<fate>3</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
+<skill><b>Superb (+5)</b>	Thievery, Wits	</skill>
+<skill><b>Great (+4)</b>	Stealth, Tactics	</skill>
+<skill><b>Good (+3)</b>	Will, Command	</skill>
+<skill><b>Decent (+2)</b>	Survival, Engineering	</skill>
+<skill><b>Average (+1)</b>	Physique, Disguise	</skill>
+<aspect>Eldest Trapsmith of Gravewood</aspect>?
+<aspect>Necklace Made of Teeth</aspect>?
+<aspect>“Galya is my only living friend.”</aspect>?
+<aspect>Expert Poisoncrafter</aspect>	
+<stunt>Trapmaster (General)</stunt>?
+<stunt>Never Forget a Face (Wits)</stunt>	
+</stats>?
+Radia and Galya are old friends, both relying on their accumulated wisdom to help Gravewood. Radia is an intimidating presence, occasionally ranting about dark deeds performed in service to the First Haven.?
+<stats>
+<name>Galya (Leader)</name> 	
+<stress><b>Physical</b>	<fate>3</fate></stress>	
+<stress><b>Mental</b>	<fate>4</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>	
+<skill><b>Superb (+5)</b>	Rapport, Will	</skill>
+<skill><b>Great (+4)</b>	Command, Society	</skill>
+<skill><b>Good (+3)</b>	Wits, Tactics	</skill>
+<skill><b>Decent (+2)</b>	Physique, Survival	</skill>
+<skill><b>Average (+1)</b>	Lore, Fighting	</skill>
+<aspect>Leader of Green Haven</aspect>?
+<aspect>“I’m giving it everything I have - but it’s not enough”</aspect>?
+<aspect>Grimly Reserved</aspect>?
+<aspect>Egalitarian</aspect>	
+<stunt>Commanding Word (Society)</stunt>?
+<stunt>Related Point (Rapport)</stunt>	
+</stats>?
+Made her way up to become leader through hard-nosed determination. Concerned about the treatment of women within Gravewood, who tend not to be respected.?
+<stats>
+<name>Lev (Leader)</name> 	
+<stress><b>Physical</b>	<fate>3</fate></stress>	
+<stress><b>Mental</b>	<fate>3</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
+<skill><b>Superb (+5)</b>	Tactics, Command	</skill>
+<skill><b>Great (+4)</b>	Wits, Engineering	</skill>
+<skill><b>Good (+3)</b>	Athletics, Thievery	</skill>
+<skill><b>Decent (+2)</b>	Fighting, Disguise	</skill>
+<skill><b>Average (+1)</b>	Physique, Will	</skill>
+<aspect>Keeper of Swords</aspect>?
+<aspect>Quiet as a Snail Across Snow</aspect>?
+<aspect>Keen Eyes</aspect>?
+<aspect>“Always use the terrain to your advantage”</aspect>	
+<stunt>Set for Charge (Tactics) </stunt>?
+<stunt>Hold Your Ground (Command)</stunt>	
+</stats>?
+Lev is in charge of the meager troops at Gravewood’s disposal. His concerns revolve around the ability of Gravewood to defend themselves militarily.???
+<h1>Diplomacy</h1>?
+Sdila, Galya, and Samo are the leaders of three of the largest havens, and should be a part of Diplomacy if they’re alive.?
+The people of Gravewood reflect the same harshness that is endemic to the land. They value their security and an unbridled sort of freedom, which could come to the fore as their freedom can occasionally turn into a slavish devotion to the past.?
+<b>Difficulty:</b> 5?
+<h2>Sample Challenges</h2>?
+The leaders of Gravewood value knowledge of the wilderness and the ability to survive in harsh environments. Assisting the havens with trade and improvements could also be the focus of challenges.?
+<list>
+Reset the traps in the Hinterlands.?
+Convince Sdila to spare the young Sunrider intruder’s life.?
+Endure Samo’s browbeating.?
+Hunt reindeer in the Red Forest.?
+Help Galya create a more egalitarian society in Green Haven.?
+Escort Children between the Green Haven and First Haven.?
+Prepare for a Frost Troll attack.
+</list>?
+<h1>Infiltration</h1>?
+Gravewood is adept at guarding against infiltration. They have a network of traps set up to guard against hostile forces, and they use the same traps to guard important information. They’re also highly distrusting of outsiders, and keen to detect disguises adopted by would be infiltrators.?
+<b>Difficulty:</b> 6?
+<h2>Sample Challenges</h2>?
+<list>
+Gain employment at the First Haven Timber Manufactory.?
+Convince Radia that it’s okay to be in the Map Depository.?
+Avoid Green Haven patrols.?
+Escape from an Ironjaw Briar trap.
+</list>?
+<h1>Skirmish</h1>?
+Given the very low difficulty of Skirmish missions against Gravewood, there probably isn’t much motivation to choose this type of campaign threat. Early in the campaign might be an option, particularly if the Stronghold is weak in Skirmish.?
+<b>Difficulty:</b> 3?
+<h2>Sample Challenges</h2>?
+<list>
+Lay down false tracks to ambush Samo.?
+Take cover while advancing on a position of Gravewood Rangers.?
+Fight off a curious snow cat.?
+Survive a bitterly cold spell in Winter Haven.
+</list>?
+<h1>Warfare</h1>?
+Gravewood’s heavy reliance on archers makes them better at defending than attacking.?
+<b>Difficulty:</b> 4?
+<h2>Sample Challenges</h2>?
+<list>
+Wheel around a scouting wing from Green Haven.?
+Build a construction for shelter while planning.?
+Trek single file through Troll Pass without stopping.?
+Repair equipment lost to cold.
+</list>?<mission>Gossamer Spirit</mission>?<missionentry>
+<table><b>Conflict</b>	Infiltration	<b>Difficulty</b>	6	
+</table></missionentry>?
+Long ago, the people of First Haven were attacked by a wandering band of Sunriders. In order to escape the assault, they secured refuge on the Island of Apples within Memory Lake. There they beseeched the gods to save them, and the gods listened, making the island invisible. The Sunriders, unable to find their quarry, left without hunting them down.?
+The gods, after helping the people of First Haven, sent them a storm as an omen to leave the island. But the people ignored the omen, and built a barracks upon the soil. Yari, their leader, beseeched the gods further for luxuries they could use for survival upon the island. The gods turned him into a spider, capable of generating a fine silk that has the power of invisibility, the better able to hide away from all humans. The rest of Yari’s band became his immortal minions, feeble but unable to die. The spider’s followers called him The Weaver. For many generations, they have remained hidden away, choosing to keep to themselves.?
+<h2>Sample Challenges</h2>?
+Sdila and Radia know the location of the isle and the value of the gossamer webbing that can be found within. After the Stronghold has become friendly with Gravewood, they may impart the location of the island to the heroes.?
+<list>
+Locate the maps to The Weaver’s Temple, secreted away by Radia.?
+Resist memory drain while sailing across Memory Lake.?
+Avoid the hollow eyed island sentries.?
+Uncover the First Door into the ancient complex.
+</list>?
+<h2>Opposition</h2>?
+The Weaver and other guards roam the complex, guarding the store of illusory webs.?
+<stats>
+<name>The Weaver (Leader)</name> 	
+<stress><b>Physical</b> <fate>4</fate></stress>	
+<stress><b>Mental</b> <fate>4</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>	<b>Fantastic (+6)</b>	Wits, Stealth	
+<skill><b>Superb (+5)</b>	Athletics, Will	</skill>
+<skill><b>Great (+4)</b>	Physique, Fighting	</skill>
+<skill><b>Good (+3)</b>	Thievery, Survival	</skill>
+<skill><b>Decent (+2)</b>	Lore, Command	</skill>
+<skill><b>Average (+1)</b>	Society, Channeling	</skill>
+<aspect>Forlorn Servant of the First Gods</aspect>?
+<aspect>“I can smell your fear!”</aspect>?
+<aspect>Venom of Forgetfulness</aspect>?
+<aspect>Sticky Webs</aspect>	
+<stunt>Trapmaster (General)</stunt>These traps take the form of webs.	
+</stats>?
+The Weaver is resigned to patrolling the halls of his temples, tasked with keeping intruders out and living his days out in isolation.?
+<stats>
+<name>Hollow Guard (Minion)</name> 	
+<stress><b>Physical</b> <fate>4</fate></stress>	
+<stress><b>Mental</b> <fate>3</fate></stress>	<b>Fantastic (+6)</b>	Wits	
+<skill><b>Superb (+5)</b>	Athletics	</skill>
+<skill><b>Great (+4)</b>	Fighting	</skill>
+<skill><b>Good (+3)</b>	Physique	</skill>
+<skill><b>Decent (+2)</b>	Will	</skill>
+<skill><b>Average (+1)</b>	Survival	</skill>
+<aspect>I Live to Serve The Weaver</aspect>?
+<aspect>Vision Without Sight</aspect>	
+</stats>?
+The Hollow Guards have no hope or fear, instead they detect and capture intruders, placing them into the conversion pits if found.?
+<h2>Setup</h2>?
+The temple of the Weaver is buried deep underground. It is dimly lit, with torches maintained by the hollow guards. The gossamer thread is hidden within a large vault.?
+<h2>Sample Security Challenges</h2>?
+<list>
+Disguise: Distract Hollow guard leader.?
+Stealth: Sneak past hall of echoes.?
+Thievery: Open the Vault of Ten Locks.
+</list>?
+<h2>Resolution</h2>?
+If the heroes are successful, they gain access to 
+<aspect>Gossamer Thread</aspect>, letting them add major fortune to any Overcome actions using Stealth if they weave it into the fabric of their clothes.
+<table><b>Gravewood Regions</b>	<b>Name</b>	<b>Food</b>	<b>Timber</b>	<b>Ore</b>	<b>Mana</b>	<b>Luxuries</b>	<b>The Gravewood</b> - 
+<aspect>Capital</aspect>	6	6	0	2	0	<b>Spinner Lakes</b>	5	2	1	0	0	<b>Maplewood</b>	2	2	2	1	1	
+</table>

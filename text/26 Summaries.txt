@@ -1,0 +1,208 @@
+<chapter>Summaries and Sheets</chapter>?
+Following are summaries of the core procedures used in The Wrath of the Autarch. These can be used as handouts for reference during play. Also in this section are the character sheets, the Stronghold sheet, the four Challenge Scene sheets, and the Chronicle of Trade.
+<h1>Season</h1>
+<list>
+<l1s>Choose the spotlight player</l1s>?
+<l1s>Spring only (including first season of game)</l1s>?
+<l2s><b>Faction growth</b> – Draw a card for each faction, add +1 stability if result is +2 or higher</l2s>?
+<l1s>Ignored threats and schemes</l1s>?
+<l2s><b>Region Threat</b> – No resources from region, -1 stability</l2s>?
+<l2s><b>Faction Threat</b> – No trade with faction for season, -1 disposition</l2s>?
+<l3s>If disposition of faction &lt; -1 (faction is an enemy), Stronghold also -1 stability</l3s>?
+<l2s><b>Autarch Scheme</b> – Varies</l2s>?
+<l1s>Build developments</l1s>?
+<l2s>Roll a d6 for each point of resource (use different colors of dice for different resource types)</l2s>?
+<l2s>May trade with each faction <b>once</b> during season (place dice traded away onto Chronicle of Trade), roll new dice</l2s>?
+<l3s>Choice of trade restricted by faction disposition</l3s>?
+<l2s>Whole dice must be allocated to developments (may not divide up result on a die)</l2s>?
+<l3s>Lose one stability if spent less food than population (2 * number of regions)</l3s>?
+<l3s>Lose two stability if spent less food than one-half the population (number of regions)</l3s>?
+<l1s>Mission</l1s>?
+<l2s>Choose heroes</l2s>?
+<l2s>Train and recover chosen heroes</l2s>?
+<l3s>One skill advance <b>and</b> one step of consequence recovery for each season of down time</l3s>?
+<l3s>May improve skill rank provided skill has three advances and one skill in rank below</l3s>?
+<l3s>Gain one stunt for any skill advancing to a rank of Superb (+5) or higher</l3s>?
+<l2s>Each hero starts the mission with two fate points</l2s>?
+<l3s>Total fate points are modified by Stronghold stability and leftover resource dice</l3s>?
+<l2s>Refresh any remaining hero consequences (Autarch player may freely invoke them during mission)</l2s>?
+<l2s>Play mission</l2s>?
+<l2s>One free skill advance upon completion of mission</l2s>?
+<l2s>Remove all stress and gain one step of consequence recovery</l2s>?
+<l2s>Apply mission results</l2s>?
+<l1s>Future badness</l1s>?
+<l2s><b>Autarch Scheme: </b>Autarch player may enact one scheme before checking for threats (max two per year)</l2s>?
+<l3s>Choose one from appropriate list in Threats and Schemes chapter, restricted by current year</l3s>?
+<l2s>Reshuffle all cards before drawing for threats</l2s>?
+<l2s><b>Region Threats: </b>Draw one card for each region the Stronghold controls (may be modified by Autarch schemes)</l2s>?
+<l3s>Regional threat occurs on a +3 or +4</l3s>?
+<l2s><b>Faction Threats: </b>Draw one card for each minor faction (may be modified by Autarch schemes)</l2s>?
+<l3s>Faction threat occurs on a +3 or +4</l3s>?
+<l1s>Choose Next Mission</l1s>?
+<l2s><b>Alliance (Diplomacy)</b> – Gain disposition with target faction</l2s>?
+<l2s><b>Conquest (Varies)</b> – Gain region (if region controlled by faction, must use Warfare)</l2s>?
+<l2s><b>Assassination (Infiltration)</b> – Target leader is removed from game</l2s>?
+<l2s><b>Sabotage (Infiltration)</b> – Target faction loses one stability</l2s>?
+<l2s><b>Quest (Varies)</b> – Gain an artifact, must have disposition 3+ with related faction</l2s>?
+<l2s><b>Threat or Scheme (Varies)</b> – Deal with a region or faction threat or an Autarch scheme</l2s>
+</list>?<h1>Core Rules</h1>?
+<list>
+<l1s>Using Aspects and Stunts</l1s>?
+<l2s>Spend a fate point (or free invoke) to <b>invoke</b> an aspect and gain +2 or re-draw</l2s>?
+<l2s>May use one <b>helpful</b> aspect (assets and relationships) on skill check, draw a card and add suns to the skill check</l2s>?
+<l2s>May use one <b>hindering</b> aspect (assets and relationships) on skill check, draw a card and subtract moons, gain a skill advance</l2s>?
+<l1s>Core Actions</l1s>?
+<l2s><fate>c</fate> <b>Create Advantage - </b>Create an aspect with a free invocation</l2s>?
+<l2s><fate>o</fate> <b>Overcome - </b>Remove an aspect or accomplish a general goal</l2s>?
+<l2s><fate>a</fate> <b>Attack - </b>Target takes stress equal to shifts</l2s>?<b>IMPORTANT</b>
+<l3s>: May not inflict more stress than skill used to attack with</l3s>?
+<l2s><fate>d</fate> <b>Defend - </b>In response to Attack or Overcome actions targeting a character</l2s>?
+<l2s><b>Success with Style - </b>On any action, if three shifts higher than difficulty, gain a minor advantage</l2s>?
+<l3s>Extra shifts must do nothing else (they can’t be used to inflict stress, move, etc)</l3s>?
+<l2s><b>Tie - </b>For Attack and Create Advantage, ties generate a minor advantage with one free invoke, for Overcome the player succeds but applies a stress card, for Defend actions nothing happens</l2s>?
+<l1s>Stress for Success (Heroes Only)</l1s>?
+<l2s>For each +2 added to the check, draw a stress card</l2s>?
+<l3s>Each sun results in one physical stress and each moon in one mental stress</l3s>?
+<l3s>All cards must be drawn at the same time, adding all symbols together and taking all stress at once</l3s>?
+<l1s>Challenge Phase</l1s>?
+<l2s><b>Create Advantage - </b>Mission and campaign aspects may be created during challenge phase (and only during challenge phase)</l2s>?
+<l3s><b>Minor Advantage: </b>Mission difficulty - 2</l3s>?
+<l3s><b>Mission Aspect: </b>Mission difficulty</l3s>?
+<l3s><b>Campaign Aspect: </b>Mission difficulty + 2 (make sure there is an open slot on the Stronghold sheet)</l3s>?
+<l2s><b>Resolve Challenge (Overcome) - </b>On success, challenge is resolved</l2s>?
+<l3s>Take one stress for each sun on challenge (player decides which track to use), all other characters in scene take one stress</l3s>?
+<l3s>Moons must be removed first using a Resolve Challenge action with an opposition equal to the number of moons (time)</l3s>?
+<l3s><b>Failure - </b>Challenge is failed and removed, Autarch player creates a mission aspect with one free invoke</l3s>?
+<l2s>When a hero’s opposition for creating advantages or resolving challenges is higher than skill rank, gain a <b>skill advance</b></l2s>?
+<l2s><b>Complication (Autarch Player) - </b>If accepted, draw card and add suns and moons to challenge</l2s>?
+<l2s>Each <b>ignored challenge</b> gives the Autarch player a number of fate points equal to the number of players for the conflict</l2s>?
+<l1s>Conflicts</l1s>?
+<l2s>Autarch player starts with one fate point for each hero</l2s>?
+<l2s>Only minor advantages may be created during a conflict, and there are no skill advances</l2s>?
+<l1s>Magic</l1s>?
+<l2s>Spellcasters start each session with mana equal to their Channeling plus the mana of the bound region</l2s>?
+<l2s><b>Backlash: </b>After using mana, make a Channeling skill check with passive opposition equal to total mana spent</l2s>?
+<l3s>Lose one resource in bound region for each point below the opposition value</l3s>
+</list>?<h1>Diplomacy</h1>?
+<list>
+
+<l1s>Opposition</l1s>?
+<l2s>One lieutenant for each hero</l2s>?
+<l3s>May use faction leaders if mission is with a faction</l3s>?
+<l1s>Setup</l1s>?
+<l2s>Create five issues, writing them on notecards and placing them in a line)</l2s>?
+<l3s>For alliance missions, if faction disposition is zero or less, Autarch player places one influence on each issue</l3s>?
+<l2s>Characters are placed onto issues in reverse Society order (ties go to heroes)</l2s>?
+<l1s>Exchange</l1s>?
+<l2s>Each character gets one action in order of their Society skill (ties go to heroes)</l2s>?
+<l1s>Actions</l1s>?
+<l2s><term>Change Issue (Move) - </term>Society is used for movement, all issues are considered adjacent</l2s>?
+<l2s><term>Address Issue (Overcome) - </term>Rapport vs. Wits to address issue (Rapport vs. 0 if no leader is on other side of issue)</l2s>?
+<l3s>If multiple leaders are on other side of issue, opposing player may choose who defends</l3s>?
+<l3s>On success, place one influence, on success with style, place two influence</l3s>?
+<l3s>If issue gains five influence for one side or the other, it is won, re-assign all unattached characters as in setup</l3s>?
+<l2s><term>Manipulate (Attack) - </term>Society vs. Wits to inflict stress to one character attached to the issue</l2s>?
+<l3s>On success, character also becomes unattached to any issue</l3s>?
+<l1s>Resolution</l1s>?
+<l2s>Unless specified elsewhere, if the Stronghold wins three or more issues, they are successful</l2s>?
+<l2s><b>Alliance Missions: </b>Number of issues won by Stronghold determines disposition gain</l2s>?
+<l3s>Each unresolved issue becomes a campaign aspect with one free invoke</l3s>?
+<l3s>0-1: -1 Disposition, 2: No change, 3: +1 Disposition, 4: +2 Disposition, 5: +3 Disposition</l3s>
+</list>?<h1>Infiltration</h1>?
+<list>
+<l1s>Opposition</l1s>?
+<l2s>One leader and guards with skill cap equal to mission difficulty</l2s>?
+<l3s>If target is a faction, may use faction leaders</l3s>?
+<l1s>Setup</l1s>?
+<l2s>Create at least one Thievery, Disguise, and Stealth security challenge</l2s>?
+<l3s>Each security challenge is placed in a different zone</l3s>?
+<l3s>One additional Thievery challenge for four players, and one additional Disguise challenge for five players</l3s>?
+<l2s>Add additional zones so there are twice as many zones as there are heroes</l2s>?
+<l3s>Add one more note card for <aspect>Outside the House</aspect></l3s>?
+<l2s>The Autarch player adds alarms to a number zones equal to one-half the number of heroes (round down)</l2s>?
+<l2s>Place the <aspect>Outside the House</aspect> zone and shuffle the remaining cards</l2s>?
+<l2s>Autarch player and spotlight player take turns drawing and placing note cards (Autarch player goes first)</l2s>?
+<l2s>Players fill in locations and challenge names for all the zones</l2s>?
+<l2s>All heroes are placed <aspect>Outside the House</aspect></l2s>?
+<l2s>The Autarch player adds guards equal to one-half the number of heroes (round down)</l2s>?
+<l1s>Aspect Burning</l1s>?
+<l2s>Each free invoke allows the spotlight player to add a new zone</l2s>?
+<l1s>Exchange</l1s>?
+<l2s>All heroes get one action, then all guards get one action</l2s>?
+<l2s>After all characters have an action, place another guard in any zone if there are more heroes than guards</l2s>?
+<l3s>If the alarm has been sounded, the restriction on the number of guards is ignored and an extra guard is placed each round</l3s>?
+<l1s>Suspicious and Alerted Guards</l1s>?
+<l2s>Failing an action causes the nearest guard to gain the <aspect>Suspicious</aspect> aspect with one free invoke</l2s>?
+<l2s>Failing an action in the same zone as a guard causes all the guards in the zone to gain the <aspect>Alerted!</aspect> aspect with two free invokes</l2s>?
+<l2s>An alerted guard may <term>sound the alarm</term> by ending turn on any zone with an alarm</l2s>?
+<l3s>When the alarm is sounded, all guards become alerted</l3s>?
+<l1s>Additional Actions</l1s>?
+<l2s><b>Hero Movement - </b>Heroes use Athletics for movement, but must stop movement when entering a zone with a guard or the guard becomes alerted (and may oppose movement)</l2s>?
+<l2s><b>Guard Movement - </b>Guards <term>patrol</term>, moving only one zone each exchange in the direction they’re facing, turning direction only when they run out of room. Suspicious and alerted guards move as heroes do</l2s>?
+<l2s><b>Detect Intruder (Overcome, Guards Only) - </b>Attempt to detect a hero in the same zone. Wits vs. Stealth or Wits vs. Disguise</l2s>?
+<l2s><b>Capture Intruder (Overcome, Alerted Guards Only) - </b>Fighting vs. Athletics or Fighting to capture a hero.</l2s>?
+<l2s><b>Overcome Security Challenge (Overcome) - </b>As the Resolve Challenge action in the challenge phase except failed challenges make guards suspicious or alerted</l2s>?
+<l1s>Resolution</l1s>?
+<l2s>The heroes are successful if all of the security challenges are completed and at least one hero makes it back <aspect>Outside the House</aspect></l2s>?
+<l2s>If any heroes are caught, the disposition of the faction drops by two and the heroes remain captured until broken out of jail</l2s>
+</list>?<h1>Skirmish</h1>?
+<list>
+<l1s>Opposition</l1s>?
+<l2s>There are two options available for Skirmish missions</l2s>?
+<l3s>Boss Monster: A leader with a skill cap two higher than the mission difficulty. A boss monster may also take the Big Bad general opposition stunt for free.</l3s>?
+<l3s>Leader and Minions: A leader with a skill cap equal to the mission difficulty, along with minions equal to the number of heroes (also with a skill cap equal to mission difficulty)</l3s>?
+<l2s>If the mission is against a faction, may use faction leaders</l2s>?
+<l1s>Setup</l1s>?
+<l2s>Set aside 11 note cards for the battlefield. One note card is labeled as the hero starting zone</l2s>?
+<l3s>If desired, the Autarch player may create up to one obstacle for each Stronghold player, writing them on the note cards</l3s>?
+<l2s>Autarch player and spotlight player take turns placing note cards (Autarch player goes first)</l2s>?
+<l3s>The <aspect>Hero Start</aspect> zone is placed last</l3s>?
+<l2s>Autarch player sets up opposition at least four zones away from <aspect>Hero Start</aspect> zone</l2s>?
+<l2s>Stronghold players place heroes in <aspect>Hero Start</aspect> zone</l2s>?
+<l1s>Aspect Burning</l1s>?
+<l2s>May burn a free invoke to allow a hero to start in any zone, add a new zone, or add a new obstacle to a zone</l2s>?
+<l1s>Exchange</l1s>?
+<l2s>Each character gets one action in order of their Survival (ties go to heroes)</l2s>?
+<l1s>Actions</l1s>?
+<l2s><b>Movement - </b>Athletics is used for movement</l2s>?
+<l3s>Applicable obstacles add one to the cost for entering a zone</l3s>?
+<l2s><b>Attack - </b>May use Fighting vs. Fighting or Athletics (in same zone), Marksmanship vs. Athletics for ranged attack</l2s>?
+<l3s>Marksmanship may target characters in same or other zones</l3s>?
+<l3s>For every zone of distance between the attacker and target, add one to the opposition</l3s>?
+<l1s>Resolution</l1s>?
+<l2s>The side which gives up or is taken out first loses</l2s>?
+<l2s>The Autarch player or the spotlight player may give up at the end of any exchange</l2s>
+</list>?<h1>Warfare</h1>?
+<list>
+<l1s>Opposition</l1s>?
+<l2s>There is one faction leader or lieutenant for each hero</l2s>?
+<l2s>Each commander may control a number of units equal to their Command skill (or a minimum of three)</l2s>?
+<l3s>When defending a capital, a commander may control units equal to one more than their Command</l3s>?
+<l3s>Units are drawn from those available</l3s>?
+<l3s>Allies contribute three units to pool</l3s>?
+<l1s>Setup</l1s>?
+<l2s>Set aside 15 note cards for the battlefield. One note card is labeled as the strategic zone</l2s>?
+<l3s>If desired, the defending player may create up to one obstacle for each Stronghold player, placing them on the note cards</l3s>?
+<l2s>Autarch player and spotlight player take turns placing zones (defender goes first)</l2s>?
+<l3s>Strategic zone is placed first</l3s>?
+<l3s>Zones may not be placed below the level strategic zone</l3s>?
+<l2s>Attacking commanders are placed at least four zones away from strategic zone</l2s>?
+<l2s>Defending commanders are placed within two zones of the strategic zone</l2s>?
+<l1s>Exchange</l1s>?
+<l2s>Each character gets one action in order of their Command (ties go to heroes)</l2s>?
+<l1s>Actions</l1s>?
+<l2s><b>Movement - </b>Commanders move at rate of slowest unit</l2s>?
+<l3s>Hindering obstacles add one to the cost for entering a zone</l3s>?
+<l3s>Tactics is used to oppose movement</l3s>?
+<l2s><b>Ranged Attack </b></l2s>?
+<l3s>Attacking commander chooses an opposing commander within range</l3s>?
+<l3s>Ranged units are divided into groups as desired by attacking commander</l3s>?
+<l3s>For each group, make an opposed Attack action, add all ranged attack skills (Marksmanship) vs. Armor skill of defending unit</l3s>?
+<l2s><b>Clash of Arms </b></l2s>?
+<l3s>Attacking units are divided into groups as desired by attacking commander</l3s>?
+<l3s>For each group, make an opposed Attack action, add all attack skills (Fighting) vs. the Armor skill of defending unit</l3s>?
+<l3s>Defending commander has opportunity to outflank attacker if successful on opposed Tactics check</l3s>?
+<l2s><b>Heroic Actions - </b>Champions and leaders may create an advantage or attack another character directly</l2s>?
+<l1s>Resolution</l1s>?
+<l2s>Warfare is over if the attacker captures the strategic zone or one side leaves the battlefield</l2s>
+</list>

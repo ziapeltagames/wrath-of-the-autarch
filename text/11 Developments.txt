@@ -1,0 +1,109 @@
+<chapter>Developments</chapter>
+Developments are cultural, technological, and civic improvements to the Stronghold. Developments might be physical structures like a mage tower, scientific advancements such as gunpowder, or even skilled groups of people, like diplomats.
+Developments may affect the Stronghold directly, for example, by improving defensive capabilities, or developments might affect the heroes, giving them situational benefits during play. The latter sorts of developments are like stunts, except they affect all heroes from the Stronghold, not just one.
+The Stronghold players build developments by spending the resources they obtain, as detailed in the <chapref>Seasons</chapref> chapter.
+Other factions don’t have developments (with the exception of Keeps and Castles). Instead, these are abstracted away into general difficulties for each of the four types of conflict.
+<h1>Anatomy of a Development</h1>
+Developments are described by the resource costs for building them (food, timber, ore, luxuries, and mana), by the tech tree they belong to, and by their effect.
+<h2>Regional Developments</h2>
+Keeps and castles are very closely related to a particular region. When these developments are built, they should be listed on the Stronghold sheet under a particular region where they will reside. Factions already have these developments listed in the regions they control. Regional developments allow duplicates to be built, with a maximum of one such development in each region. If a region containing a development is ever lost for some reason, the development is lost with it. If a region has a threat which prevents any production of goods, the development will also no longer function until the threat conditions are removed.
+<h2>Tech Trees</h2>
+The developments are divided into five tech trees. There is one tech tree for each type of conflict (diplomacy, infiltration, skirmish, and warfare) as well as a tech tree for arcane developments. The four conflict tech trees have effects which mainly help in each of those four conflict types, while the developments in the arcane tech tree benefit spellcaster heroes. The better developments in each tech tree have prerequisite developments in the tech tree which must be built first. The peak developments in each tree are difficult to obtain, and it will only be possible to at most build a few of them over the course of the campaign.?
+<h2>Defensive Developments</h2>?
+Some developments give the Stronghold certain defensive capabilities to cancel threats. Each such development may only be used once each year. There is space on the Developments Summary sheet to track whether these have been used or not.?
+<h1>Arcane Developments</h1>?
+<devel_title>Arcane Military Academy</devel_title>?
+May recruit battle mage units for warfare.?
+<devel_title>Great Casting</devel_title>?
+May re-draw on spell effect rolls.?
+<devel_title>Superb Casting</devel_title>?
+Draw two, keep one on spell effect rolls.?
+<devel_title>Legendary Casting</devel_title>?
+Draw three, keep one on spell effect rolls.?
+<devel_title>Great Channeling</devel_title>?
+May re-draw on backlash checks.?
+<devel_title>Superb Channeling</devel_title>?
+Draw two, keep one on backlash checks.?
+<devel_title>Legendary Channeling</devel_title>?
+Draw three, keep one on backlash checks.?
+<devel_title>Mana Forge</devel_title>?
+Spellcasters begin each session with three additional mana.?
+<devel_title>Mages Guild</devel_title>?
+All heroes gain one Lore stunt. Current rank of Lore skill doesn’t matter, but stunt prerequisites must still be met.?
+<h1>Diplomacy Developments</h1>?
+<devel_title>Arts and Entertainment</devel_title>?
+May re-draw on Society actions when officially representing the Stronghold.?
+<devel_title>Center of Culture</devel_title>?
+Draw two, keep one on Society actions when officially representing the Stronghold.?
+<devel_title>Great Diplomats</devel_title>?
+Ignore one diplomacy threat per year of Great (4) difficulty or less.?
+<devel_title>Superb Diplomats</devel_title>?
+Ignore two diplomacy threats per year of Superb (5) difficulty or less.?
+<devel_title>Fantastic Diplomats</devel_title>?
+Ignore three diplomacy threats per year of Fantastic (6) difficulty or less.?
+<devel_title>Festival</devel_title>?
+Add one stability to the Stronghold. The cost listed is multiplied for each region under the Stronghold’s control.?
+<devel_title>Trade Capital</devel_title>?
+Gain +1 disposition on successful Alliance missions.?
+<devel_title>Trade Guild</devel_title>?
+May re-draw on Rapport actions when officially representing the Stronghold.?
+<devel_title>Trade Outposts</devel_title>?
+Draw two, keep one on Rapport actions when officially representing the Stronghold.?
+<h1>Infiltration Developments</h1>?
+<devel_title>Safehouses</devel_title>?
+May re-draw on Disguise actions.?
+<devel_title>Improved Safehouses</devel_title>?
+Draw two, keep one on Disguise actions.?
+<devel_title>Great Spies</devel_title>?
+Ignore one infiltration threat per year of Great (4) difficulty or less.?
+<devel_title>Superb Spies</devel_title>?
+Ignore two infiltration threats per year of Superb (5) difficulty or less.?
+<devel_title>Fantastic Spies</devel_title>?
+Ignore three infiltration threats per year of Fantastic (6) difficulty or less.?
+<devel_title>The Map Hall</devel_title>?
+The Stronghold players place two note cards on their turn when setting up the house during infiltration. They also place the initial alarms.?
+<devel_title>Thieves Guild</devel_title>?
+May re-draw on Thievery actions.?
+<devel_title>Improved Thieves Tools</devel_title>?
+Draw two, keep one on Thievery actions.?
+<devel_title>The Shadow Hall</devel_title>?
+During infiltration, heroes may move through zones with guards by taking a stress card (usually heroes have to stop moving when entering a zone with a guard). One such stress card is drawn and applied for each guard, but the hero remains hidden.?
+<h1>Skirmish Developments</h1>?
+<devel_title>Arcane Smith</devel_title>?
+May re-draw when using Fighting to attack with melee weapons.?
+<devel_title>Improved Arcane Smith</devel_title>?
+Draw two, keep one when using Fighting to attack with melee weapons.?
+<devel_title>Kinetic Armor</devel_title>?
+All heroes add two boxes to their physical stress track.?
+<devel_title>Kinetic Greaves</devel_title>?
+Free move up to two zones and take a different action.?
+<devel_title>Arcane Bowyer</devel_title>?
+May re-draw when attacking with Marksmanship.?
+<devel_title>Improved Arcane Bowyer</devel_title>?
+Draw two, keep one when attacking with Marksmanship.?
+<devel_title>Great Guard Force</devel_title>?
+Ignore one skirmish threat per year of difficulty Great (4) or less.?
+<devel_title>Superb Guard Force</devel_title>?
+Ignore two skirmish threats per year of difficulty Superb (5) or less.?
+<devel_title>Fantastic Guard Force</devel_title>?
+Ignore three skirmish threats per year of difficulty Fantastic (6) or less.?
+<h1>Warfare Developments</h1>?
+Most of these developments allow the Stronghold to muster different sorts of units for warfare. See the Warfare chapter for unit details and resource costs.?
+<devel_title>Siegecraft</devel_title>?
+May recruit catapult units.?
+<devel_title>Fletcher</devel_title>?
+May recruit archer units.?
+<devel_title>Gunpowder</devel_title>?
+May recruit cannon units.?
+<devel_title>Stables</devel_title>?
+May recruit cavalry units.?
+<devel_title>Barracks</devel_title>?
+May recruit infantry units for war. Ignore one warfare threat of Great (4) difficulty or less each year if total recruited units (not militia) outnumber attacking units.?
+<devel_title>Great Barracks</devel_title>?
+May re-draw on unit Attack checks during a Clash of Arms. Ignore one warfare threat of Superb (5) difficulty or less each year if total recruited units (not militia) outnumber attacking units.?
+<devel_title>Superb Barracks</devel_title>?
+Draw two, keep one on unit Attack checks during a Clash of Arms. Ignore one warfare threat of Fantastic (6) difficulty or less each year if total recruited units (not militia) outnumber attacking units.?
+<devel_title>Keep</devel_title>?
+Place one keep on a target region.?
+<devel_title>Castle</devel_title>?
+Upgrade keep on region to a castle.??

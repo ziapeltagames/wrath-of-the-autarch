@@ -1,0 +1,200 @@
+<chapter>Burgan Vale</chapter>?
+The people of Burgan Vale treat the Veil, the energies which bind the land and the people together, as the centerpiece for every aspect of life. They are not dissuaded by its chaotic side-effects, but instead train intensely to master them, reaching great heights of prowess in channeling and spellcraft. They have concern that others not abuse its power and ruin the scarce sources of mana in the wilds.?
+To this end, they have created The Order of the Eye, a group of channelers who monitor the use of magic in the Realm through sorceries and subterfuge. Initiates of the Order wear blue robes, as a symbol of their station.?
+Part of becoming a powerful channeler is living with less, and this is reflected in the Spartan dwellings the people of Burgan Vale maintain. They are simple wooden structures, functional and clean in design, with not much flourish. The only opulent structure is Arankh, a large tower which raises high above all the other structures in the valley. It is a repository of knowledge, unparalleled in scope and detail.?
+The people of Burgan Vale tend to be reserved in speech and manner, but do succumb to wild abandon during the Festival of Illusions, their summer celebration of the power of sorcerous craft. The night sky lights up in an almost cataclysmic explosion of color, a fitting backdrop to days of spirited competition and debate.
+<table>
+<b>Burgan Vale Regions</b>
+<th><b>Name</b>	<b>Food</b>	<b>Timber</b>	<b>Ore</b>	<b>Mana</b>	<b>Luxuries</b></th>
+<b>Harrow’s Glen</b> - <strong>Mana Forge, Capital</strong>	4	2	0	3	1	
+<b>The Feldmarch</b>	6	0	0	2	0	
+<b>Blue Rock</b> 	3	3	2	3	1	
+</table>
+<h1>Leaders</h1>
+<stats>
+<name>Marellus (Leader)</name>	
+<stress><b>Physical</b>	<fate >3</fate></stress>	
+<stress><b>Mental</b>	<fate >3</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<skill><b>Fantastic (+6)</b>	Lore, Channeling</skill>	
+<skill><b>Superb (+5)</b>	Tactics, Command</skill>	
+<skill><b>Great (+4)</b>	Survival, Wits</skill>	
+<skill><b>Good (+3)</b>	Society, Rapport</skill>	
+<skill><b>Decent (+2)</b>	Will, Marksmanship</skill>	
+<skill><b>Average (+1)</b>	Engineering, Stealth</skill>	
+<aspect>Hierophant of the Blue Robes</aspect>?
+<aspect>Thinks the Best of People</aspect>?
+<aspect>“We are all connected by the Veil.”</aspect>?
+<aspect>Keen Observer of the Human Condition</aspect>
+Starts each conflict with ten mana.?
+<stunt>Fire Strike (Lore)</stunt>?
+<stunt>Hailstorm (Lore)</stunt>	
+</stats>?
+Marellus is the master of the Tower of Arankh and, along with Elisa, the most important figure in the ruling class of Burgan Vale. Marellus is willing to engage militarily if necessary to protect the veil of magic from external threats.?
+<stats>
+<name>Elisa (Leader)</name>
+<stress><b>Physical</b>	<fate >2</fate></stress>	
+<stress><b>Mental</b>	<fate >4</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<skill><b>Superb (+5)</b>	Lore, Channeling</skill>	
+<skill><b>Great (+4)</b>	Society, Wits</skill>	
+<skill><b>Good (+3)</b>	Rapport,  Will</skill>	
+<skill><b>Decent (+2)</b>	Survival, Stealth</skill>	
+<skill><b>Average (+1)</b>	Engineering, Tactics</skill>
+<aspect>Sorceress of Incalculable Age</aspect>?
+<aspect>Keeper of the Forbidden Lore</aspect>?
+<aspect>Teacher of Secrets</aspect>?
+<aspect>Crafter of All Manner of Potions</aspect>
+Starts each conflict with ten mana.?
+<stunt>Web of Lies (Lore)</stunt>?
+<stunt>Glamour (Lore)</stunt>	
+</stats>?
+The spiritual leader of Burgan Vale, Elisa has Marellus’ ear. Elisa is one of the oldest people in the realm, having seen all manor of rulers rise and fall.?
+<stats>
+<name>Alda (Leader)</name> 	
+<stress><b>Physical</b>	<fate >2</fate></stress>
+<stress><b>Mental</b>	<fate >3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>
+<skill><b>Superb (+5)</b>	Survival, Wits</skill>
+<skill><b>Great (+4)</b>	Fighting, Athletics</skill>	
+<skill><b>Good (+3)</b>	Channeling, Stealth</skill>
+<skill><b>Decent (+2)</b>	Command, Rapport</skill>
+<skill><b>Average (+1)</b>	Will, Society</skill>
+<aspect>Horsemaster for Burgan Vale</aspect>
+<aspect>Never Forget a Face</aspect>
+<aspect>Quick and Powerful Frame</aspect>
+<aspect>“I can spot a lie from a mile away.”</aspect>
+<stunt>Clever Guard (Stealth)</stunt>
+</stats>?
+Alda is Elisa’s granddaughter, and has influence into the goings on of Burgan Vale through Elisa. Alda keeps tabs on who comes and goes within Burgan Vale. She has a gruff exterior, and her speech is laced with profanity as a means to disarm those she talks with.?
+<stats>
+<name>Childric (Leader)</name>	
+<stress><b>Physical</b>	<fate >4</fate></stress>	
+<stress><b>Mental</b>	<fate >2</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<skill><b>Superb (+5)</b>	Fighting, Physique</skill>
+<skill><b>Great (+4)</b>	Athletics, Command</skill>	
+<skill><b>Good (+3)</b>	Rapport, Society</skill>
+<skill><b>Decent (+2)</b>	Wits, Survival</skill>	
+<skill><b>Average (+1)</b>	Tactics, Stealth</skill>	
+<aspect>Washed Up Mercenary Captain</aspect>?
+<aspect>Scars of Many Wars</aspect>?
+<aspect>Three Time Longbow Tourney Champion</aspect>?
+<aspect>“Save your pity.”</aspect>	
+<stunt>Favored Weapon (Fighting)</stunt>	
+</stats>?
+Childric is an incredibly popular figure within Burgan Vale, historically a famous entertainer, acrobat, and adventurer after his career as a man-at-arms. Childric is particularly sympathetic to the plight of the downtrodden.?
+<stats>
+<name>Amalger (Leader)</name>	
+<stress><b>Physical</b>	<fate >3</fate></stress>	
+<stress><b>Mental</b>	<fate >3</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<skill><b>Superb (+5)</b>	Tactics, Command</skill>	
+<skill><b>Great (+4)</b>	Lore, Channeling</skill>	
+<skill><b>Good (+3)</b>	Fighting, Engineering</skill>
+<skill><b>Decent (+2)</b>	Physique, Society</skill>
+<skill><b>Average (+1)</b>	Wits, Rapport</skill>	
+<aspect>Commander of the Phoenix Brigade</aspect>
+<aspect>Man of Few Words</aspect>
+<aspect>Mana Infused Scimitars</aspect>?
+<aspect>“Get moving, you sniveling bookworm!”</aspect>	
+<stunt>Combined Arms (Tactics)</stunt>	
+</stats>?
+Amalger is in charge of the military within Burgan Vale, focusing on using battle mages as the primary force of arms.??
+<h1>Diplomacy</h1>?
+Marellus is the clear head of Burgan Vale, although he greatly values Elisa’s opinion. In general, Marellus is a fairly straight shooter, preferring to keep intentions above board.?
+The people of Burgan Vale have a deep love of nature and a close relationship to the mana that is a core part of their life. Diplomacy challenges can build on these elements.?
+<b>Base Difficulty:</b> 4?
+<h2>Sample Challenges</h2>?
+<list>
+Impress Marellus during a reception inside the tower of Arankh.?
+Answer to an inquiry of the Order of the Eye.?
+Help Elisa recover mana infused blue rock.?
+Gather luminous moss for the Festival of Illusion.?
+Tune the mana forge.?
+Decipher an ancient text on the history of the vale.
+</list>?
+<h1>Infiltration</h1>?
+Burgan Vale doesn’t invest heavily in guards or defenses from spies. Most of the arcane knowledge they have is very difficult to master and doesn’t lend itself to theft. As with everything related to Burgan Vale, the sense of the arcane should be played up.?
+<b>Base Difficulty:</b> 4?
+<h2>Sample Challenges</h2>?
+<list>
+Establish base of operations within the The Lifted Veil archiving workshop.?
+Meet Celsa, Order of the Eye contact, on the North Moors.?
+Leverage Aemon’s wily advances.?
+Find reagents to stop a Dweomer of Discovering.
+</list>?
+<h1>Skirmish</h1>?
+If it comes to blows with Burgan Vale, the heroes will meet resistance from select members of the Phoenix Guard, a talented group of mages specializing in attack spells. Marellus and Childric are also good leaders to use in a skirmish.?
+<b>Base Difficulty:</b> 5?
+<h2>Sample Challenges</h2>?
+<list>
+Put out fires within Obsidian Wood after a Phoenix Guard assault.?
+Attack a perimeter of zombie guardians resurrected from the graveyards of the Stronghold.?
+Attack an Electric Quickling from range, avoiding its paralyzing touch.?
+Track your quarry by following the aetheric currents.
+</list>?
+<h1>Warfare</h1>?
+Burgan Vale has a large number of battle mages (known as the Phoenix Guard) at their disposal, so present a decent challenge in warfare. Amalger is a solid leader, after which it is better to build lieutenants.?
+<b>Base Difficulty:</b> 5	?
+<h2>Sample Challenges</h2>?
+<list>
+Recover lost troop morale from a Ritual of Terror.?
+Defend against a rain of fire from the Phoenix Guard.?
+Take the Hill of the Lonely Stone from a small contingent of archers.?
+Attack a perimeter of undead guardians.
+</list>
+<mission>Thedda’s Palimpsest</mission>
+<missionentry>
+<table>
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	6	
+</table>
+</missionentry>?
+Before anyone inhabited the Vale, there stood a solitary gray tower at the base of massive granite cliffs. No life existed around the tower, no birds flew and no trees grew. Those who found a way inside the tower spoke of a sad man living within, withered and cold, immune to death. The people of Burgan Vale called him the Gray Recluse, and came to understand that if left alone, he posed no threat. When treated aggressively, he turned all those that dared confront him into mindless golems of flesh.?
+Thedda was the greatest channeler ever to live within Burgan Vale. Such was her power that she could pull mana from barren earth and detect eddies in the veil from the casting of spells miles away. The Gray Recluse, fearing she might learn his secrets, walked out into a night lit by the full moon and stole her away to his tower. But Thedda saw this before it happened, and put all of her knowledge and spirit in a book made of hatchling dragonskin vellum. These pages she covered with mundane writings on star orbits in order to conceal the book until such time as it could be recovered by the people of the Vale.?
+Marellus and Elisa found evidence Thedda left behind of the existence of this book, and are willing to share its location if they think the heroes will use it for aims they support.?
+<h2>Sample Challenges</h2>?
+The Gray Recluse is mostly unconcerned about the threat the heroes pose. He is usually happy to entertain guests, at least until he bores of their presence or they make a misstep.?
+<list>
+Overcome foreboding on the Trail of Fireflies.?
+Align the looking glass in the Chamber of Astromancy.?
+Open the first vault by capturing the light of the North Star.?
+Sneak past the rows of animated heads.?
+Engage in a philosophical discussion with the Gray Recluse.
+</list>?
+<h2>Opposition</h2>?
+The Gray Recluse and one zombie minion per hero.
+<stats>
+<name>The Gray Recluse (Leader)</name>	
+<stress><b>Physical</b>	<fate >4</fate></stress>	
+<stress><b>Mental</b>	<fate >4</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate>, -6 <fate >1</fate></stress>	
+<skill><b>Fantastic (+6)</b>	Lore, Channeling</skill>	
+<skill><b>Superb (+5)</b>	Will, Wits</skill>	
+<skill><b>Great (+4)</b>	Rapport, Survival</skill>	
+<skill><b>Good (+3)</b>	Physique, Marksmanship</skill>	
+<skill><b>Decent (+2)</b>	Stealth, Society</skill>	
+<skill><b>Average (+1)</b>	Fighting, Rapport</skill>	
+<aspect>Ancient Lich of the Northern Wastes</aspect>?
+<aspect>Older Than the First Tree</aspect>?
+<aspect>Source of Infernal Magic</aspect>?
+<aspect>A Great and Powerful Sorcerer</aspect>
+The Gray Recluse begins the conflict with 10 mana.?
+<stunt>Fire Strike (Lore)</stunt>?
+<stunt>Hail Storm (Lore)</stunt>?
+<stunt>Arcane Defense (Channeling)</stunt>	
+</stats>?
+The Gray Recluse likely hangs back once the conflict begins, using ranged magical attacks against the heroes. If the heroes ever bunch up, it can use the Hail Storm.?<stats>
+<name>Tomb Guardian (Minion)</name>	
+<stress><b>Physical</b>	<fate >3</fate></stress>	
+<skill><b>Fantastic (+6)</b>	Fighting</skill>
+<skill><b>Superb (+5)	Athletics</skill>
+<skill><b>Great (+4)</b>	Physique</skill>	
+<aspect>Dedicated Skeletal Guardians</aspect>?
+<aspect>Razor Sharp Scythes</aspect>	
+<stunt>Favored Weapon (Fighting)</stunt>
+</stats>?
+The Tomb Guardians can be spread out and used to slow down the heroes from reaching the Gray Recluse.?
+<h2>Resolution</h2>?
+When Thedda’s Palimpsest is read, her spirit enters one of the heroes present. They must change one of their aspects to reflect this. All the casters from the Stronghold start each session with five additional mana.

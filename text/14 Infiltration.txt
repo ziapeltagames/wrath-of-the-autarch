@@ -1,0 +1,86 @@
+<chapter>Infiltration</chapter>
+Infiltration is used for covert operations targeting a physical installation (called <term>the house</term>). It is the conflict used for Assassination and Sabotage missions. Whether stealing secret arcane formulae or laying waste to an ore refinery, the most important part of Infiltration is the ability to carry out the plan without being detected.  ?
+The heroes must sneak through the target location, avoiding or deceiving guards, while overcoming a number of security challenges (vaults, secure doors, observant guards) in the process. Infiltration is not without risk. It is possible for one or more of the heroes to get caught in that act, leading to their capture.
+<h1>Challenges</h1>
+During the challenge phase, the Stronghold players case the house, working to get access as well as uncover details about the target. The heroes may also try to find a safe house, connect with contacts, or use social engineering to exploit a source. The group can use the challenges as a collaborative vehicle to flesh out the house. Who has access to it? What sort of security measures are in place? What vulnerabilities does it have?
+However, don’t start playing through the conflict. That is, the challenges should touch on the plan, but shouldn’t directly accomplish the mission (stealing the plans, assassinating the target, etc.). That is covered during the conflict.
+<h1>Opposition</h1>
+Most of the opposition comes from <b>guards</b>, minions that try to detect the heroes. If the mission involves a faction, a leader from the faction may take the place of one of the guards.
+<h2>Creating Opposition</h2>
+Guards are built as minions with a skill cap equal to the mission difficulty. Wits is the primary skill for detecting intruders, while Athletics and Fighting are good for detaining them. Giving guards a higher Fighting skill helps push the action toward stealth and fast talking, as overt aggression becomes riskier.?
+<h2>Sample Guards</h2>
+These sample guards can be chosen from as desired. It’s easiest if all the guards share the same template.
+<stats>
+<name>Tough Guard (Minion)</name>
+<aspect>Lives to Crack Heads</aspect>
+<aspect>King of the Brute Squad</aspect>
+<stress><b>Physical</b>  <fate>3</fate></stress>
+<stress><b>Mental</b>  <fate>3</fate></stress>
+<skill><b>Superb (+5)</b>	Fighting	</skill>
+<skill><b>Great (+4)</b>	Wits</skill>
+<skill><b>Good (+3)</b>	Athletics</skill>
+<skill><b>Decent (+2)</b>	Physique</skill>
+<skill><b>Average (+1)</b>	Will</skill>
+<stunt>Torch (Wits)</stunt>	
+</stats>
+<stats>
+<name>Observant Guard (Minion)</name>
+<aspect>”Hey, I haven’t seen you before?”</aspect>
+<aspect>”When’s Lunch?”</aspect>
+<stress><b>Physical</b>  <fate>3</fate></stress>
+<stress><b>Mental</b>  <fate>3</fate></stress>
+<skill><b>Superb (+5)</b>	Wits	</skill>
+<skill><b>Great (+4)</b>	Athletics</skill>
+<skill><b>Good (+3)</b>	Fighting</skill>
+<skill><b>Decent (+2)</b>	Will</skill>
+<skill><b>Average (+1)</b>	Physique</skill>
+<stunt>Torch (Wits)</stunt>	
+</stats>
+<h1>Setup</h1>
+The players collaboratively come up with a plan, make a map of the house, flesh out the security challenges, and then place the heroes, initial guards, and alarms. First, gather together a number of note cards equal to three times the number of Stronghold players for use in creating the zones of the house. Add to this one notecard with the label <aspect>Outside the House</aspect>.
+<h2>Security Challenges</h2>
+As the heroes go through the challenge phase, the players create details about the house. These details form the basis of the plan to crack the house. The heroes are huddled over the table at the back of the inn, drawing out who goes where and when to accomplish the task.
+Mechanically, each stage in the plan is represented as a <term>security challenge</term>. These work very similarly to challenges in the challenge phase. The players must create one security challenge for each hero on the mission. Each security challenge is written on a separate note card. 
+The security challenges are not created using the challenge list. Instead, each challenge has one skill that must be used to overcome it. There must be one Thievery, one Disguise, and one Stealth security challenge. Write these skills on separate note cards. If there are four heroes, add another Thievery security challenge, and if there are five players, add another Disguise challenge.
+Draw one card for each of these security challenges, adding the listed suns and moons to the challenge. The difficulty for the challenge is found by adding the result to the mission difficulty, as it is for regular challenges. When this process is finished, there should be 3 - 5 security challenges on different note cards. These challenges don’t have thematic details or locations associated with them. That will come later.
+<h2>Alarms</h2>
+The Autarch player should write the aspect <aspect>Alarm</aspect> on a number of blank note cards equal to half the heroes (round down). These alarm zones can be used by alerted guards to sound the alarm, bringing in more reinforcements.
+<h2>Create the Map</h2>
+First, place the <aspect>Outside the House</aspect> zone out on the table. Next, shuffle up all of the security challenge cards, the alarm cards, and the remaining blank cards together. The Autarch player and the spotlight player take turns placing the note cards onto the table. The Autarch player goes first, taking the top note card and placing it next to the <aspect>Outside the House</aspect> card. Next, the spotlight player draws a card, and places it adjacent to the card the Autarch player placed.
+The Autarch player and spotlight player alternate turns, placing cards on the table until there are no cards left. Note cards must be placed with one edge adjacent to one or more other note cards. In addition, all zones must be reachable without going outside the house (that is, the house can’t be split into two parts).
+<h2>Detail the Map</h2>
+The group collaboratively comes up with locations for the zones which feature challenges (<aspect>The Hall</aspect>, <aspect>The Courtyard</aspect>, <aspect>The Baron’s Bedchamber</aspect>) and writes them on each card. The spotlight player writes suitably thematic challenge titles on each security challenge card (<aspect>Main Office: Crack the Vault - 5 Thievery</aspect>, <aspect>Library: Convince Baron von Schlefwitz to Retrieve the Tome - 7 Disguise</aspect>).
+<h2>Place Guards</h2>
+The Autarch player starts with a number of guards equal to half the heroes (round down). Each guard is placed on the edge of one of the note cards. It’s fine to place multiple guards on the same zone.
+<h2>Aspect Burning</h2>
+Each free invoke burned can be used to allow a hero unrestricted access to a zone (by default heroes are not allowed in any zones) or add a new zone to the map.
+<h1>The Exchange</h1>
+Each hero takes an action in any order desired by the spotlight player. Next, each guard (or leader) takes one action in any order desired by the Autarch player. Finally, more guards may arrive.
+<h1>Actions</h1>
+When a character takes a turn, they choose one of the actions from the list below. Some actions are only available to heroes while some are only available to the opposition leaders.
+<h2>Suspicion and Alert</h2>?
+If a hero fails any action, the nearest guard gets the aspect <aspect>Suspicious</aspect> with one free invoke. If instead any guards are in the same zone as the hero when an action is failed, each guard in the zone gets the aspect <aspect>Alerted!</aspect> with two free invokes.
+<h2>Preparation</h2>
+Gain a boost if you don’t already have one.
+Any player may attempt to create a minor advantage during their turn, following the normal rules for Create Advantage in the <chapref>Fate</chapref> chapter. Remember that aspects which directly target specific characters should be actively opposed, rather than using the passive opposition of two below the mission difficulty.?
+<h2>Overcome</h2>?
+Players may use Overcome to remove aspects, as well as take one of the actions below.
+<h3>Remove Suspicion and Alerts (Heroes)</h3>
+Since these are just aspects, a hero can attempt to use Overcome to get rid of them, resulting in the guard going back to a normal state. This is typically done using Disguise (opposed by Wits). If the alarm has been raised, this action is not available.?<h3>Detect Intruder (Guards)</h3>
+Guards may attempt to detect a hero in the same zone. The guard uses Wits, opposed by either Stealth (if the hero is hiding) or Disguise (if the hero has a cover identity). Since the hero is in the same, if the hero fails to defend, the guards in the same zone become alerted.
+<h3>Capture Intruder (Guards)</h3>
+Alerted guards may attempt to capture a hero in the same zone. The guard uses Fighting, opposed by either Fighting or Athletics. If the guard is successful, the hero is captured, and both the guard and the hero are removed from the map.
+<h3>Resolve Security Challenge (Heroes)</h3>
+This works basically as it does for the challenge phase. The challenge is removed if the hero succeeds (with the suns causing stress and the moons taking extra shifts as for regular challenges). However, failure is handled a little differently. Instead of failing the challenge and giving the Autarch player a mission aspect, the nearest guard becomes suspicious (as normal for a hero failing an action).
+<h3>Movement</h3>
+Movement for heroes uses Athletics, and functions as described in the <chapref>Conflicts</chapref> chapter. However, because heroes are trying not to attract attention, they must stop movement when entering a zone with a guard or the guard immediately becomes alerted. Alerted guards oppose movement out of the zone.
+Guards <b>patrol</b>, moving only one zone each exchange in the direction they’re facing, turning around when they run out of room. Place guards at one edge of the note card they’re on to indicate the direction they will move next turn. Suspicious and alerted guards move as heroes do.
+<h2>Attack</h2>
+Both guards and heroes may attack using Fighting or Marksmanship. These work as they do in the Skirmish Conflict. If a guard is attacked, the immediately gain the <aspect>Alerted!</aspect> aspect with two free invokes. Furthermore, the nearest guard becomes suspicious from the sounds of battle (gains the <aspect>Suspicious</aspect> with one free invoke).
+<h2>Raise the Alarm (Guards Only)</h2>
+If an alerted guard ends their action in a zone with an alarm, the alarm is sounded. All guards become alerted, and may move and attack freely.?
+<h2>More Guards</h2>
+After each exchange, the Autarch player may place one guard in any empty zone. If the alarm has sounded, the Autarch player may place two guards each exchange.?
+<h1>Resolution</h1>
+The heroes are successful when all the security challenges are completed and at least one hero makes it back <aspect>Outside the House</aspect>.
+If any heroes are caught, the disposition of the faction drops by two. Furthermore, the captured hero is unavailable for any future missions until they are rescued during the Stronghold Upkeep phase.
