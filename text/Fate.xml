@@ -1,155 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root>
-    <Story>
-    <chapter>Fate</chapter> 
-    <p1>
-        <book>Wrath of the Autarch</book> is a game built on the Fate engine, as described in <book>Fate Core</book>, released by Evil Hat Productions. Furthermore, <book>WotA</book> is influenced by other Fate games released prior to Fate Core, in particular, the science fiction RPG <book>Diaspora</book>.</p1> 
-    <p1>If you’re completely unfamiliar with Fate, reading this chapter is fairly important, and grabbing a copy of <book>Fate Core</book> is also very helpful. Alternatively, if you’ve played <book>Fate Core</book>, most of this chapter will be familiar. However, it’s important to read the sections on using dice as well as creating aspects, as these have changed from <book>Fate Core</book>. There are also new ways to earn Fate points in <book>WotA</book> that aren’t part of <book>Fate Core</book>.</p1> 
-    <h1>Actions</h1> 
-    <p1>
-        <book>WotA</book> is built around the same four core actions that <book>Fate Core</book> uses (<term>Overcome</term>, <term>Create an Advantage</term>, <term>Attack</term>, and <term>Defend</term>). These actions are described later in this chapter. When a player takes one of these actions, dice are rolled, added to a skill, and compared to an <term>opposition</term> value. <book>WotA</book> does not use Fate dice, rather it uses the same hobby dice used in games like <book>Dungeons and Dragons</book>.</p1> 
-    <p1>Unless otherwise noted, roll two six sided dice. Designate one of the dice as the <term>help die</term> and the other the <term>harm die</term>. After rolling, the harm die is subtracted from the help die. This generates a bell curve result from +5 to -5.</p1> 
-    <p1>This result is added to a relevant skill and compared to an opposition value. This may be <term>passive opposition</term>, which is a fixed difficulty, such as the difficulty in climbing a wall. There is also <term>active opposition</term>, which involves an opposed roll taken by another player. In this case, the target of the action is usually another character, for instance, when swinging a sword to attack an opponent.is always another character.</p1> 
-    <p1>Rolling less than the opposition value is a failure. The amount below the opposition value is known as the <term>deficit</term>. If the value rolled is equal to the opposition, the result is a tie. Any result higher than the opposition a success, and the difference between the result and the opposition are known as <term>shifts</term>. Gaining three shifts is called success with style, and generally confers extra benefits.</p1> 
-    <h2>Stepping Dice Up and Down</h2> 
-    <p1>To play WotA, a four (d4), six (d6), eight (d8), ten (d10), and twelve (d12) sided die are necessary. Many effects can step up or step down either the help die or the hinder die. This means swapping out one of the six sided dice for the next higher or lower sided die. For example, if two effects allowed the player to step up the help die twice, the player would roll a d10 (the help die stepped up twice) and then subtract a d6 (the base harm die).</p1> 
-    <p1>Unless otherwise noted, all effects that step dice up and down stack with each other. However, the largest die that can ever be rolled is a d12 and the smallest is a d4.</p1> 
-    <h2>The Ladder</h2> 
-    <p1>All skills and action results are rated on what is known as ‘The Ladder’, a series of adjectives that can be used to describe the rank of the skill (its numeric value). Whether to use numbers or adjectives is largely a matter of preference.</p1>  
-    <ul>
-        <l1>+8 Legendary</l1> 
-        <l1>+7 Epic</l1> 
-        <l1>+6 Fantastic</l1> 
-        <l1>+5 Superb</l1> 
-        <l1>+4 Great</l1> 
-        <l1>+3 Good</l1> 
-        <l1>+2 Fair</l1> 
-        <l1>+1 Average</l1> 
-        <l1>0 Mediocre</l1> 
-        <l1>-1 Poor</l1> 
-        <l1>-2 Terrible</l1>
-    </ul> 
-    <h2>Aspects</h2> 
-    <p1>Aspects are short descriptive words and phrases which add flavor to the narrative. Aspects are the most important part of the game, and can be attached to almost anything: characters, factions, regions, relationships, terrain, and more. Furthermore, aspects can be used to give mechanical advantages and disadvantages to die rolls.</p1> 
-    <p1>Character aspects relate to individuals, frequently heroes, and include examples like <aspect>Fiery Temper</aspect> or <aspect>The Last Disciple of the Order of the Eye</aspect>. Aspects which describe a faction might be something like <aspect>Imperialist Magocracy</aspect> or <aspect>Education is not a Priority</aspect>. Aspects may also relate to a region such as <aspect>Flush with Game</aspect> or they may even describe very transient effects, such as <aspect>Ambush Perch</aspect> or <aspect>Slippery Floor</aspect>.</p1> 
-    <p1>See the <book>Fate Core</book> rules for a wealth of information about how to create and use aspects effectively.</p1> 
-    <h1>Fate Points</h1> 
-    <p1>The Fate system uses a currency called Fate points to take advantage of aspects during play. Most Fate players use poker chips to track Fate points, but any sort of token may be used. Each Stronghold player receives a number of Fate points at the start of each mission (this number is almost always three, although it could be modified by other effects) for their hero. The Autarch player receives two Fate points per player at the start of the Conflict. Furthermore, there are many other ways to spend and receive Fate points as listed below.</p1> 
-    <h2>Invoking an Aspect</h2> 
-    <p1>Fate points are spent to <term>invoke</term> aspects. Invoking an aspect gives the character a mechanical advantage, as long as the player can narrate how the aspect in question will help their skill roll. Note, any beneficial aspect may be invoked, not just one on your character sheet. Aspects are invoked <i>after</i> the roll, and one of two effects are chosen.</p1> 
-    <ul>
-        <l1>Reroll the dice</l1> 
-        <l1>Add +2 to the result</l1>
-    </ul> 
-    <p1>There is a restriction on invoking aspects: on any given roll, any single aspect may only be invoked once (although see below about free invokes). The Fate point is from the player’s personal supply, and is either put into the general supply of Fate points or handed to another player (if the aspect invoked belongs to a character that player controls).</p1> 
-    <h2>Enduring an Aspect</h2> 
-    <p1>One of the most straightforward ways to get a Fate point is to <b>endure</b> an aspect. To endure an aspect, the player narrates how the aspect affects them adversely during the skill roll. After doing so, step up the harm die twice. An aspect is <i>endured</i> before the roll.</p1> 
-    <p1>Furthermore, after the roll, no invokes are allowed. The dice are rolled and the result may not be re-rolled or modified. Also, only one aspect may be endured on any given roll. This Fate point is pulled from the general supply of Fate points and given to the player.</p1> 
-    <h2>Compelling an Aspect</h2> 
-    <p1>Compels are an agreement between the players at the table to place a character into a difficult situation for dramatic benefit. This occurs outside the scope of making a roll, and shouldn’t have any sort of hard mechanical effect. Rather, it is purely a narrative consideration that increases tension and puts the character into a tough spot. For example, a character with the I Hunt Alone aspect may be compelled to head off into the woods alone, not waiting for his compatriots to come along. If the table can’t reach a consensus on a suitable compel, it may be ignored. This is a depature from Fate Core, where a player must buy off a compel with Fate points. This Fate point is pulled from the general supply of Fate points and given to the player.</p1> 
-    <h2>Other Uses</h2> 
-    <p1>There are other ways to get and spend Fate points that are special to the Challenge phase and to the different Conflicts. Those uses are detailed in the specific chapters where they are used.</p1> 
-    <h1>Creating Aspects</h1> 
-    <p1>Frequently during play, the players will want to make new aspects. Bringing new aspects into play is usually done with the Create an Advantage action detailed later in this chapter. Aspects are defined both by their scope (<term>permanent</term>, <term>mission</term>, and <term>phase</term>) and what they are attached to.</p1> 
-    <h2>Free Invokes</h2> 
-    <p1>Whenever a new aspect is created through the Create an Advantage action, the first time it is invoked, the player invoking or compelling it does not have to spend a fate point. The player who created the aspect has the final say in what players are allowed this free invoke, also subject to how the aspect fits within the current situation.</p1> 
-    <p1>Sometimes an aspect will have more than one free invoke, allowing it to be invoked more than once for free. Furthermore, free invokes may be combined with the spending of a fate point, thus breaking the rule that an aspect may be invoked at most once on any given roll. An aspect with two free invokes could be used to add +6 to a roll (if both free invokes are used and additionally a fate point is spent).</p1> 
-    <h3>Rule of Two</h3> 
-    <p2>Even though aspects may have more than two free invokes, at most two free invokes may be used on any particular roll.</p2> 
-    <h2>Permanent Aspects</h2> 
-    <p1>Permanent aspects are, as their name implies, permanent. They tend to be more significant than other aspects, as they are a long lasting fact about the world. Permanent aspects relate to a region, faction, or a hero.</p1> 
-    <p1>The aspect is written on the Stronghold Sheet if it relates to the Stronghold or a region under the Stronghold’s control, the Factions Sheet if it relates to another, or on the Character Sheet if it relates to a hero.</p1> 
-    <p1>Note that modifying the Stronghold’s aspects or one of the heroes’ aspects is not covered under the Create an Advantage rules. This action creates new aspects, and the heroes and the Stronghold start the campaign with their full contingent of aspects.</p1> 
-    <example>Terri is playing the character Gwynnet. Traveling through the Dusk’s Ayrie, she has the idea of creating a new permanent aspect related to nature. “I’m thinking that Gwynnet discovers some sort of healing plants in the area using her Nature skill.” The table loves the idea. Terri rolls Gwynnet’s Nature skill, and succeeds in her Create an Advantage action. She writes down <aspect>Restorative Red Berries of Gumja Shrubs</aspect> under the Dusk’s Ayrie region of the Stronghold sheet. Besides adding to the story, these berries may be freely invoked sometime later on down the road – perhaps when someone is injured!</example> 
-    <h3>Don’t Contradict What Exists</h3> 
-    <p1>Creating permanent aspects is a powerful way to create the world and propel the story forward. Characters and factions start the game with certain aspects. These aspects may not be modified or contradicted by newly created permanent aspects. Permanent aspects augment and complement what already exists in the world. There are other methods to change the aspects for the heroes from the Stronghold.</p1> 
-    <h3>Rule of Two Continued</h3> 
-    <p1>Furthermore, the Stronghold, each region, each faction, and each hero may have no more than two permanent aspects created in this way. The aspects may have any number of free invokes. The aspects may also be changed if it’s okay with the player who created the aspect.</p1> 
-    <h2>Mission Aspects</h2> 
-    <p1>The mission aspects are in play for the duration of a mission. As such, they are frequently created during the Challenge phase to set up advantages during the Conflict.</p1> 
-    <p1>Both permanent and mission aspects are generally only created during the Challenge phase. Because the Conflict is the final phase of the mission, mission aspects and phase aspects have the same duration, so it doesn’t make much sense to construct mission aspects. The permanent aspects, on the other hand, usually reflect some measure of research and time investment that usually isn’t possible during the focused time restrictions of a Conflict. More detail is given in the <chapref>Missions</chapref> chapter and the different Conflict chapters.</p1> 
-    <h2>Phase Aspects</h2> 
-    <p1>Phase aspects are generally only useful for a narrow range of time. For instance, a player could use <skill>Science</skill> to construct a <aspect>Makeshift Bridge</aspect> when trying to cross a gorge. Even though a bridge is in many ways permanent, by making it a phase aspect, it is understood that the bridge will be used only during the Challenge phase, maybe to help cross a rampaging river, and won’t make another appearance later. Changing the tactical landscape of a fight during a Skirmish, by placing a <aspect>Brush Fire</aspect> aspect on an area of ground, might also be a phase aspect.</p1> 
-    <h2>Boosts</h2> 
-    <p1>Boosts are one use aspects. They are created with on free invoke and typically are a side effect of certain action types or stunts. The duration of a boost may be any length of time (boosts can be permanent, mission, or phase), but once it is used, the aspect goes away. Boosts are usually created as a side effect of various stunts or certain rolls.</p1> 
-    <p1>Boosts that are going to be used soon don’t even have to be named. Instead, a player can use a poker chip of a different color, and just use it as a Fate point. This helps creative fatigue by not naming really minor advantages that are going to be used on the next action.</p1> 
-    <h2>Tracking Aspects</h2> 
-    <p1>Any system can be used to track free invokes and boosts. One system that works fairly well is to draw open square boxes next to free invokes, which are then filled in if the aspect is invoked for free. If boosts are written down, they can then be tracked by open circles, and the entire aspect is removed when it is used.</p1> 
-    <h1>Leveraging Aspects</h1> 
-    <p1>More so than many role-playing games, <book>WotA</book> greatly aided by the participation of the players in the flowing narrative.  Aspects are one of primary ways this can happen. While they do give mechanical hooks into narrative traits, they are also facts about the world. They help to define people, places, and things.</p1> 
-    <p1>Since WotA has such a tight restriction on scenes and actions, creating these facts allows the players to set up actions in the future. For instance, a player could use their character’s <aspect>Society</aspect> skill to declare that a tribe of kobolds live nearby. Later, another character could use the Thieves Tools stunt to steal from them.</p1> 
-    <h2>Aspect Crafting</h2> 
-    <p1>Making aspects can take some practice. In particular, aspects for the characters and Stronghold are ideally able to be interpreted positively and negatively. For instance, <aspect>Reacts Without Thinking</aspect> could allow a character to act quickly when danger is discovered, but it could also be compelled to get the character into trouble.</p1> 
-    <p1>Without aspects which are easy to compel or endur, it becomes very difficult to gain Fate points. Similarly, if an aspect is difficult to invoke, it won’t provide as much mechanical benefit. See the Fate Core book for lots of guidance on the subject.</p1> 
-    <p1>Giving aspect color adds to the story. For instance, a character could be a <aspect>Swordmaster</aspect> or they could be a <aspect>Master of the Nine Blade Whirlwind Technique</aspect>. Sure, they probably both apply in similar situations, but the latter is far more suggestive of details and story hooks to uncover later.  Granted, every aspect doesn’t have to be that way, it’s hard to add much color to a <aspect>Brush Fire</aspect> in an area, and frequently a character is just <aspect>Flanked</aspect> or <aspect>Ambushed</aspect>.</p1> 
-    <h2>Aspect Burning</h2> 
-    <p1>Aspect burning is a very powerful concept covered in the different Conflict chapters (<chapref>Diplomacy</chapref>, <chapref>Infiltration</chapref>, <chapref>Skirmish</chapref>, and <chapref>Warfare</chapref>). In a nutshell, it’s a way to turn aspects into other mechanical things covered in the rules, like sidekicks or military units. It can also be used to modify how the Conflict is setup, by adjusting how the situation is physically laid out or to give either side various advantages.</p1> 
-    <h1>Core Actions</h1> 
-    <p1>There are four types of actions taken by the players which are used throughout these rules. They are Create an Advantage, Overcome, Attack, and Defend. These actions may have slightly different uses depending on whether they’re taken during the Challenge phase or during one of the Conflicts, but for the most part they work as described here.</p1> 
-    <p1>Each of the core actions involves a skill check – either against passive or active opposition. The Attack and Defend actions are almost always against active opposition. Also, the Attack and Defend actions are only useable with some skills, while the Create an Advantage and Overcome actions are possible using any skill.</p1> 
-    <h2>
-        <fate>C</fate>Create an Advantage</h2> 
-    <p1>The Create an Advantage action is the method by which players create new aspects on their turn. It can also be used to add more free invokes to an aspect already in play (this is called <term>refreshing</term> the aspect).</p1> 
-    <p1>If the aspect is created against passive opposition, the difficulty for the skill check is based on how long the aspect will remain in play.  The longer, and thus more impactful the aspect is, the more difficult it is to create. The difficulty is based on the difficulty of the mission (how to find mission difficulties is discussed in the <chapref>Missions</chapref> chapter).</p1> 
-    <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="4" aid:tcols="2">
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-            <b>Aspect Type</b>
-        </Cell>
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">
-            <b>Opposition</b>
-        </Cell>
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Permanent</Cell>
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mission Difficulty + 1</Cell>
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mission</Cell>
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mission Difficulty</Cell>
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Phase</Cell>
-        <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="131.5">Mission Difficulty - 1</Cell>
-    </Table>
-    <p1>If creating the aspect involves active opposition, it is opposed by a relevant skill the opponent possesses. Aspects created in such a manner are considered permanent until the target uses an Overcome Obstacle action to remove them, or the fiction changes in such a way that they become irrelevant.</p1> 
-    <example>Trying to create the <aspect>Flanked</aspect> aspect on the ogre targets the beast, so it merits an opposed <skill>Athletics</skill> check, or some other relevant skill, to create.</example> 
-    <p1>Find the result based on the outcome of the roll compared with the opposition.</p1> 
-    <ul>
-        <l1><b>Failure. </b>If a player fails the roll, either no aspect is created, or the Autarch player can create an aspect, which may not entirely be what the player had in mind. The aspect may not be invoked for free.</l1> 
-        <l1><b>Tie. </b>In the case of a tie, the player creates a boost. The scope of the boost will be the same (so a mission boost will last the whole mission), but as usual, it may only be invoked once, for free, and then it is removed from play.</l1> 
-        <l1><b>Success. </b>Create an aspect of the appropriate scope which may be invoked once for free.</l1> 
-        <l1><b>Success with Style. </b>In this case, the aspect is created as usual, but it may be invoked twice for free, rather than once.  Draw two free invokes on the aspect.</l1>
-    </ul> 
-    <h3>Refreshing Aspects</h3> 
-    <p1>In addition to adding new aspects, free invokes may be refreshed on aspects in play using the Create an Advantage action. The procedure is the same – make a relevant skill check against a difficulty based on the opposition. On success, one free invoke is added to the target aspect, and on a success with style, two free invokes are added.</p1> 
-    <h2><fate>o</fate> Overcome</h2> 
-    <p1>Overcome is a catch all action that involves any activity with uncertainty which isn’t a direct attack on another character. Climbing over walls, disarming traps, and even moving quickly around the battlefield are all instances of the Overcome action. The difficulty for these actions is detailed more in the chapters for the <chapref>Challenge Phase</chapref> and the different Conflicts.</p1> 
-    <p1>This action may be used to remove an aspect from play. If this aspect is actively being maintained by another character, then getting rid of it will involve active opposition. For instance, getting rid of the thief’s <aspect>Hiding in the Shadows</aspect> would be opposed by the thief’s <aspect>Stealth</aspect> skill.</p1> 
-    <p1>Getting rid of an aspect that is not actively maintained has the same difficulty as creating the aspect does (it’s based on the scope and mission difficulty). Of course, a character attempting this action must have a skill that could feasibly remove the aspect in the given situation.</p1> 
-    <p1>Find the result based on the outcome of the roll compared with the opposition.</p1> 
-    <ul>
-        <l1><b>Fail.  </b>The default is that the player fails their action. This could involve further penalties depending on whether the failure occurs in the Challenge Phase or the Conflict phase.</l1> 
-        <l1><b>Tie. </b>On a tie, the player may create a phase duration boost, related somehow to the action.</l1> 
-        <l1><b>Success. </b>If the target was an aspect, it is removed from play. If the target had a stress track, add stress to the stress track equal to the number of shifts.</l1> 
-        <l1><b>Success with Style. </b>Same as the general success case, but the player may create a mission duration boost as well.</l1>
-    </ul> 
-    <h2><fate>a</fate>Attack</h2> 
-    <p1>The attack action isn’t used at all during the Challenge phase. It occurs fairly frequently during the Conflicts. The attack action is very broad in use. It covers not just physical attacks, but could involve a volley of arrows from a unit, or a hero attempting to seduce or intimidate another character. It’s any action where the target is another character and the goal is to inflict physical or mental stress.</p1> 
-    <p1>The opposition of the attack roll is always active, with the results given below.</p1> 
-    <ul>
-        <l1><b>Fail. </b>Unsuccessful attack. This could mean the defender gets a boost (see the Defend action).</l1> 
-        <l1><b>Tie. </b>On a tie, the player may create a phase duration boost, related to the attack.</l1> 
-        <l1><b>Success. </b>The target takes stress equal to the number of shifts rolled.</l1> 
-        <l1><b>Success with Style. </b>Same as the general success case, but the attacker may create a phase duration boost as well.</l1>
-    </ul> 
-    <h2><fate>d</fate> Defend</h2> 
-    <p1>Defend is a little different than the other three actions. It’s not a proactive action, but rather any reaction where active opposition is needed by a character. Failure to defend is really just handled by one of the success cases in the other action types. The real utility of the Defend action is just to clarify which sorts of skills can be used to defend against which sorts of attacks or Overcome actions.</p1> 
-    <p1>However, if a player Succeeds with Style while taking a Defend action, they get a boost that lasts for the phase.</p1> 
-    <h2>Taking Stress</h2> 
-    <p1>Attacks and some uses of the Overcome action may result with the target taking stress. Note that anything in the game with a stress track (Challenges, certain elements in Warfare) takes stress in the same fashion.</p1> 
-    <p1>When stress is taken, the target may fill in open boxes on an applicable stress track to lower stress. The stress is reduced by an amount equal to the position of the open stress box filled in on the track.</p1> 
-    <example>Catrin is hit by an Ogre’s club and takes three physical stress. She fills in the second physical stress box on her track, which lowers the amount of stress taken by two. She still has one stress remaining. She could fill in the first physical stress box if it were open to get rid of the remainder of stress.</example> 
-    <p1>If this doesn’t get rid of all the stress, open consequences may be filled in to get rid of the rest. The level of the consequence determines the amount of stress that is reduced in this way. A minor consequence can take two stress, a major can take four, and a severe can take six.</p1> 
-    <example>Next, Catrin uses her minor consequence slot, which is still open to reduce the remaining stress point. She writes <aspect>Bruised Arm</aspect> in her minor consequence slot. This lowers the stress taken by two, getting rid of the remaining stress. The ogre (or some other character) can use the free invoke on this new consequence in order to do more damage to Catrin later.</example> 
-    <p1>If a character or target can’t negate the stress by filling in boxes on a relevant stress track and taking any number of consequences, they are taken out. This can mean different things, depending on how it happens, but usually means they are not available anymore in the campaign.</p1> 
-    <h1>Designer’s Notes</h1> 
-    <p1>The two biggest depatures from <book>Fate Core</book> are the dice used and the concept of enduring aspects. I personally love the aesthetic quality that the classic hobby polyhedrals have, and I tend to miss them in longer term campaigns. Using two six sided dice gives a somewhat similar curve to Fate dice, although it’s clearly flatter and thus produces greater swings of luck. For <book>WotA</book>, this has tended to produce more interesting results, and the game can withstand them because of the troupe style of play it employs.</p1> 
-    <p1>The idea of stepping up and down polyhedral dice is a feature of <book>Dungeon Crawl Classics</book>. It’s a very tactile way to benefit from stunts and developments.</p1> 
-    <p1>The other benefit to using step dice is that it opens the door to an easy to remember mechanical way to get Fate points. Even good Fate GMs don’t always do a good job of keeping Fate points flowing, so I’ve employed a number of player facing methods to do this. The terminology for “enduring” an aspect comes from <book>Chronica Fuedalis</book>, which is also a Fate inspired medieval game.</p1> 
-    <p1>This concept of a mechanical system from hindering aspects is also a big part of Cortex+, which lets the player gain Fate-like currency by using skills in a potentially negative way. It’s also nice in a game that has more tactical elements to have an easier mechanical way to get Fate points.</p1>
-    </Story>
-</Root>
