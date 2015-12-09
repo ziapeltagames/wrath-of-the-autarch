@@ -1,245 +1,273 @@
-<chapter>Lily Manor</chapter>?
-Lily Manor is the hub of culture, science, and trade throughout the Realm. Rather than protect themselves with military might, the people of Lily Manor protect themselves with secrets. Secrets gained by embedding agents in every nook and cranny throughout the world. These secrets form powerful deterrents to invasion.?
-It is good for the people of Lily Manor that they command the reluctant aid of other factions, as they hold a level of wealth and opulence only rivaled by the Autarch. This is gained through shrewd and aggressive trading with every other faction, even venturing into the Gravewood.?
-Besides wealth and trade, science and knowledge are highly prized within the borders of Lily Manor. They preciously guard vaults of lore detailing the practices and peoples of the world around them.?
-Lily Manor is rules by a small number of provincial leaders, the speakers, chosen from among the population every year during the longest night of the winter. These positions are open to anyone cutthroat enough to engage in the sorts of byzantine political maneuvering necessary for success.?
-Sex and love aren’t closely related for the people of Lily Manor. Most people, even those in somewhat committed relationships, tend to have multiple sexual partners from various walks of life. While pronouncements of love are very rare, and reflect honor and a certain measure of trust more than a physical bond.????
-<h1>Leaders</h1>?
+<chapter>Lily Manor</chapter>
+Lily Manor is the hub of culture, science, and trade throughout the Realm. Rather than protect themselves with military might, the people of Lily Manor protect themselves with secrets. Secrets gained by embedding agents in every nook and cranny throughout the world. These secrets form powerful deterrents to invasion.
+It is good for the people of Lily Manor that they command the reluctant aid of other factions, as they hold a level of wealth and opulence only rivaled by the Autarch. This is gained through shrewd and aggressive trading with every other faction, even venturing into the Gravewood.
+Besides wealth and trade, science and knowledge are highly prized within the borders of Lily Manor. They preciously guard vaults of lore detailing the practices and peoples of the world around them.
+Lily Manor is rules by a small number of provincial leaders, the speakers, chosen from among the population every year during the longest night of the winter. These positions are open to anyone cutthroat enough to engage in the sorts of byzantine political maneuvering necessary for success.
+Sex and love aren’t closely related for the people of Lily Manor. Most people, even those in somewhat committed relationships, tend to have multiple sexual partners from various walks of life. While pronouncements of love are very rare, and reflect honor and a certain measure of trust more than a physical bond.
+<list>
+<aspect>Secrets are Power</aspect>
+<aspect>We Have Eyes Everywhere</aspect>
+<aspect>Bound by Your Word</aspect>
+<aspect>Words are Weapons</aspect>
+</list>
+<h2>Names</h2>
+Atiq, Bakkar, Idris, Fatil, Himas, Mudar, Tawd, Walyd, Sa’led, Zuhr, Atika, Arwa, Hamida, Lanu, Nisa, Nuzha, Rasis, Salma, Ulu, Zahra
+<h2>Regions</h2>
+<table>
+<th>Name	Ramparts	Food	Timber	Ore	Mana	Luxuries</th>
+Caster’s Edge (Capital)	Castle	0	2	0	0	0
+Nalah Farms	0	0	0	0	0
+Goldspike	Keep	0	1	0	0	0
+</table>
+<h2>Mission Difficulty</h2>
+<list>
+Diplomacy: 6
+Infiltration: 5
+Skirmish: 4
+Warfare: 3
+</list>
+<h2>Units</h2>
+Militia: 6
+Infantry: 6
+Archers: 9
+Cavalry: 4
+<h1>Leaders</h1>
 <stats>
-<name>Zarrah (Leader)</name> 	
-<stress><b>Physical</b> <fate>3</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	<b>Fantastic (+6)</b>	Rapport, Society	
-<skill><b>Superb (+5)</b>	Wits, Stealth	</skill>
-<skill><b>Great (+4)</b>	Disguise, Will	</skill>
-<skill><b>Good (+3)</b>	Thievery, Lore	</skill>
-<skill><b>Decent (+2)</b>	Command, Physique	</skill>
-<skill><b>Average (+1)</b>	Engineering, Athletics	</skill>
-<aspect>Confident Speaker for Lily Manor</aspect>?
-<aspect>“Art and culture live and die with Lily Manor”</aspect>?
-<aspect>“You have no idea what you’re talking about”</aspect>?
+<name>Zarrah (Leader)</name>
+<stress><b>Physical</b> <fate>3</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Fantastic (+6)</b>	Rapport, Society</skill>
+<skill><b>Superb (+5)</b>	Wits, Stealth</skill>
+<skill><b>Great (+4)</b>	Disguise, Will</skill>
+<skill><b>Good (+3)</b>	Thievery, Lore</skill>
+<skill><b>Decent (+2)</b>	Command, Physique</skill>
+<skill><b>Average (+1)</b>	Engineering, Athletics</skill>
+<aspect>Confident Speaker for Lily Manor</aspect>
+<aspect>“Art and culture live and die with Lily Manor”</aspect>
+<aspect>“You have no idea what you’re talking about”</aspect>
 <aspect>Excellent Judge of Character</aspect>	
 <stunt>Convincing (Rapport) </stunt>	
-</stats>?
+</stats>
 The wise and savvy leader of Lily Manor, and thus the primary speaker for all the provinces. Looking to expand Lily Manor’s sphere of influence into the Stronghold, through underhanded tactics if necessary.?
 <stats>
-<name>Sut (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Society, Wits	</skill>
-<skill><b>Great (+4)</b>	Rapport, Fighting	</skill>
-<skill><b>Good (+3)</b>	Athletics, Physique	</skill>
-<skill><b>Decent (+2)</b>	Survival, Will	</skill>
-<skill><b>Average (+1)</b>	Engineering, Tactics	</skill>
-<aspect>Speaker for Brass Manor</aspect>?
-<aspect>Crafter of Inscrutable Contracts</aspect>?
-<aspect>Emotionally Invested in Idris</aspect>?
-<aspect>Addicted to Yellow Lotus Powder</aspect>	
-<stunt>Authoritative Voice (Society)</stunt>	
-</stats>?
-Zarrah consults Sut when coming up with plans for trade agreements and other contractual details. Furthermore, Sut is very close to Idris, and they have a trusting bond with each other.?
+<name>Sut (Leader)</name> 
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Society, Wits</skill>
+<skill><b>Great (+4)</b>	Rapport, Fighting</skill>
+<skill><b>Good (+3)</b>	Athletics, Physique</skill>
+<skill><b>Decent (+2)</b>	Survival, Will</skill>
+<skill><b>Average (+1)</b>	Engineering, Tactics</skill>
+<aspect>Speaker for Brass Manor</aspect>
+<aspect>Crafter of Inscrutable Contracts</aspect>
+<aspect>Emotionally Invested in Idris</aspect>
+<aspect>Addicted to Yellow Lotus Powder</aspect>
+<stunt>Authoritative Voice (Society)</stunt>
+</stats>
+Zarrah consults Sut when coming up with plans for trade agreements and other contractual details. Furthermore, Sut is very close to Idris, and they have a trusting bond with each other.
 <stats>
-<name>Karraq (Leader)</name> 	
-<stress><b>Physical</b> <fate>3</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Tactics, Wits	</skill>
-<skill><b>Great (+4)</b>	Command, Society	</skill>
-<skill><b>Good (+3)</b>	Engineering, Rapport	</skill>
-<skill><b>Decent (+2)</b>	Fighting, Physique	</skill>
-<skill><b>Average (+1)</b>	Survival, Will	</skill>
-<aspect>Ambassador of War</aspect>?
-<aspect>Keen Appraiser</aspect>?
-<aspect>“A little grease never hurt the wheels of commerce”</aspect>?
-<aspect>“When pushed, use overwhelming force”</aspect>	
-<stunt>Coordinated Strike (Tactics)</stunt>	
-</stats>?
-Zarrah’s ambassador of war, Karraq has Zarrah’s ear regarding the status of other factions and the worthiness of various investments.?
+<name>Karraq (Leader)</name> 
+<stress><b>Physical</b> <fate>3</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Tactics, Wits</skill>
+<skill><b>Great (+4)</b>	Command, Society</skill>
+<skill><b>Good (+3)</b>	Engineering, Rapport</skill>
+<skill><b>Decent (+2)</b>	Fighting, Physique</skill>
+<skill><b>Average (+1)</b>	Survival, Will</skill>
+<aspect>Ambassador of War</aspect>
+<aspect>Keen Appraiser</aspect>
+<aspect>“A little grease never hurt the wheels of commerce”</aspect>
+<aspect>“When pushed, use overwhelming force”</aspect>
+<stunt>Coordinated Strike (Tactics)</stunt>
+</stats>
+Zarrah’s ambassador of war, Karraq has Zarrah’s ear regarding the status of other factions and the worthiness of various investments.
 <stats>
-<name>Azene (Leader)</name> 	
-<stress><b>Physical</b> <fate>3</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Disguise, Wits	</skill>
-<skill><b>Great (+4)</b>	Stealth, Thievery	</skill>
+<name>Azene (Leader)</name> 
+<stress><b>Physical</b> <fate>3</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Disguise, Wits</skill>
+<skill><b>Great (+4)</b>	Stealth, Thievery</skill>
 <skill><b>Good (+3)</b>	Marksmanship, Tactics	</skill>
 <skill><b>Decent (+2)</b>	Command, Will	</skill>
-<skill><b>Average (+1)</b>	Physique, Engineering	</skill>
-<aspect>Obedient Assassin</aspect>?
-<aspect>Woman of 1,000 Faces</aspect>?
-<aspect>“What are you trying to hide?”</aspect>?
-<aspect>“I know things you don’t want revealed”</aspect>	
-<stunt>Trapmaster (Thievery)</stunt>	
-</stats>?
-Azene is one of the principal characters involved in infiltrating other factions. Her advice guides the leaders of all the houses, and she has the ear of Zarrah.?
+<skill><b>Average (+1)</b>	Physique, Engineering</skill>
+<aspect>Obedient Assassin</aspect>
+<aspect>Woman of 1,000 Faces</aspect>
+<aspect>“What are you trying to hide?”</aspect>
+<aspect>“I know things you don’t want revealed”</aspect>
+<stunt>Trapmaster (Thievery)</stunt>
+</stats>
+Azene is one of the principal characters involved in infiltrating other factions. Her advice guides the leaders of all the houses, and she has the ear of Zarrah.
 <stats>
-<name>Idris (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Fighting, Athletics	</skill>
-<skill><b>Great (+4)</b>	Physique, Wits	</skill>
+<name>Idris (Leader)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Fighting, Athletics</skill>
+<skill><b>Great (+4)</b>	Physique, Wits</skill>
 <skill><b>Good (+3)</b>	Survival, Stealth	</skill>
-<skill><b>Decent (+2)</b>	Marksmanship, Disguise	</skill>
-<skill><b>Average (+1)</b>	Rapport, Will	</skill>
-<aspect>Zarrah’s Personal Guard</aspect>?
-<aspect>Master of the Three Blades</aspect>?
-<aspect>“Enough talk!”</aspect>?
-<aspect>“Initiative is everything”</aspect>	
-<stunt>Favored Weapon (Fighting)</stunt>	
-</stats>?
-Idris serves as Zarrah’s main guard. Idris is also more than capable of handling any heavy lifting that needs doing.??
-<h1>Diplomacy</h1>?
-The people of Lily Manor are at once more open and liberated than most of the other factions, yet also coldly calculating. Lily Manor relies very heavily on trade, mostly for food, and have perfected diplomacy to an art form.?
-<b>Base Difficulty:</b> 6?
-<h2>Sample Challenges</h2>?
+<skill><b>Decent (+2)</b>	Marksmanship, Disguise</skill>
+<skill><b>Average (+1)</b>	Rapport, Will</skill>
+<aspect>Zarrah’s Personal Guard</aspect>
+<aspect>Master of the Three Blades</aspect>
+<aspect>“Enough talk!”</aspect>
+<aspect>“Initiative is everything”</aspect>
+<stunt>Favored Weapon (Fighting)</stunt>
+</stats>
+Idris serves as Zarrah’s main guard. Idris is also more than capable of handling any heavy lifting that needs doing.
+<h1>Diplomacy</h1>
+The people of Lily Manor are at once more open and liberated than most of the other factions, yet also coldly calculating. Lily Manor relies very heavily on trade, mostly for food, and have perfected diplomacy to an art form.
+<b>Base Difficulty:</b> 6
+<h2>Sample Challenges</h2>
 <list>
-Impress Zarrah during a tour of the Lotus Gallery.?
-Avoid getting hustled while playing four card split.?
-Fend off assassination attempt on Sut’s life by Brass Manor rivals.?
-Dodge jail time after heisting valuable idol from the Lotus Gallery.?
-Help Karraq determine the authenticity of a recovered idol.?
-Weather the fever dreams of a yellow lotus trip gone bad.?
+Impress Zarrah during a tour of the Lotus Gallery.
+Avoid getting hustled while playing four card split.
+Fend off assassination attempt on Sut’s life by Brass Manor rivals.
+Dodge jail time after heisting valuable idol from the Lotus Gallery.
+Help Karraq determine the authenticity of a recovered idol.
+Weather the fever dreams of a yellow lotus trip gone bad.
 Help Tanifah organize the library.
-</list>?
-<h2>Opposition</h2>?
-If possible, at least Zarrah and Sut should be chosen as for diplomacy conflicts.?
-<h1>Infiltration</h1>?
-Lily Manor is in the business of gathering and keeping secrets, so they have a well developed spy network. The arm of security responsible for gaining and keeping secrets is known as the Bloodguard.?
-<b>Base Difficulty:</b> 5?
-<h2>Sample Challenges</h2>?
+</list>
+<h2>Opposition</h2>
+If possible, at least Zarrah and Sut should be chosen as for diplomacy conflicts.
+<h1>Infiltration</h1>
+Lily Manor is in the business of gathering and keeping secrets, so they have a well developed spy network. The arm of security responsible for gaining and keeping secrets is known as the Bloodguard.
+<b>Base Difficulty:</b> 5
+<h2>Sample Challenges</h2>
 <list>
-Detect Azene tracking the hero’s movement.?
-Use Sut’s lotus addiction to gain blackmail material.?
-Create cover identity at Master Ruh’s House of Pleasures.?
-Steal key from Lanu, Captain of the Bloodguard.?
+Detect Azene tracking the hero’s movement.
+Use Sut’s lotus addiction to gain blackmail material.
+Create cover identity at Master Ruh’s House of Pleasures.
+Steal key from Lanu, Captain of the Bloodguard.
 Map out Brass Manor guardhouse.
-</list>?
-<h2>Opposition</h2>?
-Azene and (less so) Idris are good choices for leaders to use during infiltration missions, along with basic guards.?
-<h1>Skirmish</h1>?
-Skirmish isn’t a strong suit for Lily Manor, but if necessary, they can use their limited muscle to attack the Stronghold. The core military units, which may be employed in a skirmish style attack, are known as the Grayblades.?
-<b>Base Difficulty:</b> 4?
-<h2>Opposition</h2>?
-If Idris is alive, she will lead any skirmish attacks on the Stronghold.?
-<h2>Sample Challenges</h2>?
+</list>
+<h2>Opposition</h2>
+Azene and (less so) Idris are good choices for leaders to use during infiltration missions, along with basic guards.
+<h1>Skirmish</h1>
+Skirmish isn’t a strong suit for Lily Manor, but if necessary, they can use their limited muscle to attack the Stronghold. The core military units, which may be employed in a skirmish style attack, are known as the Grayblades.
+<b>Base Difficulty:</b> 4
+<h2>Opposition</h2>
+If Idris is alive, she will lead any skirmish attacks on the Stronghold.
+<h2>Sample Challenges</h2>
 <list>
-Interrogate Salma, a scout for the Grayblades.?
-Administer aid from lotus poison dart trap.?
-Fight off a small contingent of Grayblades.?
+Interrogate Salma, a scout for the Grayblades.
+Administer aid from lotus poison dart trap.
+Fight off a small contingent of Grayblades.
 Avoid Idris’ ambush.
-</list>?
-<h1>Warfare</h1>?
-Warfare is a last resort for Lily Manor, preferring to rely on other allies for military purposes.?
-<b>Base Difficulty:</b> 3?
-<h2>Opposition</h2>?
-The only military general of any note is Karraq. He will lead any units pledged as allies.?
-<h2>Sample Challenges</h2>?
+</list>
+<h1>Warfare</h1>
+Warfare is a last resort for Lily Manor, preferring to rely on other allies for military purposes.
+<b>Base Difficulty:</b> 3
+<h2>Opposition</h2>
+The only military general of any note is Karraq. He will lead any units pledged as allies.
+<h2>Sample Challenges</h2>
 <list>
-Chart a path through the wastes east of Goldspike.?
-Fight off advanced Grayblade contingent.?
-Clean out Scorpion Mite infection within barracks.?
+Chart a path through the wastes east of Goldspike.
+Fight off advanced Grayblade contingent.
+Clean out Scorpion Mite infection within barracks.
 Quell outbreak of yellow lotus addiction.
-</list>?<mission>The Sapphire Djinn</mission>?<missionentry>
-<table><b>Conflict</b>	Skirmish	<b>Difficulty</b>	6	
-</table></missionentry>?
-One of Zarrah’s chief rivals is Crow Manor, a house with rapidly growing influence. This influence is due mainly to the help of the Sapphire Djinn. A generation ago, the Sapphire Djinn hid from a necromancer that was chasing it by possessing the farmhand Arwa. Even better for the Djinn, Arwa was pregnant with quadruplets. The Djinn passed through to the quadruplets, and used them as vessels to carry out its desires.?
-The Sapphire Djinn enjoys harassing humans that have power, and bargaining for tribute from the vessels willing to do the dirty work. The Sapphire Djinn guided the decisions of Arwa’s children, and helped them grow into charismatic leaders who pose a major threat to Zarrah’s power. Zarrah is aware that a djinn is behind the success of Crow Manor, but is unable to use magical means to stop the spirit. Zarrah realizes that the heroes may have more success bargaining for the djinn’s services, simultaneously giving the Stronghold an ally, and removing an irritating threat to her rule.?
-Zarrah The Sapphire Djinn enjoys harassing humans that have power, and bargaining for tribute from the vessels willing to do the dirty work. The Sapphire Djinn has caused much damage to Zarrah and Lily Manor, but is growing bored with tormenting her. The heroes can approach the four descendents of Arwa: Lanwa the geometer, Mudar the torturer, Ulu the speaker, and Tawd the brothelatelier, and attempt to win over the Djinn’s support.?
-<h2>Sample Challenges</h2>?
-<list>
-Convince Zarrah the heroes won’t use the djinn’s power against her.?
-Resist the temptations of Tawd’s House of Delights.?
-Navigate the treacherous streets of Crow Manor.?
-Persuade Ulu’s retinue to grant the heroes an audience.?
-Help Mudar capture a cattle thief.
-</list>?
-<h2>Opposition</h2>?
-The heroes must address the issues posed by the djinn in it’s currently split form. It’s vessels aren’t completely aware of the extent to which they’re being controlled. The djinn has imparted four parts of its essence into the descendents of Arwa.?
-<stats>
-<name>Ulu</name> 	<b>Type</b>	Leader	
-<stress><b>Physical</b>	<fate>4</fate></stress>	
-<stress><b>Mental</b>	<fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Society, Rapport	</skill>
-<skill><b>Great (+4)</b>	Wits, Command	</skill>
-<skill><b>Good (+3)</b>	Will, Physique	</skill>
-<skill><b>Decent (+2)</b>	Tactics, Lore	</skill>
-<skill><b>Average (+1)</b>	Channeling, Thievery	</skill>
-<aspect>Reckless Speaker for Crow Manor</aspect>?
-<aspect>A Champion of the Common Man</aspect>?
-<aspect>Visions of a Utopian Future</aspect>?
-<aspect>Shadow of the Sapphire Djinn’s Ambition</aspect>	
-<stunt>Crafty (Rapport)</stunt>	
-</stats>?
-Ulu has made her mark quickly within Crow Manor, displacing the previous speaker and winning the hearts and minds of the people. Ulu’s stellar rise quickly brought her to Zarrah’s attention. Ulu is a true people’s champion and a reformer.?
-<stats>
-<name>Lanwa</name> 	<b>Type</b>	Leader	
-<stress><b>Physical</b>	<fate>3</fate></stress>	
-<stress><b>Mental</b>	<fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Lore, Rapport	</skill>
-<skill><b>Great (+4)</b>	Society, Command	</skill>
-<skill><b>Good (+3)</b>	Wits, Will	</skill>
-<skill><b>Decent (+2)</b>	Channeling, Marksmanship	</skill>
-<skill><b>Average (+1)</b>	Survival, Stealth	</skill>
-<aspect>Inquisitive Geometer</aspect>?
-<aspect>A Keen Perception</aspect>?
-<aspect>Wielder of Logic and Reason</aspect>?
-<aspect>Shadow of the Sapphire Djinn’s Ambition</aspect>	
-<stunt>Power of Grace (Society)</stunt>	
-</stats>?
-Lanwa is consumed by a desire to measure and catalog all that she sees around her. She spends most of her time mixing reagents and cataloging math theorems. This knowledge is put to good use by Lanwa to give Crow Manor a leg up.?
-<stats>
-<name>Mudar</name> 	<b>Type</b>	Leader	
-<stress><b>Physical</b>	<fate>4</fate></stress>	
-<stress><b>Mental</b>	<fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Physique, Command	</skill>
-<skill><b>Great (+4)</b>	Society, Wits	</skill>
-<skill><b>Good (+3)</b>	Will, Rapport	</skill>
-<skill><b>Decent (+2)</b>	Disguise, Athletics	</skill>
-<skill><b>Average (+1)</b>	Fighting, Marksmanship	</skill>
-<aspect>Dedicated Torturer</aspect>?
-<aspect>“With a heavy heart I will use my tools.”</aspect>?
-<aspect>A Tool for Every Occasion</aspect>?
-<aspect>Shadow of the Sapphire Djinn’s Vengeance</aspect>	
-<stunt>Intense Gaze (Command)</stunt>	
-</stats>?
-Mudar is consumed with a horrific lust for vengeance. This takes the form of endlessly meting out his brand of painful justice from a bottomless well of anger. Mudar is willing to do whatever Ulu asks of him in the name of the safety and security of Crow Manor.?
-<stats>
-<name>Tawd</name> 	<b>Type</b>	Leader	
-<stress><b>Physical</b>	<fate>3</fate></stress>	
-<stress><b>Mental</b>	<fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Rapport, Wits	</skill>
-<skill><b>Great (+4)</b>	Society, Command	</skill>
-<skill><b>Good (+3)</b>	Disguise, Will	</skill>
-<skill><b>Decent (+2)</b>	Athletics, Thievery	</skill>
-<skill><b>Average (+1)</b>	Survival, Lore	</skill>
-<aspect>Sensual Brothelatelier</aspect>?
-<aspect>“Your sexual proclivities are not judged here”</aspect>?
-<aspect>Tall, Dark, and Handsome</aspect>?
-<aspect>Shadow of the Sapphire Djinn’s Passion</aspect>	
-<stunt>Sensual Whispers (Society)</stunt>	
-</stats>?
-Tawd is a hedonist of the first order, and enjoys all manner of pleasures. Tawd’s house of pleasure is renowned as a place where even the staunchest will is broken and noble and farmer alike are broken down and become slaves to passion.?
-<h2>Setup</h2>?
-Use all four descendents of Arwa, if necessary balancing the sides by limiting actions for the larger side as described in the Diplomacy chapter. A good theme for issues is trust. The Sapphire Djinn wants.?
-<h2>Sample Issues</h2>?
-<list>
-Working too close with Zarrah?
-Will to topple the Autarch?
-A fear of the arcane arts?
-The value of freedom?
-The future of Crow Manor
-</list>?
-<h2>Resolution</h2>?
-The heroes need to successfully address three of the five issues in order to gain the support of the Sapphire Djinn. Any unaddressed issues become campaign aspects for the Autarch Player, with one free invoke each.?
-<h2>The Sapphire Djinn</h2>?
-If they gain the djinn’s support, it inhabits one of the heroes. The hero must change one aspect to reflect this new power. At the start of and mission including the hero, the djinn may use its vast knowledge to aid the heroes. The heroes start with one mission aspect with two free invokes. Furthermore, in diplomacy missions with the hero, the Stronghold players may place two influence on any issues before the conflict starts.
-<table><b>Lily Manor Regions</b>	<b>Name</b>	<b>Food</b>	<b>Timber</b>	<b>Ore</b>	<b>Mana</b>	<b>Luxuries</b>	<b>Caster’s Edge</b> - 
-<aspect>Castle, Capital</aspect>	2	3	1	2	3	<b>Nalah Farms</b>	3	1	0	0	1	<b>Goldspike</b> - 
-<aspect>Keep</aspect>	2	2	2	0	1	
+</list>
+<mission>The Sapphire Djinn</mission>
+<missionentry>
+<table>
+<b>Conflict</b>	Skirmish	<b>Difficulty</b>	6
 </table>
+</missionentry>
+One of Zarrah’s chief rivals is Crow Manor, a house with rapidly growing influence. This influence is due mainly to the help of the Sapphire Djinn. A generation ago, the Sapphire Djinn hid from a necromancer that was chasing it by possessing the farmhand Arwa. Even better for the Djinn, Arwa was pregnant with quadruplets. The Djinn passed through to the quadruplets, and used them as vessels to carry out its desires.
+The Sapphire Djinn enjoys harassing humans that have power, and bargaining for tribute from the vessels willing to do the dirty work. The Sapphire Djinn guided the decisions of Arwa’s children, and helped them grow into charismatic leaders who pose a major threat to Zarrah’s power. Zarrah is aware that a djinn is behind the success of Crow Manor, but is unable to use magical means to stop the spirit. Zarrah realizes that the heroes may have more success bargaining for the djinn’s services, simultaneously giving the Stronghold an ally, and removing an irritating threat to her rule.
+Zarrah The Sapphire Djinn enjoys harassing humans that have power, and bargaining for tribute from the vessels willing to do the dirty work. The Sapphire Djinn has caused much damage to Zarrah and Lily Manor, but is growing bored with tormenting her. The heroes can approach the four descendents of Arwa: Lanwa the geometer, Mudar the torturer, Ulu the speaker, and Tawd the brothelatelier, and attempt to win over the Djinn’s support.
+<h2>Sample Challenges</h2>
+<list>
+Convince Zarrah the heroes won’t use the djinn’s power against her.
+Resist the temptations of Tawd’s House of Delights.
+Navigate the treacherous streets of Crow Manor.
+Persuade Ulu’s retinue to grant the heroes an audience.
+Help Mudar capture a cattle thief.
+</list>
+<h2>Opposition</h2>
+The heroes must address the issues posed by the djinn in it’s currently split form. It’s vessels aren’t completely aware of the extent to which they’re being controlled. The djinn has imparted four parts of its essence into the descendents of Arwa.
+<stats>
+<name>Ulu (Leader)</name>
+<stress><b>Physical</b>	<fate>4</fate></stress>
+<stress><b>Mental</b>	<fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Society, Rapport</skill>
+<skill><b>Great (+4)</b>	Wits, Command	</skill>
+<skill><b>Good (+3)</b>	Will, Physique</skill>
+<skill><b>Decent (+2)</b>	Tactics, Lore</skill>
+<skill><b>Average (+1)</b>	Channeling, Thievery</skill>
+<aspect>Reckless Speaker for Crow Manor</aspect>
+<aspect>A Champion of the Common Man</aspect>
+<aspect>Visions of a Utopian Future</aspect>
+<aspect>Shadow of the Sapphire Djinn’s Ambition</aspect>
+<stunt>Crafty (Rapport)</stunt>
+</stats>
+Ulu has made her mark quickly within Crow Manor, displacing the previous speaker and winning the hearts and minds of the people. Ulu’s stellar rise quickly brought her to Zarrah’s attention. Ulu is a true people’s champion and a reformer.
+<stats>
+<name>Lanwa (Leader)</name>
+<stress><b>Physical</b>	<fate>3</fate></stress>
+<stress><b>Mental</b>	<fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Lore, Rapport</skill>
+<skill><b>Great (+4)</b>	Society, Command</skill>
+<skill><b>Good (+3)</b>	Wits, Will</skill>
+<skill><b>Decent (+2)</b>	Channeling, Marksmanship</skill>
+<skill><b>Average (+1)</b>	Survival, Stealth	</skill>
+<aspect>Inquisitive Geometer</aspect>
+<aspect>A Keen Perception</aspect>
+<aspect>Wielder of Logic and Reason</aspect>
+<aspect>Shadow of the Sapphire Djinn’s Ambition</aspect>
+<stunt>Power of Grace (Society)</stunt>
+</stats>
+Lanwa is consumed by a desire to measure and catalog all that she sees around her. She spends most of her time mixing reagents and cataloging math theorems. This knowledge is put to good use by Lanwa to give Crow Manor a leg up.
+<stats>
+<name>Mudar (Leader)</name>
+<stress><b>Physical</b>	<fate>4</fate></stress>
+<stress><b>Mental</b>	<fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Physique, Command</skill>
+<skill><b>Great (+4)</b>	Society, Wits</skill>
+<skill><b>Good (+3)</b>	Will, Rapport</skill>
+<skill><b>Decent (+2)</b>	Disguise, Athletics</skill>
+<skill><b>Average (+1)</b>	Fighting, Marksmanship	</skill>
+<aspect>Dedicated Torturer</aspect>
+<aspect>“With a heavy heart I will use my tools.”</aspect>
+<aspect>A Tool for Every Occasion</aspect>
+<aspect>Shadow of the Sapphire Djinn’s Vengeance</aspect>
+<stunt>Intense Gaze (Command)</stunt>
+</stats>
+Mudar is consumed with a horrific lust for vengeance. This takes the form of endlessly meting out his brand of painful justice from a bottomless well of anger. Mudar is willing to do whatever Ulu asks of him in the name of the safety and security of Crow Manor.
+<stats>
+<name>Tawd (Leader)</name>
+<stress><b>Physical</b>	<fate>3</fate></stress>
+<stress><b>Mental</b>	<fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Rapport, Wits</skill>
+<skill><b>Great (+4)</b>	Society, Command</skill>
+<skill><b>Good (+3)</b>	Disguise, Will</skill>
+<skill><b>Decent (+2)</b>	Athletics, Thievery</skill>
+<skill><b>Average (+1)</b>	Survival, Lore</skill>
+<aspect>Sensual Brothelatelier</aspect>
+<aspect>“Your sexual proclivities are not judged here”</aspect>
+<aspect>Tall, Dark, and Handsome</aspect>
+<aspect>Shadow of the Sapphire Djinn’s Passion</aspect>
+<stunt>Sensual Whispers (Society)</stunt>
+</stats>
+Tawd is a hedonist of the first order, and enjoys all manner of pleasures. Tawd’s house of pleasure is renowned as a place where even the staunchest will is broken and noble and farmer alike are broken down and become slaves to passion.
+<h2>Setup</h2>
+Use all four descendents of Arwa, if necessary balancing the sides by limiting actions for the larger side as described in the Diplomacy chapter. A good theme for issues is trust. The Sapphire Djinn wants.?
+<h2>Sample Issues</h2>
+<list>
+Working too close with Zarrah
+Will to topple the Autarch
+A fear of the arcane arts
+The value of freedom
+The future of Crow Manor
+</list>
+<h2>Resolution</h2>
+The heroes need to successfully address three of the five issues in order to gain the support of the Sapphire Djinn. Any unaddressed issues become campaign aspects for the Autarch Player, with one free invoke each.
+<h2>The Sapphire Djinn</h2>
+If they gain the djinn’s support, it inhabits one of the heroes. The hero must change one aspect to reflect this new power. At the start of and mission including the hero, the djinn may use its vast knowledge to aid the heroes. The heroes start with one mission aspect with two free invokes. Furthermore, in diplomacy missions with the hero, the Stronghold players may place two influence on any issues before the conflict starts.
