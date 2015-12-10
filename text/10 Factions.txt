@@ -1,51 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<chapter>
-<chapter>Factions</chapter>?
-The seven factions in <i>WotA</i> are the Stronghold, the Empire of the Autarch, and the five minor factions. Each of these factions have stability attributes, as well as aspects, developments, regions, and leaders. Additionally, disposition towards other factions is tracked for the Stronghold and threat pools are tracked for the Empire.?
-<h1>Faction Attributes</h1>?
-Factions only have one core attribute: stability.?
-<h2>Stability</h2>?
-Stability measures the cohesion and unity within the faction. As it lowers, the faction becomes more disorganized and easier to target. Mission difficulties lower if their stability drops below -2. Alternatively, if a faction has a higher disposition, mission difficulties become harder. ?
-For the Stronghold, higher stability gives heroes additional fate points at the start of missions. Lower stability mean heroes start with fewer fate points.?
-<h1>Common Features</h1>?
-All factions share aspects, leaders, regions, developments, and units. The minor factions (as well as the resistance within the Empire) also have trade charts.?
-<h2>Aspects</h2>?
-Every faction has aspects, which function similarly to character aspects. These may be invoked whenever the faction is playing an important part in the mission. For the Stronghold, this is every mission. Aspects also help to give color to each faction. Faction aspects may be invoked by any character provided they’re relevant.?
-<h2>Leaders</h2>?
-Each faction has a set of leaders that may be used in missions with that faction. Most of the leaders are best suited for Trade missions, but some factions have competent military leaders as well.?
-As with the heroes of the Stronghold, the faction leaders aren’t necessarily members of the ruling class, but are instead people are highly skilled for a variety of reasons.?
-<h2>Names</h2>?
-In the chapters for each faction are a list of appropriate names common to the faction. These are useful during missions when a new minor character is needed.?
-<h2>Regions</h2>?
-Regions are large areas of land that contain important resources. There are a set of neutral regions available for Exploration by the Stronghold (see the Neutral Regions chapter for a list). The exact location of regions is left purposefully vague, although regions may be drawn on the map as they are acquired.??<h3>Resources</h3>?
-Regions provide food, timber, ore, mana, and luxuries. Only the Stronghold tracks the seasonal uptake of resources.?
-The values for resources represent fairly abstract quantities of the materials in question. Food is the amount of food necessary to feed one population for one season. Mana is a transient resource, channeled into vessels for trade, although this weakens its potency and makes it useless for spells. Finally, luxuries are any compact high value goods, such as gold, gems, or rare spices and herbs.?<h3>Capital</h3>?
-Each faction has one region which is their <term>capital</term>. If this region should fall as a result of military action, the faction will collapse. When defending a capital, a faction doesn’t have limits on the number of units that may be used.?
-<h2>Developments</h2>?
-Only the Stronghold uses developments. For things like units, other factions either have a fixed amount for the campaign (minor faction) or can gain them in different ways (Empire).?<h3>Mission Difficulty</h3>?
-The other primary effect that developments have for the factions is to set the mission difficulty. If one of these developments is sabotaged, the mission difficulty for the faction will decrease. See the Developments chapter for more details.??
-<h2>Units</h2>?
-Available units, like developments, are fixed for minor factions during the campaign. If a unit is lost in battle, it may not be replaced. The Empire gains units by investing points in the warfare threat pool, while the Stronghold gains new units by expending resources during the build developments phase.?
-<h2>Trade Charts</h2>?
-Each of the minor factions (as well as the underground resistance of the Empire) has access to a trade chart. The trade charts list available and desired goods for Trade missions.?
-<h1>Faction Collapse</h1>?
-If a faction’s capital falls in warfare, it collapses and is no longer in the campaign. A faction with no capital doesn’t generate threats, may not trade goods or contribute units to allies, and they may not be the target of any missions.?
-Factions may still defend their other regions using any remaining troops they have available. But they will not mount any offensive attacks.?
-If the Stronghold collapses for any reason, the campaign is over, and the Empire has emerged victorious.?
-<h1>The Stronghold</h1>?
-The Stronghold has many of the same attributes as the rest of the factions. Since the Stronghold is the focal point of the campaign, there is additional tracking and growth that takes place.?
-<h2>Stronghold Aspects</h2>?
-The Stronghold’s aspects are help to define the theme of the campaign. They are invoked, endured, and compelled as the other faction aspects. They may only be changed during the Winter season.?
-<h2>Campaign Aspects</h2>?
-On the Stronghold Sheet is space for campaign aspects created during play. The number of slots on the Stronghold Sheet is a limiter on how many can be created. The free invokes on campaign aspects are frequently burned to create assets and units, although they may be used like any other aspect.?
-<h2>Disposition</h2>?
-The disposition with other minor factions is tracked on the Trade Sheet. If the disposition is five or higher, the minor faction in question becomes a full ally of the Stronghold, and will contribute units during military battle. In addition, the higher the disposition for a minor faction, the more goods are available as part of trade agreements.?
-A low disposition with another faction opens the possibility for the use of campaign threats from the enemy faction against the Stronghold. If the disposition with another faction drops to negative four or less, the faction becomes and ally with the Autarch, and will contribute units in military battle.?
-<h1>The Empire</h1>?
-As with the Stronghold, the Empire changes and evolves over the course of the campaign and has a few additional elements that must be tracked.?
-<h2>Threat Pools</h2>?
-The biggest difference between the Empire and the other minor factions is the use of threat pools. Each Spring the Autarch player may increase one threat difficulty.?
-<h2>Units</h2>?
-The Empire gains additional units when their warfare threat pool increases. The total units received are listed in <chapref>The Empire</chapref> chapter.</chapter>
-<table><b>Mission Difficulties</b>		<b>Diplomacy</b>	<b>Infiltration</b>	<b>Skirmish</b>	<b>Warfare</b>	<b>Empire</b>	4*, 5*	4*	4*	4*	<b>Burgan Vale</b>	4	5	4	5	<b>Crescent Hold</b>	3	4	6	5	<b>Gravewood</b>	5	6	3	4	<b>Lily Manor</b>	6	5	4	3	<b>Sunriders</b>	4	3	5	6	
+<chapter>Factions</chapter>
+The seven factions in <i>WotA</i> are the Stronghold, the Empire of the Autarch, and the five minor factions. Each of these factions have stability attributes, as well as aspects, developments, regions, and leaders. Additionally, disposition towards other factions is tracked for the Stronghold and threat pools are tracked for the Empire.
+<h1>Faction Attributes</h1>
+Factions only have one core attribute: stability.
+<h2>Stability</h2>
+Stability measures the cohesion and unity within the faction. As it lowers, the faction becomes more disorganized and easier to target. Mission difficulties lower if their stability drops below -2. Alternatively, if a faction has a higher disposition, mission difficulties become harder.
+For the Stronghold, higher stability gives heroes additional fate points at the start of missions. Lower stability mean heroes start with fewer fate points.
+<h1>Common Features</h1>
+All factions share aspects, leaders, regions, developments, and units. The minor factions (as well as the resistance within the Empire) also have trade charts.
+<h2>Aspects</h2>
+Every faction has aspects, which function similarly to character aspects. These may be invoked whenever the faction is playing an important part in the mission. For the Stronghold, this is every mission. Aspects also help to give color to each faction. Faction aspects may be invoked by any character provided they’re relevant.
+<h2>Leaders</h2>
+Each faction has a set of leaders that may be used in missions with that faction. Most of the leaders are best suited for Trade missions, but some factions have competent military leaders as well.
+As with the heroes of the Stronghold, the faction leaders aren’t necessarily members of the ruling class, but are instead people are highly skilled for a variety of reasons.
+<h2>Names</h2>
+In the chapters for each faction are a list of appropriate names common to the faction. These are useful during missions when a new minor character is needed.
+<h2>Regions</h2>
+Regions are large areas of land that contain important resources. There are a set of neutral regions available for Exploration by the Stronghold (see the Neutral Regions chapter for a list). The exact location of regions is left purposefully vague, although regions may be drawn on the map as they are acquired.
+<h3>Resources</h3>
+Regions provide food, timber, ore, mana, and luxuries. Only the Stronghold tracks the seasonal uptake of resources.
+The values for resources represent fairly abstract quantities of the materials in question. Food is the amount of food necessary to feed one population for one season. Mana is a transient resource, channeled into vessels for trade, although this weakens its potency and makes it useless for spells. Finally, luxuries are any compact high value goods, such as gold, gems, or rare spices and herbs.
+<h3>Capital</h3>
+Each faction has one region which is their <term>capital</term>. If this region should fall as a result of military action, the faction will collapse. When defending a capital, a faction doesn’t have limits on the number of units that may be used.
+<h2>Developments</h2>
+Only the Stronghold uses developments. For things like units, other factions either have a fixed amount for the campaign (minor faction) or can gain them in different ways (Empire).
+<h3>Mission Difficulty</h3>
+The other primary effect that developments have for the factions is to set the mission difficulty. If one of these developments is sabotaged, the mission difficulty for the faction will decrease. See the Developments chapter for more details.
+<h2>Units</h2>
+Available units, like developments, are fixed for minor factions during the campaign. If a unit is lost in battle, it may not be replaced. The Empire gains units by investing points in the warfare threat pool, while the Stronghold gains new units by expending resources during the build developments phase.
+<h2>Trade Charts</h2>
+Each of the minor factions (as well as the underground resistance of the Empire) has access to a trade chart. The trade charts list available and desired goods for Trade missions.
+<h1>Faction Collapse</h1>
+If a faction’s capital falls in warfare, it collapses and is no longer in the campaign. A faction with no capital doesn’t generate threats, may not trade goods or contribute units to allies, and they may not be the target of any missions.
+Factions may still defend their other regions using any remaining troops they have available. But they will not mount any offensive attacks.
+If the Stronghold collapses for any reason, the campaign is over, and the Empire has emerged victorious.
+<h1>The Stronghold</h1>
+The Stronghold has many of the same attributes as the rest of the factions. Since the Stronghold is the focal point of the campaign, there is additional tracking and growth that takes place.
+<h2>Stronghold Aspects</h2>
+The Stronghold’s aspects are help to define the theme of the campaign. They are invoked, endured, and compelled as the other faction aspects. They may only be changed during the Winter season.
+<h2>Campaign Aspects</h2>
+On the Stronghold Sheet is space for campaign aspects created during play. The number of slots on the Stronghold Sheet is a limiter on how many can be created. The free invokes on campaign aspects are frequently burned to create assets and units, although they may be used like any other aspect.
+<h2>Disposition</h2>
+The disposition with other minor factions is tracked on the Trade Sheet. If the disposition is five or higher, the minor faction in question becomes a full ally of the Stronghold, and will contribute units during military battle. In addition, the higher the disposition for a minor faction, the more goods are available as part of trade agreements.
+A low disposition with another faction opens the possibility for the use of campaign threats from the enemy faction against the Stronghold. If the disposition with another faction drops to negative four or less, the faction becomes and ally with the Autarch, and will contribute units in military battle.
+<h1>The Empire</h1>
+As with the Stronghold, the Empire changes and evolves over the course of the campaign and has a few additional elements that must be tracked.
+<h2>Threat Pools</h2>
+The biggest difference between the Empire and the other minor factions is the use of threat pools. Each Spring the Autarch player may increase one threat difficulty.
+<h2>Units</h2>
+The Empire gains additional units when their warfare threat pool increases. The total units received are listed in <chapref>The Empire</chapref> chapter.
+<table>
+<b>Mission Difficulties</b>
+<b>Diplomacy</b>	<b>Infiltration</b>	<b>Skirmish</b>	<b>Warfare</b>
+<b>Empire</b>	4*, 5*	4*	4*	4*
+<b>Burgan Vale</b>	4	5	4	5
+<b>Crescent Hold</b>	3	4	6	5
+<b>Gravewood</b>	5	6	3	4
+<b>Lily Manor</b>	6	5	4	3
+<b>Sunriders</b>	4	3	5	6
 </table>
