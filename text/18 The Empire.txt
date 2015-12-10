@@ -1,32 +1,43 @@
-<chapter>The Empire</chapter>?
-The machinations of the Autarch are the core focus of the game. The specific variety of pain and grief inflicted on the Stronghold will vary, but the question of what steps and sacrifices the Stronghold makes in dealing with this threat is the central theme of the campaign.?
-The Empire of the Autarch is vast and expansive, although it is slowly rotting from within, only propped up by its inexorable expansion. The state is referred to from within as the United Freetraders and from without as either the Freetraders or simply the Empire.?
-At the start of the campaign, the Autarch is at war with a numerous, though not very sophisticated people known as the Plainsmen. As that war winds down over the next three or four years, the Autarch begins harassing the Stronghold using more aggressive techniques.?
-Life under the Autarch is very stratified. At the top is the Autarch, the first among the citizens and the ultimate authority on most matters. The Subtect holds the next most important position, able to step up to fill the Autarch’s duties for a temporary period if something happens to the Autarch. The Subtect is a key diplomat – the Autarch typically remains within the Empire’s confines.?
-The backbone of the Empire is built from a large number of guilds. The grandmasters from each of these guilds form a senate which is responsible for making most of the important decisions, with occasional and sometimes contentious advisement from the Autarch.?
-The Autarch rules for life. A replacement is not elected, but rather open to a candidates able to pass The Hollowing, a grueling test of magical might administered by the Mana Guild.
+<chapter>The Empire</chapter>
+The machinations of the Autarch are the core focus of the game. The specific variety of pain and grief inflicted on the Stronghold will vary, but the question of what steps and sacrifices the Stronghold makes in dealing with this threat is the central theme of the campaign.
+The Empire of the Autarch is vast and expansive, although it is slowly rotting from within, only propped up by its inexorable expansion. The state is referred to from within as the United Freetraders and from without as either the Freetraders or simply the Empire.
+At the start of the campaign, the Autarch is at war with a numerous, though not very sophisticated people known as the Plainsmen. As that war winds down over the next three or four years, the Autarch begins harassing the Stronghold using more aggressive techniques.
+Life under the Autarch is very stratified. At the top is the Autarch, the first among the citizens and the ultimate authority on most matters. The Subtect holds the next most important position, able to step up to fill the Autarch’s duties for a temporary period if something happens to the Autarch. The Subtect is a key diplomat – the Autarch typically remains within the Empire’s confines.
+The backbone of the Empire is built from a large number of guilds. The grandmasters from each of these guilds form a senate which is responsible for making most of the important decisions, with occasional and sometimes contentious advisement from the Autarch.
+The Autarch rules for life. A replacement is not elected, but rather open to a candidate able to pass The Hollowing, a grueling test of magical might administered by the Mana Guild.
+<list>
+<aspect>Autarch is the First Among Citizens</aspect>
+<aspect>Vast Network of Spies</aspect>
+<aspect>Council of 100 Guildmasters</aspect>
+<aspect>Economy of Expansion</aspect>
+</list>
+<h2>Names</h2>
+Aitark, Arcus, Aulim, Aulark, Micus, Destia, Octja, Publiark, Fulvia, Lucia, Tiberiat, Regulim, Quintim, Nalah, Yimarina, Yinerva, Yivian
+<h2>Regions</h2>
 <table>
-<th><b>Empire Regions</b>	<b>Name</b>	<b>Food</b>	<b>Timber</b>	<b>Ore</b>	<b>Mana</b>	<b>Luxuries</b></th>	
-<b>Southkeep - </b><strong>Keep</strong>	4	2	2	0	1	
-<b>Guilder Farms - </b><strong>Keep</strong>	7	3	1	0	1	<b>Dawncaves</b>	4	2	3	1	1	
-<b>Prominence - </b><strong>Castle</strong>, <strong>Capital</strong>	6	2	2	0	2	
-<b>Yearly Field</b>	3	0	0	0	0	
-<b>Firstborn Peak</b>	0	2	0	2	0	
+<th>Name	Ramparts	Food	Timber	Ore	Mana	Luxuries</th>
+Prominence (Capital)	Castle	1	1	2	1	1
+Eastkeep	Keep	1	0	1	0	1
+Southkeep	Keep	2	0	0	0	1
+Guilder Farms	Keep	2	1	0	0	0
+Dawncaves		0	0	1	0	0	
+Yearly Field		0	1	0	0	0
+Firstborn Peak		0	0	0	1	0
 </table>
-<h1>Threat Pools</h1>?
-Instead of the fixed mission difficulties that the other minor factions have, mission difficulties for the Empire are determined by threat pool totals. Each year, the Autarch player allocates one point to any threat pool (Diplomacy, Infiltration, Skirmish, and Warfare). Up to three points can be allocated into any one threat pool. The threat pool total determines the mission difficulty against the Empire for each type of conflict. The warfare threat pool also determines the units the Autarch player has access to in battle. When the Autarch player allocates a point to the warfare threat pool, add the listed units to the Empire’s current totals.?
-<h2>Mission Difficulty (Threat Pool Points)</h2>?
+<h1>Mission Difficulties</h1>
+Instead of the fixed mission difficulties that the other minor factions have, mission difficulties for the Empire are determined by Autarch schemes. Each season, the Autarch player allocates one point to any threat pool (Diplomacy, Infiltration, Skirmish, and Warfare). Up to three points can be allocated into any one threat pool. The threat pool total determines the mission difficulty against the Empire for each type of conflict. The warfare threat pool also determines the units the Autarch player has access to in battle. When the Autarch player allocates a point to the warfare threat pool, add the listed units to the Empire’s current totals.
+<h2>Mission Difficulty</h2>
 <list>
-<b>None (Default)</b>: Difficulty 4?
-<b>1 point</b>: Difficulty 5?
-<b>2 points</b>: Difficulty 6?
+<b>None (Default)</b>: Difficulty 4
+<b>1 point</b>: Difficulty 5
+<b>2 points</b>: Difficulty 6
 <b>3 points</b>: Difficulty 7
-</list>?
-<h2>Units (Warfare Difficulty)</h2>?
+</list>
+<h2>Units (Warfare Difficulty)</h2>
 <list>
-<b>4 (Starting)</b>: 20 militia, 10 archers, 10 infantry?
-<b>5</b>: +5 infantry, +5 archers, +5 cavalry?
-<b>6</b>: +5 cavalry, +5 archers, +5 catapults?
+<b>4 (Starting)</b>: 20 militia, 10 archers, 10 infantry
+<b>5</b>: +5 infantry, +5 archers, +5 cavalry
+<b>6</b>: +5 cavalry, +5 archers, +5 catapults
 <b>7</b>: +5 infantry, +5 cavalry, +5 cannons
 </list>
 <h1>Leaders</h1>
@@ -47,18 +58,18 @@ Instead of the fixed mission difficulties that the other minor factions have, mi
 <aspect>Youngest to Pass The Harrowing</aspect>
 <aspect>“We will not be sacrificed on the altar of civility!”</aspect>
 <aspect>Oldest Daughter of Arcus</aspect>
-<stunt>Bound to the Animaelic Forest (Special)</stunt> The Autarch starts any conflict with mana equal to four times the current year.?
-<stunt>Victor of the Harrowing (Special)</stunt> May spend mana on any magical secret without having to roll for backlash.?
-<stunt>Big Bad (General)</stunt>	
-</stats>?
-The current Autarch was born to Arcus, a Grandmaster in the now abandoned Guild of Channeling. Born under the eighth moon, she was called Octia by her father, and began the study of magic immediately. Octia was a prodigy in magic, and quickly outpaced all of the Masters within the guild. At the age of eight, she emerged from The Harrowing alive, a test of magical will that affirmed her place as the next Autarch. She rose to power with little fanfare and much awe.?
-The Autarch’s quest for sorcerous knowledge has not abated with age. As the campaign unfolds, she is taking steps towards completing the Ritual of Law, a feat which will let her rule become absolute.?
+<stunt>Bound to the Animaelic Forest (Special)</stunt> The Autarch starts any conflict with mana equal to four times the current year.
+<stunt>Victor of the Harrowing (Special)</stunt> May spend mana on any magical secret without having to roll for backlash.
+<stunt>Big Bad (General)</stunt>
+</stats>
+The current Autarch was born to Arcus, a Grandmaster in the now abandoned Guild of Channeling. Born under the eighth moon, she was called Octia by her father, and began the study of magic immediately. Octia was a prodigy in magic, and quickly outpaced all of the Masters within the guild. At the age of eight, she emerged from The Harrowing alive, a test of magical will that affirmed her place as the next Autarch. She rose to power with little fanfare and much awe.
+The Autarch’s quest for sorcerous knowledge has not abated with age. As the campaign unfolds, she is taking steps towards completing the Ritual of Law, a feat which will let her rule become absolute.
 The exact nature of the conflict with the Stronghold can slowly be revealed as the campaign progresses. As mentioned in the Getting Started chapter, it could be fueled by resources the Stronghold controls, or from some defection in the past. Perhaps the heroes from the Stronghold know her desires to ascend the mortal realm and seek to stop her. It could also be the case that the Autarch is a more sympathetic character, looking out for her own people against an expansionist Stronghold.
 <stats>
-<name>The Subtect (Leader)</name> 	
-<stress><b>Physical</b>	<fate >3</fate></stress>	
+<name>The Subtect (Leader)</name>
+<stress><b>Physical</b>	<fate >3</fate></stress>
 <stress><b>Mental</b>	<fate >4</fate>	</stress>
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Society, Rapport</skill>
 <skill><b>Superb (+5)</b>	Wits, Will</skill>
 <skill><b>Great (+4)</b>	Command, Lore	</skill>
@@ -69,10 +80,10 @@ The exact nature of the conflict with the Stronghold can slowly be revealed as t
 <aspect>“Hey, at least hear my offer”</aspect>
 <aspect>Admirer of Art and Beauty</aspect>
 <aspect>“It is good to know your allies!”</aspect>
-<stunt>High Grace (Society)</stunt>?
-<stunt>Commanding Word (Society)</stunt>?
+<stunt>High Grace (Society)</stunt>
+<stunt>Commanding Word (Society)</stunt>
 <stunt>Life of the Party (Rapport)</stunt>
-</stats>?
+</stats>
 The Subtect is the primary mouthpiece for the Empire. He is adept at leveraging the might of the Empire to close deals and gain new allies.
 <stats>
 <name>Nalah (Leader)</name>
@@ -83,7 +94,7 @@ The Subtect is the primary mouthpiece for the Empire. He is adept at leveraging 
 <skill><b>Superb (+5)</b>	Marksmanship, Physique</skill>	
 <skill><b>Great (+4)</b>	Stealth, Disguise</skill>
 <skill><b>Good (+3)</b>	Wits, Will</skill>
-<skill><b>Decent (+2)</b>	Command, Tactics</skill>	
+<skill><b>Decent (+2)</b>	Command, Tactics</skill>
 <skill><b>Average (+1)</b>	Lore, Rapport</skill>
 <aspect>Super Hero of the Plainsmen War</aspect>
 <aspect>Brightest Student of Warmaster Kalos</aspect>
@@ -91,13 +102,13 @@ The Subtect is the primary mouthpiece for the Empire. He is adept at leveraging 
 <aspect>“Is your life really worth this?”</aspect>
 <stunt>Whirling Attack (Fighting)</stunt>
 <stunt>Improved Favored Weapon (Fighting)</stunt>
-</stats>?
-A warrior of great renown, Nalah is used by the Autarch when justice must be meted out at swordpoint.?
+</stats>
+A warrior of great renown, Nalah is used by the Autarch when justice must be meted out at swordpoint.
 <stats>
-<name>Micus (Leader)</name> 	
+<name>Micus (Leader)</name>
 <stress><b>Physical</b>	<fate >4</fate>	</stress>
 <stress><b>Mental</b>	<fate >3</fate>	</stress>
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Tactics, Command</skill>
 <skill><b>Superb (+5)</b>	Fighting, Engineering</skill>
 <skill><b>Great (+4)</b>	Wits, Physique</skill>
@@ -105,121 +116,123 @@ A warrior of great renown, Nalah is used by the Autarch when justice must be met
 <skill><b>Decent (+2)</b>	Marksmanship, Society</skill>
 <skill><b>Average (+1)</b>	Rapport, Will</skill>
 <aspect>Lord of the Millet Plain</aspect>
-<aspect>“I don’t care about odds! Back to the front!”</aspect>?
+<aspect>“I don’t care about odds! Back to the front!”</aspect>
 <aspect>Shrewd General</aspect>
-<aspect>“We will outflank them!”</aspect>	
-<stunt>Battle Master (Tactics)</stunt>?
-<stunt>Coordinated Strike (Tactics)</stunt>?
+<aspect>“We will outflank them!”</aspect>
+<stunt>Battle Master (Tactics)</stunt>
+<stunt>Coordinated Strike (Tactics)</stunt>
 <stunt>Set for Charge (Tactics)</stunt>
 </stats>
-Micus is a legend within the Empire, leading the Empire to victory against the Plainsmen as well as sparking a major renaissance of military strategy.?
+Micus is a legend within the Empire, leading the Empire to victory against the Plainsmen as well as sparking a major renaissance of military strategy.
 <stats>
-<name>Minim (Leader)</name> 
-<stress><b>Physical</b>	<fate >2</fate></stress>	
+<name>Minim (Leader)</name>
+<stress><b>Physical</b>	<fate >2</fate></stress>
 <stress><b>Mental</b>	<fate >4</fate></stress>
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Wits, Stealth</skill>
 <skill><b>Superb (+5)</b>	Fighting, Athletics</skill>
 <skill><b>Great (+4)</b>	Disguise, Lore</skill>
-<skill><b>Good (+3)</b>	Rapport, Channeling</skill>	
+<skill><b>Good (+3)</b>	Rapport, Channeling</skill>
 <skill><b>Decent (+2)</b>	Society, Survival</skill>
-<skill><b>Average (+1)</b>	Tactics, Engineering</skill>	
+<skill><b>Average (+1)</b>	Tactics, Engineering</skill>
 <aspect>Guild of Knowledge Grandmaster</aspect>
-<aspect>“Under extreme pain we reveal our character”</aspect>?
+<aspect>“Under extreme pain we reveal our character”</aspect>
 <aspect>“I never forget a face”</aspect>
 <aspect>Gray Cloak Founder</aspect>
-<stunt>Orb of Scrying (General)</stunt>?
+<stunt>Orb of Scrying (General)</stunt>
 <stunt>Improved Favored Weapon (Fighting)</stunt>
-</stats>?
-Minim is the leader of the Gray Cloaks, a group tasked with rooting out plots to overthrow the Autarch.?
-<h1>Diplomacy</h1>?
-Alliance missions are not conducted with the leadership of the Empire, but rather with an underground interested in overthrowing power within the Empire. When going on an alliance mission, use The Resistance mission described later in this chapter. The Imperial leaders and sample challenges described here are reserved for diplomatic threats.?
-The Subtect is always involved in diplomacy for the Empire, while the Autarch rarely ventures beyond the Empire’s borders. During threats, the Empire will focus on exposing flaws within the Stronghold, both real and perceived. This is a good chance to play up past transgressions, using them to dissuade minor factions from allying closely with the Stronghold.?
-<b>Base Difficulty:</b> Threat Pool?
-<h2>Sample Challenges</h2>?
+</stats>
+Minim is the leader of the Gray Cloaks, a group tasked with rooting out plots to overthrow the Autarch.
+<h1>Diplomacy</h1>
+Alliance missions are not conducted with the leadership of the Empire, but rather with an underground interested in overthrowing power within the Empire. When going on an alliance mission, use The Resistance mission described later in this chapter. The Imperial leaders and sample challenges described here are reserved for diplomatic threats.
+The Subtect is always involved in diplomacy for the Empire, while the Autarch rarely ventures beyond the Empire’s borders. During threats, the Empire will focus on exposing flaws within the Stronghold, both real and perceived. This is a good chance to play up past transgressions, using them to dissuade minor factions from allying closely with the Stronghold.
+<b>Base Difficulty:</b> Threat Pool
+<h2>Sample Challenges</h2>
 <list>
-Engage in a discussion of Imperial law with the Subtect.?
-Defend the actions of the Stronghold to minor faction leaders.?
-Expose bribery attempts by the Subtect.?
+Engage in a discussion of Imperial law with the Subtect.
+Defend the actions of the Stronghold to minor faction leaders.
+Expose bribery attempts by the Subtect.
 Respond to accusations of betrayal by the Autarch.
-</list>?
-<h1>Infiltration</h1>?
-The network of spies and informants, known as the Gray Cloaks, operate throughout the Empire. Minim is one of the key leaders within the Gray Cloaks, and should be used in all infiltration missions. The Empire is a vast place, with many large cities, making it easier for the heroes to move around anonymously. However, the Gray Cloaks are focused on looking out for incursions from the Stronghold.?
-Note that a mission to assassinate the Autarch has a fixed difficulty of 8, as she is surrounded by the most competent guard force.?
-<b>Base Difficulty:</b> Threat Pool?
-<b>Assassinating the Autarch:</b> 8?
-<h2>Sample Challenges</h2>?
+</list>
+<h1>Infiltration</h1>
+The network of spies and informants, known as the Gray Cloaks, operate throughout the Empire. Minim is one of the key leaders within the Gray Cloaks, and should be used in all infiltration missions. The Empire is a vast place, with many large cities, making it easier for the heroes to move around anonymously. However, the Gray Cloaks are focused on looking out for incursions from the Stronghold.
+Note that a mission to assassinate the Autarch has a fixed difficulty of 8, as she is surrounded by the most competent guard force.
+<b>Base Difficulty:</b> 4
+<b>Assassinating the Autarch:</b> 8
+<h2>Sample Challenges</h2>
 <list>
-Escape through the cramped alleys of the Wharf Quarter in Prominence.?
-Meet with Tatlia in the back room of the Plump Guildmaster.?
-Watch guard movements outside of the Guild of Maps, a Gray Cloak front.?
+Escape through the cramped alleys of the Wharf Quarter in Prominence.
+Meet with Tatlia in the back room of the Plump Guildmaster.
+Watch guard movements outside of the Guild of Maps, a Gray Cloak front.
 Plot a course through the Dawncaves.
-</list>?
-<h1>Skirmish</h1>?
-The Empire is only too willing to send capable soldiers and mercenaries to attack targets within the Stronghold. Nalah is typically sent on such missions, backed up by guards or mercenaries from other factions.?
-<b>Base Difficulty:</b> Threat Pool?
-<h2>Sample Challenges</h2>?
+</list>
+<h1>Skirmish</h1>
+The Empire is only too willing to send capable soldiers and mercenaries to attack targets within the Stronghold. Nalah is typically sent on such missions, backed up by guards or mercenaries from other factions.
+<b>Base Difficulty:</b> 4
+<h2>Sample Challenges</h2>
 <list>
-Chase Stronghold defectors out of their hideout.?
-Avoid getting lured into Nalah’s wilderness ambush.?
-Work to get an important Stronghold leader out of harms way.?
+Chase Stronghold defectors out of their hideout.
+Avoid getting lured into Nalah’s wilderness ambush.
+Work to get an important Stronghold leader out of harms way.
 Help defend Carley farmhouse from ogre pillagers.
-</list>?
-<h1>Warfare</h1>?
-The amount and type of troops The Empire has at their disposal is based upon their warfare threat pool. Early in the campaign, they are busy fighting the Plainsmen, so most of their most proficient troops are unavailable. However, as that war winds down, if warfare becomes a focus, they possess a potentially terrifying array of power, led by the Autarch and ?
-<b>Base Difficulty:</b> Threat Pool	?
-<h2>Sample Challenges</h2>?
+</list>
+<h1>Warfare</h1>
+The amount and type of troops The Empire has at their disposal is based upon their warfare threat pool. Early in the campaign, they are busy fighting the Plainsmen, so most of their most proficient troops are unavailable. However, as that war winds down, if warfare becomes a focus, they possess a potentially terrifying array of power, led by the Autarch and Micus.
+<b>Base Difficulty:</b> 4
+<b>Attacking Prominence: </b>8
+<h2>Sample Challenges</h2>
 <list>
-Keep morale up during the long march through the South Downs.?
-Flee from a magical assault by the Autarch.?
-Strike quickly with a rain of arrows to take the Gold River Bridge.?
+Keep morale up during the long march through the South Downs.
+Flee from a magical assault by the Autarch.
+Strike quickly with a rain of arrows to take the Gold River Bridge.
 Make an example of the defector Yarik.
-</list>?
+</list>
 <mission>The Resistance</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Diplomacy	<b>Difficulty</b>	5	
+<b>Conflict</b>	Diplomacy
+<b>Difficulty</b>	5
 </table>
-</missionentry>?
-A covert resistance to the Autarch exists within the confines of the Empire. Although the resistance is small, it does have some measure of popular support behind it. It will be difficult at first for the heroes to make contact with the right people, while avoiding scrutiny from the wrong ones. After that, the influential leaders of the resistance want assurances that the heroes are earnest, and can also provide the aid they say they can.?
-Use this mission when the Stronghold chooses an alliance mission against the Empire. If successful, the Stronghold will have a method of exchanging luxuries for stability damage.?
-<h2>Resistance Aspects</h2>?
-<aspect>Resource Strapped Uprising</aspect>?
-<aspect>Passionate and Unorganized</aspect>?
-<aspect>Hunted by Gray Cloaks</aspect>?
-<aspect>Will of the People</aspect>	?
-<h2>Sample Challenges</h2>?
+</missionentry>
+A covert resistance to the Autarch exists within the confines of the Empire. Although the resistance is small, it does have some measure of popular support behind it. It will be difficult at first for the heroes to make contact with the right people, while avoiding scrutiny from the wrong ones. After that, the influential leaders of the resistance want assurances that the heroes are earnest, and can also provide the aid they say they can.
+Use this mission when the Stronghold chooses an alliance mission against the Empire. If successful, the Stronghold will have a method of exchanging luxuries for stability damage.
+<h2>Resistance Aspects</h2>
+<aspect>Resource Strapped Uprising</aspect>
+<aspect>Passionate and Unorganized</aspect>
+<aspect>Hunted by Gray Cloaks</aspect>
+<aspect>Will of the People</aspect>
+<h2>Sample Challenges</h2>
 <list>
-Subtly ask around Prominence to find disgruntled citizens.?
-Convince Raliark to grant council with Tatiala.?
-Investigate who outed Octa, Tatiala’s contact within the Guild of Security.?
-Free Octja from the Guild of Justice.?
-Help Raliark pilfer military documents from the Guild of Warfare.?
-Escape questioning by the Autarch.?
+Subtly ask around Prominence to find disgruntled citizens.
+Convince Raliark to grant council with Tatiala.
+Investigate who outed Octa, Tatiala’s contact within the Guild of Security.
+Free Octja from the Guild of Justice.
+Help Raliark pilfer military documents from the Guild of Warfare.
+Escape questioning by the Autarch.
 Help Secundim secure a guard’s outfit.
-</list>?
-<h2>Opposition</h2>?
+</list>
+<h2>Opposition</h2>
 The leaders of the resistance are listed roughly in order of importance.
 <stats>
-<name>Tatiala (Leader)</name> 	
-<stress><b>Physical</b>	<fate >2</fate></stress>	
-<stress><b>Mental</b>	<fate >4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -4<fate >1</fate></stress>	
+<name>Tatiala (Leader)</name>
+<stress><b>Physical</b>	<fate >2</fate></stress>
+<stress><b>Mental</b>	<fate >4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4<fate >1</fate></stress>
 <skill><b>Superb (+5)</b>	Command, Society</skill>
 <skill><b>Great (+4)</b>	Rapport, Wits</skill>
 <skill><b>Good (+3)</b>	Lore, Will</skill>
 <skill><b>Decent (+2)</b>	Stealth, Empathy</skill>
 <skill><b>Average (+1)</b>	Engineering, Survival</skill>
 <aspect>Hotheaded Leader of the Resistance</aspect>
-<aspect>Master in Guild of Scribes</aspect>?
-<aspect>“I will not sacrifice the innocent!”</aspect>?
+<aspect>Master in Guild of Scribes</aspect>
+<aspect>“I will not sacrifice the innocent!”</aspect>
 <aspect>“We must also plan for success...”</aspect>
-<stunt>We Will Not Sacrifice Our Own - </stunt>Add major fortune on any Address Issue actions if the Stronghold has conducted Sabotage missions against the Empire.	
-</stats>?
-Tatiala is the forward thinking leader of the resistance. She maintains a healthy and well founded paranoia about who she associates with.?
+<stunt>We Will Not Sacrifice Our Own - </stunt>Add major fortune on any Address Issue actions if the Stronghold has conducted Sabotage missions against the Empire.
+</stats>
+Tatiala is the forward thinking leader of the resistance. She maintains a healthy and well founded paranoia about who she associates with.
 <stats>
-<name>Tulim (Leader)</name> 
-<stress><b>Physical</b>	<fate >2</fate></stress>	
+<name>Tulim (Leader)</name>
+<stress><b>Physical</b>	<fate >2</fate></stress>
 <stress><b>Mental</b>	<fate >4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>
 <skill><b>Superb (+5)</b>	Intimidation, Fighting</skill>
@@ -232,13 +245,13 @@ Tatiala is the forward thinking leader of the resistance. She maintains a health
 <aspect>“Money greases the wheels”</aspect>
 <aspect>Eternally Pessimistic</aspect>
 <stunt>Commanding Word (Society)</stunt>
-</stats>?
-Tulim has seen and undertaken horrific acts in the name of The Empire. He is suspicious of any outside intervention, although direct financial assistance goes a long way to helping waylay his fears.?
+</stats>
+Tulim has seen and undertaken horrific acts in the name of The Empire. He is suspicious of any outside intervention, although direct financial assistance goes a long way to helping waylay his fears.
 <stats>
-<name>Akilah (Leader)</name> 	
-<stress><b>Physical</b>	<fate >3</fate></stress>	
+<name>Akilah (Leader)</name>
+<stress><b>Physical</b>	<fate >3</fate></stress>
 <stress><b>Mental</b>	<fate >4</fate>	</stress>
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate></stress>
 <skill><b>Superb (+5)</b>	Society, Will</skill>
 <skill><b>Great (+4)</b>	Science, Rapport</skill>
 <skill><b>Good (+3)</b>	Nature, Wits</skill>
@@ -250,11 +263,12 @@ Tulim has seen and undertaken horrific acts in the name of The Empire. He is sus
 <aspect>Uncanny Streetsmarts</aspect>
 <stunt>Staggering Beauty (Rapport)</stunt>
 </stats>
-Akilah is a servant to Sabila, the Guild of Pleasure Grandmaster. The Guild of Pleasure is a hotbed of Imperial secrets that Akilah is privy to.?<stats>
-<name>Secundim (Leader)</name> 
-<stress><b>Physical</b>	<fate >3</fate></stress>	
-<stress><b>Mental</b>	<fate >3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+Akilah is a servant to Sabila, the Guild of Pleasure Grandmaster. The Guild of Pleasure is a hotbed of Imperial secrets that Akilah is privy to.
+<stats>
+<name>Secundim (Leader)</name>
+<stress><b>Physical</b>	<fate >3</fate></stress>
+<stress><b>Mental</b>	<fate >3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>
 <skill><b>Superb (+5)</b>	Fighting, Thievery</skill>
 <skill><b>Great (+4)</b>	Disguise, Rapport</skill>
 <skill><b>Good (+3)</b>	Will, Wits</skill>
@@ -265,63 +279,65 @@ Akilah is a servant to Sabila, the Guild of Pleasure Grandmaster. The Guild of P
 <aspect>Bearer of Scars That Won’t Heal</aspect>
 <aspect>“I’m the guy who can get that done”</aspect>
 </stats>
-Secundim is a wanted man within the Empire, so must don a disguise when he moves about the cities. He has visited many places within the realm, giving him a broad experience in the cultures and peoples outside of the Empire.?
+Secundim is a wanted man within the Empire, so must don a disguise when he moves about the cities. He has visited many places within the realm, giving him a broad experience in the cultures and peoples outside of the Empire.
 <stats>
-<name>Raliark (Leader)</name> 	
-<stress><b>Physical</b>	<fate >2</fate></stress>	
-<stress><b>Mental</b>	<fate >3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>	
+<name>Raliark (Leader)</name>
+<stress><b>Physical</b>	<fate >2</fate></stress>
+<stress><b>Mental</b>	<fate >3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -4 <fate >1</fate></stress>
 <skill><b>Great (+4)</b>	Society, Tactics</skill>
 <skill><b>Good (+3)</b>	Rapport, Will</skill>
 <skill><b>Decent (+2)</b>	Wits, Engineering</skill>
 <skill><b>Average (+1)</b>	Nature, Lore</skill>
-<aspect>Librarian at the Guild of Warfare</aspect>?
-<aspect>A Trustworthy Face</aspect>?
-<aspect>Father Executed by the Autarch</aspect>?
-<aspect>“We must not overextend our hand”</aspect>	
-</stats>?
+<aspect>Librarian at the Guild of Warfare</aspect>
+<aspect>A Trustworthy Face</aspect>
+<aspect>Father Executed by the Autarch</aspect>
+<aspect>“We must not overextend our hand”</aspect>
+</stats>
 Raliark keeps tabs on the military strength of the Empire via his position within the Guild of Warfare. He is very loyal to Tatiala and is optimistic that her drive and charisma can keep the resistance from falling apart.
-<mission>A Call to Arms (The Severing)</mission>?
+<mission>A Call to Arms (The Severing)</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Diplomacy	<b>Difficulty</b>	5	
+<b>Conflict</b>	Diplomacy
+<b>Difficulty</b>	5
 </table>
-</missionentry>?
-The Servering quest consists of three different missions, the end goal of which is to sever the Autarch from the First Source of Mana, neutralizing the Autarch’s power. The quests must be done in order (A Call to Arms, Run the Gauntlet, and The Animaelic Forest). This first mission is optional, but it can make the next mission (Runn the Gauntlet) much easier.?
-An ancient wellspring of arcane energy known as the First Source generates all magic within the Realm. This source of magic lies within the Animaelic Forest, a dense woods avoided by the pure of heart for its corrupting influence on the soul of those who linger within. The forest is surrounded by impassable sheer peaks except for a canyon known as the Sundered Crag.?
-The Autarch is bound to the Animaelic Forest, a tremendously dangerous feat, allowing her to draw on immense reserves of arcane energy. It is possible for a motivated group of heroes to sever the Autarch’s connection to the Animaelic Forest, by voyaging to the First Source and sacrificing a part of themselves upon arrival. Severing the bond destroys the Autarch and stops the Empire’s rampant conquest.?
-Unfortunately, just getting to the Animaelic Forest is difficult; the forest itself lashes out to stop intruders with creatures built of rock and earth. Gaining access will require commanding an army to push through the Sundered Crag, buying time for a group of heroes to enter the Animaelic Forest and sever the Autarch from the First Source.?
-The Stronghold sounds the call to arms for all the minor factions with a disposition of one or higher with the Stronghold. Representatives from each of these factions arrive at the Stronghold, ready to decide whether or not to commit troops in support of the Stronghold’s bold plan.?
-<h2>Sample Challenges</h2>?
-The challenges should involve the minor factions allied with the Stronghold. Use past alliance missions as well as past threats with the faction as a source of inspiration. Another good source of challenges are conflicts between ideologically opposed members of minor factions.?
-<h2>Opposition</h2>?
-Choose one representative leader from each allied minor faction for use during the diplomacy conflict. If there are fewer opposing leaders than heroes, add additional leaders from the represented minor factions until each side is equal in number. If there are more representatives than heroes, drop leaders from factions with the lowest dispositions.?
-<h2>Setup</h2>?
-Spread out issues among all of the factions present as evenly as possible. Existing issues from factions can be used, particularly if they’re related to military conflict.?
-<h2>Resolution</h2>?
-For each issue successfully resolved by the Stronghold, they receive three units from the associated faction for the upcoming mission to run through the Sundered Crag.?
-<mission>Run the Gauntlet (The Severing)</mission>?
+</missionentry>
+The Servering quest consists of three different missions, the end goal of which is to sever the Autarch from the First Source of Mana, neutralizing the Autarch’s power. The quests must be done in order (A Call to Arms, Run the Gauntlet, and The Animaelic Forest). This first mission is optional, but it can make the next mission (Runn the Gauntlet) much easier.
+An ancient wellspring of arcane energy known as the First Source generates all magic within the Realm. This source of magic lies within the Animaelic Forest, a dense woods avoided by the pure of heart for its corrupting influence on the soul of those who linger within. The forest is surrounded by impassable sheer peaks except for a canyon known as the Sundered Crag.
+The Autarch is bound to the Animaelic Forest, a tremendously dangerous feat, allowing her to draw on immense reserves of arcane energy. It is possible for a motivated group of heroes to sever the Autarch’s connection to the Animaelic Forest, by voyaging to the First Source and sacrificing a part of themselves upon arrival. Severing the bond destroys the Autarch and stops the Empire’s rampant conquest.
+Unfortunately, just getting to the Animaelic Forest is difficult; the forest itself lashes out to stop intruders with creatures built of rock and earth. Gaining access will require commanding an army to push through the Sundered Crag, buying time for a group of heroes to enter the Animaelic Forest and sever the Autarch from the First Source.
+The Stronghold sounds the call to arms for all the minor factions with a disposition of one or higher with the Stronghold. Representatives from each of these factions arrive at the Stronghold, ready to decide whether or not to commit troops in support of the Stronghold’s bold plan.
+<h2>Sample Challenges</h2>
+The challenges should involve the minor factions allied with the Stronghold. Use past alliance missions as well as past threats with the faction as a source of inspiration. Another good source of challenges are conflicts between ideologically opposed members of minor factions.
+<h2>Opposition</h2>
+Choose one representative leader from each allied minor faction for use during the diplomacy conflict. If there are fewer opposing leaders than heroes, add additional leaders from the represented minor factions until each side is equal in number. If there are more representatives than heroes, drop leaders from factions with the lowest dispositions.
+<h2>Setup</h2>
+Spread out issues among all of the factions present as evenly as possible. Existing issues from factions can be used, particularly if they’re related to military conflict.
+<h2>Resolution</h2>
+For each issue successfully resolved by the Stronghold, they receive three units from the associated faction for the upcoming mission to run through the Sundered Crag.
+<mission>Run the Gauntlet (The Severing)</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Warfare	<b>Difficulty</b>	6	
+<b>Conflict</b>	Warfare
+<b>Difficulty</b>	6
 </table>
-</missionentry>?
-The Animaelic Forest is an ancient nexus of death and pain. The land around it is increasingly barren and foreboding, culminating in The Sundered Crag, a long narrow chasm with sheer cliffs on the sides. The ground is littered with the blood of the countless dead, still fresh after untold millennia.?
-As the army gets closer to the forest, the blood erupts into demons and devils built of rock that attack mercilessly. The heroes take cover within the army, hoping to emerge on the other side unscathed.?
-<h2>Sample Challenges</h2>?
+</missionentry>
+The Animaelic Forest is an ancient nexus of death and pain. The land around it is increasingly barren and foreboding, culminating in The Sundered Crag, a long narrow chasm with sheer cliffs on the sides. The ground is littered with the blood of the countless dead, still fresh after untold millennia.
+As the army gets closer to the forest, the blood erupts into demons and devils built of rock that attack mercilessly. The heroes take cover within the army, hoping to emerge on the other side unscathed.
+<h2>Sample Challenges</h2>
 <list>
-Survive the long march through the frozen north.?
-Convince soldiers of the necessity to burn the bodies of the dead to prevent them coming back as demons.?
-Drive rock demons from camp.?
+Survive the long march through the frozen north.
+Convince soldiers of the necessity to burn the bodies of the dead to prevent them coming back as demons.
+Drive rock demons from camp.
 Organize a plan through the chasm.
-</list>?
-<h2>Opposition</h2>?
-The pass is guarded by twenty units of rock demons led by long dead heroes from the first tribes of man.?
+</list>
+<h2>Opposition</h2>
+The pass is guarded by twenty units of rock demons led by long dead heroes from the first tribes of man.
 <stats>
-<name>Fallen General (Lieutenant)</name> 	
-<stress><b>Physical</b>	<fate >4</fate></stress>	
-<stress><b>Mental</b>	<fate >4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate></stress>	
+<name>Fallen General (Lieutenant)</name>
+<stress><b>Physical</b>	<fate >4</fate></stress>
+<stress><b>Mental</b>	<fate >4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Tactics, Command</skill>
 <skill><b>Superb (+5)</b>	Fighting, Physique</skill>
 <skill><b>Great (+4)</b>	Wits, Survival</skill>
@@ -331,76 +347,77 @@ The pass is guarded by twenty units of rock demons led by long dead heroes from 
 <aspect>Ferocious and Aggressive</aspect>
 <stunt>Battle Master (Tactics)</stunt>
 <stunt>Outflank (Tactics)</stunt>
-</stats>?
-The demons are led by ancient generals and fighters pulled back to life by the land.?
+</stats>
+The demons are led by ancient generals and fighters pulled back to life by the land.
 <stats>
-<name>Rock Demons (Unit)</name> 	
-<b>Morale</b>	<fate >3</fate></stress>	
+<name>Rock Demons (Unit)</name>
+<b>Morale</b>	<fate >3</fate></stress>
 <skill><b>Superb (+5)</b>	Armor</skill>
 <skill><b>Good (+3)</b>	Fighting, Movement</skill>
 <skill><b>Mediocre (+0)</b>	Survival	</skill>
 <aspect>Creatures of Death and Sorrow</aspect>
-<aspect>Born of the Land and the Land Wants You Dead</aspect>	
-<stunt>Eyes of Fire and Blood - </stunt>Opposing leaders commanding units in the same zone as the rock demons must apply a stress card every time they order their attached units to attack.	
-</stats>?
-Rock demons have  a simple focus: murder everything in sight.?
-<h2>Setup</h2>?
-The Sundered Crag is a long narrow pass. It is represented by setting out a column of zones ten long and two wide. The units of demons will start on one side of the column, and the units controlled by the heroes and other allied groups start on the other side. The heroes who will ultimately go on into the Animaelic Forest need to placed amongst the units as desired.?
-<h2>Resolution</h2>?
-When the units that the heroes are in make it to the far side of the pass (they move out of the zones on the other side of the pass), the mission is over. The chosen heroes may then enter the Animaelic Forest.?
-<mission>The Animaelic Forest (The Severing)</mission>?
+<aspect>Born of the Land and the Land Wants You Dead</aspect>
+<stunt>Eyes of Fire and Blood - </stunt>Opposing leaders commanding units in the same zone as the rock demons must apply a stress card every time they order their attached units to attack.
+</stats>
+Rock demons have  a simple focus: murder everything in sight.
+<h2>Setup</h2>
+The Sundered Crag is a long narrow pass. It is represented by setting out a column of zones ten long and two wide. The units of demons will start on one side of the column, and the units controlled by the heroes and other allied groups start on the other side. The heroes who will ultimately go on into the Animaelic Forest need to placed amongst the units as desired.
+<h2>Resolution</h2>
+When the units that the heroes are in make it to the far side of the pass (they move out of the zones on the other side of the pass), the mission is over. The chosen heroes may then enter the Animaelic Forest.
+<mission>The Animaelic Forest (The Severing)</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	<b>Difficulty</b>	7	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	7
 </table>
-</missionentry>?
-It takes tremendous will to enter the Animaelic Forest. The forest is a place of ghostly forms and dreams that have been crushed. Because the Autarch is bound to the forest, it has transformed into a psychic map of her own internal pain.?
-The trip through the forest takes many months, although the inhabitants don’t need food or drink. Instead, they must move along in starts and stops, facing their own fears represented within the tortured dreams of the Autarch.?
-<h2>Sample Challenges</h2>?
-These challenges are all related to painful moments in the Autarch’s upbringing. Memories, even positive ones, become twisted and negative while in the forest.?
+</missionentry>
+It takes tremendous will to enter the Animaelic Forest. The forest is a place of ghostly forms and dreams that have been crushed. Because the Autarch is bound to the forest, it has transformed into a psychic map of her own internal pain.
+The trip through the forest takes many months, although the inhabitants don’t need food or drink. Instead, they must move along in starts and stops, facing their own fears represented within the tortured dreams of the Autarch.
+<h2>Sample Challenges</h2>
+These challenges are all related to painful moments in the Autarch’s upbringing. Memories, even positive ones, become twisted and negative while in the forest.
 <list>
-Pass the Trial of Burning Copper in the Harrowing.?
-Defend against Guild of Security bullies.?
-Stay still during the ritual of Purity.?
-Defeat Or’thak, the beast of one thousand eyes.?
+Pass the Trial of Burning Copper in the Harrowing.
+Defend against Guild of Security bullies.
+Stay still during the ritual of Purity.
+Defeat Or’thak, the beast of one thousand eyes.
 Defend Arcus from Plainsmen Raiders.
-</list>?
-<h2>Opposition</h2>?
-Deep within the forest, in the eye of the nightmare maelstrom, lies the corrupted heart of the Autarch. This form of the Autarch confronts the heroes directly, and attacks without mercy.?
-In addition to the Autarch, the heroes must face one ghostly dopplegangers for each hero. These are bizarrely twisted and perverse creatures that mimic the heroes themselves.?
+</list>
+<h2>Opposition</h2>
+Deep within the forest, in the eye of the nightmare maelstrom, lies the corrupted heart of the Autarch. This form of the Autarch confronts the heroes directly, and attacks without mercy.
+In addition to the Autarch, the heroes must face one ghostly dopplegangers for each hero. These are bizarrely twisted and perverse creatures that mimic the heroes themselves.
 <stats>
-<name>Shadow of the Autarch (Leader)</name> 	
-<stress><b>Physical</b>	<fate >4</fate></stress></stress>	
-<stress><b>Mental</b>	<fate >4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate>, -6 <fate >1</fate></stress>	
+<name>Shadow of the Autarch (Leader)</name>
+<stress><b>Physical</b>	<fate >4</fate></stress></stress>
+<stress><b>Mental</b>	<fate >4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate>, -6 <fate >1</fate></stress>
 <skill><b>Epic (+7)</b>	Lore, Channeling</skill>
 <skill><b>Fantastic (+6)</b>	Command, Wits	</skill>
 <skill><b>Superb (+5)</b>	Will, Athletics</skill>
 <skill><b>Great (+4)</b>	Physique, Fighting</skill>
 <aspect>The Spirit of the Autarch</aspect>
-<aspect>Bearer of the Hopes and Dreams of a Nation</aspect>?
+<aspect>Bearer of the Hopes and Dreams of a Nation</aspect>
 <aspect>An Entity of Pure Magical Force</aspect>
 <aspect>“I will sacrifice to save my people!”</aspect>
 <stunt>Animaelic Fire (Special)</stunt> May use Lore as a ranged attack, opposed by Athletics.
 <stunt>Share my Pain!</stunt> If a hero takes a severe consequence, they must also permanently change one aspect.
-<stunt>Ghostly (General)</stunt> 
+<stunt>Ghostly (General)</stunt>
 <stunt>Big Bad (General)</stunt>
 </stats>
-The shadow bears some resemblance and intelligence with the Autarch, but has been twisted by the forest.?
+The shadow bears some resemblance and intelligence with the Autarch, but has been twisted by the forest.
 <stats>
-<name>Twisted Doppleganger (Minion) </name> 	
-<stress><b>Physical</b>	<fate >4</fate></stress>	
-<stress><b>Mental</b>	<fate >4</fate></stress>	
-Each doppleganger has the same skills as the hero they’re reflecting.	
-<aspect>Dark Reflections of Hopelessness</aspect>?
-<aspect>Intimate Knowledge of Deepest Insecurities</aspect>	
-<stunt>Ghostly (General)</stunt>	
-</stats>?
-The shadow bears some resemblance and intelligence with the Autarch, but has been twisted by the forest.?
-<h2>Setup</h2>?
-The Autarch player may add one <fate>2</fate> <aspect>Psychic Vortex</aspect> aspect for each player to any zones desired. These are eddies and rifts of psychic energy which make movement and action difficult for anything with a physical form.?
-<h2>Resolution</h2>?
-If the shadow is defeated, the Autarch is stopped and the heroes have won! The Empire no longer lusts after the Stronghold. Each player should answer one of the following questions. Finally, players should take turns narrating short epilogues for each surviving hero from the Stronghold.?
+<name>Twisted Doppleganger (Minion) </name>
+<stress><b>Physical</b>	<fate >4</fate></stress>
+<stress><b>Mental</b>	<fate >4</fate></stress>
+Each doppleganger has the same skills as the hero they’re reflecting.
+<aspect>Dark Reflections of Hopelessness</aspect>
+<aspect>Intimate Knowledge of Deepest Insecurities</aspect>
+<stunt>Ghostly (General)</stunt>
+</stats>
+The shadow bears some resemblance and intelligence with the Autarch, but has been twisted by the forest.
+<h2>Setup</h2>
+The Autarch player may add one <fate>2</fate> <aspect>Psychic Vortex</aspect> aspect for each player to any zones desired. These are eddies and rifts of psychic energy which make movement and action difficult for anything with a physical form.
+<h2>Resolution</h2>
+If the shadow is defeated, the Autarch is stopped and the heroes have won! The Empire no longer lusts after the Stronghold. Each player should answer one of the following questions. Finally, players should take turns narrating short epilogues for each surviving hero from the Stronghold.
 <list>
 What happened to the Autarch when her connection to the Animaelic forest was shattered?
 What happens to the people of the Empire?
@@ -410,21 +427,23 @@ What does the future hold for the Stronghold?
 <mission>Wrath of the Autarch</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	<b>Difficulty</b>	9	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	9
 </table>
-</missionentry>?
-If it gets to the point where the Autarch player is able to use this campaign threat, things are about to get very bad for the Stronghold. The Autarch is close to channeling all the mana from the realm, a process which will transform her into an unstoppable force of raw magic. Before that can happen, though, the Autarch must complete the Path of Ascendancy, an arduous trek through the north and into the heart of the Animaelic Forest.?
-While on the path, she is protected by shadow guardians summoned to protect her. If the guardians are killed, the Autarch will attack the heroes using all of her stored up magical energy (which is very potent by this point).?
-<h2>Sample Challenges</h2>?
+</missionentry>
+If it gets to the point where the Autarch player is able to use this campaign threat, things are about to get very bad for the Stronghold. The Autarch is close to channeling all the mana from the realm, a process which will transform her into an unstoppable force of raw magic. Before that can happen, though, the Autarch must complete the Path of Ascendancy, an arduous trek through the north and into the heart of the Animaelic Forest.
+While on the path, she is protected by shadow guardians summoned to protect her. If the guardians are killed, the Autarch will attack the heroes using all of her stored up magical energy (which is very potent by this point).
+<h2>Sample Challenges</h2>
 <list>
-Uncover the Autarch’s plans of Ascendancy.?
-Battle a contingent of Freetrader guards.?
-Read the signs of mana to find the Autarch.?
+Uncover the Autarch’s plans of Ascendancy.
+Battle a contingent of Freetrader guards.
+Read the signs of mana to find the Autarch.
 Set up an ambush just outside Millet Plain.
-</list>?
-<h2>Opposition</h2>?
-One Shadow Guardian for each hero, along with the Autarch.?<stats>
-<name>Shadow Guardian (Minion) </name> 	
+</list>
+<h2>Opposition</h2>
+One Shadow Guardian for each hero, along with the Autarch.
+<stats>
+<name>Shadow Guardian (Minion) </name>
 <stress><b>Physical</b>	<fate >4</fate>	
 <stress><b>Mental</b>	<fate >4</fate>	
 <skill><b>Legendary (+8)</b>	Fighting, Will</skill>
@@ -435,16 +454,16 @@ One Shadow Guardian for each hero, along with the Autarch.?<stats>
 <aspect>Attracted to Magical Energy</aspect>
 <stunt>Quiet as a Mouse (Stealth)</stunt>?Ghostly (General)
 </stats>
-The Shadow Guardians are amorphous forms, hidden in clouds of inky blackness, moving quickly about the Autarch.?
+The Shadow Guardians are amorphous forms, hidden in clouds of inky blackness, moving quickly about the Autarch.
 <h2>Setup</h2>
-Most likely the Autarch will hang back and let the Shadow Guardians work up front, while attacking the heroes using ranged spells. If the heroes bunch up, Hail Storm (Secret of the Elements) is an effective attack. Another option is to transform into a dragon and wade into the front lines. That option will use up most of the Autarch’s mana.?
+Most likely the Autarch will hang back and let the Shadow Guardians work up front, while attacking the heroes using ranged spells. If the heroes bunch up, Hail Storm (Secret of the Elements) is an effective attack. Another option is to transform into a dragon and wade into the front lines. That option will use up most of the Autarch’s mana.
 <h2>Resolution</h2>
-If the Autarch is killed, the heroes have won! Follow the steps in The Resolution section of The Animaelic Forest mission just prior to this one. If the heroes are driven back, the Autarch has won! Each player should take turns narrating short epilogues for each living character. Then, each player should answer one of the following questions.?
+If the Autarch is killed, the heroes have won! Follow the steps in The Resolution section of The Animaelic Forest mission just prior to this one. If the heroes are driven back, the Autarch has won! Each player should take turns narrating short epilogues for each living character. Then, each player should answer one of the following questions.
 <list>
-What happens to the Autarch when she finishes walking the path of Ascendancy??
-What happens to the people of the Empire??
-Which of the Stronghold allies join with the Autarch??
-What does the future hold for the Stronghold??
-Who suffers most under the Autarch’s rule??
+What happens to the Autarch when she finishes walking the path of Ascendancy?
+What happens to the people of the Empire?
+Which of the Stronghold allies join with the Autarch?
+What does the future hold for the Stronghold?
+Who suffers most under the Autarch’s rule?
 Who benefits most from the Autarch’s rule?
 </list>

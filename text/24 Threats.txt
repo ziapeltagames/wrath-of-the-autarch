@@ -1,319 +1,380 @@
 <chapter>Threats and Schemes</chapter>
-Threats and schemes are the primary source of adversity for the Stronghold. There are two types of threats: region and faction. Each season there is a chance that any number of these threats might occur.?
-Region threats affect the land the Stronghold controls, possibly altering supply and stability. Faction threats potentially harm relationships with allied factions. If a faction is negatively disposed toward the Stronghold, a faction threat could result in stability loss.?
-The type and difficulty of region and faction threats are determined randomly. ?
-In addition to random threats, the Autarch player gets to unleash ever more challenging schemes as the campaign progresses. These are not chosen randomly - rather, the Autarch player selects two each year from a list of options. Schemes give the campaign more continuity and bring the Autarch into the spotlight.?
-<h2>Defensive Developments</h2>?
-Some developments allow the Stronghold to cancel one threat of a certain difficulty each season. If used on a threat, it’s as if the threat never happened. They don’t stop schemes.?
-<h2>Using Fate Triangle Tables</h2>?
-To use the threat tables in the chapter, draw a fate card. Cross reference the number of <fate>+</fate>’s along the top (from 0 to 4) with the number of <fate>-</fate>’s along the left side (from 0 to 4) to find the conflict type and difficulty.??
-<h1>Region Threats</h1>?
-Region threats are checked for at the end of every season. See the <chapref>Seasons</chapref> chapter for more details. For each region the Stronghold controls, draw one fate card. If the result is a +3 or +4, a threat occurs.?
-<h2>Region Threat Table</h2>?
-If a region threat occurs, use the region threat table to determine the conflict type and mission difficulty. Region threats tend to be skirmish missions. The Autarch player may either choose a mission from the <strong>Region and Faction Sample Threats</strong> section, or create a mission of the appropriate type and difficulty on their own.?<h3>Ignoring Region Threats</h3>?
-If a region threat is ignored, the region will produce no resources for that season. During Stronghold upkeep at the beginning of the season, do not add the region’s resources to the total dice rolled. Furthermore, the Stronghold suffers 1 point of stability loss.?<h3>Mission Failure</h3>?
-If the spotlight player decides to go on a mission to address the threat, but fails, the Stronghold loses one stability. Since the threat wasn’t ignored, the Stronghold may use resources from the region.?<h3>Mission Success</h3>?
-If a region threat mission is successful, the Stronghold gains one stability.?
-<h1>Faction Threats</h1>?
-Faction threats are determined similarly to region threats. At the end of each season, a fate card is drawn for each minor faction (all of the factions except for the Autarch). If the result is a +3 or +4, a faction threat occurs.?
-<h2>Ally vs. Enemy Factions</h2>?
-Faction threats are handled differently for allied factions (disposition with the faction is greater than -2) than they are for enemy factions (disposition is less than -1). Current disposition is tracked on the trade sheet.?
-<h2>Ally Threats</h2>?
-If a faction threat with an ally occurs, use the ally threat table to determine the conflict type and difficulty of the mission. Ally threats tend to be diplomacy missions.?<h3>Ignoring Ally Threats</h3>?
-Ignoring an ally faction threat causes a loss of one disposition with the threatened faction.?<h3>Mission Failure</h3>?
-On mission failure, the Stronghold neither gains nor loses disposition with the faction.?<h3>Mission Success</h3>?
-If the Stronghold undertakes the mission and succeeds, the Stronghold gains one disposition with the faction.?
-<h2>Enemy Threats</h2>?
-If an enemy faction has a threat, the Autarch player chooses the type of conflict. Use the faction’s conflict difficulty to determine how hard it is (the faction is directly affecting the stability of the Stronghold using the appropriate conflict type).?<h3>Ignoring Enemy Threats</h3>?
-Ignoring an enemy faction threat causes a loss of one disposition with the threatening faction <b>and</b> the Stronghold loses one stability.?<h3>Mission Failure</h3>?
-On mission failure, the Stronghold neither gains nor loses a stability, but they do lose one disposition with the faction.?<h3>Mission Success</h3>?
-If the Stronghold undertakes the mission and succeeds, the Stronghold gains one stability. The enemy faction loses one disposition (the only way to stop this downward spiral is to go on an Alliance mission and attempt to repair the rift).??
-<h1>Autarch Schemes</h1>?
-Each year, the Autarch player may unleash two schemes on the Stronghold. This happens before checking for threats (the Autarch player can’t use the information about what threats happen before choosing to enact a scheme).?
-The are four lists of schemes to choose from, one for each type of conflict. Each list is numbered from one to six. The Autarch player must choose a scheme that is less than or equal to the current year of the campaign (starting from year one). Furthermore, the schemes on any particular list must be chosen in order (the Autarch player starts any list by using the year one scheme first).?
-<h2>Mission Type and Difficulty</h2>?
-The mission type depends on which list the scheme is chosen from (diplomacy schemes use the diplomacy conflict, etc). The difficulty is equal to the Empire’s ranking for that conflict.?<h3>Empire Conflict Difficulty</h3>?
-Some schemes boost the Empire’s difficulty for a particular conflict type (“Empire immediately gains +1 diplomacy”). This happens immediately (at the same time the scheme is chosen). It can’t be avoided or stopped by the Stronghold. These difficulties are tracked on the trade sheet.??<h3>Ignoring Schemes</h3>?
-Ignored Autarch schemes cause the particular effect listed for the chosen scheme. Developments may not be used to stop schemes - they are either ignored or dealt with.?<h3>Mission Failure</h3>?
-Unlike region and ally threats, failing an Autarch scheme carries the same penalty as ignoring it. However, the effect occurs at the end of the season (when applying mission results) rather than at the beginning (when applying ignored threats and schemes).?<h3>Mission Success</h3>?
-On mission success, the listed effect doesn’t occur and the spotlight player may additionally create one campaign aspect with two free invokes.?
-<h2>Wrath of the Autarch</h2>?
-If the campaign ever reaches the Winter of Year 6, the Wrath of the Autarch scheme occurs regardless of the above procedure. See The Empire chapter for more details.?
-<h2>Creating Schemes</h2>?
-There are more details later in this chapter on how to create threats and schemes (as well as some samples that can be used). Following are guidelines on how to interpret schemes and incorporate them into the campaign.??
-<h2>Diplomacy Schemes</h2>?
-When running the diplomacy schemes, freely mix leaders from the Empire along with leaders from any targeted faction. For some of the schemes, it may be more appropriate to create some new lieutenants to represent disgruntled characters from within the Stronghold.?<h3>Wheels within Wheels</h3>?
-If the Stronghold either ignores or fails to stop this threat, it remains in play for the rest of the campaign. However, unlike the other schemes, the Stronghold may address it later by succeeding at a diplomacy mission against the Empire.??
-<h2>Infiltration Schemes</h2>?
-These are usually either missions into the Empire in order to ferret out information, or they may be missions to disrupt covert operations within the Stronghold. In the latter case, brute force may not be an option as it would give the opposition a chance to destroy sensitive information.?<h3>A Terrible Plot</h3>?
-It’s fine if the hero targeted for assassination goes on the mission. The assumption is that there is a secret plot to assassinate the particular hero, and if it isn’t discovered, they will be targeted at some point later in the season.??
-<h2>Skirmish Schemes</h2>?
-Skirmish threats could be leaders and minions from the Empire, or they can be any sort of opponent hired or coerced by the Empire to inflict hardships on the Stronghold.?<h3>Changes to Region Threats</h3>?
-As with the Wheels within Wheels diplomacy threat, the Stronghold may address schemes which affect threats at a later point (either because they were ignored or failed initially). In order to do so, the Stronghold must succeed at a skirmish mission against the Empire.?
-If the Empire employs skirmish schemes to affect how often region threats occur (or the difficulty of skirmish threats), it’s thematically appropriate to have these skirmish threats involve the Empire in some fashion.??
-<h2>Warfare Schemes</h2>?
-Usually warfare missions are fought over a particular region. Some of these schemes are not. If the Stronghold chooses to try to stop one of these schemes (such as “Raids in the Hinterlands”) which doesn’t result in loss of a region, the warfare conflict is still fought over a strategic zone as normal. However, the zone contains a small base or outpost instead of a more populated area as might exist in a region.?<h3>Outpost Attack</h3>?
-Because there is no fixed geography in Wrath of the Autarch, when the Stronghold player chooses the region the Autarch player must attack, the assumption is that there is some geographic motivation behind it (the region is less guarded or on the outskirts of the Stronghold).??
-<h1>Creating Threats and Schemes</h1>?
-Once the conflict type and difficulty are determined, it is ultimately up to the Autarch player to craft the threat (or scheme). The conflict chapters detail how to create the opposition for the appropriate conflict type. ?
-There are also sample region and faction threats listed in the back of this chapter that may be used as is or with minor tweaks. These may be adapted for schemes as well. If the Autarch player wants to create the a mission from scratch, there is a little more work to do.?
-<h2>Ignored Threats</h2>?
-If the Stronghold players are planning on ignoring the threat (or using a development to stop it), there is no reason in creating opposition. The group should still discuss the theme of the threat in broad strokes and make a note of what happened on The Chronicle Sheet.?
-<h2>Inspiration</h2>?
-The type of threat or scheme (region, faction, or Autarch), the type of conflict, and the difficulty of can all provide inspiration when deciding what’s happening.?
-The best source of inspiration are prior missions. Reincorporate prior events into the unfolding narrative. If the Stronghold conquered a minor faction, maybe some citizens are disgruntled about the war effort. Have previous threats been ignored? Maybe they’re rearing their ugly head again.?
-Coming up with these sorts of details is best handled by discussing it amongst the entire group when the threat occurs. Although creating the threat is left to the Autarch, coming up with ideas works best when the Stronghold players are involved as well.??
-<h2>Region Threat Ideas</h2>?
-Region threats can be internal, the work of bandits or upset farmers, or external, from attacks by other factions or fantastic monsters.?
+Threats and schemes are the primary source of adversity for the Stronghold. There are two types of threats: region and faction. Each season there is a chance that any number of these threats might occur.
+Region threats affect the land the Stronghold controls, possibly altering supply and stability. Faction threats potentially harm relationships with allied factions. If a faction is negatively disposed toward the Stronghold, a faction threat could result in stability loss.
+The type and difficulty of region and faction threats are determined randomly.
+In addition to random threats, the Autarch player gets to unleash ever more challenging schemes as the campaign progresses. These are not chosen randomly - rather, the Autarch player selects two each year from a list of options. Schemes give the campaign more continuity and bring the Autarch into the spotlight.
+<h2>Defensive Developments</h2>
+Some developments allow the Stronghold to cancel one threat of a certain difficulty each season. If used on a threat, it’s as if the threat never happened. They don’t stop schemes.
+<h2>Using Fate Triangle Tables</h2>
+To use the threat tables in the chapter, draw a fate card. Cross reference the number of <fate>+</fate>’s along the top (from 0 to 4) with the number of <fate>-</fate>’s along the left side (from 0 to 4) to find the conflict type and difficulty.
+<h1>Region Threats</h1>
+Region threats are checked for at the end of every season. See the <chapref>Seasons</chapref> chapter for more details. For each region the Stronghold controls, draw one fate card. If the result is a +3 or +4, a threat occurs.
+<h2>Region Threat Table</h2>
+If a region threat occurs, use the region threat table to determine the conflict type and mission difficulty. Region threats tend to be skirmish missions. The Autarch player may either choose a mission from the <strong>Region and Faction Sample Threats</strong> section, or create a mission of the appropriate type and difficulty on their own.
+<table>
+/	0	1	2	3	4
+0	Warfare 3	Diplomacy 3	Diplomacy 4	Diplomacy 5	Warfare 5
+1	Infiltration 3	Skrimish 3	Skirmish 4	Skirmish 7
+2	Infiltration 4	Skirmish 5	Skirmish 6
+3	Infiltration 5	Infiltration 6
+4	Warfare 4
+</table>
+<h3>Ignoring Region Threats</h3>
+If a region threat is ignored, the region will produce no resources for that season. During Stronghold upkeep at the beginning of the season, do not add the region’s resources to the total dice rolled. Furthermore, the Stronghold suffers 1 point of stability loss.
+<h3>Mission Failure</h3>
+If the spotlight player decides to go on a mission to address the threat, but fails, the Stronghold loses one stability. Since the threat wasn’t ignored, the Stronghold may use resources from the region.
+<h3>Mission Success</h3>
+If a region threat mission is successful, the Stronghold gains one stability.
+<h1>Faction Threats</h1>
+Faction threats are determined similarly to region threats. At the end of each season, a fate card is drawn for each minor faction (all of the factions except for the Autarch). If the result is a +3 or +4, a faction threat occurs.
+<h2>Ally vs. Enemy Factions</h2>
+Faction threats are handled differently for allied factions (disposition with the faction is greater than -2) than they are for enemy factions (disposition is less than -1). Current disposition is tracked on the trade sheet.
+<h2>Ally Threats</h2>
+If a faction threat with an ally occurs, use the ally threat table to determine the conflict type and difficulty of the mission. Ally threats tend to be diplomacy missions.
+<table>
+/	0	1	2	3	4
+0	Warfare 3	Skrimish 3	Skrimish 4	Skrimish 5	Warfare 5
+1	Infiltration 3	Diplomacy 3	Diplomacy 4	Diplomacy 7
+2	Infiltration 4	Diplomacy 5	Diplomacy 6
+3	Infiltration 5	Infiltration 6
+4	Warfare 4
+</table>
+<h3>Ignoring Ally Threats</h3>
+Ignoring an ally faction threat causes a loss of one disposition with the threatened faction.
+<h3>Mission Failure</h3>
+On mission failure, the Stronghold neither gains nor loses disposition with the faction.
+<h3>Mission Success</h3>
+If the Stronghold undertakes the mission and succeeds, the Stronghold gains one disposition with the faction.
+<h2>Enemy Threats</h2>
+If an enemy faction has a threat, the Autarch player chooses the type of conflict. Use the faction’s conflict difficulty to determine how hard it is (the faction is directly affecting the stability of the Stronghold using the appropriate conflict type).
+<h3>Ignoring Enemy Threats</h3>
+Ignoring an enemy faction threat causes a loss of one disposition with the threatening faction <b>and</b> the Stronghold loses one stability.
+<h3>Mission Failure</h3>
+On mission failure, the Stronghold neither gains nor loses a stability, but they do lose one disposition with the faction.
+<h3>Mission Success</h3>
+If the Stronghold undertakes the mission and succeeds, the Stronghold gains one stability. The enemy faction loses one disposition (the only way to stop this downward spiral is to go on an Alliance mission and attempt to repair the rift).
+<h1>Autarch Schemes</h1>
+Each year, the Autarch player may unleash two schemes on the Stronghold. This happens before checking for threats (the Autarch player can’t use the information about what threats happen before choosing to enact a scheme).
+The are four lists of schemes to choose from, one for each type of conflict. Each list is numbered from one to six. The Autarch player must choose a scheme that is less than or equal to the current year of the campaign (starting from year one). Furthermore, the schemes on any particular list must be chosen in order (the Autarch player starts any list by using the year one scheme first).
+<h2>Mission Type and Difficulty</h2>
+The mission type depends on which list the scheme is chosen from (diplomacy schemes use the diplomacy conflict, etc). The difficulty is equal to the Empire’s ranking for that conflict.
+<h3>Empire Conflict Difficulty</h3>
+Some schemes boost the Empire’s difficulty for a particular conflict type (“Empire immediately gains +1 diplomacy”). This happens immediately (at the same time the scheme is chosen). It can’t be avoided or stopped by the Stronghold. These difficulties are tracked on the trade sheet.
+<h3>Ignoring Schemes</h3>
+Ignored Autarch schemes cause the particular effect listed for the chosen scheme. Developments may not be used to stop schemes - they are either ignored or dealt with.
+<h3>Mission Failure</h3>
+Unlike region and ally threats, failing an Autarch scheme carries the same penalty as ignoring it. However, the effect occurs at the end of the season (when applying mission results) rather than at the beginning (when applying ignored threats and schemes).
+<h3>Mission Success</h3>
+On mission success, the listed effect doesn’t occur and the spotlight player may additionally create one campaign aspect with two free invokes.
+<h2>Wrath of the Autarch</h2>
+If the campaign ever reaches the Winter of Year 6, the Wrath of the Autarch scheme occurs regardless of the above procedure. See The <chapter>Empire</chapter> chapter for more details.
+<h2>Creating Schemes</h2>
+There are more details later in this chapter on how to create threats and schemes (as well as some samples that can be used). Following are guidelines on how to interpret schemes and incorporate them into the campaign.
+<h2>Diplomacy Schemes</h2>
+When running the diplomacy schemes, freely mix leaders from the Empire along with leaders from any targeted faction. For some of the schemes, it may be more appropriate to create some new lieutenants to represent disgruntled characters from within the Stronghold.
+<table>
+1	<b>Building Up Rapport</b>?Empire immediately gains <b>+1 Diplomacy</b>. Autarch player creates a campaign aspect with two free invokes.
+2	<b>Feeding the Flames of Discontent</b>?The faction with the lowest disposition loses three disposition. (If multiple factions are tied, Autarch player chooses.)
+3	<b>Hard Bargain</b>?Empire immediately gains <b>+1 Diplomacy</b>. Autarch player chooses a faction with less than three disposition. Chosen faction loses four disposition.
+4	<b>Wheels within Wheels</b>?All faction threats are twice as likely to occur (draw two cards instead of one for each faction).	
+5	<b>You Have Precious Few Friends</b>?Empire immediately gains <b>+1 Diplomacy</b>. Autarch player chooses a faction. Chosen faction loses five disposition. Chosen faction must have less than five disposition.
+6	<b>Kingdom Fractured</b>?The Stronghold loses three regions. The Stronghold player chooses which regions rebel and are lost.
+</table>
+<h3>Wheels within Wheels</h3>
+If the Stronghold either ignores or fails to stop this threat, it remains in play for the rest of the campaign. However, unlike the other schemes, the Stronghold may address it later by succeeding at a diplomacy mission against the Empire.
+<h2>Infiltration Schemes</h2>
+These are usually either missions into the Empire in order to ferret out information, or they may be missions to disrupt covert operations within the Stronghold. In the latter case, brute force may not be an option as it would give the opposition a chance to destroy sensitive information.
+<table>
+1	<b>Spy Network</b>?Empire immediately gains <b>+1 Infiltration</b>. Autarch player creates a campaign aspect with two free invokes.
+2	<b>Bureaucratic Confusion</b>?Stronghold loses one stability.
+3	<b>Propaganda Campaign</b>?Empire immediately gains <b>+1 Infiltration</b>. Stronghold loses two stability.
+4	<b>Fomenting Rebellion</b>?Stronghold loses three stability
+5	<b>A Terrible Plot</b>?Empire immediately gains <b>+1 Infiltration</b>. Autarch player assassinates a hero.
+6	<b>Revolt</b>?The Stronghold loses four stability.	
+</table>
+<h3>A Terrible Plot</h3>
+It’s fine if the hero targeted for assassination goes on the mission. The assumption is that there is a secret plot to assassinate the particular hero, and if it isn’t discovered, they will be targeted at some point later in the season.
+<h2>Skirmish Schemes</h2>
+Skirmish threats could be leaders and minions from the Empire, or they can be any sort of opponent hired or coerced by the Empire to inflict hardships on the Stronghold.
+<table>
+1	<b>Targeted Weak Point</b>?Empire immediately gains <b>+1 Skirmish</b>. Autarch player creates a campaign aspect with two free invokes.
+2	<b>Mercenary Tactics</b>?All Skirmish threats for the Stronghold are at +1 difficulty.
+3	<b>Local Troubles</b>?Empire immediately gains <b>+1 Skirmish</b>. When determining region threats, Stronghold player must draw two cards for each region instead of one. If either is +3 or higher, there is a threat.
+4	<b>Powerful Enemies</b>?All Skirmish threats for the Stronghold are at +2 difficulty.
+5	<b>Overrun With Foes</b>?Empire immediately gains <b>+1 Skirmish</b>. When determining region threats, Stronghold player must draw three cards for each region instead of one. If any are +3 or higher, there is a threat.
+6	<b>Legendary Foes</b>?All Skirmish threats for the Stronghold are at +3 difficulty.
+</table>
+<h3>Changes to Region Threats</h3>
+As with the Wheels within Wheels diplomacy threat, the Stronghold may address schemes which affect threats at a later point (either because they were ignored or failed initially). In order to do so, the Stronghold must succeed at a skirmish mission against the Empire.
+If the Empire employs skirmish schemes to affect how often region threats occur (or the difficulty of skirmish threats), it’s thematically appropriate to have these skirmish threats involve the Empire in some fashion.
+<h2>Warfare Schemes</h2>
+Usually warfare missions are fought over a particular region. Some of these schemes are not. If the Stronghold chooses to try to stop one of these schemes (such as “Raids in the Hinterlands”) which doesn’t result in loss of a region, the warfare conflict is still fought over a strategic zone as normal. However, the zone contains a small base or outpost instead of a more populated area as might exist in a region.
+<table>
+1	<b>Raids in the Hinterlands</b>?Empire immediately gains <b>+1 Warfare</b>. Autarch player creates a campaign aspect with two free invokes.
+2	<b>Redirected Troops</b>?Empire immediately gains <b>+1 Warfare</b>. Autarch player creates a campaign aspect with two free invokes.
+3	<b>Outpost Attack</b>?Autarch player conquers a region.
+4	<b>The Long March</b>?Empire immediately gains <b>+1 Warfare</b>. Autarch player creates a campaign aspect with two free invokes.
+5	<b>Final Push</b>?Autarch player conquers any non-capital region.
+6	<b>Assault on the Capital</b>?Autarch player conquers capital. If this is ignored or failed, the Stronghold falls. If this happens the same season that the Stronghold players stop the Autarch (sever her connection in the Animaelic Forest, assassinate her, or conquer Prominence), then the Stronghold players when in a pyrrhic victory.
+</table>
+<h3>Outpost Attack</h3>
+Because there is no fixed geography in Wrath of the Autarch, when the Stronghold player chooses the region the Autarch player must attack, the assumption is that there is some geographic motivation behind it (the region is less guarded or on the outskirts of the Stronghold).
+<h1>Creating Threats and Schemes</h1>
+Once the conflict type and difficulty are determined, it is ultimately up to the Autarch player to craft the threat (or scheme). The conflict chapters detail how to create the opposition for the appropriate conflict type.
+There are also sample region and faction threats listed in the back of this chapter that may be used as is or with minor tweaks. These may be adapted for schemes as well. If the Autarch player wants to create the a mission from scratch, there is a little more work to do.
+<h2>Ignored Threats</h2>
+If the Stronghold players are planning on ignoring the threat (or using a development to stop it), there is no reason in creating opposition. The group should still discuss the theme of the threat in broad strokes and make a note of what happened on The Chronicle Sheet.
+<h2>Inspiration</h2>
+The type of threat or scheme (region, faction, or Autarch), the type of conflict, and the difficulty of can all provide inspiration when deciding what’s happening.
+The best source of inspiration are prior missions. Reincorporate prior events into the unfolding narrative. If the Stronghold conquered a minor faction, maybe some citizens are disgruntled about the war effort. Have previous threats been ignored? Maybe they’re rearing their ugly head again.
+Coming up with these sorts of details is best handled by discussing it amongst the entire group when the threat occurs. Although creating the threat is left to the Autarch, coming up with ideas works best when the Stronghold players are involved as well.
+<h2>Region Threat Ideas</h2>
+Region threats can be internal, the work of bandits or upset farmers, or external, from attacks by other factions or fantastic monsters.
 <list>
-Farmers are demanding more compensation for their production. Diplomacy.?
-A group of bandits are fleecing trade. Their network must be infiltrated and stopped. Infiltration.?
-A dragon is stealing cattle. Skirmish.?
+Farmers are demanding more compensation for their production. Diplomacy.
+A group of bandits are fleecing trade. Their network must be infiltrated and stopped. Infiltration.
+A dragon is stealing cattle. Skirmish.
 A band of undead, led by a witch king, assaults an outlying region. Warfare.
-</list>?
-<h2>Faction Threat Ideas</h2>?
-Faction threats can be calls for aid from another faction or disputes that could increase tensions with the Stronghold.?
+</list>
+<h2>Faction Threat Ideas</h2>
+Faction threats can be calls for aid from another faction or disputes that could increase tensions with the Stronghold.
 <list>
-An offer for marriage from a noble in the faction was rebuffed by a peasant. Diplomacy.?
-The Empire has infiltrated the faction, setting up a splinter cell of disinformation. Infiltration.?
-The faction needs help dealing with restless undead. Skirmish.?
+An offer for marriage from a noble in the faction was rebuffed by a peasant. Diplomacy.
+The Empire has infiltrated the faction, setting up a splinter cell of disinformation. Infiltration.
+The faction needs help dealing with restless undead. Skirmish.
 The faction is attacked by a different faction they don’t get along with. Warfare.
-</list>?
-<h1>Region and Faction Sample Threats</h1>?
+</list>
+<h1>Region and Faction Sample Threats</h1>
 The remainder of the chapter showcases sample threats which are easily adapted for either regional or ally threats. They can be used as-is or adapted to fit the particular themes and narratives of the campaign. It’s typically easier to make minor changes to one of these missions than it is to create one from scratch.
 <mission>Ogres Raid Tarrydale Farms</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	<b>Difficulty</b>	4	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	4
 </table>
-</missionentry>?
-An unruly group of ogres are stealing food and generally causing mayhem at the Tarrydale Farms (or any region with food, as ogres are wont to do). They’re operating out of a series of caverns a few miles away from the farms.?
-<h2>Sample Challenges</h2>?
-The heroes trek across Tarrydale Farms, seeking out and killing or capturing the ogres they come across.?
+</missionentry>
+An unruly group of ogres are stealing food and generally causing mayhem at the Tarrydale Farms (or any region with food, as ogres are wont to do). They’re operating out of a series of caverns a few miles away from the farms.
+<h2>Sample Challenges</h2>
+The heroes trek across Tarrydale Farms, seeking out and killing or capturing the ogres they come across.
 <list>
-Escort the grain cart out of Tarrydale.?
-Repel an ogre ambush on the North Road.?
-Fix a broken wagon wheel.?
-Track the ogres through the farm country.?
+Escort the grain cart out of Tarrydale.
+Repel an ogre ambush on the North Road.
+Fix a broken wagon wheel.
+Track the ogres through the farm country.
 Remedy a burning nettle sting.
-</list>?
-<h2>Opposition</h2>?
-The ogres aren’t particularly bright, mostly focusing on smashing the heroes up. They don’t mind ganging up on someone who looks particularly feeble. There is one lead ogre, Gnarlbone, along with one minion for each hero.?
+</list>
+<h2>Opposition</h2>
+The ogres aren’t particularly bright, mostly focusing on smashing the heroes up. They don’t mind ganging up on someone who looks particularly feeble. There is one lead ogre, Gnarlbone, along with one minion for each hero.
 <stats>
-<name>Gnarlbone (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Great (+4)</b>	Physique, Fighting	</skill>
-<skill><b>Good (+3)</b>	Will, Athletics	</skill>
-<skill><b>Decent (+2)</b>	Tactics, Wits	</skill>
+<name>Gnarlbone (Leader)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>
+<skill><b>Great (+4)</b>	Physique, Fighting</skill>
+<skill><b>Good (+3)</b>	Will, Athletics</skill>
+<skill><b>Decent (+2)</b>	Tactics, Wits</skill>
 <skill><b>Average (+1)</b>	Marksmanship, Survival	</skill>
-<aspect>Hamfisted Ogre Boss</aspect>?
-<aspect>Cunning for an Ogre</aspect>?
-<aspect>Iron Capped Tusks</aspect>	
-<stunt>Shrug Off Pain - </stunt>Add +2 to Defend actions with Athletics.?
-<stunt>Powerful Attack (Fighting)</stunt>	
-</stats>?
+<aspect>Hamfisted Ogre Boss</aspect>
+<aspect>Cunning for an Ogre</aspect>
+<aspect>Iron Capped Tusks</aspect>
+<stunt>Shrug Off Pain - </stunt>Add +2 to Defend actions with Athletics.
+<stunt>Powerful Attack (Fighting)</stunt>
+</stats>
 <stats>
-<name>Ogre (Minion)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
+<name>Ogre (Minion)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
 <skill><b>Great (+4)</b>	Fighting	</skill>
-<skill><b>Good (+3)</b>	Physique	</skill>
-<skill><b>Decent (+2)</b>	Will	</skill>
-<skill><b>Average (+1)</b>	Athletics	</skill>
-<aspect>Dumb Killing Machine</aspect>?
-<aspect>Always Hungry</aspect>	
-<stunt>Powerful Attack (Fighting)</stunt>	
-</stats>?
-<h2>Setup</h2>?
-The ogres have no great ranged abilities, so getting them as close to the heroes as possible on setup is probably for the best.?
-<h2>Tactics</h2>?
-The ogres work together to smash the heroes. The minion ogres will work together to swarm a target, creating advantages to help improve damage.?<mission>Bandits at Echo Lake</mission>?<missionentry>
-<table><b>Conflict</b>	Skirmish	<b>Difficulty</b>	5	
-</table></missionentry>?
-A group of bandits have been stealing ore from the Echo Lake mine. They have taken up residence in a collection of old abandoned farmhouses, which they access through an unused series of passages in the mines. This threat works well for any region that has significant amounts of ore.?
-<h2>Sample Challenges</h2>?
-The heroes can head out to Echo Lake, interviewing farmers and figuring out what happened. They might be able to catch someone affiliated with the bandits, or track them back to their hideout.?
+<skill><b>Good (+3)</b>	Physique</skill>
+<skill><b>Decent (+2)</b>	Will</skill>
+<skill><b>Average (+1)</b>	Athletics</skill>
+<aspect>Dumb Killing Machine</aspect>
+<aspect>Always Hungry</aspect>
+<stunt>Powerful Attack (Fighting)</stunt>
+</stats>
+<h2>Setup</h2>
+The ogres have no great ranged abilities, so getting them as close to the heroes as possible on setup is probably for the best.
+<h2>Tactics</h2>
+The ogres work together to smash the heroes. The minion ogres will work together to swarm a target, creating advantages to help improve damage.
+<mission>Bandits at Echo Lake</mission>
+<missionentry>
+<table><b>Conflict</b>	Skirmish
+<b>Difficulty</b>	5
+</table>
+</missionentry>
+A group of bandits have been stealing ore from the Echo Lake mine. They have taken up residence in a collection of old abandoned farmhouses, which they access through an unused series of passages in the mines. This threat works well for any region that has significant amounts of ore.
+<h2>Sample Challenges</h2>
+The heroes can head out to Echo Lake, interviewing farmers and figuring out what happened. They might be able to catch someone affiliated with the bandits, or track them back to their hideout.
 <list>
-Search around Erasmus’ farm, located near the mine.?
-Catch Gavin, a young bandit sent to spy on the heroes.?
-Navigate through the Echo Lake Mine.?
+Search around Erasmus’ farm, located near the mine.
+Catch Gavin, a young bandit sent to spy on the heroes.
+Navigate through the Echo Lake Mine.
 Avoid toxic methane pockets within the mine.
-</list>?
-<h2>Opposition</h2>?
-The bandits are led by The Claw, a mine worker fired for courting the mine owner’s daughter. They have set up shop in a small complex of abandoned farmhouses. ?
+</list>
+<h2>Opposition</h2>
+The bandits are led by The Claw, a mine worker fired for courting the mine owner’s daughter. They have set up shop in a small complex of abandoned farmhouses.
 <stats>
-<name>The Claw (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>	
-<skill><b>Superb (+5)</b>	Wits, Marksmanship	</skill>
-<skill><b>Great (+4)</b>	Thievery, Athletics	</skill>
-<skill><b>Good (+3)</b>	Will, Physique	</skill>
-<skill><b>Decent (+2)</b>	Disguise, Fighting	</skill>
-<skill><b>Average (+1)</b>	Survival, Lore	</skill>
-<aspect>Disfigured Bandit Leader</aspect>?
-<aspect>Safer in the Shadows</aspect>?
-<aspect>”Everyone has a price, including me”</aspect>	
-<stunt>Eagle Eye (Marksmanship)</stunt>?
-<stunt>Hit the Weak Point (Marksmanship)</stunt>	
-</stats>?
+<name>The Claw (Leader)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Wits, Marksmanship</skill>
+<skill><b>Great (+4)</b>	Thievery, Athletics</skill>
+<skill><b>Good (+3)</b>	Will, Physique</skill>
+<skill><b>Decent (+2)</b>	Disguise, Fighting</skill>
+<skill><b>Average (+1)</b>	Survival, Lore</skill>
+<aspect>Disfigured Bandit Leader</aspect>
+<aspect>Safer in the Shadows</aspect>
+<aspect>”Everyone has a price, including me”</aspect>
+<stunt>Eagle Eye (Marksmanship)</stunt>
+<stunt>Hit the Weak Point (Marksmanship)</stunt>
+</stats>
 <stats>
-<name>Bandit (Minion)</name> 	
-<stress><b>Physical</b> <fate>3</fate></stress>	
-<stress><b>Mental</b> <fate>2</fate></stress>	
-<skill><b>Superb (+5)</b>	Marksmanship	</skill>
-<skill><b>Great (+4)</b>	Thievery	</skill>
-<skill><b>Good (+3)</b>	Will	</skill>
+<name>Bandit (Minion)</name>
+<stress><b>Physical</b> <fate>3</fate></stress>
+<stress><b>Mental</b> <fate>2</fate></stress>
+<skill><b>Superb (+5)</b>	Marksmanship</skill>
+<skill><b>Great (+4)</b>	Thievery</skill>
+<skill><b>Good (+3)</b>	Will</skill>
 <skill><b>Decent (+2)</b>	Fighting	</skill>
-<skill><b>Average (+1)</b>	Physique	</skill>
-<aspect>We Follow The Claw!</aspect>?
-<aspect>Poor Quality Swords</aspect>	
-<stunt>Eagle Eye (Marksmanship)</stunt>	
-</stats>?
-<h2>Setup</h2>?
-The bandits try to stay out of the direct path of heavy hitters. Putting some distance between themselves and the best striker for the heroes.?<mission>Murder of an Innocent</mission>?<missionentry>
-<table><b>Conflict</b>	Diplomacy	<b>Difficulty</b>	4	
-</table></missionentry>?
-Ulark, an overzealous agent of the Stronghold, murdered Torik, a young man suspected of being an agent of the Autarch. Outrage at the incident has spread throughout the region, causing dwindling productivity. The ire of the local people is further stoked due to cultural differences with Ulark, who is been considered an outsider.?
-Eurich and Pasha, Torik’s mother and father, are the central source of the anger. Further thrown into the mix are Ranilo, who is looking to benefit financially from the situation, as well as Safrich, an idealist looking for a change in rulership.?
-<h2>Sample Challenges</h2>?
-There is an underlying distrust between the locals and the authority figures from the Stronghold. The challenges and issues raised should keep coming back to that theme.?
+<skill><b>Average (+1)</b>	Physique</skill>
+<aspect>We Follow The Claw!</aspect>
+<aspect>Poor Quality Swords</aspect>
+<stunt>Eagle Eye (Marksmanship)</stunt>
+</stats>
+<h2>Setup</h2>
+The bandits try to stay out of the direct path of heavy hitters. Putting some distance between themselves and the best striker for the heroes.
+<mission>Murder of an Innocent</mission>
+<missionentry>
+<table><b>Conflict</b>	Diplomacy
+<b>Difficulty</b>	4
+</table>
+</missionentry>
+Ulark, an overzealous agent of the Stronghold, murdered Torik, a young man suspected of being an agent of the Autarch. Outrage at the incident has spread throughout the region, causing dwindling productivity. The ire of the local people is further stoked due to cultural differences with Ulark, who is been considered an outsider.
+Eurich and Pasha, Torik’s mother and father, are the central source of the anger. Further thrown into the mix are Ranilo, who is looking to benefit financially from the situation, as well as Safrich, an idealist looking for a change in rulership.
+<h2>Sample Challenges</h2>
+There is an underlying distrust between the locals and the authority figures from the Stronghold. The challenges and issues raised should keep coming back to that theme.
 <list>
-Sympathize with Eurich and Pasha’s suffering after the loss of their son.?
-Investigate who ransacked Felden’s shop.?
+Sympathize with Eurich and Pasha’s suffering after the loss of their son.
+Investigate who ransacked Felden’s shop.
 Help Ulark patrol Echo Lake.
-</list>?
-<h2>Opposition</h2>?
-Both Eurich and Ulark should be included in the conflict. Any of the other three can be chosen so that the number of heroes and leaders are equal.?
+</list>
+<h2>Opposition</h2>
+Both Eurich and Ulark should be included in the conflict. Any of the other three can be chosen so that the number of heroes and leaders are equal.
 <stats>
-<name>Eurich (Lieutenant)</name> 	
-<stress><b>Physical</b> <fate>2</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>	
-<skill><b>Great (+4)</b>	Society	</skill>
-<skill><b>Good (+3)</b>	Rapport	</skill>
-<skill><b>Decent (+2)</b>	Wits	</skill>
-<skill><b>Average (+1)</b>	Will	</skill>
-<aspect>Pillar of the Community</aspect>?
-<aspect>“We are citizens, not suspects!”</aspect>	
-<stunt>Commanding Word (Society)</stunt>?
-<stunt>Socially Adept (Society)</stunt>	
-</stats>?
-Eurich is a straight shooter who is well respected in the region. He blames a failure in leadership more than anything else, placing much of the blame at whatever decisions resulted in placing Ulark into power.?
+<name>Eurich (Lieutenant)</name>
+<stress><b>Physical</b> <fate>2</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate></stress>
+<skill><b>Great (+4)</b>	Society</skill>
+<skill><b>Good (+3)</b>	Rapport</skill>
+<skill><b>Decent (+2)</b>	Wits</skill>
+<skill><b>Average (+1)</b>	Will</skill>
+<aspect>Pillar of the Community</aspect>
+<aspect>“We are citizens, not suspects!”</aspect>
+<stunt>Commanding Word (Society)</stunt>
+<stunt>Socially Adept (Society)</stunt>
+</stats>
+Eurich is a straight shooter who is well respected in the region. He blames a failure in leadership more than anything else, placing much of the blame at whatever decisions resulted in placing Ulark into power.
 <stats>
-<name>Pasha (Lieutenant)</name> 	
-<stress><b>Physical</b> <fate>2</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>	
-<skill><b>Great (+4)</b>	Rapport	</skill>
-<skill><b>Good (+3)</b>	Will	</skill>
-<skill><b>Decent (+2)</b>	Wits	</skill>
-<skill><b>Average (+1)</b>	Society	</skill>
-<aspect>Star Crossed Farmer</aspect>?
-<aspect>“At least the Empire doesn’t attack their own!”</aspect>	
-<stunt>Related Point (Rapport)</stunt>?
-<stunt>Passive Aggressive (Rapport)</stunt>	
-</stats>?
-Pasha puts on a friendly face and has a certain grace and charm, but underneath she is seething and blames the heroes for a failure of leadership.?
+<name>Pasha (Lieutenant)</name>
+<stress><b>Physical</b> <fate>2</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>
+<skill><b>Great (+4)</b>	Rapport</skill>
+<skill><b>Good (+3)</b>	Will</skill>
+<skill><b>Decent (+2)</b>	Wits</skill>
+<skill><b>Average (+1)</b>	Society</skill>
+<aspect>Star Crossed Farmer</aspect>
+<aspect>“At least the Empire doesn’t attack their own!”</aspect>
+<stunt>Related Point (Rapport)</stunt>
+<stunt>Passive Aggressive (Rapport)</stunt>
+</stats>
+Pasha puts on a friendly face and has a certain grace and charm, but underneath she is seething and blames the heroes for a failure of leadership.
 <stats>
-<name>Safrich (Lieutenant)</name> 	
-<stress><b>Physical</b> <fate>3</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>	
-<skill><b>Great (+4)</b>	Rapport	</skill>
-<skill><b>Good (+3)</b>	Society	</skill>
-<skill><b>Decent (+2)</b>	Wits	</skill>
-<skill><b>Average (+1)</b>	Will	</skill>
-<aspect>Hot Headed Instigator</aspect>?
-<aspect>“We demand more than this!”</aspect>	
-<stunt>Captivating Features (Rapport)</stunt>?
+<name>Safrich (Lieutenant)</name>
+<stress><b>Physical</b> <fate>3</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>
+<skill><b>Great (+4)</b>	Rapport</skill>
+<skill><b>Good (+3)</b>	Society</skill>
+<skill><b>Decent (+2)</b>	Wits</skill>
+<skill><b>Average (+1)</b>	Will</skill>
+<aspect>Hot Headed Instigator</aspect>
+<aspect>“We demand more than this!”</aspect>
+<stunt>Captivating Features (Rapport)</stunt>
 <stunt>Related Point (Rapport)</stunt>	
-</stats>?
-Safrich is a young idealist, not very willing to see compromise or the practical realities of creating a system of rule. Instead, his demands center on egalitarian solutions that aren’t very practical but appeal as populist rabble rousing.?
+</stats>
+Safrich is a young idealist, not very willing to see compromise or the practical realities of creating a system of rule. Instead, his demands center on egalitarian solutions that aren’t very practical but appeal as populist rabble rousing.
 <stats>
-<name>Ranilo (Leader)</name> 	
-<stress><b>Physical</b> <fate>2</fate></stress>	
-<stress><b>Mental</b> <fate>2</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>	
-<skill><b>Great (+4)</b>	Rapport	</skill>
-<skill><b>Good (+3)</b>	Society	</skill>
-<skill><b>Decent (+2)</b>	Command	</skill>
-<skill><b>Average (+1)</b>	Wits	</skill>
-<aspect>Charming War Profiteer</aspect>?
-<aspect>“I’m sure there’s a way we can both come out ahead here.”</aspect>	
-<stunt>Passive Aggressive (Rapport)</stunt>?
-<stunt>Socially Adept (Society)</stunt>	
-</stats>?
-Ranilo is trying to find an angle to profit for in the tumult. Whether that’s helping the heroes or helping the farmers doesn’t make much difference.?
+<name>Ranilo (Leader)</name>
+<stress><b>Physical</b> <fate>2</fate></stress>
+<stress><b>Mental</b> <fate>2</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>
+<skill><b>Great (+4)</b>	Rapport</skill>
+<skill><b>Good (+3)</b>	Society</skill>
+<skill><b>Decent (+2)</b>	Command</skill>
+<skill><b>Average (+1)</b>	Wits</skill>
+<aspect>Charming War Profiteer</aspect>
+<aspect>“I’m sure there’s a way we can both come out ahead here.”</aspect>
+<stunt>Passive Aggressive (Rapport)</stunt>
+<stunt>Socially Adept (Society)</stunt>
+</stats>
+Ranilo is trying to find an angle to profit for in the tumult. Whether that’s helping the heroes or helping the farmers doesn’t make much difference.
 <stats>
-<name>Ulark (Lieutenant)</name> 	
-<stress><b>Physical</b> <fate>2</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>	
-<skill><b>Great (+4)</b>	Wits	</skill>
-<skill><b>Good (+3)</b>	Will	</skill>
-<skill><b>Decent (+2)</b>	Society	</skill>
-<skill><b>Average (+1)</b>	Tactics	</skill>
-<aspect>Captain of the Guard</aspect>?
-<aspect>“I can promise you there is an active insurgency in the area!”</aspect>	
-<stunt>Refute the Point (Wits)</stunt>?
-<stunt>Socially Adept (Society)</stunt>	
-</stats>?
-Ulark enjoys his job serving the Stronghold. While has is saddened by Torik’s death, he is also frustrated at having been harassed lately by unknown assailants during patrols. He is correct in thinking they’re agents of the Autarch. Torik was shot down for being in the wrong place at the wrong time.?
-<h2>Resolution</h2>?
-If this is used for a regional threat, the Stronghold gains one stability if they successfully resolve three issues. Otherwise, they don’t lose or gain any stability, since the threat was not ignored.?<mission>Prisoner of the Moonriders</mission>?<missionentry>
-<table><b>Conflict</b>	Infiltration	<b>Difficulty</b>	4	
-</table></missionentry>?
-Jebe, an important Sunrider elder, has been captured by the Moonriders. By the request of the Sunriders, the heroes attempt a prison break from the Darkhold, the most notorious Moonrider prison.?
-This threat is easily adaptable to any situation where a prison break is desired. It could be used as a regional threat, where someone from the Stronghold has been kidnapped or imprisoned by some other faction.?
-<h2>Sample Challenges</h2>?
+<name>Ulark (Lieutenant)</name>
+<stress><b>Physical</b> <fate>2</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate></stress>
+<skill><b>Great (+4)</b>	Wits</skill>
+<skill><b>Good (+3)</b>	Will</skill>
+<skill><b>Decent (+2)</b>	Society</skill>
+<skill><b>Average (+1)</b>	Tactics</skill>
+<aspect>Captain of the Guard</aspect>
+<aspect>“I can promise you there is an active insurgency in the area!”</aspect>
+<stunt>Refute the Point (Wits)</stunt>
+<stunt>Socially Adept (Society)</stunt>
+</stats>
+Ulark enjoys his job serving the Stronghold. While has is saddened by Torik’s death, he is also frustrated at having been harassed lately by unknown assailants during patrols. He is correct in thinking they’re agents of the Autarch. Torik was shot down for being in the wrong place at the wrong time.
+<h2>Resolution</h2>
+If this is used for a regional threat, the Stronghold gains one stability if they successfully resolve three issues. Otherwise, they don’t lose or gain any stability, since the threat was not ignored.
+<mission>Prisoner of the Moonriders</mission>
+<missionentry>
+<table>
+<b>Conflict</b>	Infiltration
+<b>Difficulty</b>	4
+</table>
+</missionentry>
+Jebe, an important Sunrider elder, has been captured by the Moonriders. By the request of the Sunriders, the heroes attempt a prison break from the Darkhold, the most notorious Moonrider prison.
+This threat is easily adaptable to any situation where a prison break is desired. It could be used as a regional threat, where someone from the Stronghold has been kidnapped or imprisoned by some other faction.
+<h2>Sample Challenges</h2>
 <list>
-Gain entry into the Moonrider city state of Ar-Hia.?
-Obtain plans to the Darkhold.?
-Resist Moonrider dweomers to detect intruders.?
+Gain entry into the Moonrider city state of Ar-Hia.
+Obtain plans to the Darkhold.
+Resist Moonrider dweomers to detect intruders.
 Exploit Relhi, Darkhold guard who is addicted to the Grey Paste.
-</list>?
-<h2>Opposition</h2>?
-Any of the guards in the Infiltration chapter may be used as normal. In addition, the following guards can be used.?
+</list>
+<h2>Opposition</h2>
+Any of the guards in the Infiltration chapter may be used as normal. In addition, the following guards can be used.
 <stats>
-<name>Darkhold Guard (Minion)</name> 	
-<stress><b>Physical</b> <fate>2</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
+<name>Darkhold Guard (Minion)</name>
+<stress><b>Physical</b> <fate>2</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
 <skill><b>Great (+4)</b>	Fighting	</skill>
-<skill><b>Good (+3)</b>	Wits	</skill>
-<skill><b>Decent (+2)</b>	Athletics	</skill>
-<skill><b>Average (+1)</b>	Will	</skill>
-<aspect>No One Escapes the Darkhold!</aspect>?
-<aspect>Three Lotus Spring Attack</aspect>	
-<stunt>Quick - </stunt>Darkhold guards move an additional zone for movement.	
-</stats>?
-<h2>Setup</h2>?
-The Darkhold is a deep prison built into the side of a rocky mountain face. It’s halls are made of a dark black rock. The warden is known as One Eye, and takes delight in inflicting all manner of sadistic torments on his captives.?
-<h2>Sample Security Challenges</h2>?
+<skill><b>Good (+3)</b>	Wits</skill>
+<skill><b>Decent (+2)</b>	Athletics</skill>
+<skill><b>Average (+1)</b>	Will</skill>
+<aspect>No One Escapes the Darkhold!</aspect>
+<aspect>Three Lotus Spring Attack</aspect>
+<stunt>Quick - </stunt>Darkhold guards move an additional zone for movement.
+</stats>
+<h2>Setup</h2>
+The Darkhold is a deep prison built into the side of a rocky mountain face. It’s halls are made of a dark black rock. The warden is known as One Eye, and takes delight in inflicting all manner of sadistic torments on his captives.
+<h2>Sample Security Challenges</h2>
 <list>
-Disguise: Trick the Sentry?
-Stealth: Sneak Down the Hall of Obsidian?
+Disguise: Trick the Sentry
+Stealth: Sneak Down the Hall of Obsidian
 Thievery: Pick the Lock on Jebe’s Cell
-</list>?
-<h2>Resolution</h2>?
-The Stronghold gains one disposition with the Sunriders if they’re successful (as usual for an ally threat). Any captured heroes are detained as normal.<tableblock>?
-<table><b>Diplomacy Threats</b>	<b>Threat ?Pool</b>	<b>Disposition</b>	<b>Effect</b>	0	-1	Cancel trade agreement	4	-2	-1 Disposition (&lt;3 current disposition)	8	-3	-1 Stability	12	-4	-2 Disposition (&lt;5 current disposition)	16	-5	-2 Stability	
-</table></tableblock>?<tableblock>?
-<table><b>Infiltration Threats</b>	<b>Threat Pool</b>	<b>Disposition</b>	<b>Effect</b>	0	-1	Major consequence	4	-2	-1 Development (for year)	8	-3	-1 Development (for year)	12	-4	-1 Stability	16	-5	-2 Stability	
-</table></tableblock>?<tableblock>?
-<table><b>Skirmish Threats</b>	<b>Threat Pool</b>	<b>Disposition</b>	<b>Effect</b>	0	-1	Major consequence	4	-2	Severe consequence	8	-3	-1 Region (for year)	12	-4	-1 Region (for year)	16	-5	Assassinate hero	
-</table></tableblock>?<tableblock>?
-<table><b>Warfare Threats</b>	<b>Threat Pool</b>	<b>Disposition</b>	<b>Effect</b>	0	-1	1/2 Number of units, Stronghold chooses target region	4	-2	1/2 Number of units, Stronghold chooses target region	8	-3	1/2 Number of units, can’t attack capital	12	-4	Full strength army, can’t attack capital	16	-5	Full strength army, no restrictions	
-</table></tableblock>
-<table><b>Campaign Threats</b>	<b>d6 + Year</b>	<b>Type</b>	<b>Effect</b>	1	Infiltration	-1 Stability	2	Diplomacy	-1 Disposition (Targeted faction must have &lt;1 disposition)	3	Warfare	Conquer region, 1/2 strength, no capital	4	Skirmish	Hero takes severe consequence	5	Infiltration	-1 Development	6	Diplomacy	-2 Disposition (Targeted faction must have &lt;3 disposition)	7	Warfare	Conquer region, no capital	8	Skirmish	Hero  takes moderate and severe consequence	9	Infiltration	Assassinate hero	10	Diplomacy	-2 disposition with any faction	11	Warfare	Conquer any region (Potential Autarch Victory)	12	Skirmish	Wrath of the Autarch (Potential Autarch Victory)	
-</table>
-<table><b>Diplomacy Schemes</b>	1	<b>Building Up Rapport</b>?Empire immediately gains <b>+1 Diplomacy</b>. Autarch player creates a campaign aspect with two free invokes.	2	<b>Feeding the Flames of Discontent</b>?The faction with the lowest disposition loses three disposition. (If multiple factions are tied, Autarch player chooses.)	3	<b>Hard Bargain</b>?Empire immediately gains <b>+1 Diplomacy</b>. Autarch player chooses a faction with less than three disposition. Chosen faction loses four disposition.	4	<b>Wheels within Wheels</b>?All faction threats are twice as likely to occur (draw two cards instead of one for each faction).	5	<b>You Have Precious Few Friends</b>?Empire immediately gains <b>+1 Diplomacy</b>. Autarch player chooses a faction. Chosen faction loses five disposition. Chosen faction must have less than five disposition.	6	<b>Kingdom Fractured</b>?The Stronghold loses three regions. The Stronghold player chooses which regions rebel and are lost.	
-</table>
-<table><b>Infiltration Schemes</b>	1	<b>Spy Network</b>?Empire immediately gains <b>+1 Infiltration</b>. Autarch player creates a campaign aspect with two free invokes.	2	<b>Bureaucratic Confusion</b>?Stronghold loses one stability.	3	<b>Propaganda Campaign</b>?Empire immediately gains <b>+1 Infiltration</b>. Stronghold loses two stability.	4	<b>Fomenting Rebellion</b>?Stronghold loses three stability	5	<b>A Terrible Plot</b>?Empire immediately gains <b>+1 Infiltration</b>. Autarch player assassinates a hero.	6	<b>Revolt</b>?The Stronghold loses four stability.	
-</table>
-<table><b>Skirmish Schemes</b>	1	<b>Targeted Weak Point</b>?Empire immediately gains <b>+1 Skirmish</b>. Autarch player creates a campaign aspect with two free invokes.	2	<b>Mercenary Tactics</b>?All Skirmish threats for the Stronghold are at +1 difficulty.	3	<b>Local Troubles</b>?Empire immediately gains <b>+1 Skirmish</b>. When determining region threats, Stronghold player must draw two cards for each region instead of one. If either is +3 or higher, there is a threat.	4	<b>Powerful Enemies</b>?All Skirmish threats for the Stronghold are at +2 difficulty.	5	<b>Overrun With Foes</b>?Empire immediately gains <b>+1 Skirmish</b>. When determining region threats, Stronghold player must draw three cards for each region instead of one. If any are +3 or higher, there is a threat.	6	<b>Legendary Foes</b>?All Skirmish threats for the Stronghold are at +3 difficulty.	
-</table>
-<table><b>Warfare Schemes</b>	1	<b>Raids in the Hinterlands</b>?Empire immediately gains <b>+1 Warfare</b>. Autarch player creates a campaign aspect with two free invokes.	2	<b>Redirected Troops</b>?Empire immediately gains <b>+1 Warfare</b>. Autarch player creates a campaign aspect with two free invokes.	3	<b>Outpost Attack</b>?Autarch player conquers a region.	4	<b>The Long March</b>?Empire immediately gains <b>+1 Warfare</b>. Autarch player creates a campaign aspect with two free invokes.	5	<b>Final Push</b>?Autarch player conquers any non-capital region.	6	<b>Assault on the Capital</b>?Autarch player conquers capital. If this is ignored or failed, the Stronghold falls. If this happens the same season that the Stronghold players stop the Autarch (sever her connection in the Animaelic Forest, assassinate her, or conquer Prominence), then the Stronghold players when in a pyrrhic victory.	
-</table>
+</list>
+<h2>Resolution</h2>
+The Stronghold gains one disposition with the Sunriders if they’re successful (as usual for an ally threat). Any captured heroes are detained as normal.
