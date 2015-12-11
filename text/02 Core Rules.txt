@@ -5,95 +5,95 @@ How does this differ from Fate Core?
 <list>
 The Deck of Fate (also available from Evil Hat) is preferred over fate dice. See the end of this chapter for how to use fate dice instead.
 Instead of situational aspects, there are three sorts of aspects differentiated by how long they remain relevant to the story: advantage, mission aspects, and campaign aspects.
-Compels have been replaced by <term>complications</term> and <term>enduring</term> aspects (see the <chapref>Challenge Phase</chapref> chapter).?
+Compels have been replaced by <term>complications</term> and <term>enduring</term> aspects (see the <chapref>Challenge Phase</chapref> chapter).
 <term>Stress for success</term>is a more general way to improve a stronghold player’s skill check.
 The amount of stress inflicted by an attack action is capped by the value of the skill used to attack with. This increases the survavibility of big bads and opens new tactical options.
 Skills do not have to remain in a pyramid over the course of the game, although they start that way.
 The general conflict and challenge system has been replaced by a structured system of collaborative challenge scenes and four specific conflict types (diplomacy, infiltration, skirmish, and warfare). This was done to support play without a gamemaster.
 </list>
-</box>?
-<h1>Using the Deck of Fate</h1>?
+</box>
+<h1>Using the Deck of Fate</h1>
 <book>WotA</book> was designed to use the Deck of Fate, published by Evil Hat, instead of fate dice. It is possible to play with fate dice (see later in this chapter) but there’s a little more overhead. When the rules refer to finding the “result” from a card draw, this means drawing the top card of the deck and using the large value in the middle of the card. These cards yield a result from -4 to +4, the same range as fate dice.
 Played cards are placed into a discard pile. If the deck is ever emptied, shuffle all discards to form a new draw deck. Otherwise, do not re-shuffle the cards unless directed to by the rules. Any player may look through the discard pile at any time.
 Cards are also used to track fate points (see later). When cards are used as fate points, keep them face down until used.
-<h2>Skill Checks</h2>?
+<h2>Skill Checks</h2>
 <book>WotA</book> is built around the same four actions that <book>Fate Core</book> uses (<term>overcome</term>, <term>create advantage</term>, <term>attack</term>, and <term>defend</term>). These actions are described later in this chapter. When a player takes one of these actions, a card is drawn (or the dice are rolled). The result is added to a character’s skill and compared to an <term>opposition</term> value. This is called making a check.
 Opposition may be <term>passive</term>, listed as a fixed value, such as the difficulty of a particular challenge scene. Opposition may also be <term>active</term>, which involves a comparison to a check made by another player. Active opposition involves another character, for instance, when swinging a sword to attack an opponent.
-A result less than the opposition is a failure. The amount below the opposition value is known as the <term>deficit</term>. Usually the deficit doesn’t matter, although it is tracked in a few cases (such as magical backlash). If the value rolled is equal to the opposition, the result is a tie. Any result higher than the opposition is a success, and the amount above the opposition is known as <term>shifts</term>. Gaining three shifts (achieving a value three higher than the opposition) is called <term>success with style</term>, and generally confers extra benefits.?
+A result less than the opposition is a failure. The amount below the opposition value is known as the <term>deficit</term>. Usually the deficit doesn’t matter, although it is tracked in a few cases (such as magical backlash). If the value rolled is equal to the opposition, the result is a tie. Any result higher than the opposition is a success, and the amount above the opposition is known as <term>shifts</term>. Gaining three shifts (achieving a value three higher than the opposition) is called <term>success with style</term>, and generally confers extra benefits.
 <h2>Fortune</h2>
 Various effects in the game may add <term>fortune</term> to the result of a skill check. For each source of fortune, draw an additional card, and add the number of suns on the card to the skill check.
 <h2>Misfortune</h2>
 If an effect says to apply <term>misfortune</term> to a check, all fortune (if any) is canceled. Additionally, draw a card, and subtract the number of moons on the card are from the skill check.
 <h2>Eclipses</h2>
 If a card has an eclipse on it when drawn for fortune, add four to the skill check. Similarly, if an eclipse is drawn when misfortune is applied, subtract four from the skill check. Otherwise, unless specified otherwise, treat the eclipse as two suns and two moons.
-<h2>The Ladder</h2>?
+<h2>The Ladder</h2>
 All skills and action results are rated on what is known as the <term>ladder</term>, a series of adjectives used to describe the rank of the skill (its numeric value). Whether to use numbers or adjectives is largely a matter of preference.
 <list>
-+8 Legendary?
-+7 Epic?
-+6 Fantastic?
-+5 Superb?
-+4 Great?
-+3 Good?
-+2 Fair?
-+1 Average?
-0 Mediocre?
--1 Poor?
++8 Legendary
++7 Epic
++6 Fantastic
++5 Superb
++4 Great
++3 Good
++2 Fair
++1 Average
+0 Mediocre
+-1 Poor
 -2 Terrible
-</list>?
-<h1>Aspects</h1>?
+</list>
+<h1>Aspects</h1>
 Aspects are short descriptive words and phrases which add flavor to the narrative. Aspects are the most important part of the game, and can be attached to almost anything: characters, factions, regions, relationships, terrain, and more. Furthermore, aspects are used to give mechanical advantages and disadvantages to die rolls.
 Character aspects relate to individuals, frequently heroes, and include examples like <aspect>Fiery Temper</aspect> or <aspect>The Last Disciple of the Order of the Eye</aspect>. Aspects which describe a faction might be something like <aspect>Imperialist Magocracy</aspect> or <aspect>Education is not a Priority</aspect>. Aspects may also relate to a region such as <aspect>Flush with Game</aspect> or they may even describe very transient effects, such as <aspect>Ambush Perch</aspect> or <aspect>Slippery Floor</aspect>.
 See the <book>Fate Core</book> rules for a wealth of information about how to create aspects effectively. Also look at the faction chapters later in the book, which have many leaders already fleshed out with aspects.
-<h2>Fate Points</h2>?
+<h2>Fate Points</h2>
 The Fate Core system uses a currency called <term>fate points</term> to take advantage of aspects during play. Cards from the Deck of Fate are used to track fate points. Keep the cards face down when used in this capacity. Poker chips or some other tokens may be used if the Deck of Fate isn’t used.
-<h2>Invoking an Aspect</h2>?
+<h2>Invoking an Aspect</h2>
 Fate points are spent to <term>invoke</term> aspects. Invoking an aspect gives the character a mechanical advantage, as long as the player can narrate how the aspect in question will help their action (see below for the four action types). Any beneficial aspect may be invoked, not just one on your character sheet. Very frequently, Stronghold aspects are invoked in this capacity. Aspects are invoked <i>after</i> the roll, and one of two effects are chosen.
 <list>
-<b>Draw another card (or re-roll the dice)</b>?
+<b>Draw another card (or re-roll the dice)</b>
 <b>Add +2 to the result</b>
 </list>
 There is a restriction on invoking aspects: on any given check, any single aspect may only be invoked once (although see below about free invokes). The fate point is spent from the player’s personal supply and is put into the general supply of fate points.
 In the case of drawing another card, rather than draw from the draw deck, just flip over the card used to track the fate point. Use the value on that card.
 <h1>Creating Aspects</h1>
 Frequently during play, the players will make new aspects. Bringing new aspects into play is usually done with the create advantage action detailed later in this chapter. Aspects are defined both by their scope (<term>campaign aspects</term>, <term>mission aspects</term>, and <term>advantage</term>) as well as what they are attached to.
-<h2>Free Invokes</h2>?
+<h2>Free Invokes</h2>
 Whenever a new aspect is created through the Create Advantage action, the first time it is invoked, the player invoking it does not have to spend a fate point. The player who created the aspect has the final say on what players are allowed to use this free invoke, also subject to how the aspect fits within the current situation.
 Sometimes an aspect will have more than one free invoke, allowing it to be invoked more than once for free. Furthermore, free invokes may be combined with the spending of a fate point, thus breaking the rule that an aspect may be invoked at most once on any given action. An aspect with two free invokes could be used to add +6 to a roll (if both free invokes are used and additionally a fate point is spent).
-<h2>Campaign Aspects</h2>?
+<h2>Campaign Aspects</h2>
 Campaign aspects are important aspects that could potentially last for the entire duration of the campaign. They tend to be more significant than other aspects, as they are a long lasting fact about the world. Campaign aspects might relate to a region, faction, or a hero. Campaign aspects may only be created during the challenge phase.
 Campaign aspects are written on the Stronghold Sheet in the Campaign Aspects section. If there are no empty slots available, a different campaign aspect must be removed (as long as the player who created the aspect allows it).
 Note that modifying the Stronghold’s aspects or one of the heroes’ aspects is not covered under the create advantage rules. This action creates new aspects, and the heroes and the Stronghold start the campaign with their full contingent of aspects.
 <example>Terri is playing the character Gwynnet. Traveling through the Dusk’s Ayrie, she has the idea of creating a new campaign aspect related to the flora of the area.
-“I’m thinking that Gwynnet discovers some sort of healing plants in the area using her Survival skill.” 
+“I’m thinking that Gwynnet discovers some sort of healing plants in the area using her Survival skill.”
 The table loves the idea. Terri checks Gwynnet’s Survival skill, and succeeds in her create advantage action. She writes down <aspect>Restorative Red Berries of Gumja Shrubs</aspect> under the Campaign Aspects section of the Stronghold sheet and gives it one free invoke. Besides adding to the story, these berries may be freely invoked sometime later on down the road – perhaps when someone is injured!</example>
-<h3>Don’t Contradict What Exists</h3>?
-Creating aspects is a powerful way to create the world and propel the story forward. Characters and factions start the game with certain aspects. These aspects may not be modified or contradicted by newly created permanent aspects. New aspects should augment and complement what already exists in the world. There are other methods to change the aspects for the heroes and for the Stronghold.?
-<h2>Mission Aspects</h2>?
+<h3>Don’t Contradict What Exists</h3>
+Creating aspects is a powerful way to create the world and propel the story forward. Characters and factions start the game with certain aspects. These aspects may not be modified or contradicted by newly created permanent aspects. New aspects should augment and complement what already exists in the world. There are other methods to change the aspects for the heroes and for the Stronghold.
+<h2>Mission Aspects</h2>
 Mission aspects are in play for the duration of a mission. They are written down on note cards and kept nearby until the mission is over. They are created during the challenge phase to set up aspects for use during the conflict.
 <h2>Scene Aspects</h2>
-Scene aspects are attached to a scene in the challenge phase. They are written down next to the scene description. They go away after the particular scene is over. See the <chapter>Challenge Phase</chapter> for more information.
+Scene aspects are attached to a scene in the challenge phase. They are written down next to the scene description. They go away after the particular scene is over. See the <chapref>Challenge Phase</chapref> for more information.
 <h2>Boosts</h2>
 Boosts are very minor advantages that a character has. If a character gains a boost, they take a token (such as a poker chip with a different color than used elsewhere) for each boost they gain.
 When a boost is used, fortune is added to a skill check. A boost may be used to aid any character’s skill check, provided the helping character is in the same scene or conflict (see the <chapref>Challenge Phase</chapref> chapter for more details). A character may spend their boosts to add fortune to their own skill check.
-<h2>Tracking Aspects</h2>?
+<h2>Tracking Aspects</h2>
 Any system can be used to track free invokes on aspects. One system that works fairly well is to draw open square boxes next to free invokes, which are then filled in if the aspect is invoked for free. Another option is to put fate points on top of where the aspect is written down. Campaign aspects are always tracked on the Stronghold Sheet.
-<h2>Helpful and Hindering Aspects</h2>?
+<h2>Helpful and Hindering Aspects</h2>
 Heroes gain access to helpful and hindering aspects through relationships or assets (see the <chapref>Characters</chapref> chapter). Helpful or hindering aspects may be used by a Stronghold player on any applicable skill check. These do not cost fate points or free invokes to use, although each aspect only works with one particular skill.
-If a helpful aspect is invoked, it adds fortune to the skill check. If a hindering aspect is invoked, misfortune is applied to the skill check. Additionally, during the challenge phase, invoking a hindering aspect grants a skill advance (see the <chapref>Challenge Phase</chapref> chapter for more details).?
+If a helpful aspect is invoked, it adds fortune to the skill check. If a hindering aspect is invoked, misfortune is applied to the skill check. Additionally, during the challenge phase, invoking a hindering aspect grants a skill advance (see the <chapref>Challenge Phase</chapref> chapter for more details).
 <h1>Leveraging Aspects</h1>
 The contribution of all the players in the unfolding narrative is one of the main features that makes playing <book>WotA</book> enjoyable. Aspects are one of the primary ways this can happen. While they do give mechanical hooks into narrative traits, they are also facts about the world. They help to define people, places, and things.
 Since <book>WotA</book> has such a tight restriction on scenes and actions, creating these facts allows the players to set up actions in the future. For instance, a player could use their character’s <aspect>Society</aspect> skill to declare that a tribe of nomads live nearby.
 <h2>Crafting Aspects</h2>
 Making aspects can take some practice. In particular, aspects for the characters and the Stronghold are ideally able to be interpreted positively and negatively. For instance, <aspect>Reacts Without Thinking</aspect> could allow a character to act quickly when danger is discovered, but it could also be used to get the character into trouble. This is important for complications. See the <chapref>Challenge Phase</chapref> chapter for more details.
 Giving an aspect color adds to the story. For instance, a character could be a <aspect>Swordmaster</aspect> or they could be a <aspect>Master of the Nine Blade Whirlwind Technique</aspect>. Although they probably both apply in similar situations, the latter is far more suggestive of details and story hooks to uncover later. That makes crafting the narrative much easier as well.
-<h2>Aspect Burning</h2>?
-Aspect burning converts free invokes on aspects into other mechanical effects covered by the rules, like assets (henchmen, familiars, magical items) and military units. Aspect burning can also be used to modify the conflict setup, by adjusting how the situation is physically laid out or to give either side various advantages. Creating assets is covered in the <chapref>Characters</chapref> chapter, and the use of aspect burning to help in conflicts is covered in the different conflict chapters (<chapref>Diplomacy</chapref>, <chapref>Infiltration</chapref>, <chapref>Skirmish</chapref>, and <chapref>Warfare</chapref>).?
+<h2>Aspect Burning</h2>
+Aspect burning converts free invokes on aspects into other mechanical effects covered by the rules, like assets (henchmen, familiars, magical items) and military units. Aspect burning can also be used to modify the conflict setup, by adjusting how the situation is physically laid out or to give either side various advantages. Creating assets is covered in the <chapref>Characters</chapref> chapter, and the use of aspect burning to help in conflicts is covered in the different conflict chapters (<chapref>Diplomacy</chapref>, <chapref>Infiltration</chapref>, <chapref>Skirmish</chapref>, and <chapref>Warfare</chapref>).
 The cost to create these effects is given in the number of free invokes that are expended. The free invokes, along with the aspect they are tied to, are no longer available after having been burned. Campaign aspects can create permanent effects such as assets, while mission aspects create things that last until the end of the mission.
 <h1>Core Actions</h1>
 There are four core actions used by players for most situations arising in play. They are create advantage, overcome, attack, and defend. These actions may be slightly different depending on whether they’re used during the challenge phase or during one of the conflicts, but for the most part they work as described here.
 Each of the core actions involves a skill check – either against passive or active opposition. The attack and defend actions are almost always against active opposition. Also, the attack and defend actions are only usable with some skills, while the create advantage and overcome actions are possible using any applicable skill.
-<h2><fate>C</fate>Create Advantage</h2>?
+<h2><fate>C</fate>Create Advantage</h2>
 The create advantage action is the method by which players create new aspects. It can also be used to add more free invokes to an aspect already in play (this is called <term>refreshing</term> the aspect). The create advantage action is only available during the challenge phase.
 The difficulty for the skill check is based on how long the aspect will remain in play.  The longer, and thus more impactful the aspect is, the more difficult it is to create. The difficulty is based on the difficulty of the mission (how to find mission difficulties is discussed in the <chapref>Missions</chapref> chapter).
 <table>
@@ -101,26 +101,26 @@ The difficulty for the skill check is based on how long the aspect will remain i
 Campaign	Mission Difficulty + 2
 Mission	Mission Difficulty
 Scene	Mission Difficulty -2
-</table>?
+</table>
 Find the result based on the outcome of the check compared with the opposition.
 <list>
 <b>Failure—</b>If a Stronghold player fails the check, the Autarch player may create an aspect with one free invoke of the same scope. This should relate to the backfired attempt.
 <b>Tie—</b>In the case of a tie, the player gains a boost.
-<b>Success—</b>Create an aspect of the appropriate scope which may be invoked once for free.?
+<b>Success—</b>Create an aspect of the appropriate scope which may be invoked once for free.
 <b>Success with Style—</b>In this case, the aspect is created as usual, but it may be invoked twice for free, rather than once. Add two free invokes to the aspect.
 </list>
-<h3>Refreshing Aspects</h3>?
-In addition to creating new aspects, free invokes may be refreshed on mission or campaign aspects which already exist. The procedure is the same – make a relevant skill check against a difficulty based on the opposition. On success, one free invoke is added to the target aspect, and on a success with style, two free invokes are added.??
+<h3>Refreshing Aspects</h3>
+In addition to creating new aspects, free invokes may be refreshed on mission or campaign aspects which already exist. The procedure is the same – make a relevant skill check against a difficulty based on the opposition. On success, one free invoke is added to the target aspect, and on a success with style, two free invokes are added.
 <h2><fate>o</fate> Overcome</h2>
 Overcome is a catch all action that involves any activity with uncertainty which isn’t a direct attack on another character. Climbing over walls, disarming traps, and moving quickly around a battlefield are all instances of the overcome action. The overcome action is frequently used to resolve scenes in the challenge phase and is used for a variety of different sorts of actions during the conflicts.
 This action may also be used by Stronghold players to remove an aspect from play. Getting rid of an aspect has the same difficulty as creating the aspect does (it’s based on the scope and mission difficulty). Of course, a character attempting this action must have a skill that could feasibly remove the aspect in the given situation. This is most commonly done to remove a campaign aspect that has previously been created by the Autarch player.
-Find the result based on the outcome of the check compared with the opposition.?
+Find the result based on the outcome of the check compared with the opposition.
 <list>
-<b>Fail—</b>The character fails their action. This could involve further penalties depending on whether the failure occurs in the challenge phase or the conflict phase. For heroes, stress for success is an option that might be used to succeed (see later in this chapter).?
+<b>Fail—</b>The character fails their action. This could involve further penalties depending on whether the failure occurs in the challenge phase or the conflict phase. For heroes, stress for success is an option that might be used to succeed (see later in this chapter).
 <b>Tie—</b>On a tie, the character succeeds at a minor cost. Apply a stress card (see later in this chapter) after the check.
 <b>Success—</b>The action succeeds. If the target was an aspect, it is removed from play.
 <b>Success with Style—</b>Same as the general success case, but the acting character also gains a boost.
-</list>??
+</list>
 <h2><fate>a</fate>Attack</h2>
 The attack action isn’t used at all during the challenge phase. However, it occurs fairly frequently during the conflicts. The attack action is very broad in use. It covers not just physical attacks, but could involve a volley of arrows from a military unit, or a hero attempting to seduce or intimidate another character. It’s any action where the target is another character and the goal is to inflict physical or mental stress.
 The opposition of the attack action is always active, with the results given below. <b>Note that there is a limit to the amount of stress that may be inflicted.</b> The stress is capped at the rank of the skill used to attack (so a character using a Fighting of +5 to attack may inflict at most 5 stress).
@@ -145,9 +145,9 @@ Some effects cause a character to apply a <term>stress card</term>. In this case
 <h2>Stress for Success (Heroes Only)</h2>
 One option available when a hero fails an action is to use stress for success in order to possibly succeed. The Stronghold player may take up to two stress cards after the action is resolved. For each stress card that will be taken, the Stronghold player may add +2 to the action. Resolve the action first, then apply all of the stress cards to the hero.
 <box>
-<h1>Using Fate Dice</h1>?
+<h1>Using Fate Dice</h1>
 Although <book>WotA</book> is tuned to use the deck of fate, it’s possible to play with fate dice. Instead of drawing a card when making a skill check, roll the four dice and add them together.
-For fortune, add three extra dice to the check, but only count plus results (call these dice helping dice). Similarly, if a check uses misfortune, add three extra dice to the check, but only count minus results.?
+For fortune, add three extra dice to the check, but only count plus results (call these dice helping dice). Similarly, if a check uses misfortune, add three extra dice to the check, but only count minus results.
 For a stress card, roll four dice. Take all pluses as physical stress and all minuses as mental stress.
 For any effects which allow for re-drawing a card simply re-roll the dice. If an effect lets a player draw a few cards and take highest, roll the dice the appropriate number of times and take the highest result.
 </box>
