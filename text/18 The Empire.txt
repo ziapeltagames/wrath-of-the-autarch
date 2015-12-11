@@ -20,25 +20,19 @@ Prominence (Capital)	Castle	1	1	2	1	1
 Eastkeep	Keep	1	0	1	0	1
 Southkeep	Keep	2	0	0	0	1
 Guilder Farms	Keep	2	1	0	0	0
-Dawncaves		0	0	1	0	0	
+Dawncaves		0	0	1	0	0
 Yearly Field		0	1	0	0	0
 Firstborn Peak		0	0	0	1	0
 </table>
-<h1>Mission Difficulties</h1>
-Instead of the fixed mission difficulties that the other minor factions have, mission difficulties for the Empire are determined by Autarch schemes. Each season, the Autarch player allocates one point to any threat pool (Diplomacy, Infiltration, Skirmish, and Warfare). Up to three points can be allocated into any one threat pool. The threat pool total determines the mission difficulty against the Empire for each type of conflict. The warfare threat pool also determines the units the Autarch player has access to in battle. When the Autarch player allocates a point to the warfare threat pool, add the listed units to the Empire’s current totals.
-<h2>Mission Difficulty</h2>
+<h1>Mission Difficulties and Autarch Schemes</h1>
+Instead of fixed mission difficulties, mission difficulties for the Empire are determined by Autarch schemes. The Autarch player may advance two schemes each year (see the <chapter>Threats and Schemes</chapter> chapter for more details). Some of these schemes increase the mission difficulties for missions against the Empire. By default, all of the mission difficulties start at four.
+Units are also increased through the selection of certain schemes. At the start, the Empire has the units listed in this chapter. Refer to the <chapter>Threats and Schemes</chapter> chapter for more details.
+The Faction Sheet has space to track which schemes have been selected.
+<h2>Starting Units</h2>
 <list>
-<b>None (Default)</b>: Difficulty 4
-<b>1 point</b>: Difficulty 5
-<b>2 points</b>: Difficulty 6
-<b>3 points</b>: Difficulty 7
-</list>
-<h2>Units (Warfare Difficulty)</h2>
-<list>
-<b>4 (Starting)</b>: 20 militia, 10 archers, 10 infantry
-<b>5</b>: +5 infantry, +5 archers, +5 cavalry
-<b>6</b>: +5 cavalry, +5 archers, +5 catapults
-<b>7</b>: +5 infantry, +5 cavalry, +5 cannons
+Milita	20
+Archers	10
+Infantry	10
 </list>
 <h1>Leaders</h1>
 <stats>
@@ -452,7 +446,7 @@ One Shadow Guardian for each hero, along with the Autarch.
 <aspect>Demons of the Gray Wastes</aspect>
 <aspect>Extensions of the Autarch’s Will</aspect>
 <aspect>Attracted to Magical Energy</aspect>
-<stunt>Quiet as a Mouse (Stealth)</stunt>?Ghostly (General)
+<stunt>Quiet as a Mouse (Stealth)</stunt> Ghostly (General)
 </stats>
 The Shadow Guardians are amorphous forms, hidden in clouds of inky blackness, moving quickly about the Autarch.
 <h2>Setup</h2>
