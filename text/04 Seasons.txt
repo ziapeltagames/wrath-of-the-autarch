@@ -18,7 +18,7 @@ The result of ignoring a faction threat is different if the faction is an ally (
 There are many different sorts of Autarch schemes available to the Autarch player. They have different effects if ignored. See the <chapref>Threats</chapref> chapter for more details.
 <h1>Stronghold Upkeep</h1>
 During Stronghold upkeep, the spotlight player gathers resources, trades, builds developments, and feeds the populace. Optionally, they may hold a festival or stage a prison break. Lay out the chronicle of trade and the five tech trees found at the end of the book.
-<h2>Gather Resources</h2>?
+<h2>Gather Resources</h2>
 The first step during Stronghold upkeep is to sum all the resources for regions controlled by the Stronghold. These should be tracked on the Stronghold sheet, but could be modified based on regional threats or other effects. Gather one six sided die for each resource, using different colored dice for each resource type (for example, 3 green d6 could be used for 3 timber).
 After gathering the appropriate dice, they are all rolled. All purchases (developments, feeding the populace, festivals, etc) during the Stronghold upkeep phase must be made using whole dice. Any leftover amount on the dice isn’t used (if something costs 6 timber, and there are only two timber dice showing 5 and 3, both dice must be allocated to meet the cost).
 <diagram>
@@ -43,18 +43,18 @@ Festivals may be held at a price equal to the number of regions in luxuries. Sim
 Finally, a hero may be rescued from imprisonment by assigning heroes to break them out. These heroes may not go on the mission for the season. To see if they were successful, draw a card and add the highest Thievery skill of all heroes present. Any helping heroes also assigned may add one to the result provided they have a Thievery skill of one or higher. If this result is equal to or higher than the infiltration difficulty of the faction that captured them, the hero has been rescued and may be used in the future. The result may not be modified with free invokes or fate points.
 <h1>Mission</h1>
 After Stronghold upkeep, the chosen mission is played through. The <chapref>Missions</chapref> chapter contains details on how missions are structured as well as the different sorts of missions available. Before and after the mission there are a few steps that must be taken that are covered here.
-<h2>Choose Heroes</h2>?
+<h2>Choose Heroes</h2>
 The first step before going on a mission is to choose heroes. The spotlight player chooses first. Think about the suitability of the different heroes for the mission at hand. This is mostly determined by the skills of the heroes and the type of conflict the mission uses. The list below summarizes which skills are most useful for each conflict, although different sorts of magic (via Lore stunts) can substitute for these skills.
 <list>
-<b>Diplomacy—</b>Rapport, Society, Wits?
-<b>Infiltration—</b>Stealth, Thievery, Disguise, Athletics?
-<b>Skirmish—</b>Fighting, Marksmanship, Athletics, Survival?
+<b>Diplomacy—</b>Rapport, Society, Wits
+<b>Infiltration—</b>Stealth, Thievery, Disguise, Athletics
+<b>Skirmish—</b>Fighting, Marksmanship, Athletics, Survival
 <b>Warfare—</b>Tactics, Command, Engineering
 </list>
 <h2>Training and Recovery</h2>
 Before going on the mission, heroes may be able to recover consequences and train skills. On the top of the character sheet is the last season the hero went on a mission. For each season of downtime between then and the current season (each open checkbox), the hero may add an advance to one skill (mark one of the three boxes next to a skill on the character sheet) <b>and</b> make one season of progress towards removing a consequences.
 Major and minor consequences take one season to resolve, while severe consequences take two seasons.
-<example>Fuscus was last on a mission six seasons ago (it’s Spring of Year 4, and Summer of Year 2 was his last mission), which means there were five seasons of downtime that Fuscus could train and recover consequences. Fuscus has both a major and a severe consequence. The severe consequence has one check of progress. Fuscus removes both the major and severe consequence (requiring two seasons of downtime) and marks five skill advances.</example>?
+<example>Fuscus was last on a mission six seasons ago (it’s Spring of Year 4, and Summer of Year 2 was his last mission), which means there were five seasons of downtime that Fuscus could train and recover consequences. Fuscus has both a major and a severe consequence. The severe consequence has one check of progress. Fuscus removes both the major and severe consequence (requiring two seasons of downtime) and marks five skill advances.</example>
 Finally, update the last mission date to the current season on the top of the character sheet.
 <h3>Advance Skills</h3>
 After any training is done, any skills which have three advances (whether through training or during a mission) may be raised by one. However, there is a restriction that every skill must have at least one skill in the rank below it. For instance, if a character has a Superb (+5) Fighting skill that has three advances, and no other Superb skills, the player may not advance it, since that would leave a Fantastic (+6) Fighting skill with no Superb (+5) skills in the rank directly below. This prevents advancing one skill up the ladder without taking at least a few others along the way.
