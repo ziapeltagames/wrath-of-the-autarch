@@ -6,7 +6,7 @@ The first session is devoted to discussing the Stronghold and the group of heroe
 For the first session print out a copy of the Stronghold sheet, the chronicle of trade, and ten character sheets. Also gather together some note cards.
 <h1>The Campaign Arc</h1>
 There are many different types of missions that stronghold players may choose from each season. During the course of the campaign it is likely that each type of mission will be undertaken at least once. However, the heroes from the Stronghold will be better at some sorts of missions than others. Before starting to think about the history of the Stronghold, it can be helpful to get a sense of what sorts of missions sound fun to all of the players. While it’s possible to adjust strategies over the course of the campaign, setting some expectations up front helps build consensus which makes the game more enjoyable for everyone.
-There are five broad directions for strategy. It’s typically only possible to be really good at one or two of them. These five campaign frames mirror the five development trees for the Stronghold. It’s also possible to be mediocre in all of them, but that tends to be a far more difficult road. The five areas are as follows.?
+There are five broad directions for strategy. It’s typically only possible to be really good at one or two of them. These five campaign frames mirror the five development trees for the Stronghold. It’s also possible to be mediocre in all of them, but that tends to be a far more difficult road. The five areas are as follows.
 <list>
 <b>Arcane—</b>The ability to wield magic. Magic is a more complementary strategy. It is flexible and powerful, but not without great risks. Going for a high arcane strategy is akin to swinging for the fences.
 <b>Diplomacy—</b>Campaigns featuring diplomacy involve many interactions with the minor factions. The heroes will be building allies and convincing other leaders to join the cause. This is a slow building strategy, but basically unstoppable if it’s able to get going before the Autarch strikes.
@@ -16,7 +16,7 @@ There are five broad directions for strategy. It’s typically only possible to be
 </list>
 <h2>Choosing Strategies</h2>
 Take one of the note cards, and write down the five campaign frames. Each player chooses two of the five areas that sound appealing. Tally up the results to determine which two will be highlighted during the campaign, realizing that all of the areas will most likely see some playtime. This information will inform both the creation of the Stronghold and the heroes within the Stronghold. Have a discussion amongst the table about what everyone is looking for.
-<h1>Stronghold Creation</h1>?
+<h1>Stronghold Creation</h1>
 The Stronghold is the central character in the campaign, so most of the first session is dedicated to its creation. Keep in mind the strategic directions voted on by the players while working through its creation. The first step is to create the five Stronghold aspects. Get out five note cards, and write the five themes for the Stronghold’s aspects: wrath, rule, belief, culture, and history.
 <h2>Stronghold Aspects</h2>
 The creation of the stronghold aspects helps create a trajectory for the campaign, as well as investing everyone in the unfolding story. Read out loud the brief description of the Empire from <chapref>The Empire</chapref> chapter later in this book. Also read the aspects that the Empire has. These have been worded to give the Autarch flavor and provide inspiration for the players, but not to make it impossible to add more detail. It’s okay to tweak the Empire aspects a little to fit the concept everyone has for the campaign.
@@ -29,29 +29,29 @@ Is the Empire unified in this desire?
 Who disagrees?
 </list>?
 Examples: <aspect>Bearers of a Dark Secret</aspect>, <aspect>They Desire our Mana Rich Lands</aspect>, <aspect>True Heirs to the Empire</aspect>
-<h3>Belief</h3>?
+<h3>Belief</h3>
 <list>
 Why resist the Autarch rather than try to move away?
 Who is most vocal about resisting the Autarch?
 Is there any religious motivation?
-</list>?
+</list>
 Examples: <aspect>The Veil Must be Preserved</aspect>, <aspect>Might Makes Right</aspect>, <aspect>Death before Dishonor</aspect>
-<h3>Culture</h3>?
+<h3>Culture</h3>
 <list>
 What were the lands like before the Stronghold was built?
 Are the native people still here?
 What forms of entertainment are important to the people?
 </list>
 Examples: <aspect>Salt of the Earth</aspect>, <aspect>Worshippers of Sun and Song</aspect>, <aspect>Idle Hands Aid the Empire</aspect>
-<h3>Rule</h3>?
+<h3>Rule</h3>
 <list>
 What sort of government or ruling system does the Stronghold have?
 Whose idea was it to create this system?
 Who benefits most from the rule that’s in place?
 Who is harmed the most?
-</list>?
+</list>
 Examples: <aspect>The Shadow Council</aspect>, <aspect>Magocracy</aspect>, <aspect>Representatives of the Four Pillars</aspect>
-<h3>History</h3>?
+<h3>History</h3>
 <list>
 Where did the people of the Stronghold come from?
 What relation did they have to the Empire?
@@ -59,16 +59,16 @@ Were they citizens of the Empire?
 What was the first interaction with the Empire?
 </list>
 Examples: <aspect>The Order of the Eye</aspect>, <aspect>Veterans of the West War</aspect>, <aspect>Vikings of the Frozen North</aspect>
-<h1>Hero Creation</h1>?
+<h1>Hero Creation</h1>
 Now it’s time to think about the heroes of the Stronghold. The players create a troupe of ten heroes to choose from, but the heroes don’t need to be fully fleshed out at the start of the campaign. It is helpful to think about the composition of the heroes at a high level. How do they fit into the Stronghold’s goals and the campaign arc? Place two blank note cards below each of the five Stronghold aspects that were created in the previous step. These note cards will be used to start sketching out the hero concepts.
 <h2>Peak Skill</h2>
 The easiest place to start is to write down peak skills for the heroes on each of the note cards. As described further in the <chapref>Characters</chapref> chapter, the peak skill is the highest rated skill a character has (it starts at +4). Think back to the discussion of the campaign arc. It’s probably wise to have four or five heroes that are well adapted to one sort of conflict. The types of skills that are best suited to each conflict are as follows.
 <list>
 <b>Diplomacy—</b>Rapport, Society, Wits
 <b>Infiltration—</b>Stealth, Deceive, Thievery, Athletics
-<b>Skirmish—</b>Fighting or Marksmanship, Survival, Athletics?
+<b>Skirmish—</b>Fighting or Marksmanship, Survival, Athletics
 <b>Warfare—</b>Tactics, Command, Engineering
-</list>?
+</list>
 Magic is used for any of these conflicts. Characters relying on magic start out relatively weak, but through developments can become very powerful. For heroes utilizing magic, select Lore as the peak skill (also take a high Channeling).
 Write down the peak skills on the note cards, making sure to have enough characters for each type of desired strategy. Characters can have a mix of abilities, but the peak skill goes a long way in determining what they’re best at.
 <h2>Core Concept</h2>
@@ -85,13 +85,13 @@ On the chronicle of trade are entries for all the minor factions. Each faction h
 It is good to pick allies based on the focus of the Stronghold. Each minor faction has an area of expertise as, and this can help when improving the Stronghold.
 <list>
 <b>Burgan Vale—</b>Arcane
-<b>Crescent Hold—</b>Skirmish?
-<b>Gravewood—</b>Infiltration?
-<b>Lily Manor—</b>Diplomacy?
+<b>Crescent Hold—</b>Skirmish
+<b>Gravewood—</b>Infiltration
+<b>Lily Manor—</b>Diplomacy
 <b>Sunriders—</b>Warfare
 </list>
 <figure>
-Show the chronicle of trade, with a blown up section that has the faction dispositions filled in? 
+Show the chronicle of trade, with a blown up section that has the faction dispositions filled in?
 </figure>
 <h2>Starting Regions</h2>
 The Stronghold starts with three regions from which to gain resources. These are already named on the Stronghold sheet, but if desired, write over the names with names that reflect the details of your Stronghold.

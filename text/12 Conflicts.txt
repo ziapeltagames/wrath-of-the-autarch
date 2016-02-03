@@ -1,10 +1,10 @@
 <chapter>Conflicts</chapter>
-Conflicts are mini-games based on diplomacy, infiltration, skirmish, or warfare. Each conflict is built from the same four core actions described in the <chapter>Core Rules</chapter> chapter. Additionally, each conflict features moving characters around zones.
+Conflicts are mini-games based on diplomacy, infiltration, skirmish, or warfare. Conflicts are built from the core actions described in the <chapter>Core Rules</chapter> chapter. Although the focus action is used instead of the create advantage action. Conflicts are the most tactical and adversarial part of the game.
 <h1>Zones</h1>
 Zones are abstractions that usually represent physical spaces. The size of these physical spaces varies greatly. In warfare, each zone might be an area of roughly 1,000 square yards, while in skirmish one zone might be a room in a house.
-Although zones might have a variety of physical shapes associated with them, they are always represented by placing notecards down on the table. Each notecard is labeled with the name of the zone, or a suitable picture is drawn on the notecard.
-Zones must be placed such that one edge of a zone is adjacent to one or more edges of other zones. They can’t be connected only through a diagonal. Zones provide a spatial element to conflicts, giving tactical options to characters or military units. There are different restrictions on how one character or unit interacts with others across the zone map.
-In diplomacy, zones aren’t physical spaces. Instead, zones represent issues that the two sides are arguing about. As such, zone placement restrictions don’t apply. All zones in diplomacy are considered adjacent to each other. There are still restrictions on how characters may interact with other characters on a zone.
+Although zones have a variety of physical shapes associated with them, they are always represented by placing notecards down on the table. Each notecard may be labeled with the name of a zone (<aspect>bedroom</aspect>, <aspect>Red Gulch</aspect>), or a suitable picture may be drawn on the notecard.
+Zones must be placed such that one edge of a zone is adjacent to one or more edges of other zones (notecards are placed orthogonal to other notecards). They can’t be connected only through a diagonal. Zones provide a spatial element to conflicts, giving tactical options to characters or military units. There are different restrictions on how one character or unit interacts with others across the zone map.
+In diplomacy, zones aren’t physical spaces. Instead, zones represent issues that the two sides are arguing about. As such, zone placement restrictions don’t apply. All zones in diplomacy are considered adjacent to each other.
 <h2>Obstacles</h2>
 Zones may have obstacles in them. These are usually physical features, like dense foliage, each of which makes movement into the zone more difficult. Obstacles are written or drawn on the zone.
 <h1>Actions</h1>
@@ -13,12 +13,12 @@ Unlike the challenge phase, the order of actions is usually based on a particula
 <h2>Focus</h2>
 The focus action is available in every conflict. It replaces the create advantage action. If a character has no boosts, they may use the focus action to take one boost. This action is not available to minions. Boosts may be spent as normal. See the <chapter>Core Rules</chapter> chapter for more details.
 <h2>Movement</h2>
-Movement is conducted by moving characters over the edges of adjacent zones (no diagonal movement is allowed). The maximum amount that can be moved is based on various skills depending on the conflict type.
-If a character moves only one zone, they may take a different action either before or after the move. However, they may take stress from being pinned (see below).
-<h3>Maximum Movement</h3>?
-Characters and units have maximum distances they can move. These are expressed in terms of a total number of zones. The maximum number of zones is derived from Athletics for infiltration or skirmish (see the Athletics skill description) and from the Movement skill of the slowest commanded unit for Warfare. Diplomacy is a little different, as a character may only move one zone (this represents changing the issue they’re arguing about).
+Movement is conducted by moving characters over the edges of adjacent zones (no diagonal movement is allowed). The maximum amount that may be moved depends on the conflict type and the skill used for movement.
+If a character moves only one zone, they may take a different action either before or after the move. However, they may take stress from being opposed (see below).
+<h3>Movement Points</h3>
+Characters and units have maximum distances they can move. These are expressed in terms of movement points. The number of movement points is based on Athletics for infiltration and skirmish (see the Athletics skill description) and from the Movement skill of the slowest commanded unit for warfare. Diplomacy is a little different, as a character may only move one zone (this represents changing the issue they’re arguing about). Movement points are not used in diplomacy.
 Each obstacle in a zone requires one additional point of movement to enter. A character may always move at least one zone, no matter how many obstacles there are.
 <h3>Opposed Movement</h3>
-If a character leaves a zone with opposing characters, they take stress as a result. For each such opposing character apply one stress card when leaving the zone. Assume all characters oppose movement unless specified otherwise. For example, guards that are unaware of moving heroes do not pose opposition.
-<h1>Autarch Fate Points</h1>?
+If a character leaves a zone with opposing characters, they take stress as a result. For each such opposing character apply one stress card when leaving the zone. Assume all characters oppose movement unless specified otherwise.
+<h1>Autarch Fate Points</h1>
 The Autarch starts each conflict with fate points equal to the number of heroes. These can be spent in any way desired - they don’t have to be allocated to particular opponents. Any unused fate points that were for adding complications during the challenge phase are discarded.
