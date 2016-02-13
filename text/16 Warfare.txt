@@ -130,7 +130,7 @@ Following is a sample commander that is easy to adjust for the campaign by slidi
 </stats>
 This is a good defensive military leader, with solid <skill>Tactics</skill> and <skill>Command</skill>, and two stunts useful for Warfare. With the lower Engineering, this leader isn’t as suited to dealing with siege equipment.
 <h2>Units for Threats</h2>
-TBD
+For threats which don’t involve enemy factions, it is necessary to determine the opposing army strength. In this case, gather a number of units equal to twice the difficulty of the threat. At least half of the opposing units should be infantry. The other half can be a mixture of any unit types chosen by the Autarch player.
 <h1>Setup</h1>
 During setup, each side determines what set of units they have available and assigns them to commanders. The battlefield is created, along with the strategic zone and any terrain. Finally, leaders and attached units are placed onto the battlefield.
 <h2>Muster Units</h2>
