@@ -1,18 +1,28 @@
 <chapter>Tips and Tricks</chapter>
 <h1>Difficulty</h1>
-By default, the campaign is fairly easy for the Stronghold to win. The uncertainty at the core is less “Will the Stronghold win?” and more “At what cost?”
-However, some groups may want a very real chance of losing. In this case, the following changes will increase the difficulty by varying amounts.
+The standard campaign is fairly easy for the Stronghold to win. The uncertainty at the core of <book>Wrath of the Autarch</book> is less “Will the Stronghold win?” and more “At what cost?”
+However, some play groups may want a very real chance of losing. In this case, the following changes will increase the difficulty by varying amounts.
 <list>
 Hard - Increase the difficulty of all threats by one. In order to balance this change, add one to the defensive value of all defensive developments. Thus, defensive developments may stop threats of difficulty 5/6/7 instead of 4/5/6.
-Crushing - As Hard, and also check for threats twice for each minor faction and Stronghold region.
-Tragedy Theater - As Crushing, and also increase the difficulty for all missions against the Empire by one. Thus, all difficulties start the campaign at 5 and increase from there. The mission to assassinate the Autarch is a difficulty 9, etc. Furthermore, the Empire starts with 10 additional archers and 10 additional infantry. Good luck!
+Crushing - As Hard, and also check for regional and faction threats twice each season.
+Tragedy Theater - As Crushing, and also increase the difficulty for all missions against the Empire by one. Thus, all difficulties for The Empire start the campaign at 5 and increase from there. The mission to assassinate the Autarch is a difficulty 9, etc. Furthermore, the Empire starts with 10 additional archers and 10 additional infantry. Good luck!
 </list>
 <h1>Playing with a Gamemaster</h1>
-How to play in a more traditional way. Ignore the challenge phases, ignore the formal Autarch schemes, or use them more as inspiration, or use them to set scenes. Sprinkle in the different conflicts as desired. Still use developments, still use regions, but use them more as “rewards” as such.
-<h2>Random Regions</h2>
-Creating a new “explore and discover” phase, with random regions. Difficulties, exploration.
+It is fairly easy to steal concepts from this game and adapt them to standard <book>Fate Core</book> or even another role-playing game system. The easiest way to incorporate these rules while playing with a gamemaster is to ignore the challenge phase and the formal mission structure.
+The Stronghold may be kept as is. The trading with factions and creation of developments may also be kept if they sound fun. However, instead of building developments at the beginning of each session, that activity can be left up to the discretion of the gamemaster. In order to keep the sense of time passing, it should probably occur every few sessions of play.
+Rewards, such as artifacts, gaining new regions, gaining or losing disposition with a faction, or changes in stability, may also be left up to the discretion of the gamemaster. However, as in the case of building developments, the world should change fairly frequently, so applying changes to the Stronghold should occur at least every few sessions. The mission descriptions may be used as inspiration or taken largely as is to provide opposition during scenes.
+The conflict rules may be sprinkled in to add variety or when more structure is called for. Reserving these for use during particularly climactic moments in the campaign is a good policy. Since a number of developments improve the ability of characters to succeed during conflicts, it is a good idea to keep them around.
 <h1>Crafting Threats</h1>
-More guidance on building your own threats. Reward, penalty, challenges.
+Although a number of threats are provided in the <chapref>Threats and Schemes</chapref> chapter, it is helpful for the Autarch player to know how to create their own. Crafting threats, like most of <book>Wrath of the Autarch</book>, should be viewed as a collaborative process.
+<h2>Rough Sketch</h2>
+The type of conflict and difficulty goes a long way to determining what sort of threat will occur. If at the end of a session, a threat is indicated, the group should work to quickly sketch out what might be happening. This may be nothing more than looking through the <chapref>Threats</chapref> chapter and finding a suitable example. Alternatively, a new threat may be constructed from scratch.
+This shouldn’t be a detailed explanation. A simple phrase is sufficient. For example, “peasants are uprising at Echo Lake”, “border disagreement with Crescent Hold”, “skeletons are attacking allies in Lily Manor”. Use the Chronicle of Seasons to help spur creativity. What happened in the past with the faction or in the region? Was there ever backlash? How is stability for the Stronghold?
+Furthermore, if a threat was ignored, it is fine to bring it back again. Those bandits that were never dealt with may be back again!
+<h2>Opposition</h2>
+If the Stronghold players have no intention to deal with a threat, leave it as a rough sketch. It should be noted on the Chronicle of Seasons to jog the memory of the group later. If, however, the Stronghold players intend to deal with the threat next season, opposition will need to be created.
+Sometimes creating opposition is not needed at all. If the mission involves diplomacy with another faction, for example, the opposition will be leaders chosen from the faction.
+If new opposition is needed, they can be based on opposition listed in existing threats. This may require scaling the peak skill slightly (raising or lowering the rank of all skills so the peak skill matches the mission difficulty).
+As a last resort, opposition will need to be created. Each of the conflict chapters provides guidelines for creating opposition. Frequently, the sample opposition from each chapter is sufficient. The main exception tends to be unique monsters desired for skirmish threats. For these sorts of beasts, look to the general opposition stunts when creating them.
 <h1>Designer’s Notes</h1>
 This game arose in a rather untoward fashion according to the conventional game design wisdom. It began as the quintessential Fantasy Heartbreaker. D&D is so awesome, except for this one thing! And this other thing! Be that as it may, I began to have ideas about game design that seemed to be slowly evolving past simple issues with D&D. They also weren’t quite addressed to my satisfaction in any game system I have encountered, despite a good deal of looking around.
 My main interest is to explore a strategic kingdom building background to a fantasy roleplaying game. This has been done, of course, in games like Birthright, Pendragon, Reign, Houses of the Blooded, Song of Ice and Fire, Burning Empires, not to mention more recent supplements for games like 3E and Pathfinder (Kingmaker Campaign).

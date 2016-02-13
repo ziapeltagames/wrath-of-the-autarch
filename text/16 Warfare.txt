@@ -1,94 +1,94 @@
-<chapter>Warfare</chapter>?
-Battles between armies for control of a region are fought using warfare. Warfare is bloody business. Casualties are common for the losing side as well as for the victor. Too many casualties cause a loss of stability.?
-While having competent military commanders is important, a variety of quality <term>units</term> are also necessary for martial success. The Stronghold must have the correct type of development prior to building units. The units are mustered during the stronghold upkeep phase. Resources are allocated on a per unit basis as they are for other developments. Units are a little like characters, with skills and stunts to use during the battle.?
-Each side places units under the command of chosen leaders. Zones, representing large areas of land, are created on note cards and a battlefield is constructed. The goal in warfare is to secure the defender’s <term>strategic zone</term>, occupying it with units so that it changes hands.?
-<h1>Challenges</h1>?
-Challenges during warfare missions focus on the pain of military life and the struggle to secure strategic advantage. Morale issues, homesick soldiers, fatigue, reconnaissance, environmental hazards, and small battles with enemy forces are all potential challenge scenes.?
-<h1>Units</h1>?
-Units are large groups of fighting forces under the control of a leader. Although units are not characters, they are composed of similar elements: skills, aspects, and stunts.  Units don’t have stress or consequences.?
-<h2>Commanders</h2>?
-As mentioned, units are assigned to a commander (a hero, faction leader, or lieutenant). Units do not spend or receive fate points of their own. Rather, the controlling commander spends fate points on behalf of the unit. Units do not get actions independent of their commander.?
-<h2>Novice Commanders</h2>?
-If a commander is taken out for any reason, it is assumed another commander steps up to lead the army. However, all of the novice commander’s skills are Mediocre (+0) and they have no stress boxes or consequences.?
-<h2>Units and Skills</h2>?
-Units only have a few types of skills and they more directly reflect the sorts of actions available: fighting, marksmanship, armor, and siege. The functions of these skills are explained in the <secref>Actions</secref> section of this chapter.?
-<h2>Unit Listing</h2>?
-Following are all the types of units available for purchase during stronghold upkeep. Units (with the exception of militia) have certain developments which must be purchased before the units can be obtained. See the <chapref>Developments</chapref> chapter for more details.?
+<chapter>Warfare</chapter>
+Battles between armies for control of a region are fought using warfare. Warfare is bloody business. Casualties are common for the losing side as well as for the victor. Too many casualties cause a loss of stability.
+While having competent military commanders is important, a variety of quality <term>units</term> are also necessary for martial success. The Stronghold must have the correct type of development prior to building units. The units are mustered during the stronghold upkeep phase. Resources are allocated on a per unit basis as they are for other developments. Units are a little like characters, with skills and stunts to use during the battle.
+Each side places units under the command of chosen leaders. Zones, representing large areas of land, are created on note cards and a battlefield is constructed. The goal in warfare is to secure the defender’s <term>strategic zone</term>, occupying it with units so that it changes hands.
+<h1>Challenges</h1>
+Challenges during warfare missions focus on the pain of military life and the struggle to secure strategic advantage. Morale issues, homesick soldiers, fatigue, reconnaissance, environmental hazards, and small battles with enemy forces are all potential challenge scenes.
+<h1>Units</h1>
+Units are large groups of fighting forces under the control of a leader. Although units are not characters, they are composed of similar elements: skills, aspects, and stunts.  Units don’t have stress or consequences.
+<h2>Commanders</h2>
+As mentioned, units are assigned to a commander (a hero, faction leader, or lieutenant). Units do not spend or receive fate points of their own. Rather, the controlling commander spends fate points on behalf of the unit. Units do not get actions independent of their commander.
+<h2>Novice Commanders</h2>
+If a commander is taken out for any reason, it is assumed another commander steps up to lead the army. However, all of the novice commander’s skills are Mediocre (+0) and they have no stress boxes or consequences.
+<h2>Units and Skills</h2>
+Units only have a few types of skills and they more directly reflect the sorts of actions available: fighting, marksmanship, armor, and siege. The functions of these skills are explained in the <secref>Actions</secref> section of this chapter.
+<h2>Unit Listing</h2>
+Following are all the types of units available for purchase during stronghold upkeep. Units (with the exception of militia) have certain developments which must be purchased before the units can be obtained. See the <chapref>Developments</chapref> chapter for more details.
 <stats>
-<name>Archers </name> 	
+<name>Archers</name>
 <skill><b>Decent (+2)</b>	Fighting, Armor, Movement</skill>
 <skill><b>Average (+1)</b>	Marksmanship</skill>
-<aspect>Out of arrows!</aspect>?
-<aspect>Vulnerable to Charge</aspect>	
-<stunt>Aim - </stunt>If archers have not moved this exchange, their Marksmanship is improved to Decent (+2).?
-<stunt>Longbows - </stunt>Archers have a maximum range of four zones, regardless of the number of shifts rolled.?
-<stunt>Pinned</stunt> - Archers may not use ranged attack if there are opposing units in the same zone.	
-</stats>?
-Archers, along with battle mages, are the key units used for ranged attack. Archers have poor defense and are best surrounded by infantry.?
+<aspect>Out of arrows!</aspect>
+<aspect>Vulnerable to Charge</aspect>
+<stunt>Aim - </stunt>If archers have not moved this exchange, their Marksmanship is improved to Decent (+2).
+<stunt>Longbows - </stunt>Archers have a maximum range of four zones, regardless of the number of shifts rolled.
+<stunt>Pinned</stunt> - Archers may not use ranged attack if there are opposing units in the same zone.
+</stats>
+Archers, along with battle mages, are the key units used for ranged attack. Archers have poor defense and are best surrounded by infantry.
 <stats>
-<name>Battle Mages </name> 	
+<name>Battle Mages</name>
 <skill><b>Good (+3)</b>	Lore</skill>
 <skill><b>Decent (+2)</b>	Movement</skill>
 <skill><b>Average (+1)</b>	Fighting	</skill>
 <skill><b>Mediocre (+0)</b>	Armor</skill>
 <aspect>Rain of Fire</aspect>
-<aspect>Incompetent Fighters</aspect>	
-<stunt>Ranged Blast - </stunt>May use Lore to make ranged attacks. ?
-<stunt>Pinned - </stunt>Battle Mages may not make ranged attacks if there are opposing units in the same zone.	
-</stats>?
-Battle mages are the only unit type that require an Arcane development as the prerequisite. They have very poor defense, but have a devastating ranged attack.?
+<aspect>Incompetent Fighters</aspect>
+<stunt>Ranged Blast - </stunt>May use Lore to make ranged attacks.
+<stunt>Pinned - </stunt>Battle Mages may not make ranged attacks if there are opposing units in the same zone.
+</stats>
+Battle mages are the only unit type that require an Arcane development as the prerequisite. They have very poor defense, but have a devastating ranged attack.
 <stats>
-<name>Cannons </name> 	
+<name>Cannons </name>
 <skill><b>Fantastic (+6)</b>	Armor</skill>
 <skill><b>Decent (+2)</b>	Movement, Siege</skill>
 <aspect>Castle Smasher</aspect>
 <aspect>Tricky to Maneuver</aspect>
-<stunt>Siege Weapon - </stunt>The Siege skill can be used for ranged attack with a maximum range of 3 (regardless of shifts). Cannons may inflict stress on defensive ramparts (keeps and castles).?
-<stunt>Aim - </stunt>If cannons have not moved this exchange, their Siege is improved to Good (+3).	
+<stunt>Siege Weapon - </stunt>The Siege skill can be used for ranged attack with a maximum range of 3 (regardless of shifts). Cannons may inflict stress on defensive ramparts (keeps and castles).
+<stunt>Aim - </stunt>If cannons have not moved this exchange, their Siege is improved to Good (+3).
 </stats>
-Cannons are the most powerful siege weapons, and are a virtual requirement when attacking a castle.?
+Cannons are the most powerful siege weapons, and are a virtual requirement when attacking a castle.
 <stats>
-<name>Catapults </name> 	
+<name>Catapults </name>
 <skill><b>Superb (+5)</b>	Armor</skill>
 <skill><b>Decent (+2)</b>	Movement</skill>
 <skill><b>Mediocre (+0)</b>	Siege</skill>
 <aspect>Fires Over Walls</aspect>
 <aspect>Tricky to Maneuver</aspect>
-<stunt>Siege Weapon - </stunt>The Siege skill can be used for ranged attack with a maximum range of 3 (regardless of shifts). Catapults may inflict stress on defensive ramparts (keeps and castles).?
-<stunt>Aim - </stunt>If catapults have not moved this exchange, their Siege is improved to Average (+1).	
-</stats>?
-While not as effective as cannons, catapults are powerful in greater numbers, and are also fairly effective against weaker defenses like keeps.?
+<stunt>Siege Weapon - </stunt>The Siege skill can be used for ranged attack with a maximum range of 3 (regardless of shifts). Catapults may inflict stress on defensive ramparts (keeps and castles).
+<stunt>Aim - </stunt>If catapults have not moved this exchange, their Siege is improved to Average (+1).
+</stats>
+While not as effective as cannons, catapults are powerful in greater numbers, and are also fairly effective against weaker defenses like keeps.
 <stats>
-<name>Cavalry </name> 
+<name>Cavalry</name>
 <skill><b>Superb (+5)</b>	Armor</skill>
 <skill><b>Good (+3)</b>	Movement</skill>
 <skill><b>Decent (+2)</b>	Fighting	</skill>
-<aspect>Crashing Wave of Steel and Hoof</aspect>?
-<aspect>Vulnerable to Set Defense</aspect>	
-<stunt>Charge! - </stunt>If the cavalry moved this turn, their Fighting is improved to Good (+3).	
-</stats>?
-Cavalry are highly mobile, and have strong Fighting and Armor skills.?
+<aspect>Crashing Wave of Steel and Hoof</aspect>
+<aspect>Vulnerable to Set Defense</aspect>
+<stunt>Charge! - </stunt>If the cavalry moved this turn, their Fighting is improved to Good (+3).
+</stats>
+Cavalry are highly mobile, and have strong Fighting and Armor skills.
 <stats>
-<name>Infantry </name> 
+<name>Infantry </name>
 <skill><b>Great (+4)</b>	Armor</skill>
 <skill><b>Decent (+2)</b>	Fighting, Movement</skill>
 <aspect>The War is Won or Lost With Us!</aspect>
 <aspect>Most Important Piece</aspect>
 </stats>
-Infantry are the bread and butter of any fighting force. They’re cheaper, able to be improved by warfare developments, and help absorb blows as well as deal damage. They’re best used paired with other unit types where they can help.?
+Infantry are the bread and butter of any fighting force. They’re cheaper, able to be improved by warfare developments, and help absorb blows as well as deal damage. They’re best used paired with other unit types where they can help.
 <stats>
-<name>Militia </name> 	
+<name>Militia</name> 
 <skill><b>Decent (+2)</b>	Movement, Armor</skill>
 <skill><b>Average (+1)</b>	Fighting</skill>
-<aspect>I will defend my home!</aspect>?
-<aspect>Disorganized</aspect>	
+<aspect>I will defend my home!</aspect>
+<aspect>Disorganized</aspect>
 <stunt>Homeland Defense - </stunt>When militia are used for defending a region, their Fighting skill is improved to Decent (+2).
-</stats>?
-Militia are cheap, but ineffective and result in greater casualties if their morale breaks.??
-<h1>Ramparts</h1>?
-There are two defensive developments (keeps and castles) which may be placed on regions to help with defense. Keeps and castles are always on the strategic zone, and prevent movement onto the zone or ranged attacks on the units in the zone until they are destroyed or somehow neutralized. This is done via Siege attacks opposed by the Armor value of the structure. While this is going on, archers may rain down arrows from the ramparts onto opposing units without fear of reprisal.?
-<h2>Rampart Listing</h2>?
-Wall Strength functions as a stress track similar to those used by characters. When the structure is taken out from an attack, it is no longer effective and provides no benefits.?
+</stats>
+Militia are cheap, but ineffective and result in greater casualties if their morale breaks.
+<h1>Ramparts</h1>
+There are two defensive developments (keeps and castles) which may be placed on regions to help with defense. Keeps and castles are always on the strategic zone, and prevent movement onto the zone or ranged attacks on the units in the zone until they are destroyed or somehow neutralized. This is done via Siege attacks opposed by the Armor value of the structure. While this is going on, archers may rain down arrows from the ramparts onto opposing units without fear of reprisal.
+<h2>Rampart Listing</h2>
+Wall Strength functions as a stress track similar to those used by characters. When the structure is taken out from an attack, it is no longer effective and provides no benefits.
 <stats>
 <name>Castle (Regional Development)</name>
 <stress><b>Wall Strength</b>	<fate>3</fate></stress>
@@ -97,7 +97,7 @@ Wall Strength functions as a stress track similar to those used by characters. W
 <aspect>Fire From the Ramparts!</aspect>
 <aspect>Thick Walls of Stone</aspect>
 <stunt>Rampart - </stunt>Only attacks from the Siege and Engineering skills cause the castle to take stress.
-</stats>?
+</stats>
 <stats>
 <name>Keep (Regional Development)</name>
 <stress><b>Wall Strength</b>	<fate>3</fate></stress>
@@ -107,78 +107,87 @@ Wall Strength functions as a stress track similar to those used by characters. W
 <aspect>Take Cover!</aspect>
 <stunt>Rampart - </stunt>Only attacks from the Siege and Engineering skills cause the keep to take stress.
 </stats>
-<h1>Opposition</h1>?
-The opposing side gets one lieutenant with a skill cap equal to the mission difficulty for each hero. If the opponent in the conflict is a faction, the Autarch player can substitute any number of leaders from the faction for lieutenants.?
-<h2>Creating Commanders</h2>?
-The most important skills in warfare are Tactics, Command, and Engineering, followed more distantly by Fighting, Athletics, Physique, and Marksmanship.?
-<h2>Sample Commander</h2>?
-Following is a sample commander that is easy to adjust for the campaign by sliding the given skills up or down as appropriate to meet the mission difficulty.?
+<h1>Opposition</h1>
+The opposing side gets one lieutenant with a skill cap equal to the mission difficulty for each hero. If the opponent in the conflict is a faction, the Autarch player can substitute any number of leaders from the faction for lieutenants.
+<h2>Creating Commanders</h2>
+The most important skills in warfare are Tactics, Command, and Engineering, followed more distantly by Fighting, Athletics, Physique, and Marksmanship.
+<h2>Sample Commander</h2>
+Following is a sample commander that is easy to adjust for the campaign by sliding the given skills up or down as appropriate to meet the mission difficulty.
 <stats>
-Warfare?Battles between armies for control of a region are fought using warfare. Warfare is bloody business. Casualties are common for the losing side as well as for the victor. Too many casualties cause a loss of stability.?While having competent military commanders is important, a variety of quality units are also necessary for martial success. The Stronghold must have the correct type of development prior to building units. The units are mustered during the stronghold upkeep phase. Resources are allocated on a per unit basis as they are for other developments. Units are a little like characters, with skills and stunts to use during the battle.?Each side places units under the command of chosen leaders. Zones, representing large areas of land, are created on note cards and a battlefield is constructed. The goal in warfare is to secure the defender’s strategic zone, occupying it with units so that it changes hands.?Challenges?Challenges during warfare missions focus on the pain of military life and the struggle to secure strategic advantage. Morale issues, homesick soldiers, fatigue, reconnaissance, environmental hazards, and small battles with enemy forces are all potential challenge scenes.?Units?Units are large groups of fighting forces under the control of a leader. Although units are not characters, they are composed of similar elements: skills, aspects, and stunts. Units don’t have stress or consequences.?Commanders?As mentioned, units are assigned to a commander (a hero, faction leader, or lieutenant). Units do not spend or receive fate points of their own. Rather, the controlling commander spends fate points on behalf of the unit. Units do not get actions independent of their commander.?Novice Commanders?If a commander is taken out for any reason, it is assumed another commander steps up to lead the army. However, all of the novice commander’s skills are Mediocre (+0) and they have no stress boxes or consequences.?Units and Skills?Units only have a few types of skills and they more directly reflect the sorts of actions available: fighting, marksmanship, armor, and siege. The functions of these skills are explained in the Actions section of this chapter.?Unit Listing?Following are all the types of units available for purchase during stronghold upkeep. Units (with the exception of militia) have certain developments which must be purchased before the units can be obtained. See the Developments chapter for more details.??Archers, along with battle mages, are the key units used for ranged attack. Archers have poor defense and are best surrounded by infantry.??Battle mages are the only unit type that require an Arcane development as the prerequisite. They have very poor defense, but have a devastating ranged attack.??Cannons are the most powerful siege weapons, and are a virtual requirement when attacking a castle.??While not as effective as cannons, catapults are powerful in greater numbers, and are also fairly effective against weaker defenses like keeps.??Cavalry are highly mobile, and have strong Fighting and Armor skills.??Infantry are the bread and butter of any fighting force. They’re cheaper, able to be improved by warfare developments, and help absorb blows as well as deal damage. They’re best used paired with other unit types where they can help.??Militia are cheap, but ineffective and result in greater casualties if their morale breaks.??Ramparts?There are two defensive developments (keeps and castles) which may be placed on regions to help with defense. Keeps and castles are always on the strategic zone, and prevent movement onto the zone or ranged attacks on the units in the zone until they are destroyed or somehow neutralized. This is done via Siege attacks opposed by the Armor value of the structure. While this is going on, archers may rain down arrows from the ramparts onto opposing units without fear of reprisal.?Rampart Listing?Wall Strength functions as a stress track similar to those used by characters. When the structure is taken out from an attack, it is no longer effective and provides no benefits.????Opposition?The opposing side gets one lieutenant with a skill cap equal to the mission difficulty for each hero. If the opponent in the conflict is a faction, the Autarch player can substitute any number of leaders from the faction for lieutenants.?Creating Commanders?The most important skills in warfare are Tactics, Command, and Engineering, followed more distantly by Fighting, Athletics, Physique, and Marksmanship.?Sample Commander?Following is a sample commander that is easy to adjust for the campaign by sliding the given skills up or down as appropriate to meet the mission difficulty.?
-<name>Defensive General (Lieutenant)</strong> 	<b>Physical</b>	<fate>2</fate>	<b>Mental</b>	<fate>4</fate>	<b>Consequences</b>	-2 <fate>1</fate>	<b>Superb (+5)</b>	Command	<b>Great (+4)</b>	Tactics	<b>Good (+3)</b>	Will	
-<skill><b>Decent (+2)</b>	Fighting	
-<skill><b>Average (+1)</b>	Engineering	
-<aspect>Take the Hill!</aspect>?
-<aspect>“Hold the line!”</aspect>	
-<stunt>Band Together (Command)</strong>?
-<stunt>Set for Charge (Tactics)</strong>	
-</stats>?
-This is a good defensive military leader, with solid <skill>Tactics</skill> and <skill>Command</skill>, and two stunts useful for Warfare. With the lower Engineering, this leader isn’t as suited to dealing with siege equipment.??
-<h1>Setup</h1>?
-During setup, each side determines what set of units they have available and assigns them to commanders. The battlefield is created, along with the strategic zone and any terrain. Finally, leaders and attached units are placed onto the battlefield.?
-<h2>Muster Units</h2>?
-Each side musters units from their available total units. Allies for the Stronghold (minor factions with a disposition of 5 or higher) provide up to three units from their available totals. If warfare involves the Empire, allies for the Autarch (minor factions with a disposition of -4 or lower) provide up to three units to the Autarch.?
-<h2>Attach Commanders</h2>?
-Each unit must be attached to one commanding character (a hero, leader, or lieutenant). A commander may control a number of units equal to their Command skill or a minimum of three, whichever is higher. Commanders defending their capital may control one additional unit.?
-<h2>Champions</h2>?
-A character may start without any units of their own, in which case the character must be attached to a commander, just as units are. The character will move and act with their commander. They can’t take any actions which require units, but may take any of the other listed actions below.?
-<h2>Create the Battlefield</h2>?
-Assemble fifteen note cards for creating the battlefield. These zones represent much larger areas of terrain than the zones in the skirmish or infiltration conflicts. Areas potentially hundreds of yards across. One note card should be labeled as the strategic zone. This is a vital location that is being fought over, such as a city center or a valuable mine.?
-Additionally, the defending side may place four physical obstacles onto the zones, such as marshes, hills, or forests. These may be drawn or written onto the note cards.?
-The strategic zone is placed by the defending player, and the battlefield is built out from the strategic zone. One side of the strategic zone is designated as the top and one side is designated as the bottom. When placing note cards to build the battlefield, no zones may be placed below the bottom of the strategic zone. The battlefield builds out in three directions from the strategic zone.?
-The attacking player and defending player alternate placing the zones onto the battlefield, keeping in mind the restriction of not placing zones below the strategic zone. Each note card must be placed next to a card already in play.?
-<h2>Place Commanders</h2>?
-Attacking commanders and attached units are placed first. They must be placed at least <strong>four</strong> zones away from the strategic zone. Defending commanders and attached units must be placed within <strong>two</strong> zones of the strategic zone. Use some marker for each commander (a token or miniature). It is also easier to visualize attached units if a token of some sort is used for each unit.?
-<h2>Aspect Burning</h2>?
-Each free invoke burned may be used to add one new zone or one new terrain obstacle to the battlefield.??
-<h1>Exchange</h1>?
-Turns are taken by commanders in the order of their Command skills. Stronghold players go first in the case of ties. Commanders may move one zone and take an action or move more than one zone and spend their exchange doing nothing but moving. Cavalry and infantry also have the capability to move more than one zone and still attack.?
-<h1>Movement</h1>?
-If movement is unopposed (the moving commander does not leave a zone with enemy units), the commander may move a number of zones equal to the slowest unit’s movement.?
-Obstacles increase the movement cost by one. As usual, commanders may always move at least one zone.?
-<h2>Opposed Movement</h2>?
-If a commander moves out of a zone with an opposing commander who has an equal or higher Tactics skill, they must apply one stress card. If the units are commanded by a novice commander (there is no leader or lieutenant), they are pinned and may not leave the zone.?
-<h1>Ranged Attack</h1>?
-When taking the ranged attack action, the attacking commander allocates units with ranged attack capabilities to fire at defending units under one commander’s control. First, select a defending commander within range. Next, one or more defending units under the commander’s control are targeted. One or more ranged attacking units are paired with each defending unit. ?
-One overcome action is resolved for each group of attackers. The attacking side draws a card, adding the result to the sum of all of the Marksmanship skills for the attacking units. The distance to the target is subtracted from the attack. The defending side draws a card, and adds the result to the defending unit’s Armor skill.?
-If the attacking group is successful, the defending unit is taken out. On a tie, the attacking commander may take a stress card or give the opposing side a minor advantage in order to succeed. If either side succeeds with style, they get a minor advantage. ?
-If there are allied units in the same zone as the defending commander, the defending commander gains a minor advantage after the ranged action is resolved. Missile fire is risky when units are engaged with the enemy!?
-<h2>Ranged Attack Example</h2>?
-An attacking commander, controlling four archer units, targets an opposed commander in an adjacent zone. The opposing commander controls two infantry and one battle mage unit.?
-The attacker decides to divide up the attack as follows: three archers target one infantry unit and one archer targets the battle mage unit. Assuming the archers haven’t moved this turn (archers get a bonus to attack if they haven’t moved), their Marksmanship skill is +2. The defending units are one zone away, so the attack against the infantry is +5 vs. +4. The attack against the battle mages is +1 vs. +0. These attacks may be carried out in any order as desired by the attacking player.?
-<h1>Clash of Arms</h1>?
-Clash of Arms works similarly to ranged attacks.  A defending commander in the same zone is chosen as the target of the attack. As in ranged attack, attacking units are allocated to defending units in any way the attacking player chooses. All attacking units must be allocated before checking to see if they successfully attack.?
-One overcome action is resolved for each group of attacking units (in any order desired by the attacker). The attacking side draws a card, adding the result to the sum of all of the Fighting skills in the attacking group. The defending side draws a card, adding the result to the Armor skill of the defending unit.?
-If the attacking group is successful, the defending unit is taken out. On a tie, the attacker may apply a stress card to the commanding attacker or grant the opposing commander a minor advantage in order to succeed (as usual for an overcome action). If the attacker or defender succeed with style, they get a minor advantage.?<h3>Clash of Arms Example</h3>?
-An attacking commander, controlling three infantry and two militia, targets an opposed commander in an adjacent zone. The opposing commander controls three archers and two infantry. Archers have very poor armor, so are ripe for the picking!?
-The militia aren’t defending their homeland, so their attack is only +1. The attacking commander decides to commit the two militia and one infantry to attack one archer. That’s a large advantage (+4 attack vs. +2 defense), so it may grant success with style. Then the attacking commander assigns one infantry each to the remaining archers. Those assignments are riskier, but it sets up a possible sweep of every defending archer.?
-The attacking commander resolves the advantageous attack first, and gets success with style for a minor advantage! One archer unit is removed. The next attack results in a -3, bad luck! The attacking commander uses the minor advantage to draw again, but the result is still only a -2, failure! But not a bad enough failure to give the opposing side a minor advantage. The result of the final attack is a +1. Another archer is removed.??
-<h2>Outflank</h2>?
-After the clash of arms is resolved in a zone, the defending side may be able to immediately make an attack with any surviving units. The commanders make opposed Tactics checks as an overcome action. If the defender succeeds, they may make attacks with surviving units. This does not count as the defending commander’s action (they may have already taken an action or may still have an action to take).?<h3>Outflank Example</h3>?
-Following on from the previous example, the defending commander may be able to return the favor. The attacking commander’s Tactics is +3 and the defending commander’s Tactics is +4. The defending commander makes an overcome action, using opposed Tactics. The defending commander gets a +5 and the attacking commander gets a +3 - the defender outflanks the attacker attack and immediately gets to assign units and attack!?
-The defending commander assigns an archer and an infantry to one of the militia and the final remaining infantry to the final militia. The militia should be easy enough to take out!?
-The defending commander attacks with the archer and infantry first. The result of the attack is a +2, not enough for success with style, but enough to take out a militia! The final attack also goes well for the defending commander, resulting in a +1. Both militia are removed!?
-Having a higher Tactics than opposing commanders comes in handy during the clash of arms! The defending commander still hasn’t acted, so will also get an action to either initiate an attack, or maybe move away and use archers while other units maneuver on the battlefield.?
-<h1>Heroic Action</h1>?
-Each champion or commander that hasn’t already taken an action may create a minor advantage or attack. These actions work much like the actions available in the <chapref>Skirmish</chapref> chapter.?
-<h2>Create a Minor Advantage</h2>?
-A player may attempt to create a minor advantage for their turn, following the normal rules for Create Advantage in the <chapref>Fate</chapref> chapter. Note that the commander may use one of their own skills, or a skill from a unit under their control to create the advantage. If using a unit’s skill, other units may help with the roll, adding one to the roll if they also have the relevant skill.?<example>A commander orders archers under their control to lay down suppressive fire in the nearby gorge. The gorge is two zones away, so the archers roll against a passive opposition of 2. There are three units of archers with a Marksmanship of Decent (+2). The player rolls a +1, adding the +2 for the Marksmanship skill, and another +2 for two helping units for a total of +5. This is three higher than the difficulty, resulting in success with style. The aspect 
-<aspect><fate>2</fate> Rain of Arrows</aspect> is added to the zone.</example>?
-<h2>Overcome</h2>?
-Commanders may use Overcome to remove aspects.?
-<h2>Attack</h2>?
-A commander may be attacked directly. This works identically to the attack actions in the Skirmish chapter.?
-<h2>Defend</h2>?
-Commanders defend using standard skills (Fighting vs. Fighting or Athletics vs. Marksmanship or Fighting).??
-<h1>Resolution</h1>?
+<name>Defensive General (Lieutenant)</name>
+<stress><b>Physical</b>	<fate>2</fate></stress>
+<stress><b>Mental</b>	<fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Command</skill>
+<skill><b>Great (+4)</b>	Tactics</skill>
+<skill><b>Good (+3)</b>	Will</skill>
+<skill><b>Decent (+2)</b>	Fighting</skill>
+<skill><b>Average (+1)</b>	Engineering</skill>
+<aspect>Take the Hill!</aspect>
+<aspect>“Hold the line!”</aspect>
+<stunt>Band Together (Command)</strong>
+<stunt>Set for Charge (Tactics)</strong>
+</stats>
+This is a good defensive military leader, with solid <skill>Tactics</skill> and <skill>Command</skill>, and two stunts useful for Warfare. With the lower Engineering, this leader isn’t as suited to dealing with siege equipment.
+<h2>Units for Threats</h2>
+TBD
+<h1>Setup</h1>
+During setup, each side determines what set of units they have available and assigns them to commanders. The battlefield is created, along with the strategic zone and any terrain. Finally, leaders and attached units are placed onto the battlefield.
+<h2>Muster Units</h2>
+Each side musters units from their available total units. Allies for the Stronghold (minor factions with a disposition of 5 or higher) provide up to three units from their available totals. If warfare involves the Empire, allies for the Autarch (minor factions with a disposition of -4 or lower) provide up to three units to the Autarch.
+<h2>Attach Commanders</h2>
+Each unit must be attached to one commanding character (a hero, leader, or lieutenant). A commander may control a number of units equal to their Command skill or a minimum of three, whichever is higher. Commanders defending their capital may control one additional unit.
+<h2>Champions</h2>
+A character may start without any units of their own, in which case the character must be attached to a commander, just as units are. The character will move and act with their commander. They can’t take any actions which require units, but may take any of the other listed actions below.
+<h2>Create the Battlefield</h2>
+Assemble fifteen note cards for creating the battlefield. These zones represent much larger areas of terrain than the zones in the skirmish or infiltration conflicts. Areas potentially hundreds of yards across. One note card should be labeled as the strategic zone. This is a vital location that is being fought over, such as a city center or a valuable mine.
+Additionally, the defending side may place four physical obstacles onto the zones, such as marshes, hills, or forests. These may be drawn or written onto the note cards.
+The strategic zone is placed by the defending player, and the battlefield is built out from the strategic zone. One side of the strategic zone is designated as the top and one side is designated as the bottom. When placing note cards to build the battlefield, no zones may be placed below the bottom of the strategic zone. The battlefield builds out in three directions from the strategic zone.
+The attacking player and defending player alternate placing the zones onto the battlefield, keeping in mind the restriction of not placing zones below the strategic zone. Each note card must be placed next to a card already in play.
+<h2>Place Commanders</h2>
+Attacking commanders and attached units are placed first. They must be placed at least <strong>four</strong> zones away from the strategic zone. Defending commanders and attached units must be placed within <strong>two</strong> zones of the strategic zone. Use some marker for each commander (a token or miniature). It is also easier to visualize attached units if a token of some sort is used for each unit.
+<h2>Aspect Burning</h2>
+Each free invoke burned may be used to add one new zone or one new terrain obstacle to the battlefield.
+<h1>Exchange</h1>
+Turns are taken by commanders in the order of their Command skills. Stronghold players go first in the case of ties. Commanders may move one zone and take an action or move more than one zone and spend their exchange doing nothing but moving. Cavalry and infantry also have the capability to move more than one zone and still attack.
+<h1>Movement</h1>
+If movement is unopposed (the moving commander does not leave a zone with enemy units), the commander may move a number of zones equal to the slowest unit’s movement.
+Obstacles increase the movement cost by one. As usual, commanders may always move at least one zone.
+<h2>Opposed Movement</h2>
+If a commander moves out of a zone with an opposing commander who has an equal or higher Tactics skill, they must apply one stress card. If the units are commanded by a novice commander (there is no leader or lieutenant), they are pinned and may not leave the zone.
+<h1>Ranged Attack</h1>
+When taking the ranged attack action, the attacking commander allocates units with ranged attack capabilities to fire at defending units under one commander’s control. First, select a defending commander within range. Next, one or more defending units under the commander’s control are targeted. One or more ranged attacking units are paired with each defending unit.
+One overcome action is resolved for each group of attackers. The attacking side draws a card, adding the result to the sum of all of the Marksmanship skills for the attacking units. The distance to the target is subtracted from the attack. The defending side draws a card, and adds the result to the defending unit’s Armor skill.
+If the attacking group is successful, the defending unit is taken out. On a tie, the attacking commander may take a stress card or give the opposing side a minor advantage in order to succeed. If either side succeeds with style, they get a minor advantage.
+If there are allied units in the same zone as the defending commander, the defending commander gains a minor advantage after the ranged action is resolved. Missile fire is risky when units are engaged with the enemy!
+<h2>Ranged Attack Example</h2>
+An attacking commander, controlling four archer units, targets an opposed commander in an adjacent zone. The opposing commander controls two infantry and one battle mage unit.
+The attacker decides to divide up the attack as follows: three archers target one infantry unit and one archer targets the battle mage unit. Assuming the archers haven’t moved this turn (archers get a bonus to attack if they haven’t moved), their Marksmanship skill is +2. The defending units are one zone away, so the attack against the infantry is +5 vs. +4. The attack against the battle mages is +1 vs. +0. These attacks may be carried out in any order as desired by the attacking player.
+<h1>Clash of Arms</h1>
+Clash of Arms works similarly to ranged attacks.  A defending commander in the same zone is chosen as the target of the attack. As in ranged attack, attacking units are allocated to defending units in any way the attacking player chooses. All attacking units must be allocated before checking to see if they successfully attack.
+One overcome action is resolved for each group of attacking units (in any order desired by the attacker). The attacking side draws a card, adding the result to the sum of all of the Fighting skills in the attacking group. The defending side draws a card, adding the result to the Armor skill of the defending unit.
+If the attacking group is successful, the defending unit is taken out. On a tie, the attacker may apply a stress card to the commanding attacker or grant the opposing commander a minor advantage in order to succeed (as usual for an overcome action). If the attacker or defender succeed with style, they get a minor advantage.
+<h3>Clash of Arms Example</h3>
+An attacking commander, controlling three infantry and two militia, targets an opposed commander in an adjacent zone. The opposing commander controls three archers and two infantry. Archers have very poor armor, so are ripe for the picking!
+The militia aren’t defending their homeland, so their attack is only +1. The attacking commander decides to commit the two militia and one infantry to attack one archer. That’s a large advantage (+4 attack vs. +2 defense), so it may grant success with style. Then the attacking commander assigns one infantry each to the remaining archers. Those assignments are riskier, but it sets up a possible sweep of every defending archer.
+The attacking commander resolves the advantageous attack first, and gets success with style for a minor advantage! One archer unit is removed. The next attack results in a -3, bad luck! The attacking commander uses the minor advantage to draw again, but the result is still only a -2, failure! But not a bad enough failure to give the opposing side a minor advantage. The result of the final attack is a +1. Another archer is removed.
+<h2>Outflank</h2>
+After the clash of arms is resolved in a zone, the defending side may be able to immediately make an attack with any surviving units. The commanders make opposed Tactics checks as an overcome action. If the defender succeeds, they may make attacks with surviving units. This does not count as the defending commander’s action (they may have already taken an action or may still have an action to take).
+<h3>Outflank Example</h3>
+Following on from the previous example, the defending commander may be able to return the favor. The attacking commander’s Tactics is +3 and the defending commander’s Tactics is +4. The defending commander makes an overcome action, using opposed Tactics. The defending commander gets a +5 and the attacking commander gets a +3 - the defender outflanks the attacker attack and immediately gets to assign units and attack!
+The defending commander assigns an archer and an infantry to one of the militia and the final remaining infantry to the final militia. The militia should be easy enough to take out!
+The defending commander attacks with the archer and infantry first. The result of the attack is a +2, not enough for success with style, but enough to take out a militia! The final attack also goes well for the defending commander, resulting in a +1. Both militia are removed!
+Having a higher Tactics than opposing commanders comes in handy during the clash of arms! The defending commander still hasn’t acted, so will also get an action to either initiate an attack, or maybe move away and use archers while other units maneuver on the battlefield.
+<h1>Heroic Action</h1>
+Each champion or commander that hasn’t already taken an action may create a minor advantage or attack. These actions work much like the actions available in the <chapref>Skirmish</chapref> chapter.
+<h2>Create a Minor Advantage</h2>
+A player may attempt to create a minor advantage for their turn, following the normal rules for Create Advantage in the <chapref>Fate</chapref> chapter. Note that the commander may use one of their own skills, or a skill from a unit under their control to create the advantage. If using a unit’s skill, other units may help with the roll, adding one to the roll if they also have the relevant skill.
+<example>A commander orders archers under their control to lay down suppressive fire in the nearby gorge. The gorge is two zones away, so the archers roll against a passive opposition of 2. There are three units of archers with a Marksmanship of Decent (+2). The player rolls a +1, adding the +2 for the Marksmanship skill, and another +2 for two helping units for a total of +5. This is three higher than the difficulty, resulting in success with style. The aspect <aspect><fate>2</fate> Rain of Arrows</aspect> is added to the zone.</example>
+<h2>Overcome</h2>
+Commanders may use Overcome to remove aspects.
+<h2>Attack</h2>
+A commander may be attacked directly. This works identically to the attack actions in the Skirmish chapter.
+<h2>Defend</h2>
+Commanders defend using standard skills (Fighting vs. Fighting or Athletics vs. Marksmanship or Fighting).
+<h1>Resolution</h1>
 If at least one attacking unit begins an exchange in the strategic zone with no opposing units in the same zone, the attacking force is successful. Warfare also ends if the attacking or defending force moves all units off the battlefield (moving off of the edge of the map will remove the commander and all associated units from the battle).
