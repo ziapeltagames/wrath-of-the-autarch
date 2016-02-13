@@ -12,7 +12,7 @@ Also gather up tokens (poker chips, beads, etc) of two different colors to use f
 Each side tries to gain support for issues by arguing their validity. If one of the sides gains enough support, they can claim the issue for themselves. The more issues the Stronghold claims, the stronger their position. The amount of support is tracked by placing tokens (one for each support) on the appropriate notecard. When one side has five support (five tokens) on an issue, they claim the issue.
 Claiming an issue may have a different feel depending on the issue. For example, the Stronghold may be looking to minimize the importance of an issue (“We have no military weakness...”) or they may be using the issue to gain leverage (“The people of Obsidian Wood do not need your aid...”). In either case, though, the side that claims the issue can dictate how it is perceived.
 <h2>Aspect Burning</h2>
-The Stronghold players may burn a free invoke (from a mission or campaign aspect) to place one influence on an issue. Each free invoke burned allows the Strong players to place one influence, although no more than one influence may be placed on each issue (they have to be spread out).
+The Stronghold players may burn a free invoke (from a mission or campaign aspect) to place one support on an issue. Each free invoke burned allows the Strong players to place one influence, although no more than one influence may be placed on each issue (they have to be spread out).
 <h2>Place Characters</h2>
 Characters are placed onto issues in reverse order of Society (the character with the lowest Society is placed first). Heroes break ties.
 <h1>The Exchange</h1>
@@ -20,20 +20,31 @@ Turns are taken in order of the Society skill, with the highest character going 
 <h1>Actions</h1>
 When a character takes a turn, they choose one of the actions from the list below. Some actions are only available to heroes while some are only available to the opposition leaders. Only heroes may take the Gain Support, Address Issue, and Change Offer actions. Only leaders may take the Raise Issue action.
 <h2>Change Issue (Move, Free)</h2>
-Characters may change issues as much as they wish, but they may only attach to an issue at the start of their turn.
-<h2>Create Advantage</h2>
-Any player may create a minor advantage during their turn, following the normal rules for Create Advantage in the <chapref>Fate</chapref> chapter. Remember that aspects which directly target specific characters should be actively opposed, rather than using the passive difficulty.
+At the beginning of a character’s turn, they may change from one issue to another. Move the token representing the character to the other issue. This movement may be opposed by other characters in the same zone (see the <chapref>Conflicts</chapter> chapter).
+<h2>Focus</h2>
+This works as described in the <chapref>Conflicts</chapref> chapter.
 <h2>Gain Support (Overcome)</h2>
-In Diplomacy, the Overcome action can be used to remove aspects as normal, but it is more commonly used to gain support for an issue. If there are no opposing characters attached to the issue, make a Rapport check against an opposition of zero. On success, the player adds one support to the issue (for the appropriate side). On success with style, the player gains two support.
-If there are opposing characters attached to the issue, the controlling player may choose one of them to defend with. In this case, the Rapport check is opposed by the chosen character’s Wits.?<h3>Claim an Issue</h3>
-If five or more support is placed onto the issue, the player may claim it for their side. All characters attached to the issue now become unattached. If this is the last issue claimed, Diplomacy is over immediately.
+In diplomacy, the overcome action can be used to remove aspects as normal, but it is more commonly used to gain support for an issue. If there are no opposing characters attached to the issue, make a Rapport check against an opposition of zero. On success, the player adds one support to the issue (for the appropriate side). On success with style, the player gains two support.
+If there are opposing characters attached to the issue, the controlling player may choose one of them to defend with. In this case, the Rapport check is opposed by the chosen character’s Wits.
+<h3>Claim an Issue</h3>
+If five or more support is placed onto the issue, the player may claim it for their side. All characters attached to the issue are now reassigned to other issues as in the setup (in reverse order of Society skill). If this is the last issue claimed, diplomacy is over immediately.
 <h2>Manipulate (Attack)</h2>
-Instead of taking the high ground and arguing the merits of the deal, a character may decide to manipulate another character. This could take the form of blackmail, lies, intimidation, or seduction. Note that relationship aspects which suggest a positive relationship will prevent this (remember, aspects are always true and are first and foremost facts about the world). Friends don’t use such underhanded tactics against other friends! One use of Create Advantage is to create such aspects to prevent being attacked by particularly devious characters.
-This action works as described in the Fate chapter. The attacking character uses Society and the defending character uses Wits. If there are multiple characters attached to an issue, the attacking player may choose who to attack.
-If a character is taken out, they no longer take actions for the rest of the Diplomacy conflict. All the normal results for being taken out as described in the <chapref>Fate</chapref> chapter also apply.
+Instead of taking the high ground and arguing the merits of the deal, a character may decide to manipulate another character. This could take the form of blackmail, lies, intimidation, or seduction. Relationship aspects which suggest a positive relationship will prevent this (remember, aspects are always true and are first and foremost facts about the world). Friends don’t use such underhanded tactics against other friends! One use of create advantage is to create such aspects to prevent being attacked by particularly devious characters.
+This action works as described in the <chapref>Core Rules</chapref> chapter. The attacking character uses Society and the defending character uses Wits. If there are multiple characters attached to an issue, the attacking player may choose who to attack.
+If the attack is successful, the defending character becomes unattached to the issue. The token for the character is placed off to the side, away from all of the issues. At the start of their next turn they may attach to any issue they wish.
+If a character is taken out, they no longer take actions for the rest of the Diplomacy conflict. All the normal results for being taken out as described in the <chapref>Core Rules</chapref> chapter also apply.
 <h2>Defend</h2>
-This action works as described in the Fate chapter. Characters use Wits to defend against attacks.
+This action works as described in the <chapref>Core Rules</chapref> chapter. Characters use Wits to defend against attacks.
 <h1>Resolution</h1>
-Unless otherwise listed in the mission description, the Stronghold needs to claim three issues in order to win. Frequently, there are partial victory conditions for claiming at least one issue. If Diplomacy involved another minor faction, any unresolved issues should be written down on the minor faction sheet.
+Unless otherwise listed in the mission description, the Stronghold needs to claim three issues in order to win. Frequently, there are partial victory conditions for claiming at least one issue.
 <h2>Alliance Missions</h2>
-For Alliance missions, the disposition increase is based on how many issues the Stronghold claims. If the Stronghold claims 1-3 issues, disposition increases by one. If the Stronghold claims 4-5 issues, the disposition increases by two. If the Stronghold doesn’t claim any issues, the disposition doesn’t increase at all. With five unresolved issues, the next Alliance mission with the same minor faction is going to be very difficult!
+For alliance missions, each unresolved issue becomes a campaign aspect with one free invoke. These may be used later in the campaign by the Autarch player. The disposition increase is based on how many issues the Stronghold claims.
+<table>
+Issues	Disposition Change
+0 -2
+1 -1
+2 +0
+3 +1
+4 +2
+5 +3
+</table>

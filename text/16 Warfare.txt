@@ -152,9 +152,7 @@ Each free invoke burned may be used to add one new zone or one new terrain obsta
 Turns are taken by commanders in the order of their Command skills. Stronghold players go first in the case of ties. Commanders may move one zone and take an action or move more than one zone and spend their exchange doing nothing but moving. Cavalry and infantry also have the capability to move more than one zone and still attack.
 <h1>Movement</h1>
 If movement is unopposed (the moving commander does not leave a zone with enemy units), the commander may move a number of zones equal to the slowest unit’s movement.
-Obstacles increase the movement cost by one. As usual, commanders may always move at least one zone.
-<h2>Opposed Movement</h2>
-If a commander moves out of a zone with an opposing commander who has an equal or higher Tactics skill, they must apply one stress card. If the units are commanded by a novice commander (there is no leader or lieutenant), they are pinned and may not leave the zone.
+Obstacles increase the movement cost by one. As usual, commanders may always move at least one zone. Movement may be opposed as described in the <chapref>Conflicts</chapref> chapter.
 <h1>Ranged Attack</h1>
 When taking the ranged attack action, the attacking commander allocates units with ranged attack capabilities to fire at defending units under one commander’s control. First, select a defending commander within range. Next, one or more defending units under the commander’s control are targeted. One or more ranged attacking units are paired with each defending unit.
 One overcome action is resolved for each group of attackers. The attacking side draws a card, adding the result to the sum of all of the Marksmanship skills for the attacking units. The distance to the target is subtracted from the attack. The defending side draws a card, and adds the result to the defending unit’s Armor skill.
@@ -167,24 +165,23 @@ The attacker decides to divide up the attack as follows: three archers target on
 Clash of Arms works similarly to ranged attacks.  A defending commander in the same zone is chosen as the target of the attack. As in ranged attack, attacking units are allocated to defending units in any way the attacking player chooses. All attacking units must be allocated before checking to see if they successfully attack.
 One overcome action is resolved for each group of attacking units (in any order desired by the attacker). The attacking side draws a card, adding the result to the sum of all of the Fighting skills in the attacking group. The defending side draws a card, adding the result to the Armor skill of the defending unit.
 If the attacking group is successful, the defending unit is taken out. On a tie, the attacker may apply a stress card to the commanding attacker or grant the opposing commander a minor advantage in order to succeed (as usual for an overcome action). If the attacker or defender succeed with style, they get a minor advantage.
-<h3>Clash of Arms Example</h3>
+<example>
 An attacking commander, controlling three infantry and two militia, targets an opposed commander in an adjacent zone. The opposing commander controls three archers and two infantry. Archers have very poor armor, so are ripe for the picking!
 The militia aren’t defending their homeland, so their attack is only +1. The attacking commander decides to commit the two militia and one infantry to attack one archer. That’s a large advantage (+4 attack vs. +2 defense), so it may grant success with style. Then the attacking commander assigns one infantry each to the remaining archers. Those assignments are riskier, but it sets up a possible sweep of every defending archer.
 The attacking commander resolves the advantageous attack first, and gets success with style for a minor advantage! One archer unit is removed. The next attack results in a -3, bad luck! The attacking commander uses the minor advantage to draw again, but the result is still only a -2, failure! But not a bad enough failure to give the opposing side a minor advantage. The result of the final attack is a +1. Another archer is removed.
+</example>
 <h2>Outflank</h2>
 After the clash of arms is resolved in a zone, the defending side may be able to immediately make an attack with any surviving units. The commanders make opposed Tactics checks as an overcome action. If the defender succeeds, they may make attacks with surviving units. This does not count as the defending commander’s action (they may have already taken an action or may still have an action to take).
-<h3>Outflank Example</h3>
+<example>
 Following on from the previous example, the defending commander may be able to return the favor. The attacking commander’s Tactics is +3 and the defending commander’s Tactics is +4. The defending commander makes an overcome action, using opposed Tactics. The defending commander gets a +5 and the attacking commander gets a +3 - the defender outflanks the attacker attack and immediately gets to assign units and attack!
 The defending commander assigns an archer and an infantry to one of the militia and the final remaining infantry to the final militia. The militia should be easy enough to take out!
 The defending commander attacks with the archer and infantry first. The result of the attack is a +2, not enough for success with style, but enough to take out a militia! The final attack also goes well for the defending commander, resulting in a +1. Both militia are removed!
 Having a higher Tactics than opposing commanders comes in handy during the clash of arms! The defending commander still hasn’t acted, so will also get an action to either initiate an attack, or maybe move away and use archers while other units maneuver on the battlefield.
+</example>
 <h1>Heroic Action</h1>
 Each champion or commander that hasn’t already taken an action may create a minor advantage or attack. These actions work much like the actions available in the <chapref>Skirmish</chapref> chapter.
-<h2>Create a Minor Advantage</h2>
-A player may attempt to create a minor advantage for their turn, following the normal rules for Create Advantage in the <chapref>Fate</chapref> chapter. Note that the commander may use one of their own skills, or a skill from a unit under their control to create the advantage. If using a unit’s skill, other units may help with the roll, adding one to the roll if they also have the relevant skill.
-<example>A commander orders archers under their control to lay down suppressive fire in the nearby gorge. The gorge is two zones away, so the archers roll against a passive opposition of 2. There are three units of archers with a Marksmanship of Decent (+2). The player rolls a +1, adding the +2 for the Marksmanship skill, and another +2 for two helping units for a total of +5. This is three higher than the difficulty, resulting in success with style. The aspect <aspect><fate>2</fate> Rain of Arrows</aspect> is added to the zone.</example>
-<h2>Overcome</h2>
-Commanders may use Overcome to remove aspects.
+<h2>Focus</h2>
+This works as described in the <chapref>Conflicts</chapref> chapter.
 <h2>Attack</h2>
 A commander may be attacked directly. This works identically to the attack actions in the Skirmish chapter.
 <h2>Defend</h2>
