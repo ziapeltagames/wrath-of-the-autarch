@@ -15,9 +15,9 @@ Atiq, Bakkar, Idris, Fatil, Himas, Mudar, Tawd, Walyd, Sa’led, Zuhr, Atika, Arwa
 <h2>Regions</h2>
 <table>
 <th>Name	Ramparts	Food	Timber	Ore	Mana	Luxuries</th>
-Caster’s Edge (Capital)	Castle	0	2	0	0	0
-Nalah Farms	0	0	0	0	0
-Goldspike	Keep	0	1	0	0	0
+Caster’s Edge (Capital)	Castle	0	0	0	0	2
+Nalah Farms	1	0	0	0	0
+Goldspike	Keep	1	0	1	0	0
 </table>
 <h2>Mission Difficulty</h2>
 <list>

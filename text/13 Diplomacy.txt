@@ -8,6 +8,7 @@ The Autarch player gets one lieutenant for each hero taken on the mission. If th
 <h1>Setup</h1>
 During setup, five issues are created. Write each issue down on a separate notecard. Issues should reflect cultural differences, concerns, and past transgressions. For example, <aspect>Is Aben’s Hollow secure against the Autarch’s Spies?</aspect>, <aspect>Will you use the Gossamer Thread against us?</aspect>, and <aspect>Do you respect the veil of magic?</aspect>.
 Also gather up tokens (poker chips, beads, etc) of two different colors to use for tracking each side’s support.
+<diagram>Issue Setup</diagram>
 <h2>Support</h2>
 Each side tries to gain support for issues by arguing their validity. If one of the sides gains enough support, they can claim the issue for themselves. The more issues the Stronghold claims, the stronger their position. The amount of support is tracked by placing tokens (one for each support) on the appropriate notecard. When one side has five support (five tokens) on an issue, they claim the issue.
 Claiming an issue may have a different feel depending on the issue. For example, the Stronghold may be looking to minimize the importance of an issue (“We have no military weakness...”) or they may be using the issue to gain leverage (“The people of Obsidian Wood do not need your aid...”). In either case, though, the side that claims the issue can dictate how it is perceived.

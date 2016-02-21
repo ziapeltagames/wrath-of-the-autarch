@@ -15,7 +15,7 @@ Alimov, Aynur, Azat, Ilsat, Irek, Olev, Timer, Elbrus, Kazbek, Aida, Alsu, Aysil
 <table>
 <th>Name	Ramparts	Food	Timber	Ore	Mana	Luxuries</th>
 The Gravewood (Capital)	0	2	0	0	1
-Spinner Lakes	0	0	0	0	0
+Spinner Lakes	2	0	0	0	0
 Maplewood	0	1	0	0	0
 </table>
 <h2>Mission Difficulty</h2>
@@ -227,4 +227,4 @@ Stealth: Sneak past hall of echoes.
 Thievery: Open the Vault of Ten Locks.
 </list>
 <h2>Resolution</h2>
-If the heroes are successful, they gain access to the <aspect>Gossamer Thread</aspect>, letting them draw two and choose on any Stealth actions if they weave it into the fabric of their clothes.
+If the heroes are successful, they gain access to the <aspect>Gossamer Thread</aspect>, letting them draw two and choose one any Stealth actions if they weave it into the fabric of their clothes.
