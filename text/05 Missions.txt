@@ -31,9 +31,8 @@ For regions controlled by factions, warfare is always used. The difficulty is li
 <h2>Success</h2>
 If the heroes of the Stronghold are successful, write the region down onto the Stronghold sheet. The resources of the region may be harvested starting on the next Stronghold upkeep phase.
 If the region conquered was a faction’s capital, the faction immediately collapses and ceases to function. See the Collapse section in the <chapref>Factions</chapref> chapter. The Stronghold gains any two regions under the control of the faction (although these regions only have half the listed resources, rounded down). Conquering the Empire’s capital wins the game for the Stronghold.
-Even with success, using warfare has potentially high costs in terms of population and stability. See the <chapref>Warfare</chapref> chapter for more details.
 <h2>Failure</h2>
-If the heroes fail to conquer a region, there are no penalties other than the loss of time on the part of the heroes (and potentially consequences that heroes have sustained). If warfare is used, units could be lost and stability possibly lowered. The region is not added to the Stronghold sheet, but the mission for the same region may be attempted again.
+If the heroes fail to conquer a region, there are no penalties other than the loss of time on the part of the heroes (and potentially consequences that heroes have sustained). If warfare is used, units could be lost. Losing militia while attacking another region can result in stability loss. The region is not added to the Stronghold sheet, but the mission for the same region may be attempted again.
 <h1>Alliance</h1>
 Alliance missions are a way to increase the disposition with minor factions. Increased disposition gives access to better trade rates while building developments. A disposition of +3 or higher gives the Stronghold access to the quest mission provided by the faction, and a disposition of +5 or higher means the minor faction will commit military units for the Stronghold in war.
 <h2>Requirements</h2>
