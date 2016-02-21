@@ -21,13 +21,16 @@ During Stronghold upkeep, the spotlight player gathers resources, trades, builds
 <h2>Gather Resources</h2>
 The first step during Stronghold upkeep is to sum all the resources for regions controlled by the Stronghold. These should be tracked on the Stronghold sheet, but could be modified based on regional threats or other effects. Gather one six sided die for each resource, using different colored dice for each resource type (for example, 3 green d6 could be used for 3 timber).
 After gathering the appropriate dice, they are all rolled. All purchases (developments, feeding the populace, festivals, etc) during the Stronghold upkeep phase must be made using whole dice. Any leftover amount on the dice isn’t used (if something costs 6 timber, and there are only two timber dice showing 5 and 3, both dice must be allocated to meet the cost).
-<diagram>
-Show a dice pool being assembled based on resources on the Stronghold? Or maybe a close up of how spending dice works (extra amount is lost).
-</diagram>
 <h3>Build Developments</h3>
 The main use of resource dice is to build developments. Each development requires a certain amount of resources to complete. In addition, most developments have other developments as prerequisites. All prerequisite developments must be built first. See the <chapref>Developments</chapref> chapter for more details.
+<diagram>
+Close up of how spending dice works (extra amount is lost).
+</diagram>
+
 Any number of developments may be built in a season provided that all the resource costs are met. The benefits of developments take effect immediately. Since ignored threats have already been applied, it is too late to use a just purchased development to stop a threat.
-Units are built at the same time as well. Purchasing units follows the same process. The same rule about whole dice applies to each such unit created.
+<h3>Mustering Units</h3>
+Units are built at the same time. Purchasing units follows the same process. The same rule about whole dice applies to each such unit created. Each unit works like a separate development!
+<example>Jeremy is the spotlight player. He wishes to muster infantry units, which cost 6 food each. Jeremy has food dice with values ‘6’, ‘5’, ‘5’, and ‘3’. At most 2 infantry may be mustered. The ‘6’ dice musters the first infantry, two of the remaining dice must be used together to muster a second infantry, leaving a third dice which may be used for something else.</example>
 <h3>Trade</h3>
 The chronicle of trade lists the benefits of trade with other factions, based on current disposition. Each faction may only be traded with once each season. Trading is done by taking the dice desired by the faction from the seasonal total and placing them on the faction’s entry on the chronicle of trade sheet. Next, the listed amount of dice are taken from the supply and rolled. These dice are then added to the seasonal total. Any trade rate at or below the current disposition may be used, but only one such trade is allowed each season. Remember that ignored ally threats prohibit trade with the faction this season.
 <example>Example: The Stronghold’s disposition with Gravewood is at 3. The spotlight player could either trade 2 luxury dice for 5 timber dice (rolling the timber dice immediately) or take the lesser trade of 1 luxury die for 2 timber dice (again, rolling them immediately). If either option is taken, no more trading is possible with Gravewood for the remainder of the season. Placing the luxury dice onto the Gravewood box on the Chronicle of Trade is a good way to remember which factions have been traded with.</example>

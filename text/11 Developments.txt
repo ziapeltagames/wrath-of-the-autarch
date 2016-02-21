@@ -11,6 +11,8 @@ Keeps and castles are very closely related to a particular region. When these de
 The developments are divided into five tech trees. There is one tech tree for each type of conflict (diplomacy, infiltration, skirmish, and warfare) as well as a tech tree for arcane developments. The four conflict tech trees have effects which mainly help in each of those four conflict types, while the developments in the arcane tech tree benefit spellcaster heroes. The better developments in each tech tree have prerequisite developments in the tech tree which must be built first. The peak developments in each tree are difficult to obtain, and it will only be possible to at most build a few of them over the course of the campaign.
 <h2>Defensive Developments</h2>
 Some developments give the Stronghold certain defensive capabilities to cancel threats. Each defensive development may only be used once per year to cancel a threat of a certain difficulty or less. There is space on the Developments Summary sheet to track whether these have been used or not. In the spring, the defensive developments may be cleared so they can be used again.
+<h2>Units</h2>
+Units function much like other developments. Their costs are listed in the <chapref>Warfare</chapref> chapter. Multiple units of the same type may be purchased during the Stronghold Upkeep phase. Each unit purchased is added to the total on the Stronghold sheet.
 <h1>Arcane Developments</h1>
 <devel_title>Arcane Military Academy</devel_title>
 May recruit battle mage units for warfare.

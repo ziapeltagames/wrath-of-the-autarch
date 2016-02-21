@@ -81,7 +81,8 @@ Casting any of the shapeshifting spells allows the caster to transform to and fr
 While in animal form, the caster uses the provided stat block instead of their own. Furthermore, the caster loses access to all of their normal skills, stunts, and aspects, with the exception of keeping the ability to transform back into a human. Most of the skills for the animal are expressed in terms of the caster's <skill>Lore</skill> rather than as absolute values. Stress tracks may also change. If the caster gets additional stress, these must be tracked for the remainder of the season (changing from animal to human back to animal does not remove stress or consequences).
 <stuntt>Primal Quickness</stuntt>
 <stuntp>1+ Mana</stuntp>
-<stuntd>The caster taps into a preternatural quickness and strength. Spend a point of mana to use <skill>Lore</skill> in place of <skill>Athletics</skill>. Additional mana may be spent to add +1 to the final result.</stuntd>
+<stuntd>The caster taps into a preternatural quickness and strength. Spend a point of mana to use <skill>Lore</skill> in place of <skill>Athletics</skill>. Additional mana may be spent to add +1 to the final result.
+During a conflict, each additional mana spent gives the character one additional movement point. Using Primal Quickness furthermore removes the maximum movement amount for the character. Impediments to movement (opposing characters, obstacles) still function as normal.</stuntd>
 <stuntt>Fangs of the Wolf</stuntt>
 <stuntp>5 Mana</stuntp>
 <stuntd>The caster may take the form of a dire wolf. Wolves do not have the ability to speak, so communication is very difficult.</stuntd>
