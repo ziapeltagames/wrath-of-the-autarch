@@ -22,13 +22,13 @@ Prior to taking their turn, a Stronghold player may create a challenge scene pro
 The player creating the scene draws a card, which will be used to determine the difficulty and theme of the scene.
 <h2>Difficulty</h2>
 Each challenge has a difficulty, which is used as the passive opposition for heroes trying to resolve the challenge. This difficulty is equal to the result on the card plus the mission difficulty.
-<example>Rebecca draws a Fate Card to create a new challenge scene during an infiltration mission. The difficulty of the mission is a 6, not very easy. The result on the card is a +2, so the difficulty of this challenge scene is a 8, ouch!</example>
+<example>Rebecca draws a Fate Card to create a new challenge scene during an infiltration mission. The difficulty of the mission is 6, fairly difficult! The result on the card is a +2, so the difficulty of this challenge scene is an 8, ouch!</example>
 <h2>Skills</h2>
 The challenge lists in the back of the book are used to find out which skills to use. There is one list for each type of conflict. Find the list that matches the type of conflict used during this mission.
 In order to find the correct entry, use the first three dice results on the card to find the correct row in the list. Those skills must be used to overcome the challenge scene.
 <example>The dice on the card Rebecca drew show <fate>0+00</fate>. Rebecca looks up the <fate>0+0</fate> entry on the infiltration challenges list. The skills listed are Society, Rapport, and Wits. A broad social challenge!</example>
 <h2>Stress and Time</h2>
-If there are sun <wingdings>R</wingdings> symbols on the card, the challenge is particularly stressful, while moon <wingdings2>M</wingdings2> symbols mean the challenge is more time consuming. These are used as part of the Resolve Challenge action and are described there. These symbols also aid in describing the scene.
+If there are sun <wingdings>R</wingdings> symbols on the card, the challenge is particularly stressful, while moon <wingdings2>M</wingdings2> symbols mean the challenge is more time consuming. The sun and moon are used as part of resolving a challenge, and are described in more detail later. These symbols also aid in describing the scene.
 <example>Rebecca notes there are two moons <wingdings2>MM</wingdings2> and one sun <wingdings>R</wingdings> on the card. Dang! It’s going to be time consuming as well as stressful. This challenge scene is shaping up to be tough.</example>
 <h2>Scene Hints</h2>
 Finally, on the challenge list is a short phrase that helps to describe the scene. This can be used to help spark creativity when making the scene. The scene hint fits the skills listed. It may also be ignored if it doesn’t seem to fit well, or the player creating the scene already has an idea for what’s going one. Setting scenes is usually a collaborative process.
@@ -55,7 +55,7 @@ A tie is a failure unless the acting player wishes to take a minor cost (taking 
 Each time the resolve challenge action is used to attempt to overcome the challenge, the acting hero absorbs one stress for each sun on the challenge scene. Additionally, all other heroes in the scene take one stress if there are suns. It is up to the Stronghold player taking the stress to narrate what sort of stress (mental or physical) is taken, as well as what fictionally occurred to give them stress. All stress taken must be of the same type.
 <h2>Time <wingdings2>M</wingdings2> </h2>
 Challenge scenes with moons require two resolve challenge actions to complete rather than one. The first action has an opposition equal to the number of moons. If either action is failed, the scene is failed.
-<example>Rebecca narrates how Crus is at the costume ball, trying to get an audience with Duke Felden. She decides to use Crus’ Rapport in order to charm the Duke. She adds her Rapport to the draw of a card, getting a Superb (+5) result. The opposition difficulty is 2 (from 2 moons), so Rebecca has success with style! She takes a boost.</example>
+<example>Rebecca narrates how Crus is at the costume ball, trying to get an audience with Duke Felden. She decides to use Crus’ Rapport in order to charm the Duke. She adds her Rapport to the draw of a card, getting a Superb (+5) result. The opposition difficulty is +2 (from 2 moons), so Rebecca has success with style! She takes a boost.</example>
 <example>Crus takes one mental stress (from the one sun on this challenge scene), narrating how Crus charms the Duke but is put into a tough situation at the ball. The scene isn’t resolved yet, but the moons are removed. The Duke is very close to giving his support!</example>
 <h2>Failing a Challenge</h2>
 If a resolve challenge action fails (either from dealing with moons or from failing to address the challenge), the challenge is failed. The player who failed the challenge narrates what happens. Failed challenges don’t count towards the total of successfully resolved challenges needed. Sometimes, though, failing a challenge is better than spending resources to complete it.
@@ -75,74 +75,84 @@ The challenge phase is also a good time to use hindering aspects (from relations
 The challenge phase ends after three exchanges. If the Stronghold players did not successfully complete one challenge scene for each Stronghold player, the Autarch player gets bonus fate points to use for the conflict. For each such incomplete challenge, the Autarch player gets one fate point per Stronghold player.
 For instance, if there are five Stronghold players and they only successfully completed three challenge scenes, the Autarch player gets ten bonus fate points. These are in addition to the usual fate points the Autarch player gets at the start of the conflict.
 <h1>Challenge Phase Example</h1>
-In this example, the heroes from Bavin’s Hollow are on a conquest mission to Green Vale (see the Regions chapter). This mission uses the skirmish conflict and has a difficulty of 4. Green Vale, while on the surface an idyllic farming community, is dealing with attacks from a werewolf!
+In this example, the heroes from Bavin’s Hollow are on a conquest mission to Green Vale (see the <chapref>Regions</chapref> chapter). This mission uses the skirmish conflict and has a difficulty of +4. Green Vale, while on the surface an idyllic farming community, is dealing with attacks from a werewolf! The heroes are enlisted to confront the beast and drive it from the community!
 <list>
 <b>Phil</b> is the Autarch player.
 <b>Jenn</b> is playing Cadell, a towering swordsmith.
 <b>Jeremy</b> is playing Maelgwn, the great hunter, a loner and outdoorsman.
 <b>Terri</b> is playing Gwynnet, a traveling academic.
 </list>
-<example>Phil – “You arrive at a small farming community called within the Green Vale. You’re all weary and ready for some rest.  Greeting you are an assortment of farmers, freshly back from tilling the land. An older woman approaches, somewhat warily sizing your group up. ‘So, you’re from Bavin’s Hollow? Well, welcome to Hambridge Farms. I’m Mila, these here are Bjorn and Feljar, my sons.  Come on in, and we can get acquainted.’”</example>
+<example>Phil – “You arrive at a small farming community within the Green Vale. You’re all weary and ready for some rest.  Greeting you is an assortment of farmers, freshly returned from tilling the land. An older woman approaches, somewhat warily sizing up your group. ‘So, you’re from Bavin’s Hollow? Well, welcome to Hambridge Farms! I’m Mila. These here are Bjorn and Feljar, my sons.  Come in, and we can get acquainted.’”</example>
 <example>Phil – “Let’s focus on getting acquainted with the farmers, gaining their trust, and convincing them you know a thing or two about rural life and their concerns. Eventually, you will learn that something sinister lurks here – the farm is under attack by a werewolf! If you can help them track and kill this werewolf, you gain the Green Vale region. Sound good? Who wants to set up the first scene?”</example>
 Phil draws one fate point to use for complications (one half the number of Stronghold players).
 <example>Jenn – “I’m the spotlight player, probably makes sense for me to kick things off.”</example>
 <h2>The First Exchange</h2>
-<h3>Challenge Scene - Impressing Mila</h3>
-Jenn draws the <fate>00+-</fate> card, which has one <wingdings>R</wingdings>. Looking at the Skirmish Challenges for <fate>00+</fate> (the first three symbols), she sees the challenge scene is for Rapport, Society, and Wits and the hint is “Gathering Support”. The difficulty of the challenge is 4 (the result of the draw, <fate>00+-</fate>, plus the mission difficulty of four).
+<h3>Jenn’s Turn</h3>
+Jenn draws the <fate>00+-</fate> card, which has one <wingdings>R</wingdings>. Looking at the Skirmish Challenges for <fate>00+</fate> (the first three symbols), she sees the challenge scene uses Rapport, Society, and Wits. The scene hint is “Gathering Support”. The difficulty of the challenge is +4 (the result of the draw, <fate>00+-</fate>, plus the mission difficulty of +4).
 <example>Jenn – “Well, it’s not too hard, but social situations aren’t Cadell’s strong suit. Maybe Gwynnet can back me up on this one?”</example>
 <example>Terri – “Gwynnet’s <skill>Society</skill> is 3 – that’s pretty good. I’ll come along!”</example>
+Jenn’s character Cadell must be in the scene, since Jenn created it. Gwynnet comes along as well. Tokens are placed on the note card to indicate both characters are in the challenge scene.
 <example>Jenn - “Great! I think this scene involves Mila, the matron of Hambridge Farms. She has invited us into her home, and making a good impression on her will go a long way towards bringing the Green Vale under the banner of Bavin’s Hollow.”</example>
 Jenn grabs a notecard, writes “Impressing Mila” on it, as well as the scene difficulty (3), the skills to use, and the <wingdings>R</wingdings>.
 <example>Terri - “Tea time! I see her home as being cluttered with all sorts of bric-a-brac.”</example>
 <example>Phil - “I think I’m going to add a complication. Let’s see, Gwynnet is a <aspect>Polysyllabic Wordsmith</aspect>, which might not go over so well out here in the country.”</example>
 <example>Terri - “Hmm. Well, it’s not that bad of a challenge scene - I think I’ll take the fate point! So, Gwynnet may get a little wordy.”</example>
-Phil hands Terri his two fate point for the challenge phase. He draws a card, and adds the symbols to the scene. There is one <wingdings>R</wingdings> on the card, which is added to the other <wingdings>R</wingdings>, giving the challenge scene <wingdings>RR</wingdings>.
+Phil hands Terri his fate point for accepting the complication. Phil draws a card, and adds the symbols to the scene. There is one <wingdings>R</wingdings> on the card, which is added to the other <wingdings>R</wingdings>, giving the challenge scene <wingdings>RR</wingdings>.
 <example>Jenn - “Hah! Not bad at all, well worth the fate point. Let’s see, maybe Mila has obscure items from all over the realm. It’s my turn, so I can scene aspect before you try to use Society to resolve the challenge. I’m going to use Cadell’s Lore to try to impress her.”</example>
 The opposition to create a scene aspect is +2 (the mission difficulty of +4 minus two for creating a scene aspect). Cadell’s Lore is +3, and Jenn gets a +1 on the draw, for a total of +4. Good enough for a scene aspect with one free invoke! Jenn could spend a fate point or use stress for success to add another +2 for success with style, which would let her have two free invokes. Instead, she decides to keep the result she has. There’s no skill advance marked because Cadell’s Lore (+3) is higher than the opposition (+2).
 <example>Jenn - “I see she has an arcane tome from Burgan Vale, who are allies of ours. I read passages from it, showing her just how much we know about the sorts of harm befalling Hambridge Farms.”</example>
 Jenn writes down the aspect <aspect><fate>1</fate> Knowledge of Arcane Threats</aspect> on a notecard.
+<h3>Terri’s Turn</h3>
 <example>Terri – “Great, I can use that. I’ll try to resolve the challenge. ‘Mina, I’m sure it’s difficult finding reliable trading alliances out here. In a concordance with Bavin’s Hollow, we can provide dweomercrafting and alchemancy to help your lycanthropy problems. Oh, what delightful confections you’ve served!’”</example>
 Terri gets a +0 on the result, and adds Gwynnet’s Society skill of +3, for a total of +3, one less than the difficulty. She uses the free invoke on the minor advantage Cadell just made, for a total of +5. Success! Because Gwynnet’s Society skill of +3 was less than the Overcome difficulty of +4, Terri also checks off a skill advance box for Society. There were none filled in already, so two more advances are needed to qualify the skill for increasing in rank. Gwynnet takes two stress (from <wingdings>RR</wingdings>). Terri decides to take it as mental stress, filling in the second stress box on the stress track.
+Cadell also takes on stress for being in the scene, which Jenn also takes as mental stress.
 <example>Phil – “Mila says, ‘Well, you sure know your stuff! But there’s no mistaking you ain’t from around here!’ Your face flushes in embarrassment. But you’ve already succeeded at one challenge scene!”</example>
-<h3>Challenge Scene - Tracking the Beast</h3>
+<h3>Jeremy’s Turn</h3>
 <example>Jeremy – “Well, looks like I’ll set up another challenge scene.”</example>
 Jeremy draws the <fate>+0+0</fate> card, which has one  <wingdings>R</wingdings> and one <wingdings2>M</wingdings2>. Looking at the Skirmish Challenges for <fate>+0+0</fate> (the first three symbols), the challenge uses Fighting and Survival and the hint is “On the Run”. The opposition of the challenge is 6 (the result of the draw, <fate>+0+0</fate>, plus the mission difficulty of four).
 <example>Jeremy – “Not too bad, although the single moon is irritating. My Survival is pretty good, and Cadell’s Fighting is solid, so I think we’ll be okay. But this is going to be a drain. If we want to be on the safe side, Gwynnet should be in the scene as well. But it’s possible that might be overkill.”</example>
 <example>Terri – “I think Gwynnet will be involved, it’s probably worth it.”</example>
+<example>Jenn – “Yeah, Cadell is going to need to be involved as well.”</example>
+Tokens for all three characters are placed onto the scene card.
 <example>Jeremy – “A few weeks pass. One evening at dusk, while we’re in Mila’s common room, we hear a commotion near the chicken coop. Heading outside, we see the werewolf eating chickens! It snarls at us before running into the woods.”</example>
 <example>Phil – “I think Maelgwn’s <aspect>Solitary Hunter</aspect> aspect may come into play here. I could see this team effort slowing him down.”</example>
 Phil holds out a fate point to Jeremy, intending on adding a complication to the challenge scene.
-<example>Jeremy – “Nope. I’ll pay that off, although that only leaves me with one fate point left.”</example>
+<example>Jeremy – “Nope. This is hard enough. I’ll pay that off, although that only leaves me with one fate point left.”</example>
 Jeremy discards a fate point, and Phil discards the fate point that was on offer. Phil has no more fate points to use for adding complications.
 <example>Jeremy – “It’s my turn. I’ll resolve it to get rid of that moon.”</example>
-Maelgwn’s Survival is +3, and the opposition of the challenge is only one (one moon). Jeremy draws a +1, for a total of +4, success with style! He removes the moon, making a note that it’s gone. Maelgwn also takes one stress for the resolve challenge action, which Jeremy marks as mental stress. No skill advance is taken since the opposition was only one.
+Maelgwn’s Survival is +3, and the opposition of the challenge is only one (one moon). Jeremy draws a +1, for a total of +4, success with style! He removes the moon, making a note that it’s gone. Maelgwn also takes one stress for the resolve challenge action, which Jeremy marks as mental stress. Gwynnet and Cadell also take one stress. Terri and Jenn both mark it as mental stress. No skill advance is taken for Maelgwn since the opposition was only one.
 <example>Jeremy – “Maelgwn shouts at everyone to keep up. ‘It’s getting away!’ The ranger leads the party through the woods for hours, following the tracks under the full moon. They are close now, but the fatigue is catching up with him.”</example>
-Jeremy takes a boost.
+Jeremy takes a boost for success with style.
 <h2>The Second Exchange</h2>
+<h3>Terri’s Turn</h3>
 <example>Terri – “I’m thinking about setting up a scene aspect, which Cadell can use to try to beat this challenge. Maybe the werewolf has minions, supernatural wolves that are like guardians. This forest is the right climate for wolfsbane, useful in a fight against them.”</example>
 <example>Phil – “Seems like finding that would use either Lore or Survival. Either one seems fine.”</example>
 Terri gets a +0, added to Gwynnet’s Lore of +3 gives a +3, which is enough for a scene aspect with a free invoke. She decides to use stress for success to add another +2 to the result, which will be enough for success with style (three shifts beyond what’s needed). However, she must draw one stress card for each time stress for success is used, and take all the stress at once. She draws and gets a card with <wingdings>RR</wingdings>, two physical stress! Terri marks off the second box on Gwynnet’s physical stress track. She creates the aspect <aspect><fate>2</fate> Wolfsbane</aspect> with two free invokes.
 <example>Terri – “Found it! Gwynnet works to harvest some wolfsbane, and turn it into the necessary consistency to use as a weapon. In the process, she burns herself with the toxic reagents.”</example>
-<example>Jenn – “The group is gathered around a fire, exhausted, taking a break from their hunt. In the darkness, glowing eyes appear, they must draw their weapons and defend against a pack of dire wolves! I’m going to need a 7 to beat this challenge.”</example>
+<h3>Jenn’s Turn</h3>
+<example>Jenn – “The group is gathered around a fire, exhausted, taking a break from their hunt. In the darkness, glowing eyes appear, they must draw their weapons and defend against a pack of dire wolves! I’m going to need a +7 to beat this challenge.”</example>
 Jenn draws a -3, and adds it to Cadell’s Fighting of +4 for a total of +1. Not great! Jenn uses the free invoke on the <aspect>On the Trail</aspect> aspect to redraw. A -2, not much better! The total is now +2. Using the two free invokes on the <aspect><fate>2</fate> Wolfsbane</aspect> aspect, the result would be +6, a tie.
 Jenn could take a minor cost and still succeed (a stress card or giving the Autarch player an aspect with one free invoke). Jenn instead decides to use both free invokes as well as spend one of her fate points (invoking <aspect>Wolfsbane</aspect>), adding +6 for a total of +8, enough to beat the challenge scene without a minor cost.
 <example>Jenn – “Cadell’s sword is drawn in a flash. The beasts fall back under his sword falls, the wolfsbane burning and flashing when it contacts their unnatural forms. The wolves head off into the night, in the direction of the tracks.”</example>
 <example>Phil – “Nice! It sounds like the werewolf has a lair out there somewhere. Maybe it’s not someone from town? Or maybe they just have a shelter in the woods.”</example>
 <example>Jeremy – “I still haven’t gone this exchange. I wanted to create a campaign aspect this mission, but time is starting to run short. Hopefully the last challenge scene isn’t too bad.”</example>
-<h3>Challenge Scene - Avoiding the Wolves</h3>
+All three characters take one stress. Terri and Jenn mark the first box on the physical stress tracks, while Jeremy marks Maelgwn’s first box on the mental stress track.
+<h3>Jeremy’s Turn</h3>
 Jeremy draws the <fate>---+</fate> card, which has three <wingdings2>MMM</wingdings2>. Looking at the Skirmish Challenges for <fate>---</fate> (the first three symbols), the challenge uses Survival and the hint is “Behind Enemy Lines”. The opposition of the challenge is 2 (the result of the draw, <fate>---+</fate>, plus the mission difficulty of four).
 <example>Jeremy – “Well, it’s going to take some time, but it’s not hard. Maelgwn is the best at Survival, so I could take an action now to chip away at it, as well as the first action next exchange. That would leave you two to create a campaign or mission aspect.”</example>
 <example>Jeremy – “Our group continues to follow the tracks after beating back the wolves. We’re running low on wolfsbane, though. Suddenly we realize that the trail has gotten difficult to follow, and we hear movement from all around us. The wolves are stalking us. The hunters have become the prey! Maelgwn works quickly, leading the group through streams and over difficult terrain in an effort to avoid the wolves.”</example>
 Jeremy gets a +1, added to Maelgwn’s Survival of +3 results in a +4. Success! Just enough to get rid of the moons without taking a minor cost!
 <example>Jeremy – “The wolves are howling all around us, and we hear their movements in the distance, but we have evaded them so far. Maelgwn is clearly haunted by their howls. I’ll go again and try to knock this one out!”</example>
 <h2>The Third Exchange</h2>
+<h3>Jeremy’s Turn</h3>
 At the start of the third exchange, Jeremy again uses Maelgwn’s Survival. This time he gets a +1, added to Maelgwn’s Survival of +3 results in a +4. Success! This is enough to beat the challenge scene difficulty of +2.
 <example>Jeremy – “Maelgwn leads the group through the forest to a cabin. He is exhausted and worn thin by the stress of avoiding the wolves all night. The cabin is very old, the wooden walls not maintained very well.”</example>
 <example>Jenn – “We made it! I think this is where the showdown with the werewolf will happen. But, for now, the cabin is empty. We’re doing pretty good on fate points, so I’m thinking of setting up a minor advantage to help create a campaign aspect.”</example>
-<h2>Advantage Scene – Visions of a Dark Future</h2>
+<h3>Jenn’s Turn</h3>
 <example>Jenn – “Inside the cabin are different arcane texts. They might be written in a tongue Cadell understands. I’ll create a scene aspect.”</example>
 The difficulty to create a minor advantage is +2 (two below the mission difficulty). Jenn draws a +2, added to Cadell’s Lore of +3 gives a result of +5, success with style! Jenn creates the aspect <aspect><fate>2</fate> Tome of the Hallowed Vision</aspect> with two free invokes.
+<h3>Terri’s Turn</h3>
 <example>Terri – “Cool! I have the last turn for the challenge phase. Gwynnet is very bright and worldly. I’ll use the Tome to see the true future of the Autarch. The ritual takes hours.”</example>
 The difficulty to create a campaign aspect is +6 (two higher than the mission difficulty). Terri draws a +0, added to Gwynnet’s Lore of +3 gives a result of +3. Terri uses both free invokes to get the result to +7, and draws a stress card to get it to +9, success with style! Terri creates the aspect <aspect><fate>2</fate> Visions of the Autarch’s Future</aspect> with two free invokes, writing it on the Stronghold sheet. The stress card has <wingdings>RR</wingdings>, so Terri checks off Gwynnet’s second physical stress box.
 <example>Terri – “Gwynnet is drained after the ritual, shaken and confused by the dream visions she has witnessed. The current future path is terrible, but Gwynnet has insight into what the Autarch will do. Before she can recover, a growling is heard from outside. The owner of those tomes has returned, and the werewolf will attack!”</example>
-Since the players successfully completed three challenge scenes, the Autarch player doesn’t get any bonus fate points prior to the skirmish conflict. Jeremy starts the conflict with a boost.
+Since the players successfully completed three challenge scenes by the end of the challenge phase, the Autarch player doesn’t get any bonus fate points prior to the skirmish conflict. Jeremy starts the conflict with a boost.

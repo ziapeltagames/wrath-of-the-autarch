@@ -71,7 +71,7 @@ Also in this section are the character sheets, challenge scene sheets, developme
 <l3s><b>Mission Aspect: </b>Mission difficulty</l3s>
 <l3s><b>Campaign Aspect: </b>Mission difficulty + 2 (make sure there is an open slot on the Stronghold sheet)</l3s>
 <l2s><b>Resolve Challenge (Overcome) - </b>On success, challenge is resolved</l2s>
-<l3s>Take one stress for each sun on challenge (player decides which track to use), all other characters in scene take one stress</l3s>
+<l3s>If there are suns, characters in scene take stress. Character taking resolve challenge action takes one stress for each sun on challenge, all other characters in scene take one stress (players taking stress decide how to allocate it)</l3s>
 <l3s>Moons must be removed first using a Resolve Challenge action with an opposition equal to the number of moons (time)</l3s>
 <l3s><b>Failure - </b>Challenge is failed and removed, Autarch player creates a mission aspect with one free invoke</l3s>
 <l2s>When a hero’s opposition for creating advantages or resolving challenges is higher than skill rank, gain a <b>skill advance</b></l2s>
@@ -107,7 +107,7 @@ Also in this section are the character sheets, challenge scene sheets, developme
 <l2s>Unless specified elsewhere, if the Stronghold wins three or more issues, they are successful</l2s>
 <l2s><b>Alliance Missions: </b>Number of issues won by Stronghold determines disposition gain</l2s>
 <l3s>Each unresolved issue becomes a campaign aspect with one free invoke</l3s>
-<l3s>0-1: -1 Disposition, 2: No change, 3: +1 Disposition, 4: +2 Disposition, 5: +3 Disposition</l3s>
+<l3s>0: -2 Disposition, 1: -1 Disposition, 2: No change, 3: +1 Disposition, 4: +2 Disposition, 5: +3 Disposition</l3s>
 </list>
 <h1>Infiltration</h1>
 <list>
