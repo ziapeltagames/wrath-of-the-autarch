@@ -1,5 +1,5 @@
-<chapter>Neutral Regions</chapter>?
-Regions, abstract areas of land which can hold resources and developments, are described in more detail in the <chapref>Factions</chapref> chapter. This chapter lists all of the available neutral regions which may be gained via successful conquest missions by the Stronghold. Regions taken from other factions always use the Warfare conflict. The conflict used when conquering neutral regions depend on the specific region targeted. There are ten neutral regions available during the campaign.?
+<chapter>Neutral Regions</chapter>
+Regions, abstract areas of land which can hold resources and developments, are described in more detail in the <chapref>Factions</chapref> chapter. This chapter lists all of the available neutral regions which may be gained via successful conquest missions by the Stronghold. Regions taken from other factions always use the Warfare conflict. The conflict used when conquering neutral regions depend on the specific region targeted. There are ten neutral regions available during the campaign.
 Each neutral region has a mission difficulty and conflict, which are used for the conquest mission. If the mission is successful, the neutral region is added to the Stronghold’s regions, and the Stronghold will begin gaining the listed resources. The neutral regions are also listed on the Stronghold sheet to make planning missions easier.
 <table>
 <th>Neutral Regions</th>
@@ -10,42 +10,42 @@ Each neutral region has a mission difficulty and conflict, which are used for th
 <b>Fennel Marshes</b>	5	Skirmish	0	0	2	0	0
 <b>Ferry’s Glenn</b>	6	Warfare	2	1	0	0	1
 <b>Gray Forest</b>	5	Skirmish	0	0	1	2	0
-<b>Green Vale</b>	4	Skirmish	0	1	0	0	0
+<b>Green Vale</b>	4	Skirmish	1	0	1	0	0
 <b>North Oaks</b>	3	Skirmish	0	1	0	0	0
 <b>Sightrock</b>	4	Skirmish	0	0	1	1	0
-<b>Sunset Isles</b>	6	Infiltration	0	3	0	0	1	
+<b>Sunset Isles</b>	6	Infiltration	0	3	0	0	1
 </table>
 <mission>Boar’s Hollow</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Diplomacy	
-<b>Difficulty</b>	5	
+<b>Conflict</b>	Diplomacy
+<b>Difficulty</b>	5
 </table>
 </missionentry>?
 Boar’s Hollow, unlike the other neutral regions, already has a reasonably sized population center. They are loosely allied with Gravewood, inheriting the same sense of isolationism. The people of Boar’s Hollow are similarly hardy folk, who have made significant strides in the cultivation of a difficult landscape.
 In this sense, the people themselves are the most impressive resource of this region. Trying to conquer the land militarily wouldn’t give the Stronghold the knowledge necessary in getting the resources from the land. Instead, Boar’s Hollow is conquered using Diplomacy, with the goal of gaining support from the leaders of the region, encouraging them towards joining forces with the Stronghold for mutual benefit.
 <h2>Faction Aspects</h2>
-Boar’s Hollow functions like a very minor faction, so the following aspects may be invoked during the mission, just like those of any other faction.?
+Boar’s Hollow functions like a very minor faction, so the following aspects may be invoked during the mission, just like those of any other faction.
 <list>
-<aspect>The Autarch Isn’t Our Problem</aspect>?
-<aspect>A Guarded and Suspicious Folk</aspect>?
-<aspect>No Shortcuts for Hard Work</aspect>?
+<aspect>The Autarch Isn’t Our Problem</aspect>
+<aspect>A Guarded and Suspicious Folk</aspect>
+<aspect>No Shortcuts for Hard Work</aspect>
 <aspect>Prepared for Almost Every Contingency</aspect>
-</list>?
-<h2>Sample Challenges</h2>?
-The people of Boar’s Hollow are skeptical of joining with the Stronghold. The heroes must prove themselves and form common bonds with Boar’s Hollow.?
+</list>
+<h2>Sample Challenges</h2>
+The people of Boar’s Hollow are skeptical of joining with the Stronghold. The heroes must prove themselves and form common bonds with Boar’s Hollow.
 <list>
-Gerard wants to know how the Stronghold is any different from the Empire.?
-Meet with Talan to discuss shoring up defenses.?
-Blend into the hard scrabble daily life of Boar’s Hollow.?
+Gerard wants to know how the Stronghold is any different from the Empire.
+Meet with Talan to discuss shoring up defenses.
+Blend into the hard scrabble daily life of Boar’s Hollow.
 Find a weakness in the defensive watch of Boar’s Hollow.
-</list>?
-<h2>Opposition</h2>?
-The leaders are listed in order of importance. Leo and Talan may be left out of Diplomacy if there are fewer than five heroes on the mission.?
+</list>
+<h2>Opposition</h2>
+The leaders are listed in order of importance. Leo and Talan may be left out of Diplomacy if there are fewer than five heroes on the mission.
 <stats>
 <name>Gerard (Leader)</name>
-<aspect>Well Respected Farmer</aspect>?
-<aspect>“The tallest peg gets hammered.”</aspect>?
+<aspect>Well Respected Farmer</aspect>
+<aspect>“The tallest peg gets hammered.”</aspect>
 <aspect>Unafraid to Dispense Justice</aspect>
 <aspect>Expects the Worst</aspect>
 <skill><b>Superb (+5)</b>	Society, Will</skill>
@@ -58,165 +58,166 @@ The leaders are listed in order of importance. Leo and Talan may be left out of 
 <stress><b>Physical</b> <fate>3</fate></stress>
 <stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
-</stats>?
-Gerard’s voice carries clout amongst the people of Boar’s Hollow. From the perspective of most people, he has been around forever and has given good advice to this point. His pessimism creates friction with Talan.?
+</stats>
+Gerard’s voice carries clout amongst the people of Boar’s Hollow. From the perspective of most people, he has been around forever and has given good advice to this point. His pessimism creates friction with Talan.
 <stats>
-<name>Hargeth (Leader)</name> 	
-<stress><b>Physical</b> <fate>3</fate>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
+<name>Hargeth (Leader)</name>
+<stress><b>Physical</b> <fate>3</fate>
+<stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
-<skill><b>Superb (+5)</b>	Wits, Engineering	</skill>
-<skill><b>Great (+4)</b>	Society, Will	</skill>
-<skill><b>Good (+3)</b>	Lore, Survival	</skill>
-<skill><b>Decent (+2)</b>	Command, Marksmanship	</skill>
-<skill><b>Average (+1)</b>	Physique, Channeling</skill>	
-<aspect>Accomplished Architect</aspect>?
-<aspect>Friend to the Land</aspect>?
-<aspect>Slow to Accept Different Ideas</aspect>?
-<aspect>Speech Riddled with Incomprehensible Jargon</aspect>	
-<stunt>Socially Adept (Society)</stunt>?
-<stunt>Refute the Point (Wits)</stunt>	
-</stats>?
-Hargeth’s passion is using engineering to more efficiently use the spare resources of Boar’s Hollow.?
+<skill><b>Superb (+5)</b>	Wits, Engineering</skill>
+<skill><b>Great (+4)</b>	Society, Will</skill>
+<skill><b>Good (+3)</b>	Lore, Survival</skill>
+<skill><b>Decent (+2)</b>	Command, Marksmanship</skill>
+<skill><b>Average (+1)</b>	Physique, Channeling</skill>
+<aspect>Accomplished Architect</aspect>
+<aspect>Friend to the Land</aspect>
+<aspect>Slow to Accept Different Ideas</aspect>
+<aspect>Speech Riddled with Incomprehensible Jargon</aspect>
+<stunt>Socially Adept (Society)</stunt>
+<stunt>Refute the Point (Wits)</stunt>
+</stats>
+Hargeth’s passion is using engineering to more efficiently use the spare resources of Boar’s Hollow.
 <stats>
-<name>Gerda (Leader)</name> 	
+<name>Gerda (Leader)</name>
 <stress><b>Physical</b> <fate>4</fate></stress>
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>	
-<skill><b>Superb (+5)</b>	Rapport, Will	</skill>
-<skill><b>Great (+4)</b>	Engineering, Society	</skill>
-<skill><b>Good (+3)</b>	Survival, Wits	</skill>
-<skill><b>Decent (+2)</b>	Lore, Command	</skill>
-<skill><b>Average (+1)</b>	Athletics, Stealth</skill>	
-<aspect>Warm Hearted Elder Sage</aspect>?
-<aspect>“Not all issues have two sides.”</aspect>?
-<aspect>Disarming Smile</aspect>?
-<aspect>“What impact will this have on our future generations?”</aspect>	
-<stunt>Related Point (Rapport)</stunt>?
-<stunt>Refute the Point (Wits)</stunt>	
-</stats>?
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Superb (+5)</b>	Rapport, Will</skill>
+<skill><b>Great (+4)</b>	Engineering, Society</skill>
+<skill><b>Good (+3)</b>	Survival, Wits</skill>
+<skill><b>Decent (+2)</b>	Lore, Command</skill>
+<skill><b>Average (+1)</b>	Athletics, Stealth</skill>
+<aspect>Warm Hearted Elder Sage</aspect>
+<aspect>“Not all issues have two sides.”</aspect>
+<aspect>Disarming Smile</aspect>
+<aspect>“What impact will this have on our future generations?”</aspect>
+<stunt>Related Point (Rapport)</stunt>
+<stunt>Refute the Point (Wits)</stunt>
+</stats>
 Gerda is skeptical of the Stronghold’s intentions, and is fearful that an alliance could bring unnecessary war and bloodshed.
 <stats>
-<name>Leo (Leader)</name> 	
+<name>Leo (Leader)</name>
 <stress><b>Physical</b> <fate>3</fate></stress>
-<stress><b>Mental</b> <fate>3</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>	
+<stress><b>Mental</b> <fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Superb (+5)</b>	Wits, Rapport</skill>
 <skill><b>Great (+4)</b>	Command, Athletics</skill>
 <skill><b>Good (+3)</b>	Marksmanship, Society</skill>
 <skill><b>Decent (+2)</b>	Will, Survival</skill>
-<skill><b>Average (+1)</b>	Stealth, Physique</skill>	
-<aspect>Hot Blooded Hunter</aspect>?
-<aspect>Stunning Looks</aspect>?
-<aspect>An Eye for Weakness</aspect>?
-<aspect>No Half Steps</aspect>	
-<stunt>Passive Aggressive (Rapport)</stunt>?
-<stunt>Intoxicating Power (Society)</stunt>	
-</stats>?
-Leo takes everything too far, and is somewhat of a people’s champion, even though he is a polarizing figure.?
+<skill><b>Average (+1)</b>	Stealth, Physique</skill>
+<aspect>Hot Blooded Hunter</aspect>
+<aspect>Stunning Looks</aspect>
+<aspect>An Eye for Weakness</aspect>
+<aspect>No Half Steps</aspect>
+<stunt>Passive Aggressive (Rapport)</stunt>
+<stunt>Intoxicating Power (Society)</stunt>
+</stats>
+Leo takes everything too far, and is somewhat of a people’s champion, even though he is a polarizing figure.
 <stats>
 <name>Talan (Leader)</name>
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>	
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Superb (+5)</b>	Tactics, Will</skill>
 <skill><b>Great (+4)</b>	Wits, Command	</skill>
 <skill><b>Good (+3)</b>	Society, Fighting</skill>
 <skill><b>Decent (+2)</b>	Athletics, Survival</skill>
 <skill><b>Average (+1)</b>	Rapport, Disguise</skill>
-<aspect>Battled Hardened Master at Arms</aspect>?
-<aspect>“We can’t go this alone...”</aspect>?
-<aspect>“The threat of the Autarch is very real!”</aspect>?
-<aspect>Nothing Wrong with White Lies</aspect>	
-<stunt>Refute the Point, Improved (Wits)</stunt>	
-</stats>?
-Talan is the most senior military leader for Boar’s Hollow, for what military there is. The defenses mostly consist of trained archers that hope to repel attacking forces through guerilla warfare tactics.?
-<h2>Resolution</h2>?
-If the heroes successfully claim three issues, the Stronghold gains Boar’s Hollow. If the heroes successfully claim all of the issues, in addition to gaining the resources from the land, the Stronghold also gains three archer units.?
-<mission>Cantlands</mission>?
+<aspect>Battled Hardened Master at Arms</aspect>
+<aspect>“We can’t go this alone...”</aspect>
+<aspect>“The threat of the Autarch is very real!”</aspect>
+<aspect>Nothing Wrong with White Lies</aspect>
+<stunt>Refute the Point, Improved (Wits)</stunt>
+</stats>
+Talan is the most senior military leader for Boar’s Hollow, for what military there is. The defenses mostly consist of trained archers that hope to repel attacking forces through guerilla warfare tactics.
+<h2>Resolution</h2>
+If the heroes successfully claim three issues, the Stronghold gains Boar’s Hollow. If the heroes successfully claim all of the issues, in addition to gaining the resources from the land, the Stronghold also gains three archer units.
+<mission>Cantlands</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	
-<b>Difficulty</b>	5	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	5
 </table>
-</missionentry>?
-The Cantlands are a densely forested area, the leafy and dark forest floor broken up by crags of silvery rock. Additionally, the Cantlands is home to a small group of farmers and settlers who carve out a life there.?
-Long ago, the region contained a powerful source of mana. It was burned when a reckless sorcerer, Fatil, expended massive amounts of magical energy to save a child. In the process, the backlash wounded both the mana source, as well as his loved ones, who now haunt the area. The heroes must put his loved ones, now roaming as ghostly fates, to rest if they want to take the region.?
-<h2>Sample Challenges</h2>?
-The heroes have spent some time with the locals, and in the process, they have discovered that many of the resources are effectively trapped because of ghostly forces which lure and kill those who venture too close. The heroes should see some signs of the ghostly beings, and work to track down their source. Olev was with his friend Ivan, who was taken by the Fates to a cottage in the woods.?
+</missionentry>
+The Cantlands are a densely forested area, the leafy and dark forest floor broken up by crags of silvery rock. Additionally, the Cantlands is home to a small group of farmers and settlers who carve out a life there.
+Long ago, the region contained a powerful source of mana. It was burned when a reckless sorcerer, Fatil, expended massive amounts of magical energy to save a child. In the process, the backlash wounded both the mana source, as well as his loved ones, who now haunt the area. The heroes must put his loved ones, now roaming as ghostly fates, to rest if they want to take the region.
+<h2>Sample Challenges</h2>
+The heroes have spent some time with the locals, and in the process, they have discovered that many of the resources are effectively trapped because of ghostly forces which lure and kill those who venture too close. The heroes should see some signs of the ghostly beings, and work to track down their source. Olev was with his friend Ivan, who was taken by the Fates to a cottage in the woods.
 <list>
-Interview Olev, son of the farmer Ila, about his encounter with the gray skinned ghost.?
-Track the lost child Ivan through the forest.?
-Find clues to the Fates location in the trinket filled forest cottage.?
-Fight off a pack of pale, ghostly dogs, ravenous spawn of the backlash.?
+Interview Olev, son of the farmer Ila, about his encounter with the gray skinned ghost.
+Track the lost child Ivan through the forest.
+Find clues to the Fates location in the trinket filled forest cottage.
+Fight off a pack of pale, ghostly dogs, ravenous spawn of the backlash.
 Resist the Song of the Fates, a dirge of despair.
-</list>?
-<h2>Opposition</h2>?
+</list>
+<h2>Opposition</h2>
 There are two Fates, that work in tandem, and seek to rid the region of the heroes.
 <stats>
-<name>The Fate of Alsu (Leader)</name> 	
-<stress><b>Physical</b>  <fate>3</fate></stress>	
-<stress><b>Mental</b>  <fate>4</fate></stress>	
+<name>The Fate of Alsu (Leader)</name>
+<stress><b>Physical</b>  <fate>3</fate></stress>
+<stress><b>Mental</b>  <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>
-<skill><b>Fantastic (+6)</b>	Command, Rapport</skill>	
+<skill><b>Fantastic (+6)</b>	Command, Rapport</skill>
 <skill><b>Superb (+5)</b>	Stealth, Will</skill>
 <skill><b>Great (+4)</b>	Athletics, Channeling</skill>
 <skill><b>Good (+3)</b>	Lore, Wits</skill>
 <skill><b>Decent (+2)</b>	Physique, Society</skill>
 <skill><b>Average (+1)</b>	Marksmanship, Thievery</skill>
-<aspect>Wandering Banshee of the Deepest Woods</aspect>?
-<aspect>Ill-fated Bride of Fatil</aspect>?
-<aspect>“He chose HER son over me!”</aspect>?
-<aspect>Mournful Beauty</aspect>	
-<stunt>Big Bad (General Opposition)</stunt>?
-<stunt>Siren Song - </stunt>May use Command as a ranged attack (opposed by Will) to cause mental stress.?
-<stunt>Ghostly - </stunt>Add +2 to Athletics defense checks.	
-</stats> ?
+<aspect>Wandering Banshee of the Deepest Woods</aspect>
+<aspect>Ill-fated Bride of Fatil</aspect>
+<aspect>“He chose HER son over me!”</aspect>
+<aspect>Mournful Beauty</aspect>
+<stunt>Big Bad (General Opposition)</stunt>
+<stunt>Siren Song - </stunt>May use Command as a ranged attack (opposed by Will) to cause mental stress.
+<stunt>Ghostly - </stunt>Add +2 to Athletics defense checks.
+</stats>
 <stats>
-<name>The Fate of Erebrus (Leader)</name> 	
-<stress><b>Physical</b>  <fate>4</fate></stress>	
-<stress><b>Mental</b>  <fate>4</fate></stress>	
+<name>The Fate of Erebrus (Leader)</name>
+<stress><b>Physical</b>  <fate>4</fate></stress>
+<stress><b>Mental</b>  <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>
-<skill><b>Fantastic (+6)</b>	Physique, Fighting</skill>	
+<skill><b>Fantastic (+6)</b>	Physique, Fighting</skill>
 <skill><b>Superb (+5)</b>	Wits, Athletics</skill>
 <skill><b>Great (+4)</b>	Tactics, Will</skill>
-<skill><b>Good (+3)</b>	Command, Survival	</skill>
+<skill><b>Good (+3)</b>	Command, Survival</skill>
 <skill><b>Decent (+2)</b>	Stealth, Lore</skill>
 <skill><b>Average (+1)</b>	Marksmanship, Channeling</skill>
-<aspect>Enraged Swordsman</aspect>?
-<aspect>Hands that could Break a Man’s Neck</aspect>?
-<aspect>A Fractured Mind</aspect>?
-<aspect>“I will protect Alsu from any who approach her”</aspect>	
-<stunt>Big Bad (General Opposition)</stunt>?
-<stunt>Fell Blade - </stunt>Attacks using Fighting target every hero in the same zone. (Make separate defense checks.)?
-<stunt>Ghostly - </stunt>Add +2 to Athletics defense checks.	
-</stats>?
-<h2>Setup</h2>?
-A good spot for the battle might be the cottage, drawing out a few zones for inside the house, as well as one or two for outside. Erebrus will get in close, while Alsu will move away as much as possible.?
-<mission>Dusk’s Ayrie</mission>?
+<aspect>Enraged Swordsman</aspect>
+<aspect>Hands that could Break a Man’s Neck</aspect>
+<aspect>A Fractured Mind</aspect>
+<aspect>“I will protect Alsu from any who approach her”</aspect>
+<stunt>Big Bad (General Opposition)</stunt>
+<stunt>Fell Blade - </stunt>Attacks using Fighting target every hero in the same zone. (Make separate defense checks.)
+<stunt>Ghostly - </stunt>Add +2 to Athletics defense checks.
+</stats>
+<h2>Setup</h2>
+A good spot for the battle might be the cottage, drawing out a few zones for inside the house, as well as one or two for outside. Erebrus will get in close, while Alsu will move away as much as possible.
+<mission>Dusk’s Ayrie</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	
-<b>Difficulty</b>	7	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	7
 </table>
-</missionentry>?
-On the tallest and most desolate peak within the Dusk Mountains lies the fortress of Arankh, the legendary great wyrm. Arankh was around when the world was young and the tribes of man had yet to form on the plains.?
-Surrounding the Ayrie lays an incredible bounty of natural riches. Veins of gold run through the crags, lush fields of strawberries, herds of wild sheep, saplings of oak and walnut, as well as strong currents of magical energy, no doubt fueled through connection with such an ancient being.?
-Unfortunately for those wishing to exploit this bounty, Arankh is highly protective of his realm. It exists as an idyllic paradise for his gaze, a thing of beauty that may only be taken by driving him away.?
-<h2>Sample Challenges</h2>?
-Although it’s no secret where Arankh’s lair is, getting there is a perilous and trying ordeal.?
+</missionentry>
+On the tallest and most desolate peak within the Dusk Mountains lies the fortress of Arankh, the legendary great wyrm. Arankh was around when the world was young and the tribes of man had yet to form on the plains.
+Surrounding the Ayrie lays an incredible bounty of natural riches. Veins of gold run through the crags, lush fields of strawberries, herds of wild sheep, saplings of oak and walnut, as well as strong currents of magical energy, no doubt fueled through connection with such an ancient being.
+Unfortunately for those wishing to exploit this bounty, Arankh is highly protective of his realm. It exists as an idyllic paradise for his gaze, a thing of beauty that may only be taken by driving him away.
+<h2>Sample Challenges</h2>
+Although it’s no secret where Arankh’s lair is, getting there is a perilous and trying ordeal.
 <list>
-Climb the rocky crags of the Dusk Mountains.?
-Take cover on the exposed mountain from Arankh’s flame.?
-Survive overnight in the brutal cold.?
-Overcome Arankh’s dread.?
+Climb the rocky crags of the Dusk Mountains.
+Take cover on the exposed mountain from Arankh’s flame.
+Survive overnight in the brutal cold.
+Overcome Arankh’s dread.
 Fight giant spiders in the caverns beneath Arankh’s lair.
-</list>?
-<h2>Opposition</h2>?
-Arankh, the most powerful living thing in the Realm.?<stats>
-<name>Arankh (Leader)</name> 	
+</list>
+<h2>Opposition</h2>
+Arankh, the most powerful living thing in the Realm.
+<stats>
+<name>Arankh (Leader)</name>
 <stress><b>Physical</b> <fate>4</fate></stress>
-<stress><b>Mental</b> <fate>4</fate></stress>	
+<stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>
 <skill><b>Godlike (+9)</b>	Lore, Will</skill>
 <skill><b>Legendary (+8)</b>	Athletics, Physique</skill>
@@ -225,219 +226,227 @@ Arankh, the most powerful living thing in the Realm.?<stats>
 <skill><b>Superb (+5)</b>	Command, Wits	</skill>
 <skill><b>Great (+4)</b>	Rapport, Engineering</skill>
 <skill><b>Good (+3)</b>	Society, Tactics</skill>
-<aspect>Older than the Mountains</aspect>?
-<aspect>“I have felled much stronger foes than you!”</aspect>?
-<aspect>Impenetrable Green Scales</aspect>?
-<aspect>Preternatural Foresight</aspect>	
-<stunt>Big Bad (General)</stunt>?
-<stunt>Flight (General)</stunt>?
-<stunt>Gout of Flame - </stunt>May attack every character in a zone using Marksmanship. Add major fortune to the attack. May not use on consecutive turns.?
-<stunt>Secret of Annihilation - </stunt>By spending a Fate point, Arankh may use an Overcome action to summon the worst horrors from beyond the veil, infecting the target’s mind. Make a Lore check opposed by the target’s Will. The target gains the permanent aspect <aspect>Haunted by the Ancient Demons</aspect> with a number of free invokes equal to the number of shifts on the roll. When all free invokes have been used, the aspect is removed.	
-</stats>?
-Arankh is unfathomably ancient and powerful. There is no sorcerer his equal, he has never been bested in combat, and armies can’t be brought to meet him because of his remote position.?
-<h2>Tactics</h2>?
-Arankh will hang back at first, blasting the heroes with ranged attacks until they close in. Then, he will take to the sky, swooping in to claw and bite at who he surmises is the weakest target, hoping to inflict psychological damage on the remaining heroes.?
-<mission>Fennel Marshes</mission>?
+<aspect>Older than the Mountains</aspect>
+<aspect>“I have felled much stronger foes than you!”</aspect>
+<aspect>Impenetrable Green Scales</aspect>
+<aspect>Preternatural Foresight</aspect>
+<stunt>Big Bad (General)</stunt>
+<stunt>Flight (General)</stunt>
+<stunt>Gout of Flame - </stunt>May attack every character in a zone using Marksmanship. Add major fortune to the attack. May not use on consecutive turns.
+<stunt>Secret of Annihilation - </stunt>By spending a Fate point, Arankh may use an Overcome action to summon the worst horrors from beyond the veil, infecting the target’s mind. Make a Lore check opposed by the target’s Will. The target gains the permanent aspect <aspect>Haunted by the Ancient Demons</aspect> with a number of free invokes equal to the number of shifts on the roll. When all free invokes have been used, the aspect is removed.
+</stats>
+Arankh is unfathomably ancient and powerful. There is no sorcerer his equal, he has never been bested in combat, and armies can’t be brought to meet him because of his remote position.
+<h2>Tactics</h2>
+Arankh will hang back at first, blasting the heroes with ranged attacks until they close in. Then, he will take to the sky, swooping in to claw and bite at who he surmises is the weakest target, hoping to inflict psychological damage on the remaining heroes.
+<mission>Fennel Marshes</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	
-<b>Difficulty</b>	5	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	5
 </table>
-</missionentry>?
-Frequent rains allow a menagerie of vegetation to grow here. All manner of fruits and vegetables are harvested and used by the residents of Fennel Marshes. Despite the bounty of food and rare herbs, the locals are haggard and downtrodden due to the recurrence of terrible diseases.?
-The palsies and fevers which harm the people are rarely fatal, but they cause debilitations that make daily life very difficult. All attempts to cure the diseases have failed, although many have surmised that the source is somehow related to yellow pollen that occasionally will blow through the area. Attempts to find the source of this pollen have failed.?
-The source of this pollen is an ancient creature, known as Ur-Akti, which moves about the swamps, and seeks to rid the land of the encroaching humans. The beast, a large shambling mound of plant matter and detritus, has an intimate connection with the land, and can use that to its advantage, using the plants as extensions of its thoughts.?
-<h2>Sample Challenges</h2>?
-The challenges for this mission deal with the despair of the locals, trying hard not to get sick, and handling the swampy habitat the creature dwells in.?
+</missionentry>
+Frequent rains allow a menagerie of vegetation to grow here. All manner of fruits and vegetables are harvested and used by the residents of Fennel Marshes. Despite the bounty of food and rare herbs, the locals are haggard and downtrodden due to the recurrence of terrible diseases.
+The palsies and fevers which harm the people are rarely fatal, but they cause debilitations that make daily life very difficult. All attempts to cure the diseases have failed, although many have surmised that the source is somehow related to yellow pollen that occasionally will blow through the area. Attempts to find the source of this pollen have failed.
+The source of this pollen is an ancient creature, known as Ur-Akti, which moves about the swamps, and seeks to rid the land of the encroaching humans. The beast, a large shambling mound of plant matter and detritus, has an intimate connection with the land, and can use that to its advantage, using the plants as extensions of its thoughts.
+<h2>Sample Challenges</h2>
+The challenges for this mission deal with the despair of the locals, trying hard not to get sick, and handling the swampy habitat the creature dwells in.
 <list>
-Help Rasik and Vara soothe the fevers of the ill.?
-Investigate the spread of the blight.?
-Resist a billowing cloud of Yellow Pollen.?
-Track Ur-Akti to its lair.?
+Help Rasik and Vara soothe the fevers of the ill.
+Investigate the spread of the blight.
+Resist a billowing cloud of Yellow Pollen.
+Track Ur-Akti to its lair.
 Fight off crocodiles within the trackless swamp.
-</list>?
-<h2>Opposition</h2>?
-At some point while journeying through the marshes, the heroes are attacked by the beast.?<stats>
-<name>Ur-Akti (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	<stress><b>Mental</b> <fate>4</fate></stress>	
+</list>
+<h2>Opposition</h2>
+At some point while journeying through the marshes, the heroes are attacked by the beast.
+<stats>
+<name>Ur-Akti (Leader)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>	<stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>
-<skill><b>Epic (+7)</b>	Fighting, Wits</skill>	
+<skill><b>Epic (+7)</b>	Fighting, Wits</skill>
 <skill><b>Fantastic (+6)</b>	Athletics, Physique</skill>
 <skill><b>Superb (+5)</b>	Will, Channeling</skill>
 <skill><b>Great (+4)</b>	Tactics, Command</skill>
 <skill> <b>Good (+3)</b>	Survival, Rapport</skill>
 <skill><b>Decent (+2)</b>	Lore, Society</skill>
-<aspect>Sentient Amorphous Mass</aspect>?
-<aspect>Swamp Dweller</aspect>?
-<aspect>“You must leave here!”</aspect>?
-<aspect>Burns Easily</aspect>	
-<stunt>Big Bad (General)</stunt>?
-<stunt>Mind Meld - </stunt>Ur-Akti may use Channeling as a ranged attack, opposed by Will, with any shifts causing mental stress on the target.?
-<stunt>Whirling Attack (Fighting)</stunt>?
-<stunt>Grappling Vines - </stunt>As a free action each round, Ur-Akti may use the Create Advantage action with Channeling to add the <aspect>Grappling Vines</aspect> obstacle to a zone.	
-</stats>?
-Ur-Akti’s singular goal is to purge the land of any humans, which it perceives as threats.?
-<h2>Setup</h2>?
-Place Ur-Akti near the largest group of heroes. Add <aspect>Swampy Terrain</aspect> obstacles on four of the zones. Ur-Akti is not slowed by these obstacles. Alternatively, if the opponents don’t have much in the way of ranged attacks, placing grappling vines in key locations may help set up a funnel for Ur-Akti’s attacks.?
-<h2>Tactics</h2>?
+<aspect>Sentient Amorphous Mass</aspect>
+<aspect>Swamp Dweller</aspect>
+<aspect>“You must leave here!”</aspect>
+<aspect>Burns Easily</aspect>
+<stunt>Big Bad (General)</stunt>
+<stunt>Mind Meld - </stunt>Ur-Akti may use Channeling as a ranged attack, opposed by Will, with any shifts causing mental stress on the target.
+<stunt>Whirling Attack (Fighting)</stunt>
+<stunt>Grappling Vines - </stunt>As a free action each round, Ur-Akti may use the Create Advantage action with Channeling to add the <aspect>Grappling Vines</aspect> obstacle to a zone.
+</stats>
+Ur-Akti’s singular goal is to purge the land of any humans, which it perceives as threats.
+<h2>Setup</h2>
+Place Ur-Akti near the largest group of heroes. Add <aspect>Swampy Terrain</aspect> obstacles on four of the zones. Ur-Akti is not slowed by these obstacles. Alternatively, if the opponents don’t have much in the way of ranged attacks, placing grappling vines in key locations may help set up a funnel for Ur-Akti’s attacks.
+<h2>Tactics</h2>
 The beast tries to get close to the largest group of heroes, and attacks them relentlessly.
 <mission>Ferry’s Glenn</mission>
 <missionentry>
-<table><b>Conflict</b>	Warfare	
-<b>Difficulty</b>	6	
+<table>
+<b>Conflict</b>Warfare
+<b>Difficulty</b>	6
 </table>
-</missionentry>?
-Ferry’s Glenn is a moderately sized settlement in the shadow of the Broken Nose Mountains. The farmers of Ferry’s Glenn have lush fields and orchards which produce everything from apples, pears, and grapes, to wheat, cabbage, and lentils. They also keep many goats and sheep as livestock.?
-The goats and sheep are less commonly enjoyed by the people of Ferry’s Glenn, and instead are paid to a tribe of unruly giants that inhabit the Broken Nose Mountains. The Broken Nose Giants are led by the Dark Gleamer, who has set up this deal to provide food for his tribe, in exchange for protection from other people.?
-The giants are very protective of their source for food, and although the occasional villager is eaten, the people of Ferry’s Glenn have succumbed to the extortion.?
-<h2>Challenges</h2>?
-Ferry’s Glenn is headed by Anthe, a leader who is somewhat fearful of angering the giants. His son, Philos, and daughter, Zoe, are both more headstrong and willing to listen to visitors promising a different life. The heroes are tasked with gaining Anthe’s support, determining the nature of the opposition, and organizing troops for a coming battle.?
+</missionentry>
+Ferry’s Glenn is a moderately sized settlement in the shadow of the Broken Nose Mountains. The farmers of Ferry’s Glenn have lush fields and orchards which produce everything from apples, pears, and grapes, to wheat, cabbage, and lentils. They also keep many goats and sheep as livestock.
+The goats and sheep are less commonly enjoyed by the people of Ferry’s Glenn, and instead are paid to a tribe of unruly giants that inhabit the Broken Nose Mountains. The Broken Nose Giants are led by the Dark Gleamer, who has set up this deal to provide food for his tribe, in exchange for protection from other people.
+The giants are very protective of their source for food, and although the occasional villager is eaten, the people of Ferry’s Glenn have succumbed to the extortion.
+<h2>Challenges</h2>
+Ferry’s Glenn is headed by Anthe, a leader who is somewhat fearful of angering the giants. His son, Philos, and daughter, Zoe, are both more headstrong and willing to listen to visitors promising a different life. The heroes are tasked with gaining Anthe’s support, determining the nature of the opposition, and organizing troops for a coming battle.
 <list>
-Gain the trust of Anthe.?
-Fortify the defenses of Ferry’s Glenn.?
-Diffuse a conflict between Cassandra and the soldiers over lodgings.?
-Assess the opposing forces by venturing beyond the Broken Nose Mountains.?
+Gain the trust of Anthe.
+Fortify the defenses of Ferry’s Glenn.
+Diffuse a conflict between Cassandra and the soldiers over lodgings.
+Assess the opposing forces by venturing beyond the Broken Nose Mountains.
 Flee from Po’s clutches.
-</list>?
-<h2>Opposition</h2>?
-Each giant functions as both a unit and a commander. This is somewhat of a departure from the usual mechanics for warfare, where a leader commands a number of units. Here, the commander is also the unit.?
-Thus, a giant may perform a warfare action relegated to units, such as Clash of Arms, but may also take leader-centric actions such as Create an Advantage. The Redeploy Units action is obviously not available.?
-The Heroic Battle action is handled a little differently, given the large difference in sizes here. If a hero wishes to directly attack one of the giants, the giant adds major fortune to any physical attacks.?
+</list>
+<h2>Opposition</h2>
+Each giant functions as both a unit and a commander. This is somewhat of a departure from the usual mechanics for warfare, where a leader commands a number of units. Here, the commander is also the unit.
+Thus, a giant may perform a warfare action relegated to units, such as Clash of Arms, but may also take leader-centric actions such as Create an Advantage. The Redeploy Units action is obviously not available.
+The Heroic Battle action is handled a little differently, given the large difference in sizes here. If a hero wishes to directly attack one of the giants, the giant adds major fortune to any physical attacks.
 The giants may only use the Heroic Battle action against a hero that is not commanding units (otherwise the hero gets lost in the shuffle). They get major fortune when using Fighting or Marksmanship against an individual hero.
 <stats>
-<name>The Dark Gleamer (Leader/Unit)</name> 	
-<stress><b>Morale</b>	<fate>4</fate>	</stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>	
-<skill><b>Fantastic (+6)</b>	<b>Movement</b>, Will</skill>	
-<skill><b>Superb (+5)</b>	Physique, <b>Marksmanship</b>	</skill>
-<skill><b>Great (+4)</b>	<b>Fighting</b>, Tactics	</skill>
-<skill><b>Good (+3)</b>	Command, <b>Armor</b>	</skill>
-<skill><b>Decent (+2)</b>	Wits, Lore	</skill>
-<skill><b>Average (+1)</b>	Channeling, Athletics</skill>	
-<aspect>Colossal in Size</aspect>?
-<aspect>Legs of Iron</aspect>?
-<aspect>Slow to React</aspect>?
-<aspect>“You cannot stop me!”</aspect>	
-<stunt>Lightning Breath - </stunt>Add major fortune when using Marksmanship for ranged attacks.	
-</stats>?
-The Dark Gleamer is the leader of the giants.?<stats>
-<name>Po (Leader/Unit)</ name > 	
+<name>The Dark Gleamer (Leader/Unit)</name>
 <stress><b>Morale</b>	<fate>4</fate>	</stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
-<skill><b>Fantastic (+6)</b>	<b>Movement</b>, Physique	</skill>
+<skill><b>Fantastic (+6)</b>	<b>Movement</b>, Will</skill>
+<skill><b>Superb (+5)</b>	Physique, <b>Marksmanship</b></skill>
+<skill><b>Great (+4)</b>	<b>Fighting</b>, Tactics</skill>
+<skill><b>Good (+3)</b>	Command, <b>Armor</b></skill>
+<skill><b>Decent (+2)</b>	Wits, Lore</skill>
+<skill><b>Average (+1)</b>	Channeling, Athletics</skill>
+<aspect>Colossal in Size</aspect>
+<aspect>Legs of Iron</aspect>
+<aspect>Slow to React</aspect>
+<aspect>“You cannot stop me!”</aspect>
+<stunt>Lightning Breath - </stunt>Add major fortune when using Marksmanship for ranged attacks.
+</stats>
+The Dark Gleamer is the leader of the giants.
+<stats>
+<name>Po (Leader/Unit)</ name >
+<stress><b>Morale</b>	<fate>4</fate>	</stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<skill><b>Fantastic (+6)</b>	<b>Movement</b>, Physique</skill>
 <skill><b>Superb (+5)</b>	Athletics, <b>Marksmanship</b></skill>
-<skill><b>Great (+4)</b>	<b>Armor</b>, Command	</skill>
-<skill><b>Good (+3)</b>	Will, <b>Fighting</b>	</skill>
-<skill><b>Decent (+2)</b>	Wits, Survival	</skill>
+<skill><b>Great (+4)</b>	<b>Armor</b>, Command</skill>
+<skill><b>Good (+3)</b>	Will, <b>Fighting</b></skill>
+<skill><b>Decent (+2)</b>	Wits, Survival</skill>
 <skill><b>Average (+1)</b>	Lore, Channeling</skill>
-<aspect>Four-armed Death Dealer</aspect>?
-<aspect>Voracious Appetite</aspect>?
-<aspect>“I do what the Gleamer tells me...”</aspect>?
-<aspect>Dim-witted</aspect>	
-<stunt>Armor Hide - </stunt>Add fortune when defending with Armor.?
-<stunt>Throw Rocks - </stunt>Add major fortune to Marksmanship for ranged attacks.	
-</stats>?
-Po is subservient to both the Dark Gleamer and its own appetite.?<stats>
-<name>The Savage (Leader/Unit)</name> 
+<aspect>Four-armed Death Dealer</aspect>
+<aspect>Voracious Appetite</aspect>
+<aspect>“I do what the Gleamer tells me...”</aspect>
+<aspect>Dim-witted</aspect>
+<stunt>Armor Hide - </stunt>Add fortune when defending with Armor.
+<stunt>Throw Rocks - </stunt>Add major fortune to Marksmanship for ranged attacks.
+</stats>
+Po is subservient to both the Dark Gleamer and its own appetite.
+<stats>
+<name>The Savage (Leader/Unit)</name>
 <stress><b>Morale</b>	<fate>4</fate>	<stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>	
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Physique, Command</skill>
 <skill><b>Superb (+5)</b>	<b>Movement</b>, <b>Fighting</b></skill>
 <skill><b>Great (+4)</b>	Survival, Athletics</skill>
 <skill><b>Good (+3)</b>	Wits, Tactics</skill>
 <skill><b>Decent (+2)</b>	Lore, Channeling</skill>
 <skill><b>Average (+1)</b>	<b>Armor</b>, Will</skill>
-<aspect>A Feral Visage</aspect>?
-<aspect>Wretchedly Sharp Teeth</aspect>?
-<aspect>“Rrrrraaaaahhhhhhhh!!!!!!!”</aspect>?
-<aspect>Lack of Focus</aspect>	
-<stunt>Gnashing Teeth - </stunt>Add major fortune on Fighting Attacks.?
-<stunt>Horrifying - </stunt>Add major fortune when using Command to Create Advantage.	
-</stats>?
-The Savage has no ranged ability, but can inflict incredible damage up close.?
-<h2>Setup</h2>?
-The strategic zone represents the giants’ home amongst the rocks. Add the aspect <aspect>Rocky Terrain</aspect> to four of the zones representing the mountainous terrain. The Dark Gleamer should start in the strategic zone to make the best use of ranged attacks.?
-<h2>Tactics</h2>?
-The giants work best spread out, with The Dark Gleamer and Po using ranged attacks to do damage, while the Savage attacks the strongest group of resistance close up.?
-<mission>Gray Forest</mission>?
+<aspect>A Feral Visage</aspect>
+<aspect>Wretchedly Sharp Teeth</aspect>
+<aspect>“Rrrrraaaaahhhhhhhh!!!!!!!”</aspect>
+<aspect>Lack of Focus</aspect>
+<stunt>Gnashing Teeth - </stunt>Add major fortune on Fighting Attacks.
+<stunt>Horrifying - </stunt>Add major fortune when using Command to Create Advantage.
+</stats>
+The Savage has no ranged ability, but can inflict incredible damage up close.
+<h2>Setup</h2>
+The strategic zone represents the giants’ home amongst the rocks. Add the aspect <aspect>Rocky Terrain</aspect> to four of the zones representing the mountainous terrain. The Dark Gleamer should start in the strategic zone to make the best use of ranged attacks.
+<h2>Tactics</h2>
+The giants work best spread out, with The Dark Gleamer and Po using ranged attacks to do damage, while the Savage attacks the strongest group of resistance close up.
+<mission>Gray Forest</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	<b>Difficulty</b>	5	
+<b>Conflict</b>	Skirmish	<b>Difficulty</b>	5
 </table>
-</missionentry>?
-The Gray Forest is a coniferous forest, with dense pine broken up by reed filled marshes. In addition, there are many rocky outcroppings which contain all manner of valuable minerals.?
-While not great land for farming, there are large populations of deer, caribou, and mammoths which can be hunted for food and used for a variety of means.?
-The Gray Forest is the demesne of Eight Ears, a powerful inhabitant that has no interest in sharing the wilderness with anyone. Eight Ears usually takes a human form, and has an intimate connection to the forest. Any attempt to settle the land meets with an increasingly hostile response.?
-<h2>Challenges</h2>?
-Eight Ears initially uses fear to repel the heroes. Fear escalates toward outright violence if that tactic is ineffective.  ?
+</missionentry>
+The Gray Forest is a coniferous forest, with dense pine broken up by reed filled marshes. In addition, there are many rocky outcroppings which contain all manner of valuable minerals.
+While not great land for farming, there are large populations of deer, caribou, and mammoths which can be hunted for food and used for a variety of means.
+The Gray Forest is the demesne of Eight Ears, a powerful inhabitant that has no interest in sharing the wilderness with anyone. Eight Ears usually takes a human form, and has an intimate connection to the forest. Any attempt to settle the land meets with an increasingly hostile response.
+<h2>Challenges</h2>
+Eight Ears initially uses fear to repel the heroes. Fear escalates toward outright violence if that tactic is ineffective.
 <list>
-See through Eight Ears polymorphic deception.?
-Track Eight Ears through the forest.?
-Resist the apparitions and ghosts of the dead.?
-Battle the enchanted barb trees.?
+See through Eight Ears polymorphic deception.
+Track Eight Ears through the forest.
+Resist the apparitions and ghosts of the dead.
+Battle the enchanted barb trees.
 Mammoth attack!
-</list>?
-<h2>Opposition</h2>?
-Eight Ears assumes multiple forms during the skirmish with the heroes. Initially it will take on the human form it used during the first encounter, and if this fails, it will turn into a massive beast.?<stats>
-<name>Eight Ears - Human (Leader)</name> 	
-<stress><b>Physical</b> <fate>3</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
+</list>
+<h2>Opposition</h2>
+Eight Ears assumes multiple forms during the skirmish with the heroes. Initially it will take on the human form it used during the first encounter, and if this fails, it will turn into a massive beast.
+<stats>
+<name>Eight Ears - Human (Leader)</name>
+<stress><b>Physical</b> <fate>3</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Society, Will</skill>
-<skill><b>Superb (+5)</b>	Command, Disguise	</skill>
+<skill><b>Superb (+5)</b>	Command, Disguise</skill>
 <skill><b>Great (+4)</b>	Stealth, Survival	</skill>
-<skill><b>Good (+3)</b>	Athletics, Channeling	</skill>
-<skill><b>Decent (+2)</b>	Lore, Wits	</skill>
+<skill><b>Good (+3)</b>	Athletics, Channeling</skill>
+<skill><b>Decent (+2)</b>	Lore, Wits</skill>
 <skill><b>Average (+1)</b>	Physique, Rapport</skill>
-<aspect>Protective Banshee</aspect>?
-<aspect>Shapechanging Hermit</aspect>?
-<aspect>Ageless Wisdom</aspect>?
-<aspect>Weary Heart</aspect>	
-<stunt>Aching Visions - </stunt>May make ranged attacks using Command, opposed by Will. Add fortune when using Attack actions with Command. Eight Ears causes the target to see what they most fear, embedding it into their psyche.?
-<stunt>Healing Shift - </stunt>If taken out from physical stress while in human form, may shapechange into lion form, removing all physical stress and all consequences of a physical nature.	
-</stats>?
-In human form, Eight Ears has very little ability to physically injure the heroes. Instead, he tries to scare them off with terrible visions and ?<stats>
-<name>Eight Ears - Lion (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
+<aspect>Protective Banshee</aspect>
+<aspect>Shapechanging Hermit</aspect>
+<aspect>Ageless Wisdom</aspect>
+<aspect>Weary Heart</aspect>
+<stunt>Aching Visions - </stunt>May make ranged attacks using Command, opposed by Will. Add fortune when using Attack actions with Command. Eight Ears causes the target to see what they most fear, embedding it into their psyche.
+<stunt>Healing Shift - </stunt>If taken out from physical stress while in human form, may shapechange into lion form, removing all physical stress and all consequences of a physical nature.
+</stats>
+In human form, Eight Ears has very little ability to physically injure the heroes. Instead, he tries to scare them off with terrible visions.
+<stats>
+<name>Eight Ears - Lion (Leader)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Athletics, Physique</skill>
-<skill><b>Superb (+5)</b>	Fighting, Wits	</skill>
-<skill><b>Great (+4)</b>	Will, Command	</skill>
+<skill><b>Superb (+5)</b>	Fighting, Wits</skill>
+<skill><b>Great (+4)</b>	Will, Command</skill>
 <skill><b>Good (+3)</b>	Stealth, Survival	</skill>
 <skill><b>Decent (+2)</b>	Lore, Tactics</skill>
-<aspect>Protective Banshee</aspect>?
-<aspect>Razor Sharp Claws</aspect>?
-<aspect>Powerful Animal Instinct</aspect>?
-<aspect>Weary Heart</aspect>	
-<stunt>Big Bad (General)</stunt>?
-<stunt>Quick (General)</stunt>?
-<stunt>Improved Favored Weapon, Claws (Fighting)</stunt>	
-</stats>?
-In beast form, Eight Ears lashes out at the nearest hero with vicious and powerful attacks.?
-<h2>Tactics</h2>?
-As Eight Ears grows increasingly frustrated with its ability to scare the heroes off in various ways, it eventually decides to turn into a lion and mount a full scale attack.  When taken out as a lion, the battle is over.?
-<mission>Green Vale</mission>?
+<aspect>Protective Banshee</aspect>
+<aspect>Razor Sharp Claws</aspect>
+<aspect>Powerful Animal Instinct</aspect>
+<aspect>Weary Heart</aspect>
+<stunt>Big Bad (General)</stunt>
+<stunt>Quick (General)</stunt>
+<stunt>Improved Favored Weapon, Claws (Fighting)</stunt>
+</stats>
+In beast form, Eight Ears lashes out at the nearest hero with vicious and powerful attacks.
+<h2>Tactics</h2>
+As Eight Ears grows increasingly frustrated with its ability to scare the heroes off in various ways, it eventually decides to turn into a lion and mount a full scale attack.  When taken out as a lion, the battle is over.
+<mission>Green Vale</mission>
 <missionentry>
-<table><b>Conflict</b>	Skirmish	<b>Difficulty</b>	4	
+<table>
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	4
 </table>
-</missionentry>?
-The lands of the vale are lush with flora and fauna, open meadows and lush tracts of deciduous forest, lying at the base of a moderately sized peak to the north. It has many natural resources: tall trees in large groves, areas for cultivating crops, and streams from the mountain laced with ore.?
-There is a small farming community carving out a rough existence here. Unfortunately for them, every full moon brings about some measure of destruction – of their livestock, and occasionally one of the farmers loses their life. They have taken to leaving out a token sacrifice during these times.?
-<h2>Sample Challenges</h2>?
-The heroes attempt to win over the hearts and minds of a Hambridge Farms, a small farming community, by dealing with the menacing werewolf.?
+</missionentry>
+The lands of the vale are lush with flora and fauna, open meadows and lush tracts of deciduous forest, lying at the base of a moderately sized peak to the north. It has many natural resources: tall trees in large groves, areas for cultivating crops, and streams from the mountain laced with ore.
+There is a small farming community carving out a rough existence here. Unfortunately for them, every full moon brings about some measure of destruction – of their livestock, and occasionally one of the farmers loses their life. They have taken to leaving out a token sacrifice during these times.
+<h2>Sample Challenges</h2>
+The heroes attempt to win over the hearts and minds of a Hambridge Farms, a small farming community, by dealing with the menacing werewolf.
 <list>
-Impress Mila, the wise and crafty head of Hambridge Farms.?
-Best Bjorn in an archery contest.?
-Search the seen of Feljar’s death for clues.?
+Impress Mila, the wise and crafty head of Hambridge Farms.
+Best Bjorn in an archery contest.
+Search the seen of Feljar’s death for clues.
 Follow werewolf tracks along Red Burrow gully.
-</list>?
-<h2>Opposition</h2>?
-At some point, the werewolf strikes the heroes. The actual identity of the werewolf doesn’t matter. It could be a villager, or perhaps it isn’t a werewolf in the traditional sense, but rather some sort of bipedal monster that hunts the wilds. As with all challenge scenes, it is best to build off the challenges and strive for a natural conclusion to the narrative.?
+</list>
+<h2>Opposition</h2>
+At some point, the werewolf strikes the heroes. The actual identity of the werewolf doesn’t matter. It could be a villager, or perhaps it isn’t a werewolf in the traditional sense, but rather some sort of bipedal monster that hunts the wilds. As with all challenge scenes, it is best to build off the challenges and strive for a natural conclusion to the narrative.
 <stats>
-<name>Werewolf of Hambridge Farms (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
+<name>Werewolf of Hambridge Farms (Leader)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Athletics, Fighting</skill>
 <skill><b>Superb (+5)</b>	Stealth, Physique</skill>
@@ -451,164 +460,167 @@ At some point, the werewolf strikes the heroes. The actual identity of the werew
 <stunt>Big Bad (General)</stunt>
 <stunt>Whirlwind Attack (Fighting)</stunt>
 <stunt>Favored Weapon - Vicious Claws (Fighting)</stunt>
-<stunt>Quick (General Opposition)</stunt>	
-</stats>?
-The werewolf is a large beast with silver fur and a crushing grasp. It is fairly unthinking in its fury.?
-<h2>Setup</h2>?
-The werewolf will set up as close as possible to the most vulnerable looking hero. The actual fight will most likely take place in a farmhouse or in a desolate shack in the woods.?
-<h2>Tactics</h2>?
+<stunt>Quick (General Opposition)</stunt>
+</stats>
+The werewolf is a large beast with silver fur and a crushing grasp. It is fairly unthinking in its fury.
+<h2>Setup</h2>
+The werewolf will set up as close as possible to the most vulnerable looking hero. The actual fight will most likely take place in a farmhouse or in a desolate shack in the woods.
+<h2>Tactics</h2>
 The werewolf is fairly mindless, it will focus on whatever hero is closest.
 <mission>North Oaks</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	
-<b>Difficulty</b>	3	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	3
 </table>
-</missionentry>?
-The North Oaks is a region densely populated with impossibly ancient trees.  Due to its remote location, trapped in between large peaks, it has largely remained avoided. However, its desolate position has drawn a forsaken warlock to the area. He has used his power to animate a number of skeletal minions, fashioned from the bones of local fallen beasts. Any encroachment on his lands is bound to unleash his wrath.?
-<h2>Sample Challenges</h2>?
-Within the North Oaks is a malevolent warlock, Malthias, intent on raising an army of the undead for his nefarious purposes. In order to conquer the regions, the warlock must be stopped.?
+</missionentry>
+The North Oaks is a region densely populated with impossibly ancient trees.  Due to its remote location, trapped in between large peaks, it has largely remained avoided. However, its desolate position has drawn a forsaken warlock to the area. He has used his power to animate a number of skeletal minions, fashioned from the bones of local fallen beasts. Any encroachment on his lands is bound to unleash his wrath.
+<h2>Sample Challenges</h2>
+Within the North Oaks is a malevolent warlock, Malthias, intent on raising an army of the undead for his nefarious purposes. In order to conquer the regions, the warlock must be stopped.
 <list>
-Negotiate the rocky banks of the Gray River.?
-Fight off poisonous Dusk Frogs.?
-A crazed axemen hides in a ravaged camp.?
+Negotiate the rocky banks of the Gray River.
+Fight off poisonous Dusk Frogs.
+A crazed axemen hides in a ravaged camp.
 Investigate Malthias’ chamber of animation.
-</list>?
-<h2>Opposition</h2>?
-Malthias the Necromancer, along with one bone golem for each hero.?<stats>
-<name>Malthias (Leader)</name> 
+</list>
+<h2>Opposition</h2>
+Malthias the Necromancer, along with one bone golem for each hero.
+<stats>
+<name>Malthias (Leader)</name>
 <stress><b>Physical</b> <fate>3</fate></stress>
 <stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Good (+3)</b>	Will, Lore</skill>
 <skill><b>Decent (+2)</b>	Athletics, Channeling</skill>
 <skill><b>Average (+1)</b>	Physique, Survival</skill>
-<aspect>The Mad Necromancer of North Oaks</aspect>?
-<aspect>“Feel the pain that I feel!”</aspect>?
-<aspect>Stretched Thin</aspect>?<aspect>Alert for Danger</aspect>	
-<stunt>Second Flesh - </stunt>Add fortune to all Defend actions using Athletics.?
-<stunt>Rise Minions! - </stunt>If Malthias is stopped, his bone golems will cease to function.?
-<stunt>Ray of Rot - </stunt>May use Lore in place of Marksmanship to make ranged attacks against a target.	
-</stats>?
+<aspect>The Mad Necromancer of North Oaks</aspect>
+<aspect>“Feel the pain that I feel!”</aspect>
+<aspect>Stretched Thin</aspect>
+<aspect>Alert for Danger</aspect>
+<stunt>Second Flesh - </stunt>Add fortune to all Defend actions using Athletics.
+<stunt>Rise Minions! - </stunt>If Malthias is stopped, his bone golems will cease to function.
+<stunt>Ray of Rot - </stunt>May use Lore in place of Marksmanship to make ranged attacks against a target.
+</stats>
 Malthias was spurned in his homeland of Gravewood, and has moved to this remote location to carry out his experiments.
 <stats>
-<name>Bone Golem (Minion)</name> 	
-<stress><b>Physical</b>	<fate>3</fate></stress>	
+<name>Bone Golem (Minion)</name>
+<stress><b>Physical</b>	<fate>3</fate></stress>
 <skill><b>Good (+3)</b>	Fighting	</skill>
-<skill><b>Decent (+2)</b>	Athletics	</skill>
+<skill><b>Decent (+2)</b>	Athletics</skill>
 <skill><b>Average (+1)</b>	Physique</skill>
 <aspect>Unthinking Construct</aspect>
-<aspect>Bound to Malthias</aspect>	
-<stunt>Powerful Blow - </stunt> Add fortune to Fighting Attacks.	
-</stats>?
-The bone golems are not susceptible to any attacks which cause mental stress. They are mindless automatons in service to Malthias.?
-<h2>Setup</h2>?
-The bone golems should be set up as close as possible to the heroes, while Malthias will be better used further away.?
-<h2>Tactics</h2>?
-Malthias will attempt to move around, shelling the heroes from distance with his Ray of Rot. However, Malthias is not weak, since his Second Flesh ability can ward physical damage.?
-<mission>Sightrock</mission>?
+<aspect>Bound to Malthias</aspect>
+<stunt>Powerful Blow - </stunt> Add fortune to Fighting Attacks.
+</stats>
+The bone golems are not susceptible to any attacks which cause mental stress. They are mindless automatons in service to Malthias.
+<h2>Setup</h2>
+The bone golems should be set up as close as possible to the heroes, while Malthias will be better used further away.
+<h2>Tactics</h2>
+Malthias will attempt to move around, shelling the heroes from distance with his Ray of Rot. However, Malthias is not weak, since his Second Flesh ability can ward physical damage.
+<mission>Sightrock</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	
-<b>Difficulty</b>	4	
+<b>Conflict</b>	Skirmish
+<b>Difficulty</b>	4
 </table>
-</missionentry>?
-Sightrock is so named for the large outcropping of rock, from which wide open vistas are visible in every direction. The towering mound of rock is surrounded by rolling hills and dense thickets of pine, broken up by systems of streams suitable for irrigation and farming.?
-However, there is a reason no settlers are present in the area.  A feeling of terrible dread and despair overcomes anyone spending a few weeks within sight of the expansive outcrop. This feeling of dread grows to an unbearable level given enough time. The source of this malignancy lies deep within a series of caverns underneath the rock.?
-<h2>Sample Challenges</h2>?
-In order to successfully settle the land, the heroes must locate the source of this darkness, and deal with it. In a watery cavern under the rock is a writhing, formless mound of alien flesh, capable of psychic attacks. It was formed as a conduit of sorts for the magic of some long dead spellcaster.?
+</missionentry>
+Sightrock is so named for the large outcropping of rock, from which wide open vistas are visible in every direction. The towering mound of rock is surrounded by rolling hills and dense thickets of pine, broken up by systems of streams suitable for irrigation and farming.
+However, there is a reason no settlers are present in the area.  A feeling of terrible dread and despair overcomes anyone spending a few weeks within sight of the expansive outcrop. This feeling of dread grows to an unbearable level given enough time. The source of this malignancy lies deep within a series of caverns underneath the rock.
+<h2>Sample Challenges</h2>
+In order to successfully settle the land, the heroes must locate the source of this darkness, and deal with it. In a watery cavern under the rock is a writhing, formless mound of alien flesh, capable of psychic attacks. It was formed as a conduit of sorts for the magic of some long dead spellcaster.
 <list>
-Quell the fear and loathing running rampant at base camp.?
-Fight off the mob of settlers in the grips of psychotic dreams.?
-Follow the mana rifts to the great rock.?
-Decipher the runes below Sightrock.?
+Quell the fear and loathing running rampant at base camp.
+Fight off the mob of settlers in the grips of psychotic dreams.
+Follow the mana rifts to the great rock.
+Decipher the runes below Sightrock.
 Overcome the growing dread of the doom under Sightrock.
-</list>?
-<h2>Opposition</h2>?
+</list>
+<h2>Opposition</h2>
 <stats>
-<name>Formless Spawn (Leader)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>	
-<skill><b>Fantastic (+6)</b>	Will, Command</skill>	
-<skill><b>Superb (+5)</b>	Channeling, Wits	</skill>
-<skill><b>Great (+4)</b>	Fighting, Athletics	</skill>
-<skill><b>Good (+3)</b>	Lore, Physique	</skill>
+<name>Formless Spawn (Leader)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>, -6 <fate>1</fate></stress>
+<skill><b>Fantastic (+6)</b>	Will, Command</skill>
+<skill><b>Superb (+5)</b>	Channeling, Wits</skill>
+<skill><b>Great (+4)</b>	Fighting, Athletics</skill>
+<skill><b>Good (+3)</b>	Lore, Physique</skill>
 <skill><b>Decent (+2)</b>	Survival, Stealth</skill>
-<aspect>Unwanted Refuse of the Cosmos</aspect>?
-<aspect>Mutating Aquatic Form</aspect>?
-<aspect>Hulking Fleshy Mass</aspect>?
-<aspect>Vulnerable to Iron</aspect>	
-<stunt>Big Bad (General)</stunt>?
-<stunt>Wave of Despair - </stunt>May use Command to perform a ranged mental stress attack, opposed by Will.?
-<stunt>Resilient Flesh - </stunt>Add fortune when using Athletics for defense.?
-<stunt>Waterborne - </stunt>Ignore water based terrain obstacles for purposes of slowing movement. Opposing heroes in water zones are also ignored.	
-</stats>?
-The formless spawn sits in a large chamber, at the lowest point in the network of caverns and passages. It seeks to drive off the heroes through psychic attacks.?
-<h2>Setup</h2>?
-When creating the map, use all available obstacles to create zones that are partly filled with water. The spawn will remain bound to these zones as much as possible, since it has poorer movement on land.?
-<h2>Tactics</h2>?
-The spawn picks on the mentally weakest character, lashing out with psychic attacks that drain their will to fight. It moves around water zones, trying to avoid the heaviest hitters.?
-<mission>Sunset Isles</mission>?
+<aspect>Unwanted Refuse of the Cosmos</aspect>
+<aspect>Mutating Aquatic Form</aspect>
+<aspect>Hulking Fleshy Mass</aspect>
+<aspect>Vulnerable to Iron</aspect>
+<stunt>Big Bad (General)</stunt>
+<stunt>Wave of Despair - </stunt>May use Command to perform a ranged mental stress attack, opposed by Will.
+<stunt>Resilient Flesh - </stunt>Add fortune when using Athletics for defense.
+<stunt>Waterborne - </stunt>Ignore water based terrain obstacles for purposes of slowing movement. Opposing heroes in water zones are also ignored.
+</stats>
+The formless spawn sits in a large chamber, at the lowest point in the network of caverns and passages. It seeks to drive off the heroes through psychic attacks.
+<h2>Setup</h2>
+When creating the map, use all available obstacles to create zones that are partly filled with water. The spawn will remain bound to these zones as much as possible, since it has poorer movement on land.
+<h2>Tactics</h2>
+The spawn picks on the mentally weakest character, lashing out with psychic attacks that drain their will to fight. It moves around water zones, trying to avoid the heaviest hitters.
+<mission>Sunset Isles</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Infiltration	
-<b>Difficulty</b>	6	
+<b>Conflict</b>	Infiltration
+<b>Difficulty</b>	6
 </table>
-</missionentry>?
-The Sunset Isles are a string of islands within the Sunset Sea, a body of water hundreds of miles across, almost completely surrounded by land, save for a small inlet which pours out to the ocean.?
-The largest Isle is known as Hearth by the people of Fire Valley, a large native population reminiscent of Viking tribes living within the Sunset Isles. The buildings and farms of Fire Valley are built among a wide array elm, ash, and cottonwood trees, densely packed amongst other bright and colorful flora. Fire Valley is protected somewhat from the high winds which howl among parts of the island by the peaks on each side.?
-The heroes spend many weeks in the Sunset Isles, with the goal of forming an alliance with the people of Fire Valley. This process is going well, until the heroes witness a bizarre ritual in the early morning hours. One of the islanders is taken away, never to return again.?
-As the heroes uncover what has happened, Kori, the patriarch of Sun Valley, beseeches the heroes to help the islanders thwart the Monastery of the Carnal Brood, a decrepit and fallen cult demanding sacrifices of the people of Fire Valley on every new moon.?
-This entails getting to the Monastery, located high upon North Peak, and destroying the Broodstone, the source of their power. The cult is incredibly dangerous, and a direct frontal assault would be foolhardy. Without the Broodstone, the cult is powerless.?
-<h2>Sample Challenges</h2>?
-The heroes gain intelligence on the Monastery, and find a way to destroy the Broodstone. Depending on time and interest, other challenges could include swaying public opinion with the islanders or assisting them in their tasks. Perhaps the heroes witness a ritual, where a villager is led off by orange cloaked captors. The Broodstone is both living and dead, a beating red heart of rock, which fuels the creation of the zombie minions that the cult thrives on. Without it, the cult will cease to function. It must be destroyed using a smith’s hammer that has forged over one hundred swords.?
+</missionentry>
+The Sunset Isles are a string of islands within the Sunset Sea, a body of water hundreds of miles across, almost completely surrounded by land, save for a small inlet which pours out to the ocean.
+The largest Isle is known as Hearth by the people of Fire Valley, a large native population reminiscent of Viking tribes living within the Sunset Isles. The buildings and farms of Fire Valley are built among a wide array elm, ash, and cottonwood trees, densely packed amongst other bright and colorful flora. Fire Valley is protected somewhat from the high winds which howl among parts of the island by the peaks on each side.
+The heroes spend many weeks in the Sunset Isles, with the goal of forming an alliance with the people of Fire Valley. This process is going well, until the heroes witness a bizarre ritual in the early morning hours. One of the islanders is taken away, never to return again.
+As the heroes uncover what has happened, Kori, the patriarch of Sun Valley, beseeches the heroes to help the islanders thwart the Monastery of the Carnal Brood, a decrepit and fallen cult demanding sacrifices of the people of Fire Valley on every new moon.
+This entails getting to the Monastery, located high upon North Peak, and destroying the Broodstone, the source of their power. The cult is incredibly dangerous, and a direct frontal assault would be foolhardy. Without the Broodstone, the cult is powerless.
+<h2>Sample Challenges</h2>
+The heroes gain intelligence on the Monastery, and find a way to destroy the Broodstone. Depending on time and interest, other challenges could include swaying public opinion with the islanders or assisting them in their tasks. Perhaps the heroes witness a ritual, where a villager is led off by orange cloaked captors. The Broodstone is both living and dead, a beating red heart of rock, which fuels the creation of the zombie minions that the cult thrives on. Without it, the cult will cease to function. It must be destroyed using a smith’s hammer that has forged over one hundred swords.
 <list>
-Where was the villager led in the early dawn??
-Who lives in the Monastery on North Peak??
-What are the goals of the Cult of the Carnal Brood??
-Is Kori behind the kidnappings??
+Where was the villager led in the early dawn?
+Who lives in the Monastery on North Peak?
+What are the goals of the Cult of the Carnal Brood?
+Is Kori behind the kidnappings?
 How can the Broodstone, the beating red heart of rock, be destroyed?
-</list>?
-<h2>Opposition</h2>?
-Any combination of initiates and frost zombies may be used as guards.?
+</list>
+<h2>Opposition</h2>
+Any combination of initiates and frost zombies may be used as guards.
 <stats>
-<name>Initiate of the Orange Robes (Minion)</name> 	
-<stress><b>Physical</b> <fate>3</fate></stress>	
-<stress><b>Mental</b> <fate>4</fate></stress>	
+<name>Initiate of the Orange Robes (Minion)</name>
+<stress><b>Physical</b> <fate>3</fate></stress>
+<stress><b>Mental</b> <fate>4</fate></stress>
 <skill><b>Fantastic (+6)</b>	Wits</skill>
 <skill><b>Superb (+5)</b>	Fighting	</skill>
 <skill><b>Great (+4)</b>	Will</skill>
 <skill><b>Good (+3)</b>	Athletics</skill>
 <skill><b>Decent (+2)</b>	Physique</skill>
 <skill><b>Average (+1)</b>	Lore</skill>
-<aspect>May the Broodstone Guide My Hand!</aspect>?
-<aspect>Addicted to Black Lotus Tincture</aspect>	
-<stunt>Broodstone Guidance - </stunt>Add major fortune when using Wits to detect intruders.?
-<stunt>Favored Weapon, Curved Blade (Fighting)</stunt>	
-</stats>?
-Initiates are better at detecting intruders, and aren’t as good at fighting.?<stats>
-<name>Frost Zombie (Minion)</name> 	
-<stress><b>Physical</b> <fate>4</fate></stress>	
-<stress><b>Mental</b> <fate>3</fate></stress>	
+<aspect>May the Broodstone Guide My Hand!</aspect>
+<aspect>Addicted to Black Lotus Tincture</aspect>
+<stunt>Broodstone Guidance - </stunt>Add major fortune when using Wits to detect intruders.
+<stunt>Favored Weapon, Curved Blade (Fighting)</stunt>
+</stats>
+Initiates are better at detecting intruders, and aren’t as good at fighting.
+<stats>
+<name>Frost Zombie (Minion)</name>
+<stress><b>Physical</b> <fate>4</fate></stress>
+<stress><b>Mental</b> <fate>3</fate></stress>
 <skill><b>Fantastic (+6)</b>	Fighting</skill>
 <skill><b>Superb (+5)</b>	Intimidation</skill>
 <skill><b>Great (+4)</b>	Athletics</skill>
-<skill><b>Good (+3)</b>	Physique	</skill>
-<skill><b>Decent (+2)</b>	Wits	</skill>
+<skill><b>Good (+3)</b>	Physique</skill>
+<skill><b>Decent (+2)</b>	Wits</skill>
 <skill><b>Average (+1)</b>	Survival</skill>
-<aspect>Undead Born of Frost</aspect>?
-<aspect>Easily Tricked</aspect>	
-<stunt>Improved Favored Weapon, Claws (Fighting)</stunt>?
-<strong>Whirlwind Attack (Fighting)</strong>	
-</stats>?
-Frost zombies are strong undead, but are better used by pairing them with initiates, as they are easily tricked on their own.?
-<h2>Setup</h2>?
-The Broodstone is housed in a large monastery on top of North Peak, built hundreds of years ago. It is surrounded by a massive courtyard, with very high walls covered with runes.?
-The Monastery has three levels, with the largest level on the bottom. The lowest level contains the Sanctum of Carnal Reflection, where the frost zombies are created. The Broodstone is below the sanctum, within a large open chamber called the Heart of Unlife.?
-<h2>Sample Security Challenges</h2>?
+<aspect>Undead Born of Frost</aspect>
+<aspect>Easily Tricked</aspect>
+<stunt>Improved Favored Weapon, Claws (Fighting)</stunt>
+<strong>Whirlwind Attack (Fighting)</strong>
+</stats>
+Frost zombies are strong undead, but are better used by pairing them with initiates, as they are easily tricked on their own.
+<h2>Setup</h2>
+The Broodstone is housed in a large monastery on top of North Peak, built hundreds of years ago. It is surrounded by a massive courtyard, with very high walls covered with runes.
+The Monastery has three levels, with the largest level on the bottom. The lowest level contains the Sanctum of Carnal Reflection, where the frost zombies are created. The Broodstone is below the sanctum, within a large open chamber called the Heart of Unlife.
+<h2>Sample Security Challenges</h2>
 <list>
-Disguise: Obtain Robes from Runolf the Distasteful?
-Stealth: Slip through Sanctum of Carnal Reflection?
+Disguise: Obtain Robes from Runolf the Distasteful
+Stealth: Slip through Sanctum of Carnal Reflection
 Thievery: Open the Heart of Unlife
 </list>
