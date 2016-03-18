@@ -1,15 +1,15 @@
 <chapter>Infiltration</chapter>
-Infiltration is used for covert operations targeting a physical installation (called <term>the house</term>). It is the conflict used for assassination, sabotage, and heist missions. Whether stealing secret arcane formulae or laying waste to an ore refinery, the most important part of Infiltration is the ability to carry out the plan without being detected.
-The heroes must sneak through the target location, avoiding or deceiving guards, while overcoming a number of security challenges (vaults, secure doors, observant guards) in the process. Infiltration is not without risk. It is possible for one or more of the heroes to get caught in that act, leading to their capture.
+Infiltration involves covert operations targeting a physical installation (called <term>the house</term>). Infiltration is the conflict used for assassination, sabotage, and heist missions. Whether stealing secret arcane formulae or laying waste to an ore refinery, the most important part of infiltration is the ability to carry out the plan without being detected.
+The heroes must sneak through the target location, avoiding or deceiving guards, while overcoming a number of security challenges (vaults, secure doors, observant guards, traps) in the process. Infiltration is not without risk. It is possible for one or more of the heroes to get caught in that act, making them unavailable for future missions until they’re rescued.
 <h1>Challenges</h1>
-During the challenge phase, the Stronghold players case the house, working to get access as well as uncover details about the target. The heroes may also try to find a safe house, connect with contacts, or use social engineering to exploit a source. The group can use the challenges as a collaborative vehicle to flesh out the house. Who has access to it? What sort of security measures are in place? What vulnerabilities does it have?
-However, don’t start playing through the conflict. That is, the challenges should touch on the plan, but shouldn’t directly accomplish the mission (stealing the plans, assassinating the target, etc.). That is covered during the conflict.
+During the challenge phase, the Stronghold players case the house, working to get access as well as uncover details about the target. The heroes may also try to find a safe house, connect with contacts, or use social engineering to exploit a source. The group can use the challenges as a collaborative vehicle to flesh out the house. What is stored inside? Who has access to it? Can you get close to them? What sort of security measures are in place? What vulnerabilities does it have?
+However, as with all missions, don’t start playing through the conflict! The challenges should touch on the plan, but shouldn’t directly accomplish the mission (stealing the plans, assassinating the target, etc.). That is covered during the infiltration conflict.
 <h1>Opposition</h1>
-Most of the opposition comes from <b>guards</b>, minions that try to detect the heroes. If the mission involves a faction, a leader from the faction may take the place of one of the guards.
+The opposition comes from <b>guards</b> trying to detect the heroes. Guards are built as minions. Guards are a particularly good use for no skill minions (see the <chapref>Characters</chapref> chapter). If the mission involves a faction, a leader from the faction may take the place of one of the guards.
 <h2>Creating Opposition</h2>
-Guards are built as minions with a skill cap equal to the mission difficulty. Wits is the primary skill for detecting intruders, while Athletics and Fighting are good for detaining them. Giving guards a higher Fighting skill helps push the action toward stealth and fast talking, as overt aggression becomes riskier.
+It’s quickest to use no skill minions for guards. If they’re built as regular minions, giving guards a high Wits skill is important for detecting heroes. Athletics and Fighting are good for detaining heroes. Giving guards a higher Fighting skill helps push the action toward stealth and fast talking, as overt aggression becomes riskier.
 <h2>Sample Guards</h2>
-These sample guards can be chosen from as desired. It’s easiest if all the guards share the same template.
+These sample guards can be chosen from as desired. It’s easiest if all the guards share the same template. These are easy to convert to no skill minions. Simply get rid of the skills and stunts, and set all of the stress tracks to two.
 <stats>
 <name>Tough Guard (Minion)</name>
 <aspect>Lives to Crack Heads</aspect>

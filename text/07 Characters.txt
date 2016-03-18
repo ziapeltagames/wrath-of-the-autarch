@@ -40,7 +40,7 @@ Instead of a skill pyramid, leaders begin with two skills at the same rank as th
 <h2>Stunts</h2>
 Leaders get stunts equal to one-half their skill cap value, rounded down. They have no restrictions on where these stunts come from as heroes do. These stunts may not come from any skill lists, but might be custom abilities given to unique monsters or powerful faction leaders.
 <h2>Stress and Consequences</h2>
-Stress tracks and starting consequences are calculated for leaders are the same as they are for heroes. However, leaders do not have a severe consequence unless a stunt specifically allows it.?
+Stress tracks and starting consequences are calculated for leaders are the same as they are for heroes. However, leaders do not have a severe consequence unless a stunt specifically allows it.
 <h1>Lieutenants</h1>
 Lieutenants are minor characters that fill important roles for factions when leaders aren’t available. They might be head guards, military captains, or even diplomats. Lieutenants can also be minor monsters that work with a leader monster as adversaries in a Skirmish.
 <h2>Aspects</h2>
@@ -61,10 +61,9 @@ Minions are built using a skill column of width one as lieutenants are.
 Minions have at most one stunt, related to their role, although they may have none.
 <h2>Stress and Consequences</h2>
 The stress tracks for minions are calculated as for leaders and lieutenants (base of two, possibly modified by high Physique and Will skills). Minions don’t have any consequences.
-<h2>Guards and Diplomats</h2>
-Guards and diplomats are special types of minions. Guards may be used during infiltration missions, while diplomats may be used during diplomacy missions.
-Guards and diplomats have no skills. Instead, whenever they take an action, they add the mission difficulty to the check. In essence, all of their skills are equal to the mission difficulty. Because they have no skills, guards and diplomats always have physical and mental stress tracks of length two.
-In all other respects they are like minions. Guards and diplomats are useful as a way to very quickly create opposition for a mission.
+<h2>No Skill Minions</h2>
+As an option, minions may have no skills at all. Instead, whenever they take an action, they add the mission difficulty to the check. In essence, all of their skills are equal to the mission difficulty. Minions with no skills always have physical and mental stress tracks of length two and don’t have stunts.
+This option is best used when minions must be created quickly, and fleshing out individual skills doesn’t matter much. Creating guards for infiltration missions is a good time to use no skill minions. Diplomats for diplomacy threats also work well as no skill minions.
 <h1>Assets</h1>
 Through stunts or aspect burning, the players may have access to assets. Assets are not first class characters with their own actions, but are instead tied closely to the hero. They might be animal companions, familiars, squires, torchbearers, magical amulets, or artifacts. Only heroes and leaders have assets, and they can’t have more than one asset at the same time.
 <h2>Aspects</h2>
