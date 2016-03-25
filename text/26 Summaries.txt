@@ -79,6 +79,7 @@ Also in this section are the character sheets, challenge scene sheets, developme
 <l2s>Each <b>ignored challenge</b> gives the Autarch player a number of fate points equal to the number of players for the conflict</l2s>
 <l1s>Conflicts</l1s>
 <l2s>Autarch player starts with one fate point for each hero</l2s>
+<l2s>No skill advances during the conflict</l2s>
 <l1s>Magic</l1s>
 <l2s>Spellcasters start each session with mana equal to their Channeling plus the mana of the bound region</l2s>
 <l2s><b>Backlash: </b>After using mana, make a Channeling skill check with passive opposition equal to total mana spent</l2s>

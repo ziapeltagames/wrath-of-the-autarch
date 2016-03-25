@@ -419,7 +419,8 @@ In human form, Eight Ears has very little ability to physically injure the heroe
 <aspect>Weary Heart</aspect>
 <stunt>Big Bad (General)</stunt>
 <stunt>Quick (General)</stunt>
-<stunt>Improved Favored Weapon, Claws (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
+<stunt>I’m on a Roll! (Fighting)</stunt>
 </stats>
 In beast form, Eight Ears lashes out at the nearest hero with vicious and powerful attacks.
 <h2>Tactics</h2>
@@ -458,8 +459,8 @@ At some point, the werewolf strikes the heroes. The actual identity of the werew
 <aspect>Heightened Senses</aspect>
 <aspect>Vulnerable to Silver</aspect>
 <stunt>Big Bad (General)</stunt>
-<stunt>Whirlwind Attack (Fighting)</stunt>
-<stunt>Favored Weapon - Vicious Claws (Fighting)</stunt>
+<stunt>Whirling Attack (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
 <stunt>Quick (General Opposition)</stunt>
 </stats>
 The werewolf is a large beast with silver fur and a crushing grasp. It is fairly unthinking in its fury.
@@ -596,7 +597,7 @@ Any combination of initiates and frost zombies may be used as guards.
 <aspect>May the Broodstone Guide My Hand!</aspect>
 <aspect>Addicted to Black Lotus Tincture</aspect>
 <stunt>Broodstone Guidance - </stunt>Add major fortune when using Wits to detect intruders.
-<stunt>Favored Weapon, Curved Blade (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
 </stats>
 Initiates are better at detecting intruders, and aren’t as good at fighting.
 <stats>
@@ -611,7 +612,8 @@ Initiates are better at detecting intruders, and aren’t as good at fighting.
 <skill><b>Average (+1)</b>	Survival</skill>
 <aspect>Undead Born of Frost</aspect>
 <aspect>Easily Tricked</aspect>
-<stunt>Improved Favored Weapon, Claws (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
+<stunt>I’m on a Roll! (Fighting)</stunt>
 <strong>Whirlwind Attack (Fighting)</strong>
 </stats>
 Frost zombies are strong undead, but are better used by pairing them with initiates, as they are easily tricked on their own.

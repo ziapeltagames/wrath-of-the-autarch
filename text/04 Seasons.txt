@@ -6,8 +6,8 @@ This chapter details the upkeep and development of the Stronghold. It also lists
 Each session, one player is chosen as the spotlight player. This player has the final say on any choices for the season, such as what developments to build, what mission to undertake, which heroes are chosen. Even more important than resolving disagreements, which probably aren’t that common, the spotlight player has a larger role in the events of the session. As much as possible, the responsibility of spotlight player should rotate among all the players throughout the campaign.
 <h2>Modify Relationships</h2>
 If desired, the Stronghold player may modify the helpful or hindering relationships for the hero they have chosen for the mission. They should narrate what prompted this change.
-<h1>Spring</h1>
-At the start of each year, there may be stability increases for the other factions. The cards are shuffled, and one card is drawn for each faction (including the Empire). If the result is +2 or higher, the faction gains one stability. See the <chapref>Factions</chapref> chapter for more details on stability.
+<h1>Faction Growth</h1>
+At the start of each year (prior to each Spring season), there may be stability increases for the factions. The cards are shuffled, and one card is drawn for each faction (including the Empire). If the result is +2 or higher, the faction gains one stability. See the <chapref>Factions</chapref> chapter for more details on stability.
 <h1>Ignored Threats and Schemes</h1>
 Before gaining resources, the penalties for ignored threats are applied to the Stronghold. Note that using a development to deal with a threat isn’t the same as ignoring it (if a development is used, it’s like the threat never happened).
 <h2>Regional Threats</h2>

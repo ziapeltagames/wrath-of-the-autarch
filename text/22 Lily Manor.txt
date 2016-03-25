@@ -115,7 +115,7 @@ Azene is one of the principal characters involved in infiltrating other factions
 <aspect>Master of the Three Blades</aspect>
 <aspect>“Enough talk!”</aspect>
 <aspect>“Initiative is everything”</aspect>
-<stunt>Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
 </stats>
 Idris serves as Zarrah’s main guard. Idris is also more than capable of handling any heavy lifting that needs doing.
 <h1>Diplomacy</h1>

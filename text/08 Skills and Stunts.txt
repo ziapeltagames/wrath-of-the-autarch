@@ -117,7 +117,7 @@ Lore is knowledge of the mystical and arcane facets of the Realm. Knowledge of s
 The Marksmanship skill works with any fired weapons, such as slings or bows of any sort. It also governs thrown weapons like spears or javelins.
 <stuntt>Hit the Weak Point</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
-<stuntd>Once per exchange may invoke a target’s consequence (of a physical nature) without spending a fate point.</stuntd>
+<stuntd>Once per exchange may invoke a target’s consequence (of a physical nature) without spending a fate point. NOTE: Is “once per exchange” really the correct language? Trying to say that you can’t invoke multiple consequences for free – just one.</stuntd>
 <stuntt>Rapid Fire</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
 <stuntd>Draw a stress card to make two separate Attack actions in the same turn. May target different opponents.</stuntd>
@@ -129,7 +129,8 @@ The Marksmanship skill works with any fired weapons, such as slings or bows of a
 <h1>Physique</h1>
 Where Athletics governs pure physical power, Physique is used to measure raw physical power and endurance. Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique. Bashing open doors or bending bars is also the province of Physique.
 <stuntt>Improved Physical Stress</stuntt>
-<stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Physique skill below to determine the bonus to physical stress.</stuntd>
+<stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Physique skill below to determine the bonus to physical stress.
+Use the unlock check boxes on the character sheet to note newly available physical stress boxes.</stuntd>
 <list>
 +1 or +2: A 3-point physical stress box
 +3 or +4: A 4-point physical stress box
@@ -219,7 +220,8 @@ Understanding the use of military force is the cornerstone of Tactics. Troop mov
 <h1>Will</h1>
  A character with a high Will is less affected by witnessing horrors of all stripes. It is also the ability to focus mentally for long periods of time.
 <stuntt>Improved Mental Stress</stuntt>
-<stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Will skill below to determine the bonus to mental stress.</stuntd>
+<stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Will skill below to determine the bonus to mental stress.
+Use the unlock check boxes on the character sheet to note newly available mental stress boxes.</stuntd>
 <list>
 +1 or +2: A 3-point mental stress box
 +3 or +4: A 4-point mental stress box

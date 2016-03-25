@@ -101,7 +101,7 @@ Alda is Elisa’s granddaughter, and has influence into the goings on of Burgan Va
 <aspect>Scars of Many Wars</aspect>
 <aspect>Three Time Longbow Tourney Champion</aspect>
 <aspect>“Save your pity.”</aspect>
-<stunt>Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
 </stats>
 Childric is an incredibly popular figure within Burgan Vale, historically a famous entertainer, acrobat, and adventurer after his career as a man-at-arms. Childric is particularly sympathetic to the plight of the downtrodden.
 <stats>
@@ -214,7 +214,7 @@ The Gray Recluse likely hangs back once the conflict begins, using ranged magica
 <skill><b>Great (+4)</b>	Physique</skill>
 <aspect>Dedicated Skeletal Guardians</aspect>
 <aspect>Razor Sharp Scythes</aspect>
-<stunt>Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
 </stats>
 The Tomb Guardians can be spread out and used to slow down the heroes from reaching the Gray Recluse.
 <h2>Resolution</h2>

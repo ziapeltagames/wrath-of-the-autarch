@@ -48,7 +48,7 @@ Cannons	3
 <aspect>“We understand ourselves through understanding nature”</aspect>
 <aspect>Grieving Widow</aspect>
 <stunt>Passive Aggressive (Rapport)</stunt>
-<stunt>Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
 </stats>
 The President of the Trade Council, responsible for all exchanges of goods and services with other factions.
 <stats>
@@ -102,7 +102,8 @@ Holds sway with the Learning Council, responsible for investigating new technolo
 <aspect>Veteran Organ Gunner</aspect>
 <aspect>Wields Skull Ripper</aspect>
 <aspect>Concerned with Military Security</aspect>
-<stunt>Improved Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
+<stunt>I’m on a Roll! (Fighting)</stunt>
 <stunt>We Take the Hill! (Command)</stunt>
 </stats>
 Second in command to Almor on the war council, Hesiod is a grizzled veteran and a master tactician.
@@ -120,7 +121,8 @@ Second in command to Almor on the war council, Hesiod is a grizzled veteran and 
 <aspect>A Whirlwind of Blade and Death</aspect>
 <aspect>Built Like a Tank</aspect>
 <aspect>“Lots of words for such a little guy”</aspect>
-<stunt>Improved Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
+<stunt>I’m on a Roll! (Fighting)</stunt>
 </stats>
 An iconoclast within the Hold, favoring sweeping action and power. Almor listens to The Boar’s opinions, much to the chagrin of Agatha.
 <h1>Diplomacy</h1>
@@ -199,7 +201,8 @@ The Stealer of Hope along with one Fire Imp for each hero.
 <aspect>Supremely Confident Battle Commander</aspect>
 <aspect>“I will bathe in the tears of your fallen people”</aspect>
 <stunt>Magic Interference </stunt>All magical effects cost twice the normal amount of mana when used during a Skirmish against The Stealer of Hope.
-<stunt>Improved Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
+<stunt>Whirling Attack (Fighting)</stunt>
 </stats>
 <stats>
 <name>Fire Imp (Minion)</name>

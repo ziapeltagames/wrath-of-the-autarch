@@ -95,7 +95,8 @@ The Subtect is the primary mouthpiece for the Empire. He is adept at leveraging 
 <aspect>Four Step Sweeping Feint</aspect>
 <aspect>“Is your life really worth this?”</aspect>
 <stunt>Whirling Attack (Fighting)</stunt>
-<stunt>Improved Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
+<stunt>I’m on a Roll! (Fighting)</stunt>
 </stats>
 A warrior of great renown, Nalah is used by the Autarch when justice must be meted out at swordpoint.
 <stats>
@@ -134,7 +135,8 @@ Micus is a legend within the Empire, leading the Empire to victory against the P
 <aspect>“I never forget a face”</aspect>
 <aspect>Gray Cloak Founder</aspect>
 <stunt>Orb of Scrying (General)</stunt>
-<stunt>Improved Favored Weapon (Fighting)</stunt>
+<stunt>Powerful Attack (Fighting)</stunt>
+<stunt>I’m on a Roll! (Fighting)</stunt>
 </stats>
 Minim is the leader of the Gray Cloaks, a group tasked with rooting out plots to overthrow the Autarch.
 <h1>Diplomacy</h1>
@@ -425,7 +427,7 @@ What does the future hold for the Stronghold?
 <b>Difficulty</b>	9
 </table>
 </missionentry>
-If it gets to the point where the Autarch player is able to use this campaign threat, things are about to get very bad for the Stronghold. The Autarch is close to channeling all the mana from the realm, a process which will transform her into an unstoppable force of raw magic. Before that can happen, though, the Autarch must complete the Path of Ascendancy, an arduous trek through the north and into the heart of the Animaelic Forest.
+If it gets to the point where the Autarch player is able to use this scheme, things are about to get very bad for the Stronghold. The Autarch is close to channeling all the mana from the realm, a process which will transform her into an unstoppable force of raw magic. Before that can happen, though, the Autarch must complete the Path of Ascendancy, an arduous trek through the north and into the heart of the Animaelic Forest.
 While on the path, she is protected by shadow guardians summoned to protect her. If the guardians are killed, the Autarch will attack the heroes using all of her stored up magical energy (which is very potent by this point).
 <h2>Sample Challenges</h2>
 <list>

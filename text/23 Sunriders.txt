@@ -87,7 +87,7 @@ Arban’s chief commander for the Sunriders’ military.  Taichu is primarily intere
 <aspect>Youthful Naiveté</aspect>
 <aspect>“I hear our ancestors song.”</aspect>
 <aspect>“Our horses are the best in the Realm”</aspect>
-<stunt>Favored Weapon (Fighting) </stunt>
+<stunt>Powerful Attack (Fighting) </stunt>
 <stunt>Never Forget a Face (Wits) </stunt>
 </stats>
 While Dashen doesn’t have much influence to speak of with Arbal, he is usually involved in outside deals, and may be used to raise issues regarding the protection and use of the Sunriders’ mounts. Dashen is also an incredibly gifted swordsman.

@@ -41,7 +41,7 @@ The Stronghold’s aspects are help to define the theme of the campaign. They are 
 On the Stronghold Sheet is space for campaign aspects created during play. The number of slots on the Stronghold Sheet is a limiter on how many can be created. The free invokes on campaign aspects are frequently burned to create assets and units, although they may be used like any other aspect.
 <h2>Disposition</h2>
 The disposition with other minor factions is tracked on the Trade Sheet. If the disposition is five or higher, the minor faction in question becomes a full ally of the Stronghold, and will contribute units during military battle. In addition, the higher the disposition for a minor faction, the more goods are available as part of trade agreements.
-A low disposition with another faction opens the possibility for the use of campaign threats from the enemy faction against the Stronghold. If the disposition with another faction drops to negative four or less, the faction becomes and ally with the Autarch, and will contribute units in military battle.
+A low disposition with another faction opens the possibility for enemy faction threats toward the Stronghold. If the disposition with another faction drops to negative four or less, the faction becomes an ally with the Autarch, and will contribute units to the Empire in military battle.
 <h1>The Empire</h1>
 As with the Stronghold, the Empire changes and evolves over the course of the campaign and has a few additional elements that must be tracked.
 <h2>Threat Pools</h2>

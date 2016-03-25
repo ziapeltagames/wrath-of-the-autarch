@@ -71,6 +71,7 @@ The difficulty to create a campaign aspect is two higher than the difficulty of 
 <h1>Skill Advances</h1>
 Any time during the challenge phase that a hero attempts an action with an opposition <strong>higher</strong> than the skill used for the action, they get one advance for the skill. It doesn’t matter whether the action is successful or not. This applies to the Create Advantage action as well as the Resolve Challenge action.
 The challenge phase is also a good time to use hindering aspects (from relationships or assets) to gain more skill advances. This is particularly true when success or failure are very likely regardless of taking misfortune from hindering aspects.
+Note that skill advances can’t be taken during the conflict. Each hero will get one skill advance after the conflict is over in any skill they want.
 <h1>Ending the Challenge Phase</h1>
 The challenge phase ends after three exchanges. If the Stronghold players did not successfully complete one challenge scene for each Stronghold player, the Autarch player gets bonus fate points to use for the conflict. For each such incomplete challenge, the Autarch player gets one fate point per Stronghold player.
 For instance, if there are five Stronghold players and they only successfully completed three challenge scenes, the Autarch player gets ten bonus fate points. These are in addition to the usual fate points the Autarch player gets at the start of the conflict.
