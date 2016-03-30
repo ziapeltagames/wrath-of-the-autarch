@@ -21,7 +21,7 @@ Turns are taken in order of the Society skill, with the highest character going 
 <h1>Actions</h1>
 When a character takes a turn, they choose one of the actions from the list below. Some actions are only available to heroes while some are only available to the opposition leaders. Only heroes may take the Gain Support, Address Issue, and Change Offer actions. Only leaders may take the Raise Issue action.
 <h2>Change Issue (Move, Free)</h2>
-At the beginning of a character’s turn, they may change from one issue to another. Move the token representing the character to the other issue. This movement may be opposed by other characters in the same zone (see the <chapref>Conflicts</chapter> chapter).
+At the beginning of a character’s turn, they may change from one issue to another. Move the token representing the character to the other issue. This movement may be opposed by other characters in the same zone (see the <chapref>Conflicts</chapref> chapter).
 <h2>Focus</h2>
 This works as described in the <chapref>Conflicts</chapref> chapter.
 <h2>Gain Support (Overcome)</h2>

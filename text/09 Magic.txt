@@ -45,7 +45,7 @@ The white ships which sail to the island of the dead usually make no return trip
 <aspect>Unthinking Killing Machines</aspect>
 <aspect>How Dare You Disturb Our Slumber!</aspect>
 <aspect>Gleefully Seek Destruction </aspect>
-<stunt><b>Aura of Terror</b>- A commander wishing to take units into the same zone as the undead soldiers must succeed at a Great (+4) Command roll.<stunt>
+<stunt><b>Aura of Terror</b>- A commander wishing to take units into the same zone as the undead soldiers must succeed at a Great (+4) Command roll.</stunt>
 </stats>
 <h1>Secrets of the Elements</h1>
 Mastering the elements requires a keen eye for detail. Elemental magic is primarily used for its offensive capabilities, and is well suited to Skirmish and Warfare.

@@ -62,7 +62,7 @@ The leaders are listed in order of importance. Leo and Talan may be left out of 
 Gerard’s voice carries clout amongst the people of Boar’s Hollow. From the perspective of most people, he has been around forever and has given good advice to this point. His pessimism creates friction with Talan.
 <stats>
 <name>Hargeth (Leader)</name>
-<stress><b>Physical</b> <fate>3</fate>
+<stress><b>Physical</b> <fate>3</fate></stress>
 <stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Superb (+5)</b>	Wits, Engineering</skill>
@@ -325,8 +325,8 @@ The giants may only use the Heroic Battle action against a hero that is not comm
 </stats>
 The Dark Gleamer is the leader of the giants.
 <stats>
-<name>Po (Leader/Unit)</ name >
-<stress><b>Morale</b>	<fate>4</fate>	</stress>
+<name>Po (Leader/Unit)</name>
+<stress><b>Morale</b>	<fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Fantastic (+6)</b>	<b>Movement</b>, Physique</skill>
 <skill><b>Superb (+5)</b>	Athletics, <b>Marksmanship</b></skill>
@@ -344,7 +344,7 @@ The Dark Gleamer is the leader of the giants.
 Po is subservient to both the Dark Gleamer and its own appetite.
 <stats>
 <name>The Savage (Leader/Unit)</name>
-<stress><b>Morale</b>	<fate>4</fate>	<stress>
+<stress><b>Morale</b>	<fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Fantastic (+6)</b>	Physique, Command</skill>
 <skill><b>Superb (+5)</b>	<b>Movement</b>, <b>Fighting</b></skill>
@@ -367,7 +367,8 @@ The giants work best spread out, with The Dark Gleamer and Po using ranged attac
 <mission>Gray Forest</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Skirmish	<b>Difficulty</b>	5
+<b>Conflict</b>		Skirmish
+<b>Difficulty</b>	5
 </table>
 </missionentry>
 The Gray Forest is a coniferous forest, with dense pine broken up by reed filled marshes. In addition, there are many rocky outcroppings which contain all manner of valuable minerals.

@@ -208,9 +208,9 @@ The Gray Recluse begins the conflict with 10 mana.
 The Gray Recluse likely hangs back once the conflict begins, using ranged magical attacks against the heroes. If the heroes ever bunch up, it can use the Hail Storm.
 <stats>
 <name>Tomb Guardian (Minion)</name>
-<stress><b>Physical</b>	<fate >3</fate></stress>
+<stress><b>Physical</b>	<fate>3</fate></stress>
 <skill><b>Fantastic (+6)</b>	Fighting</skill>
-<skill><b>Superb (+5)	Athletics</skill>
+<skill><b>Superb (+5)</b>	Athletics</skill>
 <skill><b>Great (+4)</b>	Physique</skill>
 <aspect>Dedicated Skeletal Guardians</aspect>
 <aspect>Razor Sharp Scythes</aspect>

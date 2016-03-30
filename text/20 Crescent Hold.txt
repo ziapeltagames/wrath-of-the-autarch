@@ -17,7 +17,7 @@ Aren, Anastia, Batzas, Era, Cyrus, Gaiana, Galen, Ionnes, Ionna, Menalo, Kassand
 The Great Deeps	Keep	1	0	1	0	0
 North Ridge (Capital)	Castle	2	0	2	0	0
 Upper Reach	Keep	1	0	1	0	0
-<table>
+</table>
 <h2>Mission Difficulty</h2>
 <list>
 Diplomacy	3

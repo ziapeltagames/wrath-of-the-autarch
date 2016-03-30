@@ -126,8 +126,8 @@ Following is a sample commander that is easy to adjust for the campaign by slidi
 <skill><b>Average (+1)</b>	Engineering</skill>
 <aspect>Take the Hill!</aspect>
 <aspect>“Hold the line!”</aspect>
-<stunt>Band Together (Command)</strong>
-<stunt>Set for Charge (Tactics)</strong>
+<stunt>Band Together (Command)</stunt>
+<stunt>Set for Charge (Tactics)</stunt>
 </stats>
 This is a good defensive military leader, with solid <skill>Tactics</skill> and <skill>Command</skill>, and two stunts useful for Warfare. With the lower Engineering, this leader isn’t as suited to dealing with siege equipment.
 <h2>Units for Threats</h2>

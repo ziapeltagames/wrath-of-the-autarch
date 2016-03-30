@@ -13,5 +13,5 @@ Draft Edition Campaign Playtesters: Terri Koontz, Jennifer Lewis, Pat DeMoss, Re
 Draft Edition Mini-game Playtesters: Wendy Lopez, Lawrence Lopez, “Origins 2013: Blood for the Sun God!” – William Kniffin, Patrick Schifano, Scott Cameron, “Origins 2013: Property is Theft!” - Aidan Friesen, Luke Shannon, Avram R. Shannon, Samuel Shannon, Matthew A. Reed, “AI Meetup” – Nina Bice, Auden Reiter, Mike Vivian, Chris Halama, Nick Hopkins
 Copyright 2015 Ziapelta Games
 For Jennifer.
-<TODO: Table of Contents>
-<TODO: Add CC_BY boilerplate for Fate Core, as well as any OGL boilerplate needed for Diaspora.>
+<TODO>Table of Contents</TODO>
+<TODO>Add CC_BY boilerplate for Fate Core, as well as any OGL boilerplate needed for Diaspora.</TODO>

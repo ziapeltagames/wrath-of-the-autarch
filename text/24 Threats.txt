@@ -10,7 +10,7 @@ To use the threat tables in the chapter, draw a fate card. Cross reference the n
 <h1>Region Threats</h1>
 Region threats are checked for at the end of every season. See the <chapref>Seasons</chapref> chapter for more details. For each region the Stronghold controls, draw one fate card. If the result is a +3 or +4, a threat occurs.
 <h2>Region Threat Table</h2>
-If a region threat occurs, use the region threat table to determine the conflict type and mission difficulty. Region threats tend to be skirmish missions. The Autarch player may either choose a mission from the <strong>Region and Faction Sample Threats</strong> section, or create a mission of the appropriate type and difficulty on their own.
+If a region threat occurs, use the region threat table to determine the conflict type and mission difficulty. Region threats tend to be skirmish missions. The Autarch player may either choose a mission from the <strong>Region and Faction Sample Threats</strong> section, or create a mission of the appropriate type and difficulty on their own. The <chapref>Tips and Tricks</chapref> chapter has more details on creating regional threats.
 <table>
 /	0	1	2	3	4
 0	Warfare 3	Diplomacy 3	Diplomacy 4	Diplomacy 5	Warfare 5
@@ -67,7 +67,7 @@ Unlike region and ally threats, failing an Autarch scheme carries the same penal
 <h3>Mission Success</h3>
 On mission success, the listed effect doesn’t occur and the spotlight player may additionally create one campaign aspect with two free invokes.
 <h2>Wrath of the Autarch</h2>
-If the campaign ever reaches the Winter of Year 6, the Wrath of the Autarch scheme occurs regardless of the above procedure. See The <chapter>Empire</chapter> chapter for more details.
+If the campaign ever reaches the Winter of Year 6, the Wrath of the Autarch scheme occurs regardless of the above procedure. See The <chapref>Empire</chapref> chapter for more details.
 <h2>Creating Schemes</h2>
 There are more details later in this chapter on how to create threats and schemes (as well as some samples that can be used). Following are guidelines on how to interpret schemes and incorporate them into the campaign.
 <h2>Diplomacy Schemes</h2>
@@ -169,7 +169,7 @@ The ogres aren’t particularly bright, mostly focusing on smashing the heroes up.
 <name>Gnarlbone (Leader)</name>
 <stress><b>Physical</b> <fate>4</fate></stress>
 <stress><b>Mental</b> <fate>4</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Great (+4)</b>	Physique, Fighting</skill>
 <skill><b>Good (+3)</b>	Will, Athletics</skill>
 <skill><b>Decent (+2)</b>	Tactics, Wits</skill>
@@ -280,7 +280,7 @@ Eurich is a straight shooter who is well respected in the region. He blames a fa
 <name>Pasha (Lieutenant)</name>
 <stress><b>Physical</b> <fate>2</fate></stress>
 <stress><b>Mental</b> <fate>4</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>
+<stress><b>Consequences</b>	-2 <fate>1</fate></stress>
 <skill><b>Great (+4)</b>	Rapport</skill>
 <skill><b>Good (+3)</b>	Will</skill>
 <skill><b>Decent (+2)</b>	Wits</skill>
@@ -295,7 +295,7 @@ Pasha puts on a friendly face and has a certain grace and charm, but underneath 
 <name>Safrich (Lieutenant)</name>
 <stress><b>Physical</b> <fate>3</fate></stress>
 <stress><b>Mental</b> <fate>3</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>
+<stress><b>Consequences</b>	-2 <fate>1</fate></stress>
 <skill><b>Great (+4)</b>	Rapport</skill>
 <skill><b>Good (+3)</b>	Society</skill>
 <skill><b>Decent (+2)</b>	Wits</skill>
@@ -310,7 +310,7 @@ Safrich is a young idealist, not very willing to see compromise or the practical
 <name>Ranilo (Leader)</name>
 <stress><b>Physical</b> <fate>2</fate></stress>
 <stress><b>Mental</b> <fate>2</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>
+<stress><b>Consequences</b>	-2 <fate>1</fate></stress>
 <skill><b>Great (+4)</b>	Rapport</skill>
 <skill><b>Good (+3)</b>	Society</skill>
 <skill><b>Decent (+2)</b>	Command</skill>

@@ -35,7 +35,7 @@ Cavalry	4
 <name>Sdila (Leader)</name>
 <stress><b>Physical</b>	<fate>3</fate></stress>
 <stress><b>Mental</b>	<fate>4</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Legendary (+6)</b>	Stealth, Wits</skill>
 <skill><b>Superb (+5)</b>	Thievery, Rapport</skill>
 <skill><b>Great (+4)</b>	Disguise, Society</skill>
@@ -52,10 +52,10 @@ Cavalry	4
 </stats>
 Leader of one of the largest and oldest havens in Gravewood. Sdila is boastful and brags about his achievements to anyone who will listen. Not above taking liberties with the truth.
 <stats>
-<name>Samo (Leader)</name> 	
+<name>Samo (Leader)</name>
 <stress><b>Physical</b>	<fate>4</fate></stress>
 <stress><b>Mental</b>	<fate>3</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Superb (+5)</b>	Fighting, Stealth</skill>
 <skill><b>Great (+4)</b>	Athletics, Wits</skill>
 <skill><b>Good (+3)</b>	Physique, Survival</skill>
@@ -65,15 +65,15 @@ Leader of one of the largest and oldest havens in Gravewood. Sdila is boastful a
 <aspect>The First Haven Boasts too Much</aspect>
 <aspect>Youthful Exuberance</aspect>
 <aspect>Puckish Charm</aspect>
-<stunt>Whirling Attack (Fighting)</stunt
+<stunt>Whirling Attack (Fighting)</stunt>
 <stunt>Assassin’s Perch (Stealth)</stunt>
 </stats>
 A young, headstrong upstart, who places emphasis on ideological purity and self-reliance. Has a potentially dangerous zeal which is difficult to harness.
 <stats>
-<name>Radia (Leader)</name> 	
+<name>Radia (Leader)</name>
 <stress><b>Physical</b>	<fate>2</fate></stress>
-<stress><b>Mental</b>	<fate>3</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate>
+<stress><b>Mental</b>		<fate>3</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Superb (+5)</b>	Thievery, Wits	</skill>
 <skill><b>Great (+4)</b>	Stealth, Tactics	</skill>
 <skill><b>Good (+3)</b>	Will, Command	</skill>
@@ -88,10 +88,10 @@ A young, headstrong upstart, who places emphasis on ideological purity and self-
 </stats>
 Radia and Galya are old friends, both relying on their accumulated wisdom to help Gravewood. Radia is an intimidating presence, occasionally ranting about dark deeds performed in service to the First Haven.
 <stats>
-<name>Galya (Leader)</name> 	
+<name>Galya (Leader)</name>
 <stress><b>Physical</b>	<fate>3</fate></stress>
-<stress><b>Mental</b>	<fate>4</fate></stress>
-<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate>
+<stress><b>Mental</b>		<fate>4</fate></stress>
+<stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
 <skill><b>Superb (+5)</b>	Rapport, Will</skill>
 <skill><b>Great (+4)</b>	Command, Society</skill>
 <skill><b>Good (+3)</b>	Wits, Tactics</skill>
@@ -171,7 +171,8 @@ Repair equipment lost to cold.
 <mission>Gossamer Spirit</mission>
 <missionentry>
 <table>
-<b>Conflict</b>	Infiltration	<b>Difficulty</b>	6
+<b>Conflict</b>	Infiltration
+<b>Difficulty</b>	6
 </table>
 </missionentry>
 Long ago, the people of First Haven were attacked by a wandering band of Sunriders. In order to escape the assault, they secured refuge on the Island of Apples within Memory Lake. There they beseeched the gods to save them, and the gods listened, making the island invisible. The Sunriders, unable to find their quarry, left without hunting them down.
@@ -187,7 +188,7 @@ Uncover the First Door into the ancient complex.
 <h2>Opposition</h2>
 The Weaver and other guards roam the complex, guarding the store of illusory webs.
 <stats>
-<name>The Weaver (Leader)</name> 	
+<name>The Weaver (Leader)</name>
 <stress><b>Physical</b> <fate>4</fate></stress>
 <stress><b>Mental</b> <fate>4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
@@ -205,7 +206,7 @@ The Weaver and other guards roam the complex, guarding the store of illusory web
 </stats>
 The Weaver is resigned to patrolling the halls of his temples, tasked with keeping intruders out and living his days out in isolation.
 <stats>
-<name>Hollow Guard (Minion)</name> 
+<name>Hollow Guard (Minion)</name>
 <stress><b>Physical</b> <fate>4</fate></stress>
 <stress><b>Mental</b> <fate>3</fate></stress>
 <skill><b>Fantastic (+6)</b>	Wits</skill>

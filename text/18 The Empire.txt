@@ -25,8 +25,8 @@ Yearly Field		0	1	0	0	0
 Firstborn Peak		0	0	0	1	0
 </table>
 <h1>Mission Difficulties and Autarch Schemes</h1>
-Instead of fixed mission difficulties, mission difficulties for the Empire are determined by Autarch schemes. The Autarch player may advance two schemes each year (see the <chapter>Threats and Schemes</chapter> chapter for more details). Some of these schemes increase the mission difficulties for missions against the Empire. By default, all of the mission difficulties start at four.
-Units are also increased through the selection of certain schemes. At the start, the Empire has the units listed in this chapter. Refer to the <chapter>Threats and Schemes</chapter> chapter for more details.
+Instead of fixed mission difficulties, mission difficulties for the Empire are determined by Autarch schemes. The Autarch player may advance two schemes each year (see the <chapref>Threats and Schemes</chapref> chapter for more details). Some of these schemes increase the mission difficulties for missions against the Empire. By default, all of the mission difficulties start at four.
+Units are also increased through the selection of certain schemes. At the start, the Empire has the units listed in this chapter. Refer to the <chapref>Threats and Schemes</chapref> chapter for more details.
 The Faction Sheet has space to track which schemes have been selected.
 <h2>Starting Units</h2>
 <list>
@@ -42,7 +42,7 @@ Infantry	10
 <stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate>, -6 <fate >1</fate></stress>
 <skill><b>Legendary (+8)</b>	Lore, Channeling</skill>
 <skill><b>Epic (+7)</b>	Will, Society</skill>
-<skill><skill><b>Fantastic (+6)</b>	Command, Wits	</skill>
+<skill><b>Fantastic (+6)</b>	Command, Wits	</skill>
 <skill><b>Superb (+5)</b>	Tactics, Athletics</skill>
 <skill><b>Great (+4)</b>	Rapport, Survival</skill>
 <skill><b>Good (+3)</b>	Physique, Marksmanship</skill>	
@@ -347,7 +347,7 @@ The pass is guarded by twenty units of rock demons led by long dead heroes from 
 The demons are led by ancient generals and fighters pulled back to life by the land.
 <stats>
 <name>Rock Demons (Unit)</name>
-<b>Morale</b>	<fate >3</fate></stress>
+<stress><b>Morale</b>	<fate >3</fate></stress>
 <skill><b>Superb (+5)</b>	Armor</skill>
 <skill><b>Good (+3)</b>	Fighting, Movement</skill>
 <skill><b>Mediocre (+0)</b>	Survival	</skill>
@@ -383,7 +383,7 @@ Deep within the forest, in the eye of the nightmare maelstrom, lies the corrupte
 In addition to the Autarch, the heroes must face one ghostly dopplegangers for each hero. These are bizarrely twisted and perverse creatures that mimic the heroes themselves.
 <stats>
 <name>Shadow of the Autarch (Leader)</name>
-<stress><b>Physical</b>	<fate >4</fate></stress></stress>
+<stress><b>Physical</b>	<fate >4</fate></stress>
 <stress><b>Mental</b>	<fate >4</fate></stress>
 <stress><b>Consequences</b>	-2 <fate >1</fate>, -2 <fate >1</fate>, -4 <fate >1</fate>, -6 <fate >1</fate></stress>
 <skill><b>Epic (+7)</b>	Lore, Channeling</skill>
@@ -440,8 +440,8 @@ Set up an ambush just outside Millet Plain.
 One Shadow Guardian for each hero, along with the Autarch.
 <stats>
 <name>Shadow Guardian (Minion) </name>
-<stress><b>Physical</b>	<fate >4</fate>	
-<stress><b>Mental</b>	<fate >4</fate>	
+<stress><b>Physical</b>	<fate >4</fate>	</stress>
+<stress><b>Mental</b>	<fate >4</fate>	</stress>
 <skill><b>Legendary (+8)</b>	Fighting, Will</skill>
 <skill><b>Fantastic (+6)</b>	Athletics, Physique</skill>
 <skill><b>Superb (+5)</b>	Stealth, Survival	</skill>
