@@ -8,6 +8,10 @@ Text for the Wrath of the Autarch Tabletop RPG and source code for the Autarch c
 
 Snapshots of the in-progress editing of the text, encoded in ASCII.
 
+## layout
+
+PDF copy of draft rules using simple layout script.
+
 ## schemas
 
 XSLT used to transform InDesign XML exports into a set of generic XML tags for more flexible editing and layout.
