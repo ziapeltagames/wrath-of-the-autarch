@@ -65,9 +65,9 @@ Now it’s time to think about the heroes of the Stronghold. The players create a 
 The easiest place to start is to write down peak skills for the heroes on each of the note cards. As described further in <chapref>Characters</chapref>, the peak skill is the highest rated skill a character has (it starts at +4). Think back to the discussion of the campaign arc. It’s probably wise to have four or five heroes that are well adapted to one sort of conflict. The types of skills that are best suited to each conflict are as follows:
 <list>
 <b>Diplomacy—</b>Rapport, Society, Wits
-<b>Infiltration—</b>Disguise, Stealth, Thievery 
-<b>Skirmish—</b>Athletics, Fighting or Marksmanship, Survival, 
-<b>Warfare—</b>Command, Engineering, Tactics 
+<b>Infiltration—</b>Disguise, Stealth, Thievery
+<b>Skirmish—</b>Athletics, Fighting or Marksmanship, Survival
+<b>Warfare—</b>Command, Engineering, Tactics
 </list>
 Magic can be used for any of these conflicts. Characters relying on magic start out relatively weak, but through developments can become very powerful. For heroes utilizing magic, select Lore as the peak skill (also take a high Channeling).
 Write down the peak skills on the note cards, making sure to have enough characters for each type of desired strategy. Characters can have a mix of abilities, but the peak skill goes a long way in determining what they’re best at.
@@ -93,7 +93,7 @@ Wits
 Now start thinking of the core concept for each hero. Use the Stronghold aspects attached to the note card for inspiration. For example, if the hero is next to the Stronghold’s rule aspect, they might have had a key role in the formation of the system of rule. Maybe they’re a noble or a king or an ambassador of some sort? How do they fit in with the rulings of the Stronghold? The goal here is to come up with a concise phrase that describes the hero, such as <aspect>World Weary Diplomat</aspect>. This short phrase will become the hero’s core concept aspect (see <chapref>Characters</chapref> for more information).
 Do this for all ten heroes. When finished, there should be two heroes related in some way to each of the Stronghold’s five aspects. The heroes should have a peak skill and a core concept.
 <h2>Start Sketchy</h2>
-When a hero has a peak skill and a core concept aspect, you’re ready to use them in a mission. The hero gets additional skills and aspects, as well as a starting stunt, but these can be filled in later. That said, it’s not too hard to fill out the rest of the skills and pick two stunts. See <chapref>Characters</chapref> for more details.
+When a hero has a peak skill and a core concept aspect, you’re ready to use them in a mission. The hero gets additional skills and aspects, as well as a starting stunt, but these can be filled in later. That said, it’s not too hard to fill out the rest of the skills and pick two stunts. See <chapref>Characters</chapref> (page XX) for more details.
 Filling in the rest of the aspects is sometimes trickier. Don’t force it. It’s fine to start with only a rough idea of what the character is all about. Seeing what happens during play is usually the best catalyst for figuring out what really makes a hero tick. When inspiration strikes, fill in more aspects. Heroes can also change aspects over the course of the campaign, so nothing is locked in stone. The most important thing early on is to get a rough grasp on the overall composition of heroes that are available.
 Print out character sheets from the back of the book, and fill in the peak skill as well as the core concept for each hero.
 <h1>Finishing Touches</h1>

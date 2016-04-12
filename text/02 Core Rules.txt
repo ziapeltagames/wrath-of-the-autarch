@@ -29,6 +29,11 @@ If a card has an eclipse on it when drawn for fortune, add four to the skill che
 <h2>The Ladder</h2>
 All skills and action results are rated on the <term>ladder</term>, a series of adjectives used to describe the rank of the skill (its numeric value). Whether you use numbers or adjectives is largely a matter of preference.
 <list>
++13 Inconceivable
++12 Otherworldly
++11 Mythic
++10 Wondrous
++9 Astonishing
 +8 Legendary
 +7 Epic
 +6 Fantastic
