@@ -613,163 +613,165 @@ The Autarch player chooses a scheme from the list in “Schemes” (page XX). Th
 <h3>Success, Failure, Ignore</h3>
 These depend on the scheme chosen. Usually ignoring the scheme carries a greater penalty than trying but failing.
 <chapter>Challenge Phase</chapter>
-During the challenge phase, the players set challenge scenes which spotlight the struggle of the heroes to succeed at the mission. Stronghold players may also set advantage scenes which showcase the creation of advantages for the heroes or Stronghold. The challenge phase is the primary time during which heroes can improve their skills.
+During the challenge phase, the players set <term>challenge scenes</term> to spotlight the heroes’ struggle to succeed at the mission. Stronghold players may also set <term>advantage scenes</term>, which showcase the creation of advantages for the heroes or Stronghold. The challenge phase is also the primary time for heroes to improve their skills.
 <h1>Goal</h1>
-At the start of the challenge phase, briefly discuss the goal of the mission. Which heroes are going on the mission? Why? What’s going to happen in the conflict? How is the spotlight character involved?
-Using that information, it will be easier to understand the scope and theme of the challenge phase. Sometimes it’s obvious, but sometimes activities that should be conducted in the conflict could bleed over into the challenge phase. For instance, if the mission is a Sabotage mission to steal secrets from a wizard, the challenge scenes could involve casing the mage’s tower, setting up a cover story, or meeting contacts in clandestine locations. The challenge scenes shouldn’t feature actually infiltrating the tower (that’s what the conflict is for). Scenes should either build toward the conflict or showcase related situations, so talking about the conflict helps everyone get on the same page.
+At the start of the challenge phase, briefly discuss the goal of the mission. Which heroes are going on the mission? Why? What will happen in the conflict? How is the spotlight character involved?
+Using that information, it will be easier to understand the scope and theme of the challenge phase. Sometimes it’s obvious, but sometimes activities that would usually be conducted in the conflict could bleed over into the challenge phase. For instance, if the mission is a sabotage mission to steal secrets from a wizard, the challenge scenes could involve casing the mage’s tower, setting up a cover story, or meeting contacts in clandestine locations. The challenge scenes shouldn’t feature actually infiltrating the tower—that’s what the conflict is for. Scenes should either build toward the conflict or showcase related situations; talking about the conflict helps everyone get on the same page.
 <h2>Continuity</h2>
-<book>Wrath of the Autarch</book> is an episodic game. Each mission has very defined start and end points, making it easy for players to drop in and out between sessions. The danger in that sort of a game is that longer running story threads can sometimes get lost.
+<book>Wrath of the Autarch</book> is an episodic game. Each mission has well defined start and end points, making it easy for players to drop in and out between sessions. The danger in that sort of game is that longer running story threads can sometimes get lost.
 When creating challenges, look for opportunities to reincorporate characters and themes from past missions. This helps maintain the feeling that the world is alive. Campaign aspects, relationships, assets, and faction aspects are great vehicles for this sort of reincorporation. Look toward them if you’re struggling to set a scene.
-Use the success or failure of one challenge scene to color the next challenge. Successfully impressing the farm hand might mean that he puts you to work tracking down his lost cow. Falling into the river means you have to survive the long cold night shivering and wet. It’s certainly not mandatory that scenes follow a causal timeline, but it can make it easier to set them up.
+Use the success or failure of one challenge scene to color the next challenge. Successfully impressing the farm hand might mean that he puts you to work tracking down his lost cow. Falling into the river means you have to survive the long cold night shivering and wet. It’s certainly not mandatory that scenes follow a causal timeline, but it can make them easier to set up.
 <h2>Challenge Scenes</h2>
-Challenge scenes are narrative descriptions of troubles and tasks the heroes may encounter during the build up to the conflict. For instance, <aspect>Drive away the large gray spiders</aspect>, <aspect>Make Erasmus confess to the murder</aspect>, and <aspect>Cross the Blue River Gorge</aspect> are all examples of challenge scenes.
-Like the mission duration itself, the individual challenges have flexible time scales. Gathering dirt on another character could take weeks of game time, while fighting off dire wolves may only take minutes. The Stronghold players must successfully complete a number of challenge scenes equal to the number of heroes on the mission. Failure to do so gives the Autarch player an advantage in the conflict.
-The skills to use and difficulty of a challenge scene are determined randomly based on the conflict type.
+Challenge scenes are narrative descriptions of troubles and tasks the heroes may encounter during the build up to the conflict. For instance, <i>Drive away the large gray spiders</i>, <i>Make Erasmus confess to the murder</i>, and <i>Cross the Blue River Gorge</i> are all examples of challenge scenes.
+Like the mission duration itself, the individual challenges have flexible timelines. Gathering dirt on another character could take weeks of game time, while fighting off dire wolves may only take minutes. The Stronghold players must successfully complete a number of challenge scenes equal to the number of heroes on the mission. Failure to do so gives the Autarch player an advantage in the conflict.
+The skills to use and difficulty of a challenge scene are determined randomly using the Deck of Fate.
 <h2>Advantage Scenes</h2>
-Advantage scenes allow the heroes to create mission or campaign aspects to be leveraged later. These scenes showcase new discoveries, such as finding the lost sword of an ancient ancestor or learning movement patterns of Imperial troops. Unlike the challenge scenes, the player setting up the advantage scene gets to decide what skill to use.
+Advantage scenes allow the heroes to create mission or campaign aspects to be leveraged later. These scenes showcase new discoveries, such as finding the <aspect>Lost Sword of an Ancient Ancestor</aspect> or learning <aspect>Movement Patterns of Imperial Troops</aspect>. Unlike the challenge scenes, the player setting up the advantage scene gets to decide what skill to use.
 <h2>Three Exchanges</h2>
-The challenge phase is broken up into three exchanges. Each Stronghold player takes one action (either Creating an Advantage or Resolving a Challenge) during an exchange. Setting up a new scene doesn’t take an action. The order of actions is up to the Stronghold players, as long as each player takes one action per exchange.
+The challenge phase is broken up into three exchanges. Each Stronghold player takes one action (either creating an advantage or resolving a challenge) during an exchange. Setting up a new scene doesn’t take an action. The order of actions is up to the Stronghold players, as long as each player takes one action per exchange.
 <h2>Autarch Complications</h2>
-At the beginning of the challenge phase, the Autarch player takes a number of fate points equal to one half the number of Stronghold players (round down). These are used to add <term>complications</term> to a challenge scene (see the Resolve Challenge action below). These fate points don’t carry over to the conflict, so it’s important for the Autarch player to use them all during the challenge phase.
+At the beginning of the challenge phase, the Autarch player takes a number of fate points equal to one half the number of Stronghold players (round down). These are used to add <term>complications</term> to a challenge scene (see the resolve challenge action, page XX). These fate points don’t carry over to the conflict, so it’s important for the Autarch player to use them all during the challenge phase.
 <h1>Creating Challenge Scenes</h1>
-Prior to taking their turn, a Stronghold player may create a challenge scene provided they aren’t already in a challenge scene. This does not require an action. Creating scenes is always free.
-The player creating the scene draws a card, which will be used to determine the difficulty and theme of the scene.
+Prior to taking their turn, a Stronghold player may create a challenge scene, provided they aren’t already in a challenge scene. This doesn’t require an action. Creating scenes is always free.
+The player creating the scene draws a card, which is used to determine the difficulty and theme of the scene.
 <h2>Difficulty</h2>
 Each challenge has a difficulty, which is used as the passive opposition for heroes trying to resolve the challenge. This difficulty is equal to the result on the card plus the mission difficulty.
-<example>Rebecca draws a Fate Card to create a new challenge scene during an infiltration mission. The difficulty of the mission is 6, fairly difficult! The result on the card is a +2, so the difficulty of this challenge scene is an 8, ouch!</example>
+<example>Rebecca draws a card from the Deck of Fate to create a new challenge scene during an infiltration mission. The difficulty of the mission is Fantastic (+6), fairly difficult! The result on the card is a +2, so the difficulty of this challenge scene is Legendary (+8). Ouch!</example>
 <h2>Skills</h2>
-The challenge lists in the back of the book are used to find out which skills to use. There is one list for each type of conflict. Find the list that matches the type of conflict used during this mission.
-In order to find the correct entry, use the first three dice results on the card to find the correct row in the list. Those skills must be used to overcome the challenge scene.
+The challenge lists (page XX) determine which skills to use. There’s one list for each type of conflict. Find the list that matches the type of conflict used during this mission.
+To find the correct entry, use the first three dice results on the card to find the correct row in the list. Those skills must be used to overcome the challenge scene.
 <example>The dice on the card Rebecca drew show <fate>0+00</fate>. Rebecca looks up the <fate>0+0</fate> entry on the infiltration challenges list. The skills listed are Society, Rapport, and Wits. A broad social challenge!</example>
 <h2>Stress and Time</h2>
-If there are sun <wingdings>R</wingdings> symbols on the card, the challenge is particularly stressful, while moon <wingdings2>ƒ</wingdings2> symbols mean the challenge is more time consuming. The sun and moon are used as part of resolving a challenge, and are described in more detail later. These symbols also aid in describing the scene.
+If there are sun <wingdings>R</wingdings> symbols on the card, the challenge is particularly stressful, while moon <wingdings2>ƒ</wingdings2> symbols mean the challenge is more time consuming. The sun and moon are used as part of resolving a challenge, and are described in more detail on page XX. These symbols also aid in describing the scene.
 <example>Rebecca notes there are two moons <wingdings2>ƒƒ</wingdings2> and one sun <wingdings>R</wingdings> on the card. Dang! It’s going to be time consuming as well as stressful. This challenge scene is shaping up to be tough.</example>
+<box>
+If playing <book>Wrath of the Autarch</book> with fate dice instead of the Deck of Fate, roll one die three times to look up the entry on the challenge list. Then roll a fourth time—adding the result to the previous three rolls used to look up the entry—to figure out the difficulty. Finally, roll four dice to add suns and moons. Treat each <fate>+</fate> as suns and each <fate>-</fate> as a moon. Repeat the procedure if a complication is accepted.
+</box>
 <h2>Scene Hints</h2>
-Finally, on the challenge list is a short phrase that helps to describe the scene. This can be used to help spark creativity when making the scene. The scene hint fits the skills listed. It may also be ignored if it doesn’t seem to fit well, or the player creating the scene already has an idea for what’s going one. Setting scenes is usually a collaborative process.
-<example>The scene hint in the infiltration challenges list for <fate>0+0</fate> is “Influential Aid”. Rebecca thinks about it, and decides it’s time to socially manipulate a noble into helping the heroes gain access to the Imperial War College. Rebecca imagines a costume party at Duke Felden’s manor. He’s the perfect person to manipulate into giving aid. The table loves the idea, so the idea is fleshed out a little more and made into a challenge scene.</example>
+On the challenge list is a short phrase that helps describe the scene. This can be used to help spark creativity when making the scene. The scene hint fits the skills listed. It may also be ignored if it doesn’t seem to fit well, or if the player creating the scene already has an idea for what’s going on. Setting scenes is usually a collaborative process.
+<example>The scene hint in the infiltration challenges list for <fate>0+0</fate> is “Influential Aid.” Rebecca thinks about it, and decides it’s time to socially manipulate a noble into helping the heroes gain access to the Imperial War College. Rebecca imagines a costume party at Duke Felden’s manor. He’s the perfect person to manipulate into giving aid. The table loves the idea, so the idea is fleshed out a little more and made into a challenge scene.</example>
 <h2>Available Heroes</h2>
 The player who created the challenge scene must include their hero in it. Any other heroes who aren’t already in challenge scenes may also join in. Mission and campaign aspects may not be created by a character in a challenge scene (creating those longer lasting aspects involve their own advantage scenes), so it’s not always a good idea to include every hero in every challenge scene. Also, if the challenge scene involves stress, all heroes present will take some.
-<example>Pat and Jennifer are also playing with Rebecca. The hero Rebecca is playing, Crus, must be in the scene. Pat decides to join in as well, with Fuscus, given Fuscus has strong social skills. Jennifer’s character, Griggan, doesn’t have very useful skills for this challenge, so she decides to do something else.</example>
+<example>Pat and Jennifer are playing with Rebecca. The hero Rebecca is playing, Crus, must be in the scene. Pat decides to join in as well, with Fuscus, given Fuscus has strong social skills. Jennifer’s character, Griggan, doesn’t have very useful skills for this challenge, so she decides to do something else.</example>
 <h2>Complications</h2>
-Before any actions are taken by characters in a challenge scene, the Autarch add a complication to a scene. This is done by offering the Stronghold player who created the scene one of the Autarch player’s fate points, narrating how one of the character’s aspects makes the scene more difficult.
+Before any actions are taken by characters in a challenge scene, the Autarch adds a complication to a scene. This is done by offering the Stronghold player who created the scene one of the Autarch player’s fate points, narrating how one of the character’s aspects makes the scene more difficult.
 If the Stronghold player accepts the complication, they may take the offered fate point. The Autarch player then flips over a card and adds all suns and moons on the card to the current scene. If the player doesn’t want the complication, they must spend one of their fate points to buy it off. Both fate points are then removed from play. Of course, if a Stronghold player has no more fate points, they can’t buy off the complication.
-<box>
-If playing <book>Wrath of the Autarch</book> with fate dice instead of the Deck of Fate, roll one dice three times in order to look up the entry on the challenge list. Then roll a fourth time in order to figure out the difficulty. Finally, roll four dice to add suns and moons. Treat each <fate>+</fate> as suns and each <fate>-</fate> as a moon. Repeat the procedure if a complication is accepted.
-</box>
-<h1>Creating Advantage Scenes</h1>
-Prior to taking their turn, a Stronghold player may create an advantage scene provided they aren’t already in a scene. This does not require an action. Any other heroes not already in scenes may be present.
-The player creating the scene decides whether they are going to use the scene to create a mission aspect or a campaign aspect. They also get to decide what skill to use.
-Other heroes in the scene may create scene aspects in order to make the creation of the mission aspect or campaign aspect easier.
-<h1><fate>o </fate>Resolve Challenge (Overcome)</h1>
-On their turn, a Stronghold player may use the resolve challenge action to resolve a challenge scene. The resolve challenge action works similarly to the overcome action described in the <chapref>Core Rules</chapref> chapter.
+<h1><fate>o</fate> Resolve Challenge (Overcome)</h1>
+On their turn, a Stronghold player may use the resolve challenge action to resolve a challenge scene. The resolve challenge action works similarly to the overcome action described in <chapref>Core Rules</chapref> (page XX).
 <h2>Opposition</h2>
-The difficulty of the challenge scene is used as a passive opposition for the overcome action (although see below about removing moons). Only those skills listed for the scene may be used. On a successful check, if there are no moons left (see below), the challenge scene is resolved favorably for the heroes. The player who completed the challenge may narrate what happened, and close out the scene as desired.
+The difficulty of the challenge scene is used as passive opposition for the overcome action (although see “Time” for details on removing moons). Only those skills listed for the scene may be used. If there are no moons left, on a successful check the challenge scene is resolved favorably for the heroes. The player who completed the challenge may narrate what happened and close out the scene as desired.
 A tie is a failure unless the acting player wishes to take a minor cost (taking a stress card). Success with style lets the Stronghold player take a boost, as normal for the overcome action.
 <h2>Stress <wingdings>R</wingdings></h2>
-Each time the resolve challenge action is used to attempt to overcome the challenge, the acting hero absorbs one stress for each sun on the challenge scene. Additionally, all other heroes in the scene take one stress if there are suns. It is up to the Stronghold player taking the stress to narrate what sort of stress (mental or physical) is taken, as well as what fictionally occurred to give them stress. All stress taken must be of the same type.
+Each time the resolve challenge action is used to attempt to overcome the challenge, the acting hero takes one stress for each sun on the challenge scene. Additionally, all other heroes in the scene take one stress if there are suns. It’s up to each Stronghold player taking the stress to narrate what sort of stress (mental or physical) they take, as well as what fictionally occurred to give them stress. All stress taken by a character must be of the same type.
 <h2>Time <wingdings2>ƒ</wingdings2> </h2>
 Challenge scenes with moons require two resolve challenge actions to complete rather than one. The first action has an opposition equal to the number of moons. If either action is failed, the scene is failed.
-<example>Rebecca narrates how Crus is at the costume ball, trying to get an audience with Duke Felden. She decides to use Crus’ Rapport in order to charm the Duke. She adds her Rapport to the draw of a card, getting a Superb (+5) result. The opposition difficulty is +2 (from 2 moons), so Rebecca has success with style! She takes a boost.</example>
-<example>Crus takes one mental stress (from the one sun on this challenge scene), narrating how Crus charms the Duke but is put into a tough situation at the ball. The scene isn’t resolved yet, but the moons are removed. The Duke is very close to giving his support!</example>
+<example>Rebecca narrates how Crus is at the costume ball, trying to get an audience with Duke Felden. She decides to use Crus’ Rapport to charm the Duke. She adds her Rapport to the draw of a card, getting a Superb (+5) result. Because of the two moons, the opposition difficulty is Fair (+2), so Rebecca has success with style! She takes a boost.</example>
+<example>Crus takes one mental stress from the one sun on this challenge scene, as Rebecca narrates how Crus charms the Duke but is put into a tough situation at the ball. The scene isn’t resolved yet, but the moons are removed. The Duke is very close to giving his support!
+Fuscus also takes one stress since the scene has suns. Pat decides to give Fuscus one mental stress as well, narrating an obligation the Duke is requesting of Fuscus.</example>
 <h2>Failing a Challenge</h2>
 If a resolve challenge action fails (either from dealing with moons or from failing to address the challenge), the challenge is failed. The player who failed the challenge narrates what happens. Failed challenges don’t count towards the total of successfully resolved challenges needed. Sometimes, though, failing a challenge is better than spending resources to complete it.
-There is an additional penalty for failing a challenge: the Autarch player may create a mission aspect with two free invokes.
-<h1><fate>c </fate>Create Advantage</h1>
-Creating an advantage allows a player to create helpful aspects during their turn. The difficulty of the action depends on how long the player would like the aspect to remain in play. This works as described in the <chapref>Core Rules</chapref> chapter.
+There’s an additional penalty for failing a challenge: the Autarch player may create a mission aspect with two free invokes.
+<h1>Creating Advantage Scenes</h1>
+Prior to taking their turn, a Stronghold player may create an advantage scene, provided they aren’t already in a scene. This doesn’t require an action. Any other heroes not already in scenes may be present.
+The player creating the scene decides whether they’re going to use the scene to create a mission aspect or a campaign aspect. They also get to decide what skill to use.
+Other heroes in the scene may create scene aspects to make the creation of the mission aspect or campaign aspect easier.
+<h1><fate>c</fate> Create Advantage</h1>
+Creating an advantage allows a player to create helpful aspects during their turn. The difficulty of the action depends on how long the player would like the aspect to remain in play. This works as described in <chapref>Core Rules</chapref> (page XX).
 <h2>Scene Aspects</h2>
-Scene aspects are the easiest aspects to create, with a difficulty two lower than the mission difficulty. However, scene aspects created by characters in a scene may only be used by heroes in the same scene (they are attached to the scene). Scene aspects are very short lived benefits, and the scope of these aspects should be narrow as well.
+Scene aspects are the easiest aspects to create, with a difficulty two lower than the mission difficulty. However, scene aspects are attached to the scene in which they’re created and may only be used by heroes in the same scene. Scene aspects are very short lived benefits, and the scope of these aspects should be narrow as well.
 <h2>Mission Aspects</h2>
-When creating a mission or campaign aspect, the Stronghold player should narrate a short scene featuring their hero and any accompanying characters. The difficulty to create mission aspects is equal to the difficulty of the mission. Mission aspects may not be created by Stronghold players whose heroes are in challenge scenes.
+When creating a mission aspect, the Stronghold player should narrate a short scene featuring their hero and any accompanying characters. The difficulty to create mission aspects is equal to the difficulty of the mission. Mission aspects may not be created by Stronghold players whose heroes are in challenge scenes.
 <h2>Campaign Aspects</h2>
-The difficulty to create a campaign aspect is two higher than the difficulty of the mission. Campaign aspects are broad and far reaching changes to the campaign. The Stronghold player should narrate an appropriately epic scene describing what their character is doing. As with mission aspects, campaign aspects may not be created by a Stronghold player whose hero is in a challenge scene.
+The difficulty to create a campaign aspect is two higher than the difficulty of the mission. Campaign aspects represent broad and far reaching changes to the campaign. The Stronghold player should narrate an appropriately epic scene describing what their character is doing. As with mission aspects, campaign aspects may not be created by a Stronghold player whose hero is in a challenge scene.
 <h1>Skill Advances</h1>
-Any time during the challenge phase that a hero attempts an action with an opposition <strong>higher</strong> than the skill used for the action, they get one advance for the skill. It doesn’t matter whether the action is successful or not. This applies to the Create Advantage action as well as the Resolve Challenge action.
+Any time during the challenge phase that a hero attempts an action with an opposition <i>higher</i> than the skill used for the action, they get one advance for the skill. It doesn’t matter whether the action is successful or not. This applies to the create advantage action as well as the resolve challenge action.
 The challenge phase is also a good time to use hindering aspects (from relationships or assets) to gain more skill advances. This is particularly true when success or failure are very likely regardless of taking misfortune from hindering aspects.
 Note that skill advances can’t be taken during the conflict. Each hero will get one skill advance after the conflict is over in any skill they want.
 <h1>Ending the Challenge Phase</h1>
-The challenge phase ends after three exchanges. If the Stronghold players did not successfully complete one challenge scene for each Stronghold player, the Autarch player gets bonus fate points to use for the conflict. For each such incomplete challenge, the Autarch player gets one fate point per Stronghold player.
+The challenge phase ends after three exchanges. If the Stronghold players didn’t successfully complete one challenge scene for each Stronghold player, the Autarch player gets bonus fate points to use for the conflict. For each such incomplete challenge, the Autarch player gets one fate point per Stronghold player.
 For instance, if there are five Stronghold players and they only successfully completed three challenge scenes, the Autarch player gets ten bonus fate points. These are in addition to the usual fate points the Autarch player gets at the start of the conflict.
 <h1>Challenge Phase Example</h1>
-In this example, the heroes from Bavin’s Hollow are on a conquest mission to Green Vale (see the <chapref>Regions</chapref> chapter). This mission uses the skirmish conflict and has a difficulty of +4. Green Vale, while on the surface an idyllic farming community, is dealing with attacks from a werewolf! The heroes are enlisted to confront the beast and drive it from the community!
+In this example, the heroes from Bavin’s Hollow are on a conquest mission to Green Vale (see <chapref>Regions</chapref>, page XX). This mission uses the skirmish conflict and has a difficulty of Great (+4). Green Vale, while on the surface an idyllic farming community, is dealing with attacks from a werewolf. The heroes are enlisted to confront the beast and drive it from the community.
 <list>
 <b>Phil</b> is the Autarch player.
 <b>Jenn</b> is playing Cadell, a towering swordsmith.
 <b>Jeremy</b> is playing Maelgwn, the great hunter, a loner and outdoorsman.
 <b>Terri</b> is playing Gwynnet, a traveling academic.
 </list>
-<example>Phil – “You arrive at a small farming community within the Green Vale. You’re all weary and ready for some rest.  Greeting you is an assortment of farmers, freshly returned from tilling the land. An older woman approaches, somewhat warily sizing up your group. ‘So, you’re from Bavin’s Hollow? Well, welcome to Hambridge Farms! I’m Mila. These here are Bjorn and Feljar, my sons.  Come in, and we can get acquainted.’”</example>
-<example>Phil – “Let’s focus on getting acquainted with the farmers, gaining their trust, and convincing them you know a thing or two about rural life and their concerns. Eventually, you will learn that something sinister lurks here – the farm is under attack by a werewolf! If you can help them track and kill this werewolf, you gain the Green Vale region. Sound good? Who wants to set up the first scene?”</example>
-Phil draws one fate point to use for complications (one half the number of Stronghold players).
-<example>Jenn – “I’m the spotlight player, probably makes sense for me to kick things off.”</example>
+<example>Phil: You arrive at a small farming community within the Green Vale. You’re all weary and ready for some rest.  Greeting you is an assortment of farmers, freshly returned from tilling the land. An older woman approaches, somewhat warily sizing up your group. “So, you’re from Bavin’s Hollow? Well, welcome to Hambridge Farms! I’m Mila. These here are Bjorn and Feljar, my sons.  Come in, and we can get acquainted.”</example>
+<example>Phil: Let’s focus on getting acquainted with the farmers, gaining their trust, and convincing them you know a thing or two about rural life and their concerns. Eventually, you’ll learn that something sinister lurks here—the farm is under attack by a werewolf! If you can help them track and kill this werewolf, you gain the Green Vale region. Sound good? Who wants to set up the first scene?</example>
+Phil draws one fate point to use for complications (one half the number of Stronghold players, rounded down).
+<example>Jenn: I’m the spotlight player, probably makes sense for me to kick things off.</example>
 <h2>The First Exchange</h2>
 <h3>Jenn’s Turn</h3>
-Jenn draws the <fate>00+-</fate> card, which has one <wingdings>R</wingdings>. Looking at the Skirmish Challenges for <fate>00+</fate> (the first three symbols), she sees the challenge scene uses Rapport, Society, and Wits. The scene hint is “Gathering Support”. The difficulty of the challenge is +4 (the result of the draw, <fate>00+-</fate>, plus the mission difficulty of +4).
-<example>Jenn – “Well, it’s not too hard, but social situations aren’t Cadell’s strong suit. Maybe Gwynnet can back me up on this one?”</example>
-<example>Terri – “Gwynnet’s <skill>Society</skill> is 3 – that’s pretty good. I’ll come along!”</example>
+Jenn draws the <fate>00+-</fate> card, which has one <wingdings>R</wingdings>. Looking at the Skirmish Challenges for <fate>00+</fate> (the first three symbols), she sees the challenge scene uses Rapport, Society, and Wits. The scene hint is “Gathering Support.” The difficulty of the challenge is Great (+4)—the result of the draw, <fate>00+-</fate>, plus the mission difficulty of Great (+4).
+<example>Jenn: Well, it’s not too hard, but social situations aren’t Cadell’s strong suit. Maybe Gwynnet can back me up on this one?</example>
+<example>Terri: Gwynnet’s Society is Good (+3)—that’s solid. I’ll come along!</example>
 Jenn’s character Cadell must be in the scene, since Jenn created it. Gwynnet comes along as well. Tokens are placed on the note card to indicate both characters are in the challenge scene.
-<example>Jenn - “Great! I think this scene involves Mila, the matron of Hambridge Farms. She has invited us into her home, and making a good impression on her will go a long way towards bringing the Green Vale under the banner of Bavin’s Hollow.”</example>
-Jenn grabs a notecard, writes “Impressing Mila” on it, as well as the scene difficulty (3), the skills to use, and the <wingdings>R</wingdings>.
-<example>Terri - “Tea time! I see her home as being cluttered with all sorts of bric-a-brac.”</example>
-<example>Phil - “I think I’m going to add a complication. Let’s see, Gwynnet is a <aspect>Polysyllabic Wordsmith</aspect>, which might not go over so well out here in the country.”</example>
-<example>Terri - “Hmm. Well, it’s not that bad of a challenge scene - I think I’ll take the fate point! So, Gwynnet may get a little wordy.”</example>
-Phil hands Terri his fate point for accepting the complication. Phil draws a card, and adds the symbols to the scene. There is one <wingdings>R</wingdings> on the card, which is added to the other <wingdings>R</wingdings>, giving the challenge scene <wingdings>RR</wingdings>.
-<example>Jenn - “Hah! Not bad at all, well worth the fate point. Let’s see, maybe Mila has obscure items from all over the realm. It’s my turn, so I can scene aspect before you try to use Society to resolve the challenge. I’m going to use Cadell’s Lore to try to impress her.”</example>
-The opposition to create a scene aspect is +2 (the mission difficulty of +4 minus two for creating a scene aspect). Cadell’s Lore is +3, and Jenn gets a +1 on the draw, for a total of +4. Good enough for a scene aspect with one free invoke! Jenn could spend a fate point or use stress for success to add another +2 for success with style, which would let her have two free invokes. Instead, she decides to keep the result she has. There’s no skill advance marked because Cadell’s Lore (+3) is higher than the opposition (+2).
-<example>Jenn - “I see she has an arcane tome from Burgan Vale, who are allies of ours. I read passages from it, showing her just how much we know about the sorts of harm befalling Hambridge Farms.”</example>
+<example>Jenn: Great! I think this scene involves Mila, the matron of Hambridge Farms. She’s invited us into her home, and making a good impression on her will go a long way towards bringing the Green Vale under the banner of Bavin’s Hollow.</example>
+Jenn grabs a notecard, writes “Impressing Mila” on it, as well as the scene difficulty (+4), the skills to use, and the <wingdings>R</wingdings>.
+<example>Terri: Tea time! I see her home as being cluttered with all sorts of bric-a-brac.</example>
+<example>Phil: I think I’m going to add a complication. Let’s see, Gwynnet is a <aspect>Polysyllabic Wordsmith</aspect>, which might not go over so well out here in the country.</example>
+<example>Terri: Hmm. Well, it’s not that bad of a challenge scene—I think I’ll take the fate point! So, Gwynnet may get a little wordy.</example>
+Phil hands Terri his fate point for accepting the complication. Phil draws a card and adds the symbols to the scene. There’s one <wingdings>R</wingdings> on the card, which is added to the other <wingdings>R</wingdings>, giving the challenge scene <wingdings>RR</wingdings>. Phil has no more fate points left for complications.
+<example>Jenn: Hah! Not bad at all, well worth the fate point. Let’s see, maybe Mila has obscure items from all over the realm. It’s my turn, so I can create a scene aspect before you try to use Society to resolve the challenge. I’m going to use Cadell’s Lore to try to impress her.</example>
+The opposition to create a scene aspect is Fair (+2) (the mission difficulty of +4 minus two for creating a scene aspect). Cadell’s Lore is Good (+3), and Jenn gets a +1 on the draw, for a total of Great (+4). Good enough for a scene aspect with one free invoke! Jenn could spend a fate point or use stress for success to add another +2 for success with style, which would let her have two free invokes. Instead, she decides to keep the result she has. There’s no skill advance marked because Cadell’s Lore (Good +3) is higher than the opposition (Fair +2).
+<example>Jenn: I see she has an arcane tome from Burgan Vale, who are allies of ours. I read passages from it, showing her just how much we know about the sorts of harm befalling Hambridge Farms.</example>
 Jenn writes down the aspect <aspect><fate>1</fate> Knowledge of Arcane Threats</aspect> on a notecard.
 <h3>Terri’s Turn</h3>
-<example>Terri – “Great, I can use that. I’ll try to resolve the challenge. ‘Mina, I’m sure it’s difficult finding reliable trading alliances out here. In a concordance with Bavin’s Hollow, we can provide dweomercrafting and alchemancy to help your lycanthropy problems. Oh, what delightful confections you’ve served!’”</example>
-Terri gets a +0 on the result, and adds Gwynnet’s Society skill of +3, for a total of +3, one less than the difficulty. She uses the free invoke on the minor advantage Cadell just made, for a total of +5. Success! Because Gwynnet’s Society skill of +3 was less than the Overcome difficulty of +4, Terri also checks off a skill advance box for Society. There were none filled in already, so two more advances are needed to qualify the skill for increasing in rank. Gwynnet takes two stress (from <wingdings>RR</wingdings>). Terri decides to take it as mental stress, filling in the second stress box on the stress track.
-Cadell also takes on stress for being in the scene, which Jenn also takes as mental stress.
-<example>Phil – “Mila says, ‘Well, you sure know your stuff! But there’s no mistaking you ain’t from around here!’ Your face flushes in embarrassment. But you’ve already succeeded at one challenge scene!”</example>
+<example>Terri: Great, I can use that. I’ll try to resolve the challenge. “Mina, I’m sure it’s difficult finding reliable trading alliances out here. In a concordance with Bavin’s Hollow, we can provide dweomercrafting and alchemancy to help your lycanthropy problems. Oh, what delightful confections you’ve served!”</example>
+Terri gets a +0 on the result, and adds Gwynnet’s Society skill of Good (+3), for a total of Good (+3), one less than the difficulty. She uses the free invoke on the scene aspect Cadell just made, for a total of Superb (+5). Success! Because Gwynnet’s Society skill of Good (+3) was less than the overcome difficulty of Great (+4), Terri also checks off a skill advance box for Society. There were none filled in already, so two more advances are needed before she can increase the skill’s rank. Gwynnet takes two stress (from <wingdings>RR</wingdings>). Terri decides to take it as mental stress, filling in the second stress box on the stress track.
+Cadell takes one stress for being in the scene, which Jenn also takes as mental stress.
+<example>Phil: Mila says, “Well, you sure know your stuff! But there’s no mistaking you ain’t from around here!” Your face flushes in embarrassment. But you’ve already succeeded at one challenge scene!</example>
 <h3>Jeremy’s Turn</h3>
-<example>Jeremy – “Well, looks like I’ll set up another challenge scene.”</example>
-Jeremy draws the <fate>+0+0</fate> card, which has one  <wingdings>R</wingdings> and one <wingdings2>ƒ</wingdings2>. Looking at the Skirmish Challenges for <fate>+0+0</fate> (the first three symbols), the challenge uses Fighting and Survival and the hint is “On the Run”. The opposition of the challenge is 6 (the result of the draw, <fate>+0+0</fate>, plus the mission difficulty of four).
-<example>Jeremy – “Not too bad, although the single moon is irritating. My Survival is pretty good, and Cadell’s Fighting is solid, so I think we’ll be okay. But this is going to be a drain. If we want to be on the safe side, Gwynnet should be in the scene as well. But it’s possible that might be overkill.”</example>
-<example>Terri – “I think Gwynnet will be involved, it’s probably worth it.”</example>
-<example>Jenn – “Yeah, Cadell is going to need to be involved as well.”</example>
+<example>Jeremy: Well, looks like I’ll set up another challenge scene.</example>
+Jeremy draws the <fate>+0+0</fate> card, which has two <wingdings>R</wingdings> and one <wingdings2>ƒ</wingdings2>. Looking at the Skirmish Challenges for <fate>+0+</fate> (the first three symbols), the challenge uses Fighting and Survival and the hint is “On the Run.” The opposition of the challenge is Fantastic (+6)—the result of the draw, <fate>+0+0</fate>, plus the mission difficulty of Great (+4).
+<example>Jeremy: Not too bad, although the moon is irritating. My Survival is pretty good, and Cadell’s Fighting is solid, so I think we’ll be okay. But this is going to be a drain. If we want to be on the safe side, Gwynnet should be in the scene as well. But it’s possible that might be overkill.</example>
+<example>Terri: I think Gwynnet will be involved, it’s probably worth it.</example>
+<example>Jenn: Yeah, Cadell is going to need to be involved as well.</example>
 Tokens for all three characters are placed onto the scene card.
-<example>Jeremy – “A few weeks pass. One evening at dusk, while we’re in Mila’s common room, we hear a commotion near the chicken coop. Heading outside, we see the werewolf eating chickens! It snarls at us before running into the woods.”</example>
-<example>Phil – “I think Maelgwn’s <aspect>Solitary Hunter</aspect> aspect may come into play here. I could see this team effort slowing him down.”</example>
-Phil holds out a fate point to Jeremy, intending on adding a complication to the challenge scene.
-<example>Jeremy – “Nope. This is hard enough. I’ll pay that off, although that only leaves me with one fate point left.”</example>
-Jeremy discards a fate point, and Phil discards the fate point that was on offer. Phil has no more fate points to use for adding complications.
-<example>Jeremy – “It’s my turn. I’ll resolve it to get rid of that moon.”</example>
-Maelgwn’s Survival is +3, and the opposition of the challenge is only one (one moon). Jeremy draws a +1, for a total of +4, success with style! He removes the moon, making a note that it’s gone. Maelgwn also takes one stress for the resolve challenge action, which Jeremy marks as mental stress. Gwynnet and Cadell also take one stress. Terri and Jenn both mark it as mental stress. No skill advance is taken for Maelgwn since the opposition was only one.
-<example>Jeremy – “Maelgwn shouts at everyone to keep up. ‘It’s getting away!’ The ranger leads the party through the woods for hours, following the tracks under the full moon. They are close now, but the fatigue is catching up with him.”</example>
-Jeremy takes a boost for success with style.
+<example>Jeremy: A few weeks pass. One evening at dusk, while we’re in Mila’s common room, we hear a commotion near the chicken coop. Heading outside, we see the werewolf eating chickens! It snarls at us before running into the woods.</example>
+<example>Phil: I think Maelgwn’s <aspect>Solitary Hunter</aspect> aspect may come into play here. I could see this team effort slowing him down.</example>
+<example>Jeremy: It’s my turn. I’ll resolve it to get rid of that moon.</example>
+Maelgwn’s Survival is Good (+3), and the opposition of the challenge is only Average (+1) for the one moon. Jeremy draws a +1, for a total of Great (+4), success with style! Jeremy takes a boost for success with style. He removes the moon, making a note that it’s gone. Because there are two <wingdings>R</wingdings> on the challenge scene, Maelgwn takes two stress for the resolve challenge action. Jeremy marks it as mental stress.
+Gwynnet and Cadell also take one stress from the resolve challenge action for being in a scene that has <wingdings>R</wingdings>s on it. Terri and Jenn both mark it as mental stress. No skill advance is taken for Maelgwn since the opposition was only one.
+<example>Jeremy: Maelgwn shouts at everyone to keep up. “It’s getting away!” The ranger leads the party through the woods for hours, following the tracks under the full moon. They’re close now, but the fatigue is catching up with him.</example>
 <h2>The Second Exchange</h2>
+Maelgwn, Cadell, and Gwynnet are in the challenge scene “On the Run,” chasing after the werewolf. The moons have been removed, but the scene still isn’t resolved.
 <h3>Terri’s Turn</h3>
-<example>Terri – “I’m thinking about setting up a scene aspect, which Cadell can use to try to beat this challenge. Maybe the werewolf has minions, supernatural wolves that are like guardians. This forest is the right climate for wolfsbane, useful in a fight against them.”</example>
-<example>Phil – “Seems like finding that would use either Lore or Survival. Either one seems fine.”</example>
-Terri gets a +0, added to Gwynnet’s Lore of +3 gives a +3, which is enough for a scene aspect with a free invoke. She decides to use stress for success to add another +2 to the result, which will be enough for success with style (three shifts beyond what’s needed). However, she must draw one stress card for each time stress for success is used, and take all the stress at once. She draws and gets a card with <wingdings>RR</wingdings>, two physical stress! Terri marks off the second box on Gwynnet’s physical stress track. She creates the aspect <aspect><fate>2</fate> Wolfsbane</aspect> with two free invokes.
-<example>Terri – “Found it! Gwynnet works to harvest some wolfsbane, and turn it into the necessary consistency to use as a weapon. In the process, she burns herself with the toxic reagents.”</example>
+<example>Terri: I’m thinking about setting up a scene aspect, which Cadell can use to try to beat this challenge. Maybe the werewolf has minions, supernatural wolves that are like guardians. This forest is the right climate for wolfsbane, useful in a fight against them.</example>
+<example>Phil: Seems like finding that would use either Lore or Survival. Either one seems fine.</example>
+Terri gets a +0 added to Gwynnet’s Lore of Good (+3) for a total of Good (+3), which is enough for a scene aspect with a free invoke. She decides to use stress for success to add another +2 to the result, which is enough for success with style (three shifts beyond what’s needed). However, she must draw one stress card for each time stress for success is used, and take all the stress at once. She draws and gets a card with <wingdings>RR</wingdings>, two physical stress! Terri marks off the second box on Gwynnet’s physical stress track. She creates the aspect <aspect><fate>2</fate> Wolfsbane</aspect> with two free invokes.
+<example>Terri: Found it! Gwynnet works to harvest some wolfsbane and turn it into the necessary consistency to use as a weapon. In the process, she burns herself with the toxic reagents.</example>
 <h3>Jenn’s Turn</h3>
-<example>Jenn – “The group is gathered around a fire, exhausted, taking a break from their hunt. In the darkness, glowing eyes appear, they must draw their weapons and defend against a pack of dire wolves! I’m going to need a +7 to beat this challenge.”</example>
-Jenn draws a -3, and adds it to Cadell’s Fighting of +4 for a total of +1. Not great! Jenn uses the free invoke on the <aspect>On the Trail</aspect> aspect to redraw. A -2, not much better! The total is now +2. Using the two free invokes on the <aspect><fate>2</fate> Wolfsbane</aspect> aspect, the result would be +6, a tie.
-Jenn could take a minor cost and still succeed (a stress card or giving the Autarch player an aspect with one free invoke). Jenn instead decides to use both free invokes as well as spend one of her fate points (invoking <aspect>Wolfsbane</aspect>), adding +6 for a total of +8, enough to beat the challenge scene without a minor cost.
-<example>Jenn – “Cadell’s sword is drawn in a flash. The beasts fall back under his sword falls, the wolfsbane burning and flashing when it contacts their unnatural forms. The wolves head off into the night, in the direction of the tracks.”</example>
-<example>Phil – “Nice! It sounds like the werewolf has a lair out there somewhere. Maybe it’s not someone from town? Or maybe they just have a shelter in the woods.”</example>
-<example>Jeremy – “I still haven’t gone this exchange. I wanted to create a campaign aspect this mission, but time is starting to run short. Hopefully the last challenge scene isn’t too bad.”</example>
-All three characters take one stress. Terri and Jenn mark the first box on the physical stress tracks, while Jeremy marks Maelgwn’s first box on the mental stress track.
+<example>Jenn: The group is gathered around a fire, exhausted, taking a break from their hunt. In the darkness, glowing eyes appear. They must draw their weapons and defend against a pack of the werewolf’s minions! I need a +7 to beat this challenge.</example>
+Jenn draws a -2, and adds it to Cadell’s Fighting of Great (+4) for a total of Fair (+2). Not great! Jenn could use the two free invokes on the <aspect><fate>2</fate> Wolfsbane</aspect> aspect, giving a result of Fantastic (+6), a tie. A tie on an overcome action requires Cadell to take a minor cost (draw a stress card).
+Jenn instead decides to use both free invokes as well as spend one of her fate points (invoking <aspect>Wolfsbane</aspect>), adding +6 for a total of Legendary (+8), enough to beat the challenge scene without a minor cost.
+<example>Jenn: Cadell’s sword is drawn in a flash. The beasts fall back under his sword, the wolfsbane burning and flashing when it contacts their unnatural forms. The wolves head off into the night, in the direction of the tracks.</example>
+Since the “On the Run” scene has two <wingdings>R</wingdings>, Cadell takes two stress for the resolve challenge action. Jenn marks the second box on Cadell’s physical stress track. Maelgwn and Gwynnet also take one stress since there are <wingdings>R</wingdings>s in the scene. Terri marks the first box on Gwynnet’s physical stress track, while Jeremy marks Maelgwn’s first box on the mental stress track.
+All stress taken by a character from a resolve challenge action must be of one type, but each player may decide what type of stress to take.
+<example>Phil: Nice! It sounds like the werewolf has a lair out there somewhere. Maybe it’s not someone from town? Or maybe they just have a shelter in the woods.</example>
+<example>Jeremy: I still haven’t gone this exchange. I wanted to create a campaign aspect this mission, but time is starting to run short. Hopefully the last challenge scene isn’t too bad.</example>
 <h3>Jeremy’s Turn</h3>
-Jeremy draws the <fate>---+</fate> card, which has three <wingdings2>ƒƒƒ</wingdings2>. Looking at the Skirmish Challenges for <fate>---</fate> (the first three symbols), the challenge uses Survival and the hint is “Behind Enemy Lines”. The opposition of the challenge is 2 (the result of the draw, <fate>---+</fate>, plus the mission difficulty of four).
-<example>Jeremy – “Well, it’s going to take some time, but it’s not hard. Maelgwn is the best at Survival, so I could take an action now to chip away at it, as well as the first action next exchange. That would leave you two to create a campaign or mission aspect.”</example>
-<example>Jeremy – “Our group continues to follow the tracks after beating back the wolves. We’re running low on wolfsbane, though. Suddenly we realize that the trail has gotten difficult to follow, and we hear movement from all around us. The wolves are stalking us. The hunters have become the prey! Maelgwn works quickly, leading the group through streams and over difficult terrain in an effort to avoid the wolves.”</example>
-Jeremy gets a +1, added to Maelgwn’s Survival of +3 results in a +4. Success! Just enough to get rid of the moons without taking a minor cost!
-<example>Jeremy – “The wolves are howling all around us, and we hear their movements in the distance, but we have evaded them so far. Maelgwn is clearly haunted by their howls. I’ll go again and try to knock this one out!”</example>
+Jeremy draws the <fate>---+</fate> card, which has three <wingdings2>ƒƒƒ</wingdings2>. Looking at the Skirmish Challenges for <fate>---</fate> (the first three symbols), the challenge uses Survival and the hint is “Behind Enemy Lines.” The opposition of the challenge is Fair (+2)—the result of the draw, <fate>---+</fate>, plus the mission difficulty of Great (+4).
+<example>Jeremy: Well, it’s going to take some time, but it’s not hard. Maelgwn is the best at Survival, so I could take an action now to chip away at it, as well as the first action next exchange. That would leave you two to create a campaign or mission aspect.</example>
+<example>Jeremy: Our group continues to follow the tracks after beating back the wolves. We’re running low on wolfsbane, though. Suddenly we realize that the trail has gotten difficult to follow, and we hear movement from all around us. The wolves are stalking us. The hunters have become the prey! Maelgwn works quickly, leading the group through streams and over difficult terrain in an effort to avoid the wolves.</example>
+Jeremy gets a +1 added to Maelgwn’s Survival of Good (+3) for a result of Great (+4). Success! Just enough to get rid of the moons without taking a minor cost.
+<example>Jeremy: The wolves are howling all around us, and we hear their movements in the distance, but we’ve evaded them so far. Maelgwn is clearly haunted by their howls. I’ll go again and try to knock this one out!</example>
 <h2>The Third Exchange</h2>
+Maelgwn is in the challenge scene “Behind Enemy Lines.” The moons have been removed, but the scene isn’t finished. Cadell and Gwynnet aren’t attached to any scenes.
 <h3>Jeremy’s Turn</h3>
-At the start of the third exchange, Jeremy again uses Maelgwn’s Survival. This time he gets a +1, added to Maelgwn’s Survival of +3 results in a +4. Success! This is enough to beat the challenge scene difficulty of +2.
-<example>Jeremy – “Maelgwn leads the group through the forest to a cabin. He is exhausted and worn thin by the stress of avoiding the wolves all night. The cabin is very old, the wooden walls not maintained very well.”</example>
-<example>Jenn – “We made it! I think this is where the showdown with the werewolf will happen. But, for now, the cabin is empty. We’re doing pretty good on fate points, so I’m thinking of setting up a minor advantage to help create a campaign aspect.”</example>
+At the start of the third exchange, Jeremy again uses Maelgwn’s Survival and he again gets a +1 added to Maelgwn’s Survival of Good (+3) for a result of Great (+4). Success! This is enough to beat the challenge scene difficulty of Fair (+2).
+<example>Jeremy: Maelgwn leads the group through the forest to a cabin. He’s exhausted and worn thin by the stress of avoiding the wolves all night. The cabin is very old, the wooden walls not maintained very well.</example>
+<example>Jenn: We made it! I think this is where the showdown with the werewolf will happen. But, for now, the cabin is empty. We’re doing pretty good on fate points, so I’m thinking of setting up an advantage scene to create a campaign aspect. I’ll create a scene aspect to make that more likely.</example>
+<example>Terri: Sounds good! I can use my turn to create the campaign aspect.</example>
 <h3>Jenn’s Turn</h3>
-<example>Jenn – “Inside the cabin are different arcane texts. They might be written in a tongue Cadell understands. I’ll create a scene aspect.”</example>
-The difficulty to create a minor advantage is +2 (two below the mission difficulty). Jenn draws a +2, added to Cadell’s Lore of +3 gives a result of +5, success with style! Jenn creates the aspect <aspect><fate>2</fate> Tome of the Hallowed Vision</aspect> with two free invokes.
+<example>Jenn: Inside the cabin are different arcane texts. They might be written in a tongue Cadell understands. </example>
+The difficulty to create a scene aspect is Fair (+2), two below the mission difficulty. Jenn draws a +2, added to Cadell’s Lore of Good (+3) for a result of Superb (+5), success with style! Jenn creates the aspect <aspect><fate>2</fate> Tome of the Hallowed Vision</aspect> with two free invokes.
 <h3>Terri’s Turn</h3>
-<example>Terri – “Cool! I have the last turn for the challenge phase. Gwynnet is very bright and worldly. I’ll use the Tome to see the true future of the Autarch. The ritual takes hours.”</example>
-The difficulty to create a campaign aspect is +6 (two higher than the mission difficulty). Terri draws a +0, added to Gwynnet’s Lore of +3 gives a result of +3. Terri uses both free invokes to get the result to +7, and draws a stress card to get it to +9, success with style! Terri creates the aspect <aspect><fate>2</fate> Visions of the Autarch’s Future</aspect> with two free invokes, writing it on the Stronghold sheet. The stress card has <wingdings>RR</wingdings>, so Terri checks off Gwynnet’s second physical stress box.
-<example>Terri – “Gwynnet is drained after the ritual, shaken and confused by the dream visions she has witnessed. The current future path is terrible, but Gwynnet has insight into what the Autarch will do. Before she can recover, a growling is heard from outside. The owner of those tomes has returned, and the werewolf will attack!”</example>
+<example>Terri: Cool! I’ll create a campaign aspect! Gwynnet is very bright and worldly. I’ll use the Tome to see the true future of the Autarch. The ritual takes hours!</example>
+The difficulty to create a campaign aspect is Fantastic (+6), two higher than the mission difficulty. Terri draws a +0, added to Gwynnet’s Lore of Good (+3) gives a result of Good (+3). Terri uses both free invokes on <aspect>Tome of the Hallowed Vision</aspect> to get the result to Epic (+7), and draws a stress card to get it to Astonishing (+9), success with style! Terri creates the aspect <aspect><fate>2</fate> Visions of the Autarch’s Future</aspect> with two free invokes, writing it on the Stronghold sheet. The stress card has <wingdings>RR</wingdings>, so Gwynnet takes two physical stress. However, Gwynnet’s second physical stress box is filled, and Gwynnet doesn’t have a third box to check off. Terri gives Gwynnet the minor consequence <aspect>Glimpse into the Autarch’s Psyche</aspect>. Taking a minor consequence mitigates the two stress.
+<example>Terri: Gwynnet is drained after the ritual, shaken and confused by the dream visions she has witnessed. The current future path is terrible, but Gwynnet has insight into what the Autarch will do. Before she can recover, a growling is heard from outside. The owner of those tomes has returned, and the werewolf will attack!</example>
 Since the players successfully completed three challenge scenes by the end of the challenge phase, the Autarch player doesn’t get any bonus fate points prior to the skirmish conflict. Jeremy starts the conflict with a boost.
 <chapter>Characters</chapter>
 The term <term>character</term> is used broadly. It refers not only to the heroes of the Stronghold, but to any leaders, monsters, minions, and henchmen. All characters are described using aspects, skills, stunts, stress, and consequences. Military units are also treated as characters, and are described using the same five elements (see <chapref>Warfare</chapref>, page XX).
@@ -1244,55 +1246,55 @@ During a conflict, each additional mana spent gives the character one additional
 <stunt><b>Fiery Breath</b>: May use Marksmanship to attack all characters and units in the target zone.</stunt>
 </stats>
 <chapter>Factions</chapter>
-The seven factions in <i>WotA</i> are the Stronghold, the Empire of the Autarch, and the five minor factions. Each of these factions have stability attributes, as well as aspects, developments, regions, and leaders. Additionally, disposition towards other factions is tracked for the Stronghold and threat pools are tracked for the Empire.
+The seven factions in <book>WotA</book> are the Stronghold, the Empire of the Autarch, and the five minor factions. Each faction has stability attributes, as well as aspects, regions, and leaders. Additionally, the Stronghold tracks developments and disposition towards other factions and the Empire tracks available schemes.
 <h1>Faction Attributes</h1>
 Factions only have one core attribute: stability.
 <h2>Stability</h2>
-Stability measures the cohesion and unity within the faction. As it lowers, the faction becomes more disorganized and easier to target. Mission difficulties lower if their stability drops below -2. Alternatively, if a faction has a higher disposition, mission difficulties become harder.
-For the Stronghold, higher stability gives heroes additional fate points at the start of missions. Lower stability mean heroes start with fewer fate points.
+<term>Stability</term> measures the cohesion and unity within the faction. As it lowers, the faction becomes more disorganized and easier to target. Mission difficulties lower if their stability drops below -2. Alternatively, if a faction has a higher disposition, mission difficulties become harder.
+For the Stronghold, higher stability gives heroes additional fate points at the start of missions. Lower stability means heroes start with fewer fate points.
 <h1>Common Features</h1>
 All factions share aspects, leaders, regions, developments, and units. The minor factions (as well as the resistance within the Empire) also have trade charts.
 <h2>Aspects</h2>
-Every faction has aspects, which function similarly to character aspects. These may be invoked whenever the faction is playing an important part in the mission. For the Stronghold, this is every mission. Aspects also help to give color to each faction. Faction aspects may be invoked by any character provided they’re relevant.
+Every faction has aspects, which function similarly to character aspects. These may be invoked whenever the faction is playing an important part in the mission. For the Stronghold, this is every mission. Aspects also help give color to each faction. Faction aspects may be invoked by any character, provided they’re relevant.
 <h2>Leaders</h2>
-Each faction has a set of leaders that may be used in missions with that faction. Most of the leaders are best suited for Trade missions, but some factions have competent military leaders as well.
-As with the heroes of the Stronghold, the faction leaders aren’t necessarily members of the ruling class, but are instead people are highly skilled for a variety of reasons.
+Each faction has a set of leaders that may be used in missions with that faction. Most leaders are best suited for alliance missions, but some factions have competent military leaders as well.
+As with the heroes of the Stronghold, the faction leaders aren’t necessarily members of the ruling class; they’re people who are highly skilled for a variety of reasons.
 <h2>Names</h2>
-In the chapters for each faction are a list of appropriate names common to the faction. These are useful during missions when a new minor character is needed.
+In each faction’s chapter is a list of appropriate names common to the faction. These are useful during missions when a new minor character is needed.
 <h2>Regions</h2>
-Regions are large areas of land that contain important resources. There are a set of neutral regions available for Exploration by the Stronghold (see the Neutral Regions chapter for a list). The exact location of regions is left purposefully vague, although regions may be drawn on the map as they are acquired.
+<term>Regions</term> are large areas of land that contain important resources. There’s a set of neutral regions available for conquest by the Stronghold (see <chapref>Regions</chapref>, page XX, for a list). The exact location of regions is purposefully left vague, although regions may be drawn on the map as they are acquired.
 <h3>Resources</h3>
 Regions provide food, timber, ore, mana, and luxuries. Only the Stronghold tracks the seasonal uptake of resources.
 The values for resources represent fairly abstract quantities of the materials in question. Food is the amount of food necessary to feed one population for one season. Mana is a transient resource, channeled into vessels for trade, although this weakens its potency and makes it useless for spells. Finally, luxuries are any compact high value goods, such as gold, gems, or rare spices and herbs.
 <h3>Capital</h3>
-Each faction has one region which is their <term>capital</term>. If this region should fall as a result of military action, the faction will collapse. When defending a capital, a faction doesn’t have limits on the number of units that may be used.
+Each faction has one region that’s their <term>capital</term>. If this region falls as a result of military action, the faction will collapse. When defending a capital, a faction doesn’t have limits on the number of units that may be used.
 <h2>Developments</h2>
 Only the Stronghold uses developments. For things like units, other factions either have a fixed amount for the campaign (minor faction) or can gain them in different ways (Empire).
 <h3>Mission Difficulty</h3>
-The other primary effect that developments have for the factions is to set the mission difficulty. If one of these developments is sabotaged, the mission difficulty for the faction will decrease. See the Developments chapter for more details.
+The other primary effect that developments have for the factions is to set the mission difficulty. If one of these developments is sabotaged, the mission difficulty for the faction decreases. See <chapref>Developments</chapref> (page XX) for more details.
 <h2>Units</h2>
 Available units, like developments, are fixed for minor factions during the campaign. If a unit is lost in battle, it may not be replaced. The Empire gains units by investing points in the warfare threat pool, while the Stronghold gains new units by expending resources during the build developments phase.
-<h2>Trade Charts</h2>
-Each of the minor factions (as well as the underground resistance of the Empire) has access to a trade chart. The trade charts list available and desired goods for Trade missions.
+<h2>Trade</h2>
+The Stronghold may trade resources with each minor faction. The Stronghold may also fund the underground resistance of the Empire using luxuries. The available trading options are listed on the faction sheet. This is covered in <chapref>Seasons</chapref>, page XX.
 <h1>Faction Collapse</h1>
-If a faction’s capital falls in warfare, it collapses and is no longer in the campaign. A faction with no capital doesn’t generate threats, may not trade goods or contribute units to allies, and they may not be the target of any missions.
+If a faction’s capital falls in warfare, it collapses and is no longer in the campaign. A faction with no capital doesn’t generate threats, may not trade goods or contribute units to allies, and may not be the target of any missions.
 Factions may still defend their other regions using any remaining troops they have available. But they will not mount any offensive attacks.
 If the Stronghold collapses for any reason, the campaign is over, and the Empire has emerged victorious.
 <h1>The Stronghold</h1>
 The Stronghold has many of the same attributes as the rest of the factions. Since the Stronghold is the focal point of the campaign, there is additional tracking and growth that takes place.
 <h2>Stronghold Aspects</h2>
-The Stronghold’s aspects are help to define the theme of the campaign. They are invoked, endured, and compelled as the other faction aspects. They may only be changed during the Winter season.
+The Stronghold’s aspects help define the theme of the campaign. They are invoked, endured, and compelled as the other faction aspects. They may only be changed during the Winter season.
 <h2>Campaign Aspects</h2>
-On the Stronghold Sheet is space for campaign aspects created during play. The number of slots on the Stronghold Sheet is a limiter on how many can be created. The free invokes on campaign aspects are frequently burned to create assets and units, although they may be used like any other aspect.
+There’s space on the Stronghold sheet for campaign aspects created during play. The number of slots on the Stronghold sheet is a limiter on how many can be created. The free invokes on campaign aspects are frequently burned to create assets and units, although they may be used like any other aspect.
 <h2>Disposition</h2>
-The disposition with other minor factions is tracked on the Trade Sheet. If the disposition is five or higher, the minor faction in question becomes a full ally of the Stronghold, and will contribute units during military battle. In addition, the higher the disposition for a minor faction, the more goods are available as part of trade agreements.
-A low disposition with another faction opens the possibility for enemy faction threats toward the Stronghold. If the disposition with another faction drops to negative four or less, the faction becomes an ally with the Autarch, and will contribute units to the Empire in military battle.
+The disposition with other minor factions is tracked on the Trade Sheet. If the disposition is +5 or higher, the minor faction in question becomes a full ally of the Stronghold, and will contribute units during military battle. In addition, the higher the disposition for a minor faction, the more goods are available as part of trade agreements.
+A low disposition with another faction opens the possibility for enemy faction threats toward the Stronghold. If the disposition with another faction drops to -4 or less, the faction becomes an ally with the Autarch, and will contribute units to the Empire in military battle.
 <h1>The Empire</h1>
 As with the Stronghold, the Empire changes and evolves over the course of the campaign and has a few additional elements that must be tracked.
 <h2>Threat Pools</h2>
 The biggest difference between the Empire and the other minor factions is the use of threat pools. Each Spring the Autarch player may increase one threat difficulty.
 <h2>Units</h2>
-The Empire gains additional units when their warfare threat pool increases. The total units received are listed in <chapref>The Empire</chapref> chapter.
+The Empire gains additional units when their warfare threat pool increases. The total units received are listed in <chapref>The Empire</chapref> (page XX).
 <table>
 <b>Mission Difficulties</b>
 <b>Diplomacy</b>	<b>Infiltration</b>	<b>Skirmish</b>	<b>Warfare</b>
@@ -1304,31 +1306,31 @@ The Empire gains additional units when their warfare threat pool increases. The 
 <b>Sunriders</b>	4	3	5	6
 </table>
 <chapter>Developments</chapter>
-Developments are cultural, technological, and civic improvements to the Stronghold. Developments might be physical structures like a mage tower, scientific advancements such as gunpowder, or even skilled groups of people, like diplomats.
-Developments may affect the Stronghold directly, for example, by improving defensive capabilities, or developments might affect the heroes, giving them situational benefits during play. The latter sorts of developments are like stunts, except they affect all heroes from the Stronghold, not just one.
-The Stronghold players build developments by spending the resources they obtain, as detailed in the <chapref>Seasons</chapref> chapter.
-Other factions don’t have developments (with the exception of Keeps and Castles). Instead, these are abstracted away into general difficulties for each of the four types of conflict.
+<term>Developments</term> are cultural, technological, and civic improvements to the Stronghold. Developments might be physical structures like a mage tower, scientific advancements such as gunpowder, or even skilled groups of people, like diplomats.
+Developments may affect the Stronghold directly, such as by improving defensive capabilities, or developments might affect the heroes, giving them situational benefits during play. The latter sorts of developments are like stunts, except they affect all heroes from the Stronghold, not just one.
+The Stronghold players build developments by spending the resources they obtain, as detailed in <chapref>Seasons</chapref> (page XX).
+Other factions don’t have developments (with the exception of keeps and castles). Instead, these are abstracted into general difficulties for each of the four types of conflict.
 <h1>Anatomy of a Development</h1>
 Developments are described by the resource costs for building them (food, timber, ore, luxuries, and mana), by the tech tree they belong to, and by their effect.
 <h2>Regional Developments</h2>
-Keeps and castles are very closely related to a particular region. When these developments are built, they should be listed on the Stronghold sheet under a particular region where they will reside. Factions already have these developments listed in the regions they control. Regional developments allow duplicates to be built, with a maximum of one such development in each region. If a region containing a development is ever lost for some reason, the development is lost with it. If a region has a threat which prevents any production of goods, the development will also no longer function until the threat conditions are removed.
+Keeps and castles are very closely related to a particular region. When these developments are built, they should be listed on the Stronghold sheet under a particular region where they will reside. Factions already have these developments listed in the regions they control. Regional developments allow duplicates to be built, with a maximum of one such development in each region. If a region containing a development is ever lost for some reason, the development is lost with it. If a region has a threat which prevents any production of goods, the development also no longer functions until the threat conditions are removed.
 <h2>Tech Trees</h2>
-The developments are divided into five tech trees. There is one tech tree for each type of conflict (diplomacy, infiltration, skirmish, and warfare) as well as a tech tree for arcane developments. The four conflict tech trees have effects which mainly help in each of those four conflict types, while the developments in the arcane tech tree benefit spellcaster heroes. The better developments in each tech tree have prerequisite developments in the tech tree which must be built first. The peak developments in each tree are difficult to obtain, and it will only be possible to at most build a few of them over the course of the campaign.
+The developments are divided into five tech trees. There’s one tech tree for each type of conflict (diplomacy, infiltration, skirmish, and warfare) as well as a tech tree for arcane developments. The four conflict tech trees have effects that mainly help in each of those four conflict types, while the developments in the arcane tech tree benefit spellcaster heroes. The better developments in each tech tree have prerequisite developments that must be built first. The peak developments in each tree are difficult to obtain, and it’s only possible to at most build a few of them over the course of the campaign.
 <h2>Defensive Developments</h2>
-Some developments give the Stronghold certain defensive capabilities to cancel threats. Each defensive development may only be used once per year to cancel a threat of a certain difficulty or less. There is space on the Developments Summary sheet to track whether these have been used or not. In the spring, the defensive developments may be cleared so they can be used again.
+Some developments give the Stronghold certain defensive capabilities to cancel threats. Each defensive development may only be used once per year to cancel a threat of a certain difficulty or less. There’s space on the Developments Summary sheet to track when these have been used. In the Spring, the defensive developments may be cleared so they can be used again.
 <h2>Units</h2>
-Units function much like other developments. Their costs are listed in the <chapref>Warfare</chapref> chapter. Multiple units of the same type may be purchased during the Stronghold Upkeep phase. Each unit purchased is added to the total on the Stronghold sheet.
+Units function much like other developments. Their costs are listed in <chapref>Warfare</chapref> (page XX). Multiple units of the same type may be purchased during the Stronghold upkeep phase. Each unit purchased is added to the total on the Stronghold sheet.
 <h1>Arcane Developments</h1>
 <devel_title>Arcane Military Academy</devel_title>
 May recruit battle mage units for warfare.
 <devel_title>Great Casting</devel_title>
-May re-draw on spell effect checks.
+May redraw on spell effect checks.
 <devel_title>Superb Casting</devel_title>
 Draw two, keep one on spell effect checks.
 <devel_title>Legendary Casting</devel_title>
 Draw three, keep one on spell effect checks.
 <devel_title>Great Channeling</devel_title>
-May re-draw on backlash checks.
+May redraw on backlash checks.
 <devel_title>Superb Channeling</devel_title>
 Draw two, keep one on backlash checks.
 <devel_title>Legendary Channeling</devel_title>
@@ -1339,45 +1341,45 @@ Spellcasters begin each session with three additional mana.
 All heroes gain one Lore stunt. Current rank of Lore skill doesn’t matter, but stunt prerequisites must still be met.
 <h1>Diplomacy Developments</h1>
 <devel_title>Arts and Entertainment</devel_title>
-May re-draw on Society actions when officially representing the Stronghold.
+May redraw on Society actions when officially representing the Stronghold.
 <devel_title>Center of Culture</devel_title>
 Draw two, keep one on Society actions when officially representing the Stronghold.
 <devel_title>Great Diplomats</devel_title>
-Ignore one diplomacy threat per year of Great (4) difficulty or less.
+Ignore one diplomacy threat per year of Great (+4) difficulty or less.
 <devel_title>Superb Diplomats</devel_title>
-Ignore one diplomacy threat per year of Superb (5) difficulty or less.
+Ignore one diplomacy threat per year of Superb (+5) difficulty or less.
 <devel_title>Fantastic Diplomats</devel_title>
-Ignore one diplomacy threat per year of Fantastic (6) difficulty or less.
+Ignore one diplomacy threat per year of Fantastic (+6) difficulty or less.
 <devel_title>Festival</devel_title>
 Add one stability to the Stronghold. The cost listed is multiplied for each region under the Stronghold’s control.
 <devel_title>Trade Capital</devel_title>
-Gain +1 disposition on successful Alliance missions.
+Gain +1 disposition on successful alliance missions.
 <devel_title>Trade Guild</devel_title>
-May re-draw on Rapport actions when officially representing the Stronghold.
+May redraw on Rapport actions when officially representing the Stronghold.
 <devel_title>Trade Outposts</devel_title>
 Draw two, keep one on Rapport actions when officially representing the Stronghold.
 <h1>Infiltration Developments</h1>
 <devel_title>Safehouses</devel_title>
-May re-draw on Disguise actions.
+May redraw on Disguise actions.
 <devel_title>Improved Safehouses</devel_title>
 Draw two, keep one on Disguise actions.
 <devel_title>Great Spies</devel_title>
-Ignore one infiltration threat per year of Great (4) difficulty or less.
+Ignore one infiltration threat per year of Great (+4) difficulty or less.
 <devel_title>Superb Spies</devel_title>
-Ignore one infiltration threat per year of Superb (5) difficulty or less.
+Ignore one infiltration threat per year of Superb (+5) difficulty or less.
 <devel_title>Fantastic Spies</devel_title>
-Ignore one infiltration threat per year of Fantastic (6) difficulty or less.
+Ignore one infiltration threat per year of Fantastic (+6) difficulty or less.
 <devel_title>The Map Hall</devel_title>
 The Stronghold players place two note cards on their turn when setting up the house during infiltration. They also place the initial alarms.
 <devel_title>Thieves Guild</devel_title>
-May re-draw on Thievery actions.
+May redraw on Thievery actions.
 <devel_title>Improved Thieves Tools</devel_title>
 Draw two, keep one on Thievery actions.
 <devel_title>The Shadow Hall</devel_title>
-During infiltration, heroes may move through zones with guards by taking a stress card (usually heroes have to stop moving when entering a zone with a guard). One such stress card is drawn and applied for each guard, but the hero remains hidden.
+During infiltration, heroes may move through zones with guards by taking a stress card (usually heroes have to stop moving when entering a zone with a guard). The player draws and applies a stress card for each guard, but the hero remains hidden.
 <h1>Skirmish Developments</h1>
 <devel_title>Arcane Smith</devel_title>
-May re-draw when using Fighting to attack with melee weapons.
+May redraw when using Fighting to attack with melee weapons.
 <devel_title>Improved Arcane Smith</devel_title>
 Draw two, keep one when using Fighting to attack with melee weapons.
 <devel_title>Kinetic Armor</devel_title>
@@ -1385,17 +1387,17 @@ All heroes add two boxes to their physical stress track.
 <devel_title>Kinetic Greaves</devel_title>
 Free move up to two zones and take a different action.
 <devel_title>Arcane Bowyer</devel_title>
-May re-draw when attacking with Marksmanship.
+May redraw when attacking with Marksmanship.
 <devel_title>Improved Arcane Bowyer</devel_title>
 Draw two, keep one when attacking with Marksmanship.
 <devel_title>Great Guard Force</devel_title>
-Ignore one skirmish threat per year of difficulty Great (4) or less.
+Ignore one skirmish threat per year of difficulty Great (+4) or less.
 <devel_title>Superb Guard Force</devel_title>
-Ignore one skirmish threat per year of difficulty Superb (5) or less.
+Ignore one skirmish threat per year of difficulty Superb (+5) or less.
 <devel_title>Fantastic Guard Force</devel_title>
-Ignore one skirmish threat per year of difficulty Fantastic (6) or less.
+Ignore one skirmish threat per year of difficulty Fantastic (+6) or less.
 <h1>Warfare Developments</h1>
-Most of these developments allow the Stronghold to muster different sorts of units for warfare. See the Warfare chapter for unit details and resource costs.
+Most of these developments allow the Stronghold to muster different sorts of units for warfare. See <chapref>Warfare</chapref> (page XX) for unit details and resource costs.
 <devel_title>Siegecraft</devel_title>
 May recruit catapult units.
 <devel_title>Fletcher</devel_title>
@@ -1405,41 +1407,41 @@ May recruit cannon units.
 <devel_title>Stables</devel_title>
 May recruit cavalry units.
 <devel_title>Barracks</devel_title>
-May recruit infantry units for war. Ignore one warfare threat of Great (4) difficulty or less each year if total recruited units (not militia) outnumber attacking units.
+May recruit infantry units for war. Ignore one warfare threat of Great (+4) difficulty or less each year if total recruited units (not militia) outnumber attacking units.
 <devel_title>Great Barracks</devel_title>
-May re-draw on unit Attack checks during a Clash of Arms. Ignore one warfare threat of Superb (5) difficulty or less each year if total recruited units (not militia) outnumber attacking units.
+May redraw on unit attack checks during a clash of arms. Ignore one warfare threat of Superb (+5) difficulty or less each year if total recruited units (not militia) outnumber attacking units.
 <devel_title>Superb Barracks</devel_title>
-Draw two, keep one on unit Attack checks during a Clash of Arms. Ignore one warfare threat of Fantastic (6) difficulty or less each year if total recruited units (not militia) outnumber attacking units.
+Draw two, keep one on unit attack checks during a clash of arms. Ignore one warfare threat of Fantastic (+6) difficulty or less each year if total recruited units (not militia) outnumber attacking units.
 <devel_title>Keep</devel_title>
 Place one keep on a target region.
 <devel_title>Castle</devel_title>
-Upgrade keep on region to a castle.
+Upgrade a keep on region to a castle.
 <chapter>Conflicts</chapter>
-Conflicts are mini-games based on diplomacy, infiltration, skirmish, or warfare. Conflicts are built from the core actions described in the <chapref>Core Rules</chapref> chapter. Although the focus action is used instead of the create advantage action. Conflicts are the most tactical and adversarial part of the game.
+Conflicts are mini-games based on diplomacy, infiltration, skirmish, or warfare. Conflicts are built from the core actions described in <chapref>Core Rules</chapref> (page XX), although the focus action is used instead of the create advantage action. Conflicts are the most tactical and adversarial part of the game.
 <h1>Zones</h1>
-Zones are abstractions that usually represent physical spaces. The size of these physical spaces varies greatly. In warfare, each zone might be an area of roughly 1,000 square yards, while in skirmish one zone might be a room in a house.
-Although zones have a variety of physical shapes associated with them, they are always represented by placing notecards down on the table. Each notecard may be labeled with the name of a zone (<aspect>bedroom</aspect>, <aspect>Red Gulch</aspect>), or a suitable picture may be drawn on the notecard.
-Zones must be placed such that one edge of a zone is adjacent to one or more edges of other zones (notecards are placed orthogonal to other notecards). They can’t be connected only through a diagonal. Zones provide a spatial element to conflicts, giving tactical options to characters or military units. There are different restrictions on how one character or unit interacts with others across the zone map.
+Zones are abstractions that usually represent physical spaces. The size of these physical spaces varies greatly depending on the conflict. In warfare, each zone might be an area of roughly 1,000 square yards, while in skirmish one zone might be a room in a house.
+Zones could represent almost any physical shape, but in play they’re designated by notecards. Each notecard may be labeled with the name of a zone (<i>bedroom</i>, <i>Red Gulch</i>), or a suitable picture may be drawn on the notecard.
+Zones are placed on the table such that one edge of a zone is adjacent to one or more edges of other zones (notecards are placed orthogonally to other notecards). They can’t be connected only through a diagonal. Zones provide a spatial element to conflicts, giving tactical options to characters or military units. There are different restrictions on how one character or unit interacts with others across the zone map.
 In diplomacy, zones aren’t physical spaces. Instead, zones represent issues that the two sides are arguing about. As such, zone placement restrictions don’t apply. All zones in diplomacy are considered adjacent to each other.
 <h2>Obstacles</h2>
 Zones may have obstacles in them. These are usually physical features, like dense foliage, each of which makes movement into the zone more difficult. Obstacles are written or drawn on the zone.
 <h1>Actions</h1>
 Conflicts are played over exchanges, just like the challenge scene. Each player gets one action each exchange (the specific available actions are based on the type of conflict and are listed in the following chapters).
-Unlike the challenge phase, the order of actions is usually based on a particular skill, and isn’t up to the Stronghold players to decide. The create advantage action is not available during a conflict. Instead, two new action types, focus and movement, are available.
+Unlike the challenge phase, the order of actions is usually based on a particular skill, and isn’t up to the Stronghold players to decide. The create advantage action is not available during a conflict. Instead, two new action types, <term>focus</term> and <term>movement</term>, are available.
 <h2>Focus</h2>
-The focus action is available in every conflict. It replaces the create advantage action. If a character has no boosts, they may use the focus action to take one boost. This action is not available to minions. Boosts may be spent as normal. See the <chapref>Core Rules</chapref> chapter for more details.
+The focus action is available in every conflict. It replaces the create advantage action. If a character has no boosts, they may use the focus action to take one boost. This action is not available to minions. Boosts may be spent as normal. See <chapref>Core Rules</chapref> (page XX) for more details.
 <h2>Movement</h2>
-Movement is conducted by moving characters over the edges of adjacent zones (no diagonal movement is allowed). The maximum amount that may be moved depends on the conflict type and the skill used for movement.
-If a character moves only one zone, they may take a different action either before or after the move. However, they may take stress from being opposed (see below).
+Movement is conducted by moving characters over the edges of adjacent zones (no diagonal movement is allowed). The maximum amount of movement depends on the conflict type and the skill used for movement.
+If a character moves only one zone, they may take a different action either before or after the move. However, they may take stress from being opposed (see “Opposed Movement”).
 <h3>Movement Points</h3>
-Characters and units have maximum distances they can move. These are expressed in terms of movement points. The number of movement points available is based on Athletics for infiltration and skirmish (see the Athletics skill description) and from the Movement skill of the slowest commanded unit for warfare. Diplomacy is a little different, as a character may only move one zone (this represents changing the issue they’re arguing about). Movement points are not used in diplomacy.
+Characters and units have maximum distances they can move. These are expressed in terms of <term>movement points</term>. The number of movement points available is based on Athletics for infiltration and skirmish (see the Athletics skill description on page XX) and from the Movement skill of the slowest commanded unit for warfare. Diplomacy is a little different, as a character may only move one zone (this represents changing the issue they’re arguing about). Movement points aren’t used in diplomacy.
 Each obstacle in a zone requires one additional point of movement to enter. A character may always move at least one zone, no matter how many obstacles there are.
 <h3>Opposed Movement</h3>
-If a character leaves a zone with opposing characters, they take stress as a result. For each such opposing character apply one stress card when leaving the zone. Assume all characters oppose movement unless specified otherwise.
+A character leaving a zone that contains opposing characters takes stress as a result. For each such opposing character, apply one stress card when leaving the zone. Assume all characters oppose movement unless specified otherwise.
 <diagram>Opposed Movement</diagram>
-<example>Lem is fighting a bandit during a skirmish and wishes to move away. Lem has an Athletics of 4, which gives her 3 movement points. When Lem leaves the zone with the bandit, the Autarch player may apply a stress card immediately. This is a consequence of opposed movement. The <aspect>Marshy Field</aspect> zone has an obstacle, which makes it cost one extra movement to enter, leaving Lem with one movement left. Lem decides to move down to the <aspect>Road</aspect> zone.</example>
+<example>Lem is fighting a bandit during a skirmish and wishes to move away. Lem has an Athletics of 4, which gives her 3 movement points. When Lem leaves the zone with the bandit, the Autarch player may apply a stress card immediately. This is a consequence of opposed movement. The <i>Marshy Field</i> zone has an obstacle, which makes it cost one extra movement to enter, leaving Lem with one movement left. Lem decides to move down to the <i>Road</i> zone.</example>
 <h1>Autarch Fate Points</h1>
-The Autarch starts each conflict with fate points equal to the number of heroes. These can be spent in any way desired - they don’t have to be allocated to particular opponents. Any unused fate points that were for adding complications during the challenge phase are discarded.
+The Autarch starts each conflict with fate points equal to the number of heroes. These can be spent in any way desired—they don’t have to be allocated to particular opponents. Unused fate points from the challenge phase are discarded; they don’t carry over to the conflict.
 <chapter>Diplomacy</chapter>
 Diplomacy is used for social situations where two parties strive toward a common understanding through talks and negotiations. Alliance missions, where the Stronghold attempts to improve disposition with the targeted faction, always involve diplomacy. Diplomacy is also commonly used to resolve ally threats. 
 During diplomacy, the heroes attempt to gain the support of an audience by addressing issues raised by the other side. At the start of diplomacy, five issues are created. The number of issues successfully addressed determines the results of the mission.
