@@ -858,19 +858,19 @@ As mentioned in <chapref>Core Rules</chapref> (page XX), aspects may be converte
 <chapter>Skills and Stunts</chapter>
 Most actions taken by players during the game involve the use of skills and stunts. Typically, when the dice are rolled as part of an action, the result is added to an appropriate skill and compared against the opposition. Stunts provide additional effects that can modify how skills are used or provide special effects during different types of conflicts.
 <h1>Skills</h1>
-Skills in <book>Wrath of the Autarch</book> are broad descriptions of capabilities and areas of expertise. Skills are used in conjunction with the four core actions mentioned in the <chapref>Core Rules</chapref> chapter. Some skills are more suited to certain core actions than others (for instance, <skill>Survival</skill> isn't used for attacks). Every skill can be used as part of the create advantage.
+Skills in <book>Wrath of the Autarch</book> are broad descriptions of capabilities and areas of expertise. Skills are used in conjunction with the four core actions mentioned in <chapref>Core Rules</chapref> (page XX). Some skills are more suited to certain core actions than others (for instance, Survival isn't used for attacks). Every skill can be used to create an advantage.
 <h2>Skills and Conflicts</h2>
 The four types of conflicts tend to focus on distinct skills. For instance, Tactics is very useful in warfare, while Stealth is most useful during infiltration. Knowing which skills are best for each conflict is useful when determining which heroes to take on a mission. The skill description also describes what sorts of conflicts a skill is best suited for.
 <h1>Stunts</h1>
-Stunts are special applications of skills, accessible when a skill reaches rank five or higher. They allow for additional bonuses to rolls, special benefits during certain conflicts, or other advantages that go beyond the normal usages of a skill.
+Stunts are special applications of skills, accessible when a skill reaches Superb (+5) or higher. They allow for additional bonuses to rolls, special benefits during certain conflicts, or other advantages that go beyond the normal usages of a skill.
 <h2>Gaining Stunts</h2>
-Heroes start the campaign with one stunt for their skill of rank Great (+4). Each time a skill advances to the rank of Superb (+5) or higher, the hero gains one additional stunt from that skill’s stunt list. Some stunts have other stunts listed as prerequisites. In that case, the stunt is not available until the character also has all the listed prerequisite stunts.
+Heroes start the campaign with one stunt for their skill of rank Great (+4). Each time a skill advances to the rank of Superb (+5) or higher, the hero gains an additional stunt from that skill’s stunt list. Some stunts have other stunts listed as prerequisites. In that case, the stunt isn’t available until the character also has all the listed prerequisite stunts.
 <h2>Opposition Stunts</h2>
-Some stunts are only available to the opposition the heroes face (opposing leaders, monsters, and minions). These stunts are listed with the opposition tag and are not available for heroes to take. Some opposition stunts take more than one slot for purposes of the total number of stunts.
-For instance, if a leader is allowed to take three stunts, and one of them takes two slots, they are only allowed one more stunt. There is a general opposition stunts section for opposition stunts which don’t map to any particular skill. All stunts for heroes only take one slot.
+Some stunts are only available to the opposition the heroes face (opposing leaders, monsters, and minions). These stunts are listed in a general opposition stunts section at the end of the chapter (page XX).
+Some opposition stunts take more than one slot for purposes of the total number of stunts. For instance, if a leader is allowed to take three stunts, and one of them takes two slots, they’re only allowed one more stunt. All stunts for heroes only take one slot.
 <h1>Athletics</h1>
-Athletics encompasses not just physical fitness, but also body awareness and movement.  It is used for climbing, swimming, tumbling, and balancing.  If all that matters is raw power, and not some form of movement, then Physique is the more relevant skill.
-Athletics determines the maximum number of zones a character can move in skirmish and infiltration conflicts. See the <chapref>Conflicts</chapref> chapter for more details on character movement.
+Athletics encompasses not just physical fitness, but also body awareness and movement.  It’s used for climbing, swimming, tumbling, and balancing.  If all that matters is raw power, and not some form of movement, then Physique is the more relevant skill.
+Athletics determines the maximum number of zones a character can move in skirmish and infiltration conflicts. See <chapref>Conflicts</chapref> (page XX) for more details on character movement.
 <list>
 <b>Athletics 0-2: </b>2 movement points
 <b>Athletics 3-5: </b>3 movement points
@@ -884,35 +884,35 @@ Athletics determines the maximum number of zones a character can move in skirmis
 <stuntd>When defending against a Fighting attack with Athletics, may move one zone away after the attack. This movement may not be opposed.</stuntd>
 <stuntt>Shifty Dodge (Improved)</stuntt>
 <stuntp>Infiltration, Skirmish, Prerequisite: Shifty Dodge</stuntp>
-<stuntd>When Defending against a Fighting attack with Athletics, may move two zones away after the attack. This movement may not be opposed.</stuntd>
+<stuntd>When defending against a Fighting attack with Athletics, may move two zones away after the attack. This movement may not be opposed.</stuntd>
 <stuntt>Fast Feet</stuntt>
 <stuntp>Infiltration, Skirmish, Prerequisite: Tumbling</stuntp>
 <stuntd>May move two zones and still take a free action.</stuntd>
 <h1>Channeling</h1>
-Channeling is used to detect and harness the magic energies that can be found in the wildest regions of the Realm. Channeling is also used to determine the amount of starting mana a spellcaster has available. See the <chapref>Magic</chapref> chapter for more details on mana, spellcasting, and channeling.
-If a character takes Channeling stunts which require the spending of mana, the character should bind to a region as a spellcaster (no changes if already bound to a region). After any expenditure of mana, determine backlash as normal.
+Channeling is used to detect and harness the magic energies that can be found in the wildest regions of the Realm. Channeling is also used to determine the amount of starting mana a spellcaster has available. See <chapref>Magic</chapref> (page XX) for more details on mana, spellcasting, and channeling.
+If a character takes Channeling stunts that require the spending of mana, the character should bind to a region as a spellcaster (no changes if already bound to a region). After any expenditure of mana, determine backlash as normal.
 <stuntt>Arcane Defense</stuntt>
-<stuntd>For each mana spent, add +1 to any character’s defend action against arcane attacks (actions which require the use mana).</stuntd>
+<stuntd>For each mana spent, add +1 to any character’s defend action against arcane attacks (actions which require the use of mana).</stuntd>
 <stuntt>Chaotic Reserves</stuntt>
 <stuntd>For each mana spent, take one physical stress and add +1 to any character’s attack action which causes physical stress.</stuntd>
 <stuntt>Hurt the Ones You Love</stuntt>
-<stuntd>When this character generates backlash, it may be reduced by four. If reduced, choose a target character from the same faction as the caster. For heroes, the target character must be the hero they have a helpful aspect with. The target character immediately takes a severe consequence. If the target character doesn't have an open severe consequence slot, they are killed instead. The consequence should be thematically appropriate to the type of magic used.</stuntd>
+<stuntd>When this character generates backlash, it may be reduced by four. If reduced, choose a target character from the same faction as the caster. For heroes, the target character must be the hero they have a helpful aspect with. The target character immediately takes a severe consequence. The consequence should be thematically appropriate to the type of magic used. If the target character doesn't have an open severe consequence slot, they are killed—provided all the players agree. If the group doesn't agree, the full backlash should be applied to the bound region as normal. </stuntd>
 <stuntt>Fleeting Familiar</stuntt>
 <stuntd>Summon a magical entity to perform tasks. Spend three mana to add +3 to a create advantage action using Channeling. Create an aspect to describe a specialized arcane familiar or the result of using the familiar.</stuntd>
 <h1>Command</h1>
 The Command skill is used to get the most out of people. A character with a high Command is listened to and respected, if not always liked.
 <stuntt>Band Together</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>During Warfare, after units have been assigned during a clash of arms action, may swap one defending unit under your command for a different unit that is not being attacked.</stuntd>
+<stuntd>During warfare, after units have been assigned during a clash of arms action, may swap one defending unit under your command for a different unit that isn’t being attacked.</stuntd>
 <stuntt>Hold Your Ground!</stuntt>
 <stuntp>Warfare</stuntp>
 <stuntd>Add +2 to a defend action for a unit under your command once during each warfare exchange.</stuntd>
 <stuntt>Fight for Your Home!</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>When defending a home region, add two additional militia units to character’s command. These do not count against the total number of units that a commander may control.</stuntd>
+<stuntd>When defending a home region, add two additional militia units to character’s command. These don’t count against the total number of units that a commander may control.</stuntd>
 <stuntt>Heroic Action</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Spend a fate point to take a heroic action even if you have already taken a different action this exchange.</stuntd>
+<stuntd>Spend a fate point to take a heroic action even if you’ve already taken a different action this exchange.</stuntd>
 <stuntt>Battlefield Savagery</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
 <stuntd>You perform a vicious and disturbing attack. Draw a stress card to add your Command value to Fighting (max stress inflicted is equal to Command + Fighting). However, the target may mitigate the stress through using both the physical and mental stress tracks (one box in each may be checked).</stuntd>
@@ -922,7 +922,7 @@ Disguise is used when pretending to be someone else. This doesn’t have to invo
 <stuntd>Add +2 to Disguise checks made to create an advantage when blackmailing a target.</stuntd>
 <stuntt>Deep Cover</stuntt>
 <stuntp>Infiltration</stuntp>
-<stuntd>If captured during an Infiltration mission, the character may successfully shift blame to some other faction. Create an appropriate campaign aspect to indicate growing distrust and animosity toward the blamed faction. Although the Stronghold takes no disposition hits, the caught character is still detained as normal.</stuntd>
+<stuntd>If captured during an infiltration mission, the character may successfully shift blame to some other faction. Create an appropriate campaign aspect to indicate growing distrust and animosity toward the blamed faction. Although the Stronghold takes no disposition hits, the caught character is still detained as normal.</stuntd>
 <stuntt>Hasty Story</stuntt>
 <stuntd>Each stress card drawn adds three instead of two on Disguise defend actions.</stuntd>
 <stuntt>Inside Job</stuntt>
@@ -932,15 +932,15 @@ Disguise is used when pretending to be someone else. This doesn’t have to invo
 The knowledge of machinery, particularly machines of war, is covered by the Engineering skill.
 <stuntt>Range Calculations</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Catapults and cannons under this characters command have their range increased to four.</stuntd>
+<stuntd>Catapults and cannons under this character’s command have their range increased to four.</stuntd>
 <stuntt>Efficient Engineers</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Catapults or Cannons under the command of this character may move one additional zone as part of the movement action.</stuntd>
+<stuntd>Catapults or cannons under the command of this character may move one additional zone as part of the movement action.</stuntd>
 <stuntt>Makeshift Device</stuntt>
 <stuntd>Add +2 to Engineering checks made to create an advantage when crafting devices from ad-hoc supplies.</stuntd>
 <stuntt>Infantry Bombs</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Infantry under this commander’s control gain the Siege skill at +1. This works as does normal siege, although the maximum range is one zone (the infantry must be adjacent to the fortified strategic zone).</stuntd>
+<stuntd>Infantry under this commander’s control gain the Siege skill at +1. This works as does normal Siege, although the maximum range is one zone (the infantry must be adjacent to the fortified strategic zone).</stuntd>
 <h1>Fighting</h1>
 Fighting is knowledge of weapons and the ability to utilize them to defeat others in martial combat. It also covers unarmed combat. However, it isn’t used for leading units of many men into battle, which falls under the Tactics skill.
 <stuntt>Powerful Attack</stuntt>
@@ -948,7 +948,7 @@ Fighting is knowledge of weapons and the ability to utilize them to defeat other
 <stuntd>The character is a bruising attacker, capable of delivering crushing blows. Add +2 to attack actions using Fighting.</stuntd>
 <stuntt>I’m on a Roll!</stuntt>
 <stuntp>Skirmish, Infiltration, Warfare</stuntp>
-<stuntd>On a successful attack action, gain a boost even if the Attack didn't succeed with style. If it succeeded with style, gain an extra boost.</stuntd>
+<stuntd>On a successful attack action, gain a boost even if the attack didn't succeed with style. If it succeeded with style, gain an extra boost.</stuntd>
 <stuntt>No Quarter Given</stuntt>
 <stuntp>Skirmish, Infiltration</stuntp>
 <stuntd>If an opponent leaves the zone your character is in, make an attack against them.</stuntd>
@@ -956,69 +956,69 @@ Fighting is knowledge of weapons and the ability to utilize them to defeat other
 <stuntp>Skirmish, Infiltration</stuntp>
 <stuntd>Draw a stress card to attack every opponent in the same zone using Fighting. Only determine the attack value once, but each defender may defend individually.</stuntd>
 <h1>Lore</h1>
-Lore is knowledge of the mystical and arcane facets of the Realm. Knowledge of spells, artifacts, and bizarre creatures of myth. Lore is also essential to learning Secrets, the harnessing of mana to produce magical effects.
+Lore is knowledge of the mystical and arcane facets of the Realm, knowledge of spells, artifacts, and bizarre creatures of myth. Lore is also essential to learning secrets, the harnessing of mana to produce magical effects.
 <stuntt>Initiate</stuntt>
-<stuntd>The character chooses a Secret and gains access to the Initiate spell from that Secret. Choose a region to bind with, and gain mana each season from the region. See the <chapref>Magic</chapref> chapter for more details.</stuntd>
+<stuntd>The character chooses a secret and gains access to the initiate spell from that secret. Choose a region to bind with, and gain mana each season from the region. See <chapref>Magic</chapref> (page XX) for more details.</stuntd>
 <stuntt>Apprentice</stuntt>
-<stuntp>Requirement: Initiate stunt for chosen Secret</stuntp>
-<stuntd>The character gains access to the Apprentice spell for the chosen Secret.</stuntd>
+<stuntp>Requirement: Initiate stunt for chosen secret</stuntp>
+<stuntd>The character gains access to the apprentice spell for the chosen secret.</stuntd>
 <stuntt>Adept</stuntt>
 <stuntp>Requirement: Apprentice ability within secret.</stuntp>
-<stuntd>The character gains access to the Adept spell for the chosen Secret.</stuntd>
+<stuntd>The character gains access to the adept spell for the chosen secret.</stuntd>
 <stuntt>Keeper</stuntt>
 <stuntp>Requirement: Adept ability within secret.</stuntp>
-<stuntd>The character gains access to the Keeper spell for the chosen Secret.</stuntd>
+<stuntd>The character gains access to the keeper spell for the chosen secret.</stuntd>
 <stuntt>Useful Trivia</stuntt>
-<stuntd>Add +2 to Lore checks made to create an advantage checks when recalling some bit of arcane lore.</stuntd>
+<stuntd>Add +2 to Lore checks made to create an advantage when recalling some bit of arcane lore.</stuntd>
 <h1>Marksmanship</h1>
 The Marksmanship skill works with any fired weapons, such as slings or bows of any sort. It also governs thrown weapons like spears or javelins.
 <stuntt>Hit the Weak Point</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
-<stuntd>Once per exchange may invoke a target’s consequence (of a physical nature) without spending a fate point. NOTE: Is “once per exchange” really the correct language? Trying to say that you can’t invoke multiple consequences for free – just one.</stuntd>
+<stuntd>Once per exchange, invoke a target’s consequence of a physical nature without spending a fate point.</stuntd>
 <stuntt>Rapid Fire</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
-<stuntd>Draw a stress card to make two separate Attack actions in the same turn. May target different opponents.</stuntd>
+<stuntd>Draw a stress card to make two separate attack actions in the same turn. May target different opponents.</stuntd>
 <stuntt>Covering Fire</stuntt>
 <stuntd>Add +1 when using boosts to provide covering fire.</stuntd>
 <stuntt>Eagle Eye</stuntt>
 <stuntp>Infiltration, Skirmish</stuntp>
-<stuntd>On Attack actions, the target is one zone closer for purposes of calculating range.</stuntd>
+<stuntd>On attack actions, the target is one zone closer for purposes of calculating range.</stuntd>
 <h1>Physique</h1>
-Where Athletics governs pure physical power, Physique is used to measure raw physical power and endurance. Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique. Bashing open doors or bending bars is also the province of Physique.
+Where Athletics governs pure physical power, Physique measures raw physical power and endurance. Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique. Bashing open doors or bending bars is also the province of Physique.
 <stuntt>Improved Physical Stress</stuntt>
-<stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Physique skill below to determine the bonus to physical stress.
+<stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stress. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Physique skill below to determine the bonus to physical stress.
 Use the unlock check boxes on the character sheet to note newly available physical stress boxes.</stuntd>
 <list>
 +1 or +2: A 3-point physical stress box
 +3 or +4: A 4-point physical stress box
-+5 or +6: A 4-point physical stress box and an additional mild consequence slot
-+7 or +8: A 4-point physical stress box and an additional medium consequence slot
++5 or +6: An additional mild consequence slot
++7 or +8: An additional medium consequence slot
 </list>
 <h1>Rapport</h1>
 Rapport is the process of building lasting friendships. Characters with high Rapport have a grace and charm which allows them to easily make friends. It's also useful in brokering deals and creating alliances.
 <stuntt>Passive Aggressive</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>When a character addresses an issue, opposing characters on the same issue each take one mental stress.</stuntd>
+<stuntd>When a character successfully gains support, opposing characters on the same issue each take one mental stress.</stuntd>
 <stuntt>Related Point</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>When a character successfully addresses an issue, they gain a boost. If the character succeeds with style, they gain an additional boost</stuntd>
+<stuntd>When a character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stuntd>
 <stuntt>Captivating Features</stuntt>
 <stuntd>Add +1 when using boosts to leverage your looks.</stuntd>
 <stuntt>Winning Personality</stuntt>
 <stuntp>Diplomacy</stuntp>
 <stuntd>The character is better at fostering relationships with those close to them. The character may use Rapport instead of Society to defend against social attacks.</stuntd>
 <h1>Society</h1>
-A character with a high Society skill understands the cultural details for the different factions and peoples of the Realm.  These include the traditions, mannerisms, and trappings which the leadership of the Faction finds important, as well as other general details about each Faction. Society is a useful skill for avoiding an embarrassing faux pas.
+A character with a high Society skill understands the cultural details for the different factions and peoples of the Realm.  These include the traditions, mannerisms, and trappings the leadership of the faction finds important, as well as other general details about each faction. Society is a useful skill for avoiding an embarrassing faux pas.
 <stuntt>Socially Adept</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>For Diplomacy, the character’s Society skill is 2 higher for purposes of turn order.</stuntd>
+<stuntd>For diplomacy, the character’s Society skill is 2 higher for purposes of turn order.</stuntd>
 <stuntt>Commanding Word</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>Spend a fate point to add an additional point of influence when successfully addressing an issue.</stuntd>
+<stuntd>Spend a fate point to add an additional point of support when successfully gaining support.</stuntd>
 <stuntt>High Born</stuntt>
 <stuntd>Add +2 on Society checks when overcoming resistance by using charm and sophistication.</stuntd>
 <stuntt>Friends in High Places</stuntt>
-<stuntd>This character is well known throughout the Realm. They add +2 to create advantage actions when interacting with leaders from other factions.</stuntd>
+<stuntd>This character is well known throughout the Realm. Add +2 to create advantage actions when interacting with leaders from other factions.</stuntd>
 <stuntt>Intoxicating Power</stuntt>
 <stuntp>Diplomacy</stuntp>
 <stuntd>Add +2 to attack actions using Society.</stuntd>
@@ -1026,7 +1026,7 @@ A character with a high Society skill understands the cultural details for the d
 Stealth is the skill to use for moving silently and avoiding detection.
 <stuntt>Assassin’s Perch</stuntt>
 <stuntp>Skirmish</stuntp>
-<stuntd>The character is adept at finding hidden areas and attacking from them. During Skirmish setup, the character may set-up in any zone desired, and no opponents may be placed in the same zone as the character. Furthermore, the character starts the Skirmish with the <aspect>Hidden</aspect> aspect with one free invoke.</stuntd>
+<stuntd>The character is adept at finding hidden areas and attacking from them. During skirmish setup, the character may set-up in any zone desired, and no opponents may be placed in the same zone as the character. Furthermore, the character starts the skirmish with the <aspect>Hidden</aspect> aspect with one free invoke.</stuntd>
 <stuntt>Quiet as a Mouse</stuntt>
 <stuntd>Add +1 when using boosts to leverage a hidden position.</stuntd>
 <stuntt>Sneak Attack</stuntt>
@@ -1035,13 +1035,13 @@ Stealth is the skill to use for moving silently and avoiding detection.
 <h1>Survival</h1>
 Survival imparts an understanding of the flora and fauna of the wilds, as well as a keen awareness of enemies lying in wait.
 <stuntt>Animal Companion (Good)</stuntt>
-<stuntd>Create an asset with two helpful skills and two hindering skills (no need to burn aspects). See the <chapref>Characters</chapref> chapter for more details.</stuntd>
+<stuntd>Create an asset with two helpful aspects and two hindering aspects (no need to burn campaign aspects to create it). See <chapref>Characters</chapref> (page XX) for more details.</stuntd>
 <stuntt>Animal Companion (Great)</stuntt>
 <stuntp>Prerequisite: Animal Companion (Good)</stuntp>
-<stuntd>As basic animal companion, but the animal companion also gains a minor consequence which can be used to absorb physical attacks.</stuntd>
+<stuntd>As good animal companion, but the animal companion also gains a minor consequence which can be used to absorb physical attacks.</stuntd>
 <stuntt>Animal Companion (Superb)</stuntt>
 <stuntp>Prerequisite: Animal Companion (Great)</stuntp>
-<stuntd>As great animal companion, but draw two cards when using the helpful skills from the animal companion. Add all suns on both cards.</stuntd>
+<stuntd>As great animal companion, but draw two cards when using the helpful aspects from the animal companion. Add all suns on both cards.</stuntd>
 <stuntt>Tracker</stuntt>
 <stuntd>Add +2 to overcome actions when following tracks in the wilds.</stuntd>
 <stuntt>Poisoner</stuntt>
@@ -1050,7 +1050,7 @@ Survival imparts an understanding of the flora and fauna of the wilds, as well a
 Understanding the use of military force is the cornerstone of Tactics. Troop movements, weapons of war, combined arms, logistics, and using terrain all are covered by the Tactics skill.
 <stuntt>Battle Master</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>During Warfare, a group of units under a character’s command may act independently. The units no longer need to remain in the same zone as the commander, and may be controlled independently for the duration of the battle. However, the group of units is considered to have a Tactics and Command of Mediocre (+0) for the purposes of turn order.</stuntd>
+<stuntd>During warfare, a group of units under a character’s command may act independently. The units no longer need to remain in the same zone as the commander, and may be controlled independently for the duration of the battle. However, the group of units is considered to have a Tactics and Command of Mediocre (+0) for the purposes of turn order.</stuntd>
 <stuntt>Infantry Maneuver</stuntt>
 <stuntp>Warfare</stuntp>
 <stuntd>Once each exchange, add +2 to an attack utilizing infantry exclusively (no other unit type may be in the attacking group). The attacking commander may control other unit types.</stuntd>
@@ -1059,7 +1059,7 @@ Understanding the use of military force is the cornerstone of Tactics. Troop mov
 <stuntd>If you inflict more casualties than the other side in a clash of arms (taking into account possible outflanking), may move opposing commander and units to an empty adjacent zone. If no adjacent zone is empty, or if both sides lost the same number of units, they remain where they are.</stuntd>
 <stuntt>Set for Charge</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>During Warfare, add +1 to the Armor of infantry and militia units when they defend against charging cavalry (only for the turn the cavalry moved).</stuntd>
+<stuntd>During warfare, add +1 to the Armor of infantry and militia units when they defend against charging cavalry (only for the turn the cavalry moved).</stuntd>
 <stuntt>Enemy Weakness</stuntt>
 <stuntd>Add +2 on Tactics checks when creating advantages that exploit a perceived flaw in the enemy’s battle strategies.</stuntd>
 <h1>Thievery</h1>
@@ -1071,19 +1071,19 @@ Understanding the use of military force is the cornerstone of Tactics. Troop mov
 <stuntd>Add +2 to Thievery checks for create advantage actions that leverage underworld contacts.</stuntd>
 <stuntt>Master Burglar</stuntt>
 <stuntp>Prerequisites: Disable Alarm, Master Lockpicker</stuntp>
-<stuntd>The character is able to recover all manner of illicit goods. When using create advantage to create a campaign aspect, the player may declare the aspect to be a luxury, listing it on the Stronghold Sheet where it may function as a luxury die during the next trading phase. Make a note of the aspect. Each free invoke burned gives one luxury die.</stuntd>
+<stuntd>The character is able to recover all manner of illicit goods. When using create advantage to create a campaign aspect, the player may declare the aspect to be a luxury, listing it on the Stronghold sheet where it may function as a luxury die during the next trading phase. Make a note of the aspect. Each free invoke burned gives one luxury die.</stuntd>
 <stuntt>Master Lockpicker</stuntt>
 <stuntd>Add +1 to boosts used when opening locks.</stuntd>
 <h1>Will</h1>
- A character with a high Will is less affected by witnessing horrors of all stripes. It is also the ability to focus mentally for long periods of time.
+ A character with a high Will is less affected by witnessing horrors of all stripes. It’s also the ability to focus mentally for long periods of time.
 <stuntt>Improved Mental Stress</stuntt>
 <stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Will skill below to determine the bonus to mental stress.
 Use the unlock check boxes on the character sheet to note newly available mental stress boxes.</stuntd>
 <list>
 +1 or +2: A 3-point mental stress box
 +3 or +4: A 4-point mental stress box
-+5 or +6: A 4-point mental stress box and an additional mild consequence slot for mental stress only
-+7 or +8: A 4-point mental stress box and an additional medium consequence slot for mental stress only
++5 or +6: An additional mild consequence slot
++7 or +8: An additional medium consequence slot
 </list>
 <h1>Wits</h1>
 Wits is useful for spotting hidden things or determining when you’re being tricked.
@@ -1091,7 +1091,10 @@ Wits is useful for spotting hidden things or determining when you’re being tri
 <stuntd>Add +2 to overcome actions when trying to see through a character’s disguise.</stuntd>
 <stuntt>Undermine the Point</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>When defending against an Address the Issue action, opponent takes one mental stress.</stuntd>
+<stuntd>When defending against a gain support action, opponent takes one mental stress.</stuntd>
+<stuntt>Undermine the Point, Improved</stuntt>
+<stuntp>Diplomacy, Prerequisites: Undermine the Point</stuntp>
+<stuntd>When defending against a gain support action, opponent takes two mental stress.</stuntd>
 <stuntt>Assess the Situation</stuntt>
 <stuntd>Add +2 on Wits checks to create advantage when leveraging an unnoticed detail.</stuntd>
 <h1>Opposition Stunts</h1>
@@ -1105,9 +1108,12 @@ This section lists stunts only available to opposition (leaders, lieutenants, an
 <stuntt>Orb of Scrying</stuntt>
 <stuntp>Infiltration</stuntp>
 <stuntd>Secretly designate one zone to contain the Orb of Scrying. Heroes entering this zone must make a Stealth roll to avoid being detected. If detected, the character with the Orb of Scrying stunt is alerted.</stuntd>
+<stuntt>Quick</stuntt>
+<stuntp>Infiltration, Skirmish, Warfare</stuntp>
+<stuntd>Prior to making an attack action, may move one zone. Usual rules for moving out of an opposed zone apply.</stuntd>
 <stuntt>Trapmaster</stuntt>
 <stuntp>Infiltration</stuntp>
-<stuntd>Use Create Advantage to create permanent aspects in a zone that stop hero movement. Trap may be Overcome with Thievery in order to remove (at a passive opposition equal to mission difficulty).</stuntd>
+<stuntd>Use create advantage to create permanent aspects in a zone that stop hero movement. Trap may be removed with an overcome action with Thievery at a passive opposition equal to mission difficulty.</stuntd>
 <chapter>Magic</chapter>
 <term>Magic</term> is the fusion of mana pulled from the land with a sorcerer’s will, resulting in an arcane effect. It’s a chaotic and omnipresent force of energy, difficult to control but very powerful. It’s present everywhere, although in some locations, such as the untamed and exotic parts of the wilds, it’s present in high enough concentration that it may be harnessed by magic users. Characters with high enough Lore may learn <term>secrets</term>, complex and arcane procedures for channeling mana to produce all manner of fantastical effects
 <h1>Mana</h1>
@@ -1446,44 +1452,58 @@ The Autarch starts each conflict with fate points equal to the number of heroes.
 Diplomacy is used for social situations where two parties strive toward a common understanding through talks and negotiations. Alliance missions, where the Stronghold attempts to improve disposition with the targeted faction, always involve diplomacy. Diplomacy is also commonly used to resolve ally threats. 
 During diplomacy, the heroes attempt to gain the support of an audience by addressing issues raised by the other side. At the start of diplomacy, five issues are created. The number of issues successfully addressed determines the results of the mission.
 <h1>Challenges</h1>
-Challenges during diplomacy missions focus on the relationships of the leaders toward the Stronghold. What sort of cultural differences are there? How do the heroes go about negotiating the customs of the people? Good challenges here can also focus on exposing in-fighting between different factions, thus forcing the heroes to choose sides. For alliance missions, there are sample challenges listed in the chapter for the target faction.
+Challenges during diplomacy missions focus on the relationships of the leaders toward the Stronghold. What sort of cultural differences are there? How do the heroes go about negotiating the customs of the people? Good challenges here can also focus on exposing in-fighting between different factions, thus forcing the heroes to choose sides. For alliance missions, there are sample challenges listed in the chapter for each faction.
 <h1>Opposition</h1>
 The Autarch player gets one lieutenant for each hero taken on the mission. If the target of the mission is another faction (such as for alliance missions), the Autarch player may use any of the faction leaders instead. As usual, lieutenants have a peak skill rank equal to the difficulty of the mission. Good skills for lieutenants are Rapport, Society, and Wits.
 <h1>Setup</h1>
-During setup, five issues are created. Write each issue down on a separate notecard. Issues should reflect cultural differences, concerns, and past transgressions. For example, <aspect>Is Aben’s Hollow secure against the Autarch’s Spies?</aspect>, <aspect>Will you use the Gossamer Thread against us?</aspect>, and <aspect>Do you respect the veil of magic?</aspect>.
-Also gather up tokens (poker chips, beads, etc) of two different colors to use for tracking each side’s support.
+During setup, five issues are created. Write each issue down on a separate notecard. Issues should reflect cultural differences, concerns, and past transgressions. For example, <i>Is Aben’s Hollow secure against the Autarch’s spies?</i>, <i>Will you use the Gossamer Thread against us?</i>, and <i>Do you respect the veil of magic?</i>. Also gather up tokens (poker chips, beads, etc.) of two different colors to track each side’s support.
+<h2>Stronghold Issues</h2>
+Alternately, write a category from the five Stronghold aspects (<i>Wrath</i>, <i>Belief</i>, <i>Culture</i>, <i>Rule</i>, <i>History</i>) on each of the notecards. These categories will function as broadly scoped issues, guiding the conversation just as the specific issues do. This is a quicker process than coming up with five detailed issues and works best if the diplomacy conflict involves one of the other minor factions.
 <diagram>Issue Setup</diagram>
 <h2>Support</h2>
 Each side tries to gain support for issues by arguing their validity. If one of the sides gains enough support, they can claim the issue for themselves. The more issues the Stronghold claims, the stronger their position. The amount of support is tracked by placing tokens (one for each support) on the appropriate notecard. When one side has five support (five tokens) on an issue, they claim the issue.
-Claiming an issue may have a different feel depending on the issue. For example, the Stronghold may be looking to minimize the importance of an issue (“We have no military weakness...”) or they may be using the issue to gain leverage (“The people of Obsidian Wood do not need your aid...”). In either case, though, the side that claims the issue can dictate how it is perceived.
+Claiming an issue may have a different feel depending on the issue. For example, the Stronghold may be looking to minimize the importance of an issue (“We have no military weakness...”) or they may be using the issue to gain leverage (“The people of Obsidian Wood do not need your aid...”). In either case, though, the side that claims the issue can dictate how it’s perceived.
+<h3>Alliance Missions</h3>
+For alliance missions, if the target faction has zero disposition or less, the Autarch player starts with one support on each issue.
 <h2>Aspect Burning</h2>
-The Stronghold players may burn a free invoke (from a mission or campaign aspect) to place one support on an issue. Each free invoke burned allows the Strong players to place one influence, although no more than one influence may be placed on each issue (they have to be spread out).
+The Stronghold players may burn a free invoke (from a mission or campaign aspect) to place one support on an issue. Each free invoke burned allows the Stronghold players to place one support, although no more than one support may be placed on each issue (they have to be spread out).
 <h2>Place Characters</h2>
-Characters are placed onto issues in reverse order of Society (the character with the lowest Society is placed first). Heroes break ties.
+Characters are placed onto issues in reverse order of Society (the character with the lowest Society is placed first). Heroes break ties. A character placed onto or next to an issue is said to be <term>attached</term> to the issue.
 <h1>The Exchange</h1>
 Turns are taken in order of the Society skill, with the highest character going first, working down. If tied, the Stronghold player may choose the order. Each character takes one action on their turn before a new exchange begins. Diplomacy continues until all issues are claimed by one of the two sides.
 <h1>Actions</h1>
-When a character takes a turn, they choose one of the actions from the list below. Some actions are only available to heroes while some are only available to the opposition leaders. Only heroes may take the Gain Support, Address Issue, and Change Offer actions. Only leaders may take the Raise Issue action.
+When a character takes a turn, they choose one of these actions:
+<list>
+Change Issue
+Focus
+Gain Support
+Manipulate 
+</list>
 <h2>Change Issue (Move, Free)</h2>
-At the beginning of a character’s turn, they may change from one issue to another. Move the token representing the character to the other issue. This movement may be opposed by other characters in the same zone (see the <chapref>Conflicts</chapref> chapter).
+At the beginning of a character’s turn, they may change from one issue to another. Move the token representing the character to the other issue. This movement may be opposed by other characters in the same zone (see <chapref>Conflicts</chapref>, page XX).
 <h2>Focus</h2>
-This works as described in the <chapref>Conflicts</chapref> chapter.
+If a character has no boosts, they may use the focus action to take one boost. This action is not available to minions. Boosts may be spent as normal. See <chapref>Core Rules</chapref> (page XX) for more details.
 <h2>Gain Support (Overcome)</h2>
-In diplomacy, the overcome action can be used to remove aspects as normal, but it is more commonly used to gain support for an issue. If there are no opposing characters attached to the issue, make a Rapport check against an opposition of zero. On success, the player adds one support to the issue (for the appropriate side). On success with style, the player gains two support.
-If there are opposing characters attached to the issue, the controlling player may choose one of them to defend with. In this case, the Rapport check is opposed by the chosen character’s Wits.
+To gain support for an issue, the character must be attached to the issue. If there are no opposing characters attached to the issue, make a Rapport check against an opposition of zero. On a success, the player adds one support to the issue (for the appropriate side). On success with style, the player adds two support.
+The player of an opposing character attached to the issue may choose to defend. In this case, the Rapport check is opposed by the chosen character’s Wits.
+<example>Bavin’s Hollow is in an alliance mission with Gravewood. Nick is playing Fuscus the diplomat from Bavin’s Hollow. The group has decided to use the general Stronghold issues rather than come up with specific issues. Fuscus is attached to the issue labeled <i>Culture</i>. Fuscus has Superb (+5) Rapport. Fuscus is opposed by Galya, who has Good (+3) Wits. Phil, the Autarch player, is playing Galya. There is currently three support for the Stronghold and two support for Gravewood on the issue.
+Nick: Fuscus plays up the salt of the earth nature of Bavin’s Hollow, which will hopefully resonate with the rugged individualism of Gravewood. Fuscus spends a few days amongst the havens promoting the similarities between the cultures.
+Phil: Sounds good! Galya, somewhat angered by your refusal to help her earlier with problems within Green Haven, has told Sdila and others to exercise caution. Galya points out that Bavin’s Hollow embraces magic, something that Gravewood largely distrusts.
+Nick makes an opposed check against Phil.
+Nick gets a +1, for a Fantastic (+6) result. Phil gets a -1, for a Fair (+2) result. Nick places two support on the notecard. This is enough to claim the issue for the Stronghold. Fuscus and Galya are now unattached from any issues.</example>
 <h3>Claim an Issue</h3>
 If five or more support is placed onto the issue, the player may claim it for their side. All characters attached to the issue are now reassigned to other issues as in the setup (in reverse order of Society skill). If this is the last issue claimed, diplomacy is over immediately.
 <h2>Manipulate (Attack)</h2>
-Instead of taking the high ground and arguing the merits of the deal, a character may decide to manipulate another character. This could take the form of blackmail, lies, intimidation, or seduction. Relationship aspects which suggest a positive relationship will prevent this (remember, aspects are always true and are first and foremost facts about the world). Friends don’t use such underhanded tactics against other friends! One use of create advantage is to create such aspects to prevent being attacked by particularly devious characters.
-This action works as described in the <chapref>Core Rules</chapref> chapter. The attacking character uses Society and the defending character uses Wits. If there are multiple characters attached to an issue, the attacking player may choose who to attack.
+Instead of taking the high ground and arguing the merits of the deal, a character may decide to manipulate another character. This could take the form of blackmail, lies, intimidation, or seduction. Relationship aspects which suggest a positive relationship will prevent this—remember, aspects are always true and are first and foremost facts about the world. Friends don’t use such underhanded tactics against other friends! One use of create advantage is to create such aspects to prevent being attacked by particularly devious characters.
+This action works as described in <chapref>Core Rules</chapref> (page XX). The attacking character uses Society and the defending character uses Wits. The attacking character may only target other characters attached to the same issue. If there are multiple characters attached to an issue, the attacking player may choose who to attack.
 If the attack is successful, the defending character becomes unattached to the issue. The token for the character is placed off to the side, away from all of the issues. At the start of their next turn they may attach to any issue they wish.
-If a character is taken out, they no longer take actions for the rest of the Diplomacy conflict. All the normal results for being taken out as described in the <chapref>Core Rules</chapref> chapter also apply.
+If a character is taken out, they no longer take actions for the rest of the diplomacy conflict. All the normal results for being taken out as described in <chapref>Core Rules</chapref> (page XX) also apply.
 <h2>Defend</h2>
-This action works as described in the <chapref>Core Rules</chapref> chapter. Characters use Wits to defend against attacks.
+This action works as described in <chapref>Core Rules</chapref> (page XX). Characters use Wits to defend against manipulation.
 <h1>Resolution</h1>
 Unless otherwise listed in the mission description, the Stronghold needs to claim three issues in order to win. Frequently, there are partial victory conditions for claiming at least one issue.
 <h2>Alliance Missions</h2>
-For alliance missions, each unresolved issue becomes a campaign aspect with one free invoke. These may be used later in the campaign by the Autarch player. The disposition increase is based on how many issues the Stronghold claims.
+For alliance missions, each unresolved issue becomes a campaign aspect with one free invoke. If the Stronghold issues are used, create a suitable aspect based on the theme of the issue. These may be used later in the campaign by the Autarch player. The disposition increase is based on how many issues the Stronghold claims.
 <table>
 Issues	Disposition Change
 0 -2
@@ -1495,16 +1515,16 @@ Issues	Disposition Change
 </table>
 <chapter>Infiltration</chapter>
 Infiltration involves covert operations targeting a physical installation (called <term>the house</term>). Infiltration is the conflict used for assassination, sabotage, and heist missions. Whether stealing secret arcane formulae or laying waste to an ore refinery, the most important part of infiltration is the ability to carry out the plan without being detected.
-The heroes must sneak through the target location, avoiding or deceiving guards, while overcoming a number of security challenges (vaults, secure doors, observant guards, traps) in the process. Infiltration is not without risk. It is possible for one or more of the heroes to get caught in that act, making them unavailable for future missions until they’re rescued.
+The heroes must sneak through the target location, avoiding or deceiving guards, while overcoming a number of security challenges (vaults, secure doors, observant guards, traps) in the process. Infiltration is not without risk. It’s possible for one or more of the heroes to get caught in the act, making them unavailable for future missions until they’re rescued.
 <h1>Challenges</h1>
-During the challenge phase, the Stronghold players case the house, working to get access as well as uncover details about the target. The heroes may also try to find a safe house, connect with contacts, or use social engineering to exploit a source. The group can use the challenges as a collaborative vehicle to flesh out the house. What is stored inside? Who has access to it? Can you get close to them? What sort of security measures are in place? What vulnerabilities does it have?
-However, as with all missions, don’t start playing through the conflict! The challenges should touch on the plan, but shouldn’t directly accomplish the mission (stealing the plans, assassinating the target, etc.). That is covered during the infiltration conflict.
+During the challenge phase, the Stronghold players case the house, working to get access as well as uncover details about the target. The heroes may also try to find a safe house, connect with contacts, or use social engineering to exploit a source. The group can use the challenges as a collaborative vehicle to flesh out the house. What’s stored inside? Who has access to it? Can you get close to them? What security measures are in place? What vulnerabilities does it have?
+However, as with all missions, don’t start playing through the conflict! The challenges should touch on the plan, but shouldn’t directly accomplish the mission (stealing the plans, assassinating the target, etc.). That’s covered during the infiltration conflict.
 <h1>Opposition</h1>
-The opposition comes from <b>guards</b> trying to detect the heroes. Guards are built as minions. Guards are a particularly good use for no skill minions (see the <chapref>Characters</chapref> chapter). If the mission involves a faction, a leader from the faction may take the place of one of the guards.
+The opposition comes from <term>guards</term> trying to detect the heroes. Guards are built as minions. Guards are a particularly good use for no skill minions (see <chapref>Characters</chapref>, page XX). If the mission involves a faction, a leader from the faction may take the place of one of the guards.
 <h2>Creating Opposition</h2>
-It’s quickest to use no skill minions for guards. If they’re built as regular minions, giving guards a high Wits skill is important for detecting heroes. Athletics and Fighting are good for detaining heroes. Giving guards a higher Fighting skill helps push the action toward stealth and fast talking, as overt aggression becomes riskier.
+It’s quickest to use no skill minions for guards. If they’re built as regular minions, a high Wits skill is important for the guards to detect heroes. Athletics and Fighting are good for detaining heroes. Giving guards a higher Fighting skill helps push the action toward stealth and fast talking, as overt aggression becomes riskier.
 <h2>Sample Guards</h2>
-These sample guards can be chosen from as desired. It’s easiest if all the guards share the same template. These are easy to convert to no skill minions. Simply get rid of the skills and stunts, and set all of the stress tracks to two.
+These sample guards can get you started. It’s easiest if all the guards share the same template. These are easy to convert to no skill minions. Simply get rid of the skills and stunts, and set all of the stress tracks to two.
 <stats>
 <name>Tough Guard (Minion)</name>
 <aspect>Lives to Crack Heads</aspect>
@@ -1514,199 +1534,220 @@ These sample guards can be chosen from as desired. It’s easiest if all the gua
 <skill><b>Superb (+5)</b>	Fighting	</skill>
 <skill><b>Great (+4)</b>	Wits</skill>
 <skill><b>Good (+3)</b>	Athletics</skill>
-<skill><b>Decent (+2)</b>	Physique</skill>
+<skill><b>Fair (+2)</b>	Physique</skill>
 <skill><b>Average (+1)</b>	Will</skill>
-<stunt>Torch (Wits)</stunt>
+<stunt><b>Powerful Attack (Fighting)</b>: Add +2 to attack actions using Fighting.</stunt>
 </stats>
 <stats>
 <name>Observant Guard (Minion)</name>
-<aspect>”Hey, I haven’t seen you before?”</aspect>
+<aspect>”Hey, I Haven’t Seen You Before!”</aspect>
 <aspect>”When’s Lunch?”</aspect>
 <stress><b>Physical</b>  <fate>3</fate></stress>
 <stress><b>Mental</b>  <fate>3</fate></stress>
 <skill><b>Superb (+5)</b>	Wits	</skill>
 <skill><b>Great (+4)</b>	Athletics</skill>
 <skill><b>Good (+3)</b>	Fighting</skill>
-<skill><b>Decent (+2)</b>	Will</skill>
+<skill><b>Fair (+2)</b>	Will</skill>
 <skill><b>Average (+1)</b>	Physique</skill>
-<stunt>Torch (Wits)</stunt>
+<stunt><b>Never Forget a Face (Wits)</b>: Add +2 to overcome actions when trying to see through a character’s disguise.</stunt>
 </stats>
 <h1>Setup</h1>
-The players collaboratively come up with a plan, make a map of the house, flesh out the security challenges, and then place the heroes, initial guards, and alarms. First, gather together a number of note cards equal to three times the number of Stronghold players for use in creating the zones of the house. Add to this one notecard with the label <aspect>Outside the House</aspect>.
+The players collaboratively come up with a plan, make a map of the house, flesh out the security challenges, and then place the heroes, initial guards, and alarms. First, gather together a number of notecards equal to three times the number of Stronghold players for use in creating the zones of the house. Add to this one notecard with the label <i>Outside the House</i>.
 <h2>Security Challenges</h2>
-As the heroes go through the challenge phase, the players create details about the house. These details form the basis of the plan to crack the house. The heroes are huddled over the table at the back of the inn, drawing out who goes where and when to accomplish the task.
-Mechanically, each stage in the plan is represented as a <term>security challenge</term>. These work very similarly to challenges in the challenge phase. The players must create one security challenge for each hero on the mission. Each security challenge is written on a separate note card.
-The security challenges are not created using the challenge list. Instead, each challenge has one skill that must be used to overcome it. There must be one Thievery, one Disguise, and one Stealth security challenge. Write these skills on separate note cards. If there are four heroes, add another Thievery security challenge, and if there are five players, add another Disguise challenge.
-Draw a card for each of these security challenges, adding the listed suns and moons to the challenge. The difficulty for the challenge is found by adding the result to the mission difficulty, as it is for regular challenges. When this process is finished, there should be 3 - 5 security challenges on different note cards. These challenges don’t have thematic details or locations associated with them. That will come later.
+As the heroes go through the challenge phase, the players create details about the house. These details form the basis of the plan to crack the house. Imagine the heroes are huddled over a table at the back of the inn, drawing out who goes where and when to accomplish the task.
+Mechanically, each stage in the plan is represented as a <term>security challenge</term>. These work very similarly to challenges in the challenge phase. The players must create one security challenge for each hero on the mission. Each security challenge is written on a separate notecard.
+The security challenges aren’t created using the challenge list. Instead, each challenge has one skill that must be used to overcome it. There must be one Thievery, one Disguise, and one Stealth security challenge. Write these skills on separate notecards. If there are four heroes, add another Thievery security challenge, and if there are five players, add another Disguise challenge.
+Draw a card for each of these security challenges, adding the listed suns and moons to the challenge. The difficulty for the challenge is found by adding the result to the mission difficulty, as it is for regular challenges. When this process is finished, there should be three to five security challenges on different notecards. These challenges don’t have thematic details or locations associated with them. That comes later.
 <h2>Alarms</h2>
-The Autarch player should write the aspect <aspect>Alarm</aspect> on a number of blank note cards equal to half the heroes (round down). These alarm zones can be used by alerted guards to sound the alarm, bringing in more reinforcements.
+The Autarch player should write the aspect <aspect>Alarm</aspect> on a number of blank notecards equal to half the heroes (round down). These alarm zones can be used by alerted guards to sound the alarm, bringing in more reinforcements.
 <h2>Create the Map</h2>
-First, place the <aspect>Outside the House</aspect> zone out on the table. Next, shuffle up all of the security challenge cards, the alarm cards, and the remaining blank cards together. The Autarch player and the spotlight player take turns placing the note cards onto the table. The Autarch player goes first, taking the top note card and placing it next to the <aspect>Outside the House</aspect> card. Next, the spotlight player draws a card, and places it adjacent to the card the Autarch player placed.
-The Autarch player and spotlight player alternate turns, placing cards on the table until there are no cards left. Note cards must be placed with one edge adjacent to one or more other note cards. In addition, all zones must be reachable without going outside the house (that is, the house can’t be split into two parts).
+First, place the <i>Outside the House</i> zone out on the table. Next, shuffle all of the security challenge cards, the alarm cards, and the remaining blank cards together. The Autarch player and the spotlight player take turns placing the notecards on the table. The Autarch player goes first, taking the top notecard and placing it next to the <i>Outside the House</i> card. Next, the spotlight player draws a card, and places it adjacent to the card the Autarch player placed.
+The Autarch player and spotlight player alternate turns, placing cards on the table until there are no cards left. Notecards must be placed with one edge adjacent to one or more other notecards. In addition, all zones must be reachable without going outside the house (that is, the house can’t be split into two parts).
 <h2>Detail the Map</h2>
-The group collaboratively comes up with locations for the zones which feature challenges (<aspect>The Hall</aspect>, <aspect>The Courtyard</aspect>, <aspect>The Baron’s Bedchamber</aspect>) and writes them on each card. The spotlight player writes suitably thematic challenge titles on each security challenge card (<aspect>Main Office: Crack the Vault - 5 Thievery</aspect>, <aspect>Library: Convince Baron von Schlefwitz to Retrieve the Tome - 7 Disguise</aspect>).
+The group collaboratively comes up with locations for the zones that feature challenges (<i>The Hall</i>, <i>The Courtyard</i>, <i>The Baron’s Bedchamber</i>) and writes them on each card. The spotlight player writes suitably thematic challenge titles on each security challenge card (<i>Main Office: Crack the Vault - 5 Thievery</i>, <i>Library: Convince Baron von Schlefwitz to Retrieve the Tome - 7 Disguise</i>).
 <h2>Place Guards</h2>
-The Autarch player starts with a number of guards equal to half the heroes (round down). Each guard is placed on the edge of one of the note cards. It’s fine to place multiple guards on the same zone.
+The Autarch player starts with a number of guards equal to half the heroes (round down). Each guard is placed on the edge of one of the notecards. It’s fine to place multiple guards on the same zone.
 <h2>Aspect Burning</h2>
-Each free invoke burned can be used to allow a hero unrestricted access to a zone (by default heroes are not allowed in any zones) or add a new zone to the map.
+Each free invoke burned can be used to allow a hero unrestricted access to a zone (by default heroes are not allowed in any zones) or to add a new zone to the map.
 <h1>The Exchange</h1>
-Each hero takes an action in any order desired by the spotlight player. Next, unalerted guards patrol (see below), moving one zone. Alerted guards may optionally move. After movement, each guard and leader takes one action in any order desired by the Autarch player. Finally, more guards may arrive.
+Each hero takes an action in any order desired by the spotlight player. Next, unalerted guards patrol, moving one zone. Alerted guards may optionally move. After movement, each guard and leader takes one action in any order desired by the Autarch player. Finally, more guards may arrive.
 <h1>Actions</h1>
-When a character takes a turn, they choose one of the actions from the list below. Some actions are only available to heroes while some are only available to the opposition leaders.
+When a character takes a turn, they choose one of the following actions: 
+<list>
+Focus
+Remove Suspicion and Alerts (Heroes only)
+Detect Intruder (Guards only)
+Capture Intruder (Guards only)
+Resolve Security Challenge (Heroes only)
+Movement
+Attack (Heroes only)
+Raise the Alarm (Guards only)
+</list>
+Some actions are only available to heroes while some are only available to the opposition leaders.
 <h2>Suspicion and Alert</h2>
-If a hero fails any action, the nearest guard gets the aspect <aspect>Suspicious</aspect> with one free invoke. If instead any guards are in the same zone as the hero when an action is failed, each guard in the zone gets the aspect <aspect>Alerted!</aspect> with two free invokes.
+If a hero fails <i>any</i> action, the nearest guard gets the aspect <aspect>Suspicious</aspect> with one free invoke. If any guards are <i>in the same zone</i> as the hero when an action is failed, each guard in the zone gets the aspect <aspect>Alerted!</aspect> with two free invokes.
 <h2>Focus</h2>
-Heroes may focus as described in the <chapref>Conflicts</chapref> chapter.
+If a character has no boosts, they may use the focus action to take one boost. This action is not available to minions. Boosts may be spent as normal. See <chapref>Core Rules</chapref> (page XX) for more details.
 <h2>Remove Suspicion and Alerts (Heroes, Overcome)</h2>
 Since these are just aspects, a hero can attempt to use an overcome action to get rid of them, resulting in the guard going back to a normal state. This is done used Disguise opposed by Wits for the guard. If the alarm has been raised, this action is not available.
 <h2>Detect Intruder (Guards, Overcome)</h2>
-Guards may attempt to detect a hero in the same zone. The guard uses Wits, opposed by either Stealth (if the hero is hiding) or Disguise (if the hero has a cover identity). Since the hero is in the same zone, if the hero fails to defend, the guards in the same zone become alerted (they gain the <aspect>Alerted!</aspect> aspect with one free invoke).
+Guards may attempt to detect a hero in the same zone. The guard uses Wits, opposed by either Stealth (if the hero is hiding) or Disguise (if the hero has a cover identity). Since the hero is in the same zone, if the hero fails to defend, the guards in the same zone are alerted (they gain the <aspect>Alerted!</aspect> aspect with one free invoke).
 <h2>Capture Intruder (Guards, Overcome)</h2>
 Alerted guards may attempt to capture a hero in the same zone. The guard uses Fighting, opposed by either Fighting or Athletics. If the guard is successful, the hero is captured, and both the guard and the hero are removed from the map.
 <h2>Resolve Security Challenge (Heroes, Overcome)</h2>
 This works similarly to removing challenges in the challenge phase. The challenge is removed if the hero succeeds (with the suns causing stress as for regular challenges). Similarly, moons must be removed first.
 However, failure is handled a little differently. Instead of failing the challenge and giving the Autarch player a mission aspect, the nearest guard becomes suspicious (as normal for a hero failing an action).
 <h2>Movement</h2>
-Movement for heroes uses Athletics, and functions as described in the <chapref>Conflicts</chapref> chapter. However, because heroes are trying not to attract attention, they must stop movement when entering a zone with a guard or the guard immediately becomes alerted. Alerted guards oppose movement out of the zone.
+Movement for heroes uses Athletics, and functions as described in <chapref>Conflicts</chapref> (page XX). However, because heroes are trying not to attract attention, they must stop movement when entering a zone with a guard, or the guard immediately becomes alerted. Alerted guards oppose movement out of the zone.
 <h3>Guard Movement</h3>
-Guards <term>patrol</term>, moving only one zone each exchange in the direction they’re facing, turning around when they run out of room. Place guards at one edge of the note card they’re on to indicate the direction they will move next turn. Suspicious and alerted guards move as heroes do.
+Guards <term>patrol</term>, moving only one zone each exchange in the direction they’re facing, turning around when they run out of room. Place guards at one edge of the notecard they’re on to indicate the direction they will move next turn. Suspicious and alerted guards move as heroes do.
 <h2>Attack</h2>
-Heroes may attack using Fighting or Marksmanship. These work as they do in the skirmish conflict. If a guard is attacked, the immediately gain the <aspect>Alerted!</aspect> aspect with two free invokes. Furthermore, the nearest guard becomes suspicious from the sounds of battle (gains the <aspect>Suspicious</aspect> with one free invoke).
+Heroes may attack using Fighting or Marksmanship. These work as they do in the skirmish conflict (page XX). If a guard is attacked, the immediately gain the <aspect>Alerted!</aspect> aspect with two free invokes. Furthermore, the nearest guard becomes suspicious from the sounds of battle (gains the <aspect>Suspicious</aspect> with one free invoke).
 <h2>Raise the Alarm (Guards Only)</h2>
 If an alerted guard ends their action in a zone with an alarm, the alarm is sounded. All guards become alerted, and may move and attack freely.?
 <h1>More Guards</h1>
 After each exchange, the Autarch player may place one guard in any empty zone. If the alarm has sounded, the Autarch player may place two guards each exchange. Time is of the essence!
 <h1>Resolution</h1>
-The heroes are successful when all the security challenges are completed and at least one hero makes it back <aspect>Outside the House</aspect>. Once in the <aspect>Outside the House</aspect> zone, a hero is out of the conflict. They take no more actions.
-The conflict is over when all the heroes are either <aspect>Outside the House</aspect> or captured.
-If any heroes are caught, the disposition of the faction drops by two. Furthermore, the captured hero is unavailable for any future missions until they are rescued during Stronghold Upkeep (see the <chapref>Seasons</chapref> chapter.
+The heroes are successful when all the security challenges are completed and at least one hero makes it back <i>Outside the House</i>. Once in the <i>Outside the House</i> zone, a hero is out of the conflict. They take no more actions.
+The conflict is over when all the heroes are either <i>Outside the House</i> or captured.
+If any heroes are caught, the disposition of the faction drops by two. Furthermore, the captured hero is unavailable for any future missions until they’re rescued during Stronghold upkeep (see <chapref>Seasons</chapref>, page XX).
 <chapter>Skirmish</chapter>
-Skirmishes are small battles between the heroes and a few opponents. Conquering many of the neutral regions requires battling off monsters of the wild, which is handled with Skirmish. Skirmish is also common for many of the Quest missions, as well as for handling regional threats.
-The opposition for the heroes is a boss monster or a leader of some sort, sometimes accompanied by a number of minions. The heroes and opponents move around zones, using skills like Fighting and Marksmanship to inflict physical stress on each other until one side concedes. Zones in Skirmish aren’t very big: typically they’re on the scale of dining rooms, hallways, barns, and small forest clearings. As usual for zones, the exact scale is fairly abstract.
+Skirmishes are small battles between the heroes and a few opponents. Conquering many of the neutral regions requires battling off monsters of the wild, which is handled with skirmish. Skirmish is also common for many of the quest missions, as well as for handling regional threats.
+The opposition for the heroes is a boss monster or a leader of some sort, sometimes accompanied by a number of minions. The heroes and opponents move around zones, using skills like Fighting and Marksmanship to inflict physical stress on each other until one side concedes. Zones in skirmish aren’t very big: typically they’re on the scale of dining rooms, hallways, barns, and small forest clearings. As usual for zones, the exact scale is fairly abstract.
 <h1>Challenges</h1>
-Common themes for Skirmish challenge scenes include battling opponents (bandits, fire lizards, undead bears) and dealing with hardships in the environment (raging rivers, snowstorms, underground caverns). The most common skills used to resolve Skirmish challenges are Fighting, Marksmanship, and Survival. Many of the Conquest missions for neutral regions (see the Neutral Regions chapter), as well as the faction Quests, have example challenges listed. These are good sources to mine for inspiration.
+Common themes for skirmish challenge scenes include battling opponents (bandits, fire lizards, undead bears) and dealing with hardships in the environment (raging rivers, snowstorms, underground caverns). The most common skills used to resolve skirmish challenges are Fighting, Marksmanship, and Survival. Many of the conquest missions for neutral regions (see <chapref>Regions</chapref>, page XX), as well as the faction quests, have example challenges listed. These are good sources to mine for inspiration.
 <h1>Opposition</h1>
-Either one leader (a boss monster) with a skill cap two higher than the mission difficulty, or a leader with a skill cap equal to the mission difficulty along with a number of minions equal to the number of heroes. The minions also have a skill cap equal to the mission difficulty. If the Skirmish mission is against a faction, one of the leaders from the faction may be chosen as opposition.
-If using a single tough opponent, they can take the <i>Big Bad</i> General Opposition stunt without using up one of their stunt slots.
+The opposition is usually either one leader (a boss monster) with a skill cap two higher than the mission difficulty, or a leader with a skill cap equal to the mission difficulty along with a number of minions equal to the number of heroes. The minions also have a skill cap equal to the mission difficulty. If the skirmish mission is against a faction, one of the leaders from the faction may be chosen as opposition.
+If using a single tough opponent, they can take the Big Bad opposition stunt (page XX) without using up one of their stunt slots.
 <h2>Creating Opposition</h2>
-If opposition needs to be created, they should be given beneficial skills to help with Skirmish. Either Fighting or Athletics is critical to doing any damage. Athletics helps with moving around the battlefield, and Survival determines the action order. Finally, Physique improves the physical stress track, which is also helpful during skirmish. Stealth can be useful for creating advantages, and Wits is useful in case the heroes have a sneaky character of their own.
+If opposition needs to be created, they should be given beneficial skills to help with skirmish. Either Fighting or Athletics is critical to doing any damage. Athletics helps with moving around the battlefield, and Survival determines the action order. Finally, Physique improves the physical stress track, which is also helpful during skirmish. Stealth can be useful for creating advantages, and Wits is useful in case the heroes have a sneaky character of their own.
 <h1>Setup</h1>
-The players collaboratively create a map where the conflict will take place, and place tokens (miniatures or markers of some sort) to represent the characters onto the zones.
+The players collaboratively create a map where the conflict will take place, and place tokens (miniatures or markers of some sort) onto the zones to represent the characters.
 <h2>Create the Map</h2>
-Gather together 10 note cards to use for tracking the zones where the conflict will take place. The Autarch player may write or draw aspects representing physical obstacles on up to four of the note cards (rubble, shallow water, underbrush, cluttered room, etc).
-The Autarch player and the spotlight player take turns placing the note cards onto the table. The Autarch player places a card first, choosing any desired note card, followed by the spotlight player, who also chooses any note card and places it adjacent to the card already on the table. Zones must be connected along one edge (not diagonal) to one or more other zones. After all zones have been placed, a note card is placed by the spotlight player, with the label <aspect>Hero Start</aspect> on it.
+Use ten notecards to track the zones where the conflict will take place. The Autarch player may write or draw aspects representing physical obstacles on up to four of the notecards (rubble, shallow water, underbrush, cluttered room, etc.).
+The Autarch player and the spotlight player take turns placing the notecards on the table. The Autarch player places a card first, choosing any desired notecard, followed by the spotlight player, who also chooses any notecard and places it adjacent to the card already on the table. Zones must be connected along one edge (not diagonal) to one or more other zones. After all zones have been placed, a notecard labeled <i>Hero Start</i> is placed by the spotlight player.
 <h2>Place Characters</h2>
-The Autarch player places all of the opposition on any desired zones, with the exception of the <aspect>Hero Start</aspect> zone, which must be free from opposition. Following that, the spotlight player places tokens to represent the heroes onto the <aspect>Hero Start</aspect> zone.
+The Autarch player places all of the opposition on any desired zones, with the exception of the <i>Hero Start</i> zone, which must be free from opposition. Following that, the spotlight player places tokens to represent the heroes on the <i>Hero Start</i> zone.
 <h2>Aspect Burning</h2>
-The Stronghold players may burn a free invoke (from a mission or campaign aspect) to allow a hero to start in a different zone (instead of the given starting zone), add a new obstacle to a zone, or add a new zone to the map. Each of these costs one free invoke.
+The Stronghold players may burn free invokes (from a mission or campaign aspect) to allow a hero to start in a different zone instead of the given starting zone, add a new obstacle to a zone, or add a new zone to the map. Each of these costs one free invoke.
 <h1>The Exchange</h1>
 Turns are taken in order of the Survival skill. Stronghold players go first in the case of ties. Characters may delay their action until later in the exchange, potentially forcing characters with lower Survival skills to go first.
 <h1>Actions</h1>
-When a character takes a turn, they may Create a Minor Advantage, Attack, or Overcome (usually used for movement).
+When a character takes a turn, they may create an advantage, attack, or overcome (usually used for movement).
 <h2>Focus</h2>
-This action works as described in the <chapref>Conflicts</chapref> chapter.
+If a character has no boosts, they may use the focus action to take one boost. This action is not available to minions. Boosts may be spent as normal. See <chapref>Core Rules</chapref> (page XX) for more details.
 <h2>Movement</h2>
-Movement in skirmish uses the Athletics skill, and works as described in the <chapref>Conflicts</chapref> chapter.
+Movement in skirmish uses the Athletics skill, and works as described in <chapref>Conflicts</chapref> (page XX).
 <h2>Attack</h2>
 Characters may attack using Fighting or Marksmanship. Fighting is opposed by Fighting or Athletics and inflicts physical stress. Without stunts, Fighting may only target a character in the same zone.
-Marksmanship inflicts physical stress and is opposed by Athletics. Marksmanship may target a character in the same zone or in any zone the firing character can see. The zone targeted using Marksmanship must be in a straight line from where the firing characters zone is (counting diagonally along zones is fine). For each zone crossed to the target, add +1 to the target character’s opposition.
-Remember that a character can’t inflict more stress than the value of the skill they use to attack with! (See the <chapref>Core Rules</chapref> chapter for more details).
+Marksmanship inflicts physical stress and is opposed by Athletics. Marksmanship may target a character in the same zone or in any zone the firing character can see. The zone targeted using Marksmanship must be in a straight line from where the firing character’s zone is (counting diagonally along zones is fine). For each zone crossed to the target, add +1 to the target character’s opposition.
+Remember that a character can’t inflict more stress than the value of the skill they use to attack with! (See <chapref>Core Rules</chapref>, page XX, for more details).
 <h2>Defend</h2>
-The standard skills are available to defend with (Athletics defends against Fighting or Marksmanship, Fighting defends against Fighting). Defend doesn’t require an action to use, it is used when the character is attacked or when another character tries to remove an aspect they’re invested in maintaining.
+The standard skills are available to defend with (Athletics defends against Fighting or Marksmanship, Fighting defends against Fighting). Defend doesn’t require an action; it’s used when the character is attacked or when another character tries to remove an aspect they’re invested in maintaining.
 <h1>Resolution</h1>
-Skirmish continues until one side either gives up, or all of their characters are taken out. If the heroes give up or are all taken out, they have lost the mission. The heroes may give up after any exchange.
+Skirmish continues until one side either gives up or all of their characters are taken out. If the heroes give up or are all taken out, they have lost the mission. The heroes may give up after any exchange.
 <chapter>Warfare</chapter>
 Battles between armies for control of a region are fought using warfare. Warfare is bloody business. Casualties are common for the losing side as well as for the victor.
 While having competent military commanders is important, a variety of quality <term>units</term> are also necessary for martial success. The Stronghold must have the correct type of development prior to building units. The units are mustered during the stronghold upkeep phase. Resources are allocated on a per unit basis as they are for other developments. Units are a little like characters, with skills and stunts to use during the battle.
-Each side places units under the command of chosen leaders. Zones, representing large areas of land, are created on note cards and a battlefield is constructed. The goal in warfare is to secure the defender’s <term>strategic zone</term>, occupying it with units so that it changes hands.
+Each side places units under the command of chosen leaders. Zones, representing large areas of land, are created on notecards and a battlefield is constructed. The goal in warfare is to secure the defender’s <term>strategic zone</term>, occupying it with units so that it changes hands.
 <h1>Challenges</h1>
 Challenges during warfare missions focus on the pain of military life and the struggle to secure strategic advantage. Morale issues, homesick soldiers, fatigue, reconnaissance, environmental hazards, and small battles with enemy forces are all potential challenge scenes.
 <h1>Units</h1>
-Units are large groups of fighting forces under the control of a leader. Although units are not characters, they are composed of similar elements: skills, aspects, and stunts.  Units don’t have stress or consequences.
+Units are large groups of fighting forces under the control of a leader. Although units aren’t characters, they are composed of similar elements: skills, aspects, and stunts.  Units don’t have stress or consequences.
 <h2>Commanders</h2>
-As mentioned, units are assigned to a commander (a hero, faction leader, or lieutenant). Units do not spend or receive fate points of their own. Rather, the controlling commander spends fate points on behalf of the unit. Units do not get actions independent of their commander.
+Units are assigned to a commander (a hero, faction leader, or lieutenant) who spends fate points on behalf of the unit. Units don’t spend or receive fate points of their own, nor do they get actions independent of their commander.
 <h2>Novice Commanders</h2>
-If a commander is taken out for any reason, it is assumed another commander steps up to lead the army. However, all of the novice commander’s skills are Mediocre (+0) and they have no stress boxes or consequences.
+If a commander is taken out for any reason, it’s assumed another commander steps up to lead the army. However, all of the novice commander’s skills are Mediocre (+0) and they have no stress boxes or consequences.
 <h2>Units and Skills</h2>
-Units only have a few types of skills and they more directly reflect the sorts of actions available: fighting, marksmanship, armor, and siege. The functions of these skills are explained in the <secref>Actions</secref> section of this chapter.
+Units only have a few types of skills, which more directly reflect the sorts of actions available: Fighting, Lore, Marksmanship, Movement, Armor, and Siege. Movement, Armor, and Siege are skills exclusive to units. Only select unit types have Lore, Marksmanship, and Siege. All units have Fighting, Movement, and Armor. The functions of these skills are explained in <secref>Actions</secref> (page XX).
 <h2>Unit Listing</h2>
-Following are all the types of units available for purchase during stronghold upkeep. Units (with the exception of militia) have certain developments which must be purchased before the units can be obtained. See the <chapref>Developments</chapref> chapter for more details.
+Following are all the types of units available for purchase during stronghold upkeep: 
+<list>
+Archers
+Battle Mages
+Cannons
+Catapults
+Cavalry
+Infantry
+Militia
+</list>
+Units (with the exception of militia) have certain developments that must be purchased before the units can be obtained. See <chapref>Developments</chapref> (page XX) for more details.
 <stats>
 <name>Archers</name>
-<skill><b>Decent (+2)</b>	Fighting, Armor, Movement</skill>
+<skill><b>Fair (+2)</b>	Armor, Fighting, Movement</skill>
 <skill><b>Average (+1)</b>	Marksmanship</skill>
-<aspect>Out of arrows!</aspect>
+<aspect>Out of Arrows!</aspect>
 <aspect>Vulnerable to Charge</aspect>
-<stunt>Aim - </stunt>If archers have not moved this exchange, their Marksmanship is improved to Decent (+2).
-<stunt>Longbows - </stunt>Archers have a maximum range of four zones, regardless of the number of shifts rolled.
-<stunt>Pinned</stunt> - Archers may not use ranged attack if there are opposing units in the same zone.
+<stunt><b>Aim</b>: If archers have not moved this exchange, their Marksmanship is improved to Fair (+2).</stunt>
+<note>Archers have a maximum range of four zones, regardless of the number of shifts rolled.</note>
+<note>Archers may not use ranged attacks if there are opposing units in the same zone.</note>
 </stats>
-Archers, along with battle mages, are the key units used for ranged attack. Archers have poor defense and are best surrounded by infantry.
+Archers, along with battle mages, are the key units for ranged attacks. Archers have poor defense and are best surrounded by infantry.
 <stats>
 <name>Battle Mages</name>
 <skill><b>Good (+3)</b>	Lore</skill>
-<skill><b>Decent (+2)</b>	Movement</skill>
+<skill><b>Fair (+2)</b>	Movement</skill>
 <skill><b>Average (+1)</b>	Fighting	</skill>
 <skill><b>Mediocre (+0)</b>	Armor</skill>
 <aspect>Rain of Fire</aspect>
 <aspect>Incompetent Fighters</aspect>
-<stunt>Ranged Blast - </stunt>May use Lore to make ranged attacks.
-<stunt>Pinned - </stunt>Battle Mages may not make ranged attacks if there are opposing units in the same zone.
+<stunt>Ranged Blast: May use Lore to make ranged attacks.</stunt>
+<note>Battle Mages may not make ranged attacks if there are opposing units in the same zone.</note>
 </stats>
-Battle mages are the only unit type that require an Arcane development as the prerequisite. They have very poor defense, but have a devastating ranged attack.
+Battle mages are the only unit type that requires an Arcane development as the prerequisite. They have very poor defense, but have a devastating ranged attack.
 <stats>
 <name>Cannons </name>
 <skill><b>Fantastic (+6)</b>	Armor</skill>
-<skill><b>Decent (+2)</b>	Movement, Siege</skill>
+<skill><b>Fair (+2)</b>	Movement, Siege</skill>
 <aspect>Castle Smasher</aspect>
 <aspect>Tricky to Maneuver</aspect>
-<stunt>Siege Weapon - </stunt>The Siege skill can be used for ranged attack with a maximum range of 3 (regardless of shifts). Cannons may inflict stress on defensive ramparts (keeps and castles).
-<stunt>Aim - </stunt>If cannons have not moved this exchange, their Siege is improved to Good (+3).
+<stunt>Siege Weapon: The Siege skill can be used for ranged attacks with a maximum range of 3 (regardless of shifts). Cannons may inflict stress on defensive ramparts (keeps and castles).</stunt>
+<stunt>Aim: If cannons have not moved this exchange, their Siege is improved to Good (+3).</stunt>
 </stats>
-Cannons are the most powerful siege weapons, and are a virtual requirement when attacking a castle.
+Cannons are the most powerful siege weapons and are a virtual requirement when attacking a castle.
 <stats>
 <name>Catapults </name>
 <skill><b>Superb (+5)</b>	Armor</skill>
-<skill><b>Decent (+2)</b>	Movement</skill>
+<skill><b>Fair (+2)</b>	Movement</skill>
 <skill><b>Mediocre (+0)</b>	Siege</skill>
 <aspect>Fires Over Walls</aspect>
 <aspect>Tricky to Maneuver</aspect>
-<stunt>Siege Weapon - </stunt>The Siege skill can be used for ranged attack with a maximum range of 3 (regardless of shifts). Catapults may inflict stress on defensive ramparts (keeps and castles).
-<stunt>Aim - </stunt>If catapults have not moved this exchange, their Siege is improved to Average (+1).
+<stunt>Siege Weapon: The Siege skill can be used for ranged attacks with a maximum range of 3 (regardless of shifts). Catapults may inflict stress on defensive ramparts (keeps and castles).</stunt>
+<stunt>Aim: If catapults have not moved this exchange, their Siege is improved to Average (+1).</stunt>
 </stats>
 While not as effective as cannons, catapults are powerful in greater numbers, and are also fairly effective against weaker defenses like keeps.
 <stats>
 <name>Cavalry</name>
 <skill><b>Superb (+5)</b>	Armor</skill>
 <skill><b>Good (+3)</b>	Movement</skill>
-<skill><b>Decent (+2)</b>	Fighting	</skill>
+<skill><b>Fair (+2)</b>	Fighting	</skill>
 <aspect>Crashing Wave of Steel and Hoof</aspect>
 <aspect>Vulnerable to Set Defense</aspect>
-<stunt>Charge! - </stunt>If the cavalry moved this turn, their Fighting is improved to Good (+3).
+<stunt>Charge!: If the cavalry moved this turn, their Fighting is improved to Good (+3).</stunt>
 </stats>
 Cavalry are highly mobile, and have strong Fighting and Armor skills.
 <stats>
 <name>Infantry </name>
 <skill><b>Great (+4)</b>	Armor</skill>
-<skill><b>Decent (+2)</b>	Fighting, Movement</skill>
-<aspect>The War is Won or Lost With Us!</aspect>
+<skill><b>Fair (+2)</b>	Fighting, Movement</skill>
+<aspect>The War Is Won or Lost With Us!</aspect>
 <aspect>Most Important Piece</aspect>
 </stats>
-Infantry are the bread and butter of any fighting force. They’re cheaper, able to be improved by warfare developments, and help absorb blows as well as deal damage. They’re best used paired with other unit types where they can help.
+Infantry are the bread and butter of any fighting force. They’re cheaper, able to be improved by warfare developments, and help absorb blows as well as deal damage. They’re best paired with other unit types where they can help.
 <stats>
 <name>Militia</name> 
-<skill><b>Decent (+2)</b>	Movement, Armor</skill>
+<skill><b>Fair (+2)</b>	Movement, Armor</skill>
 <skill><b>Average (+1)</b>	Fighting</skill>
-<aspect>I will defend my home!</aspect>
+<aspect>I Will Defend My Home!</aspect>
 <aspect>Disorganized</aspect>
-<stunt>Homeland Defense - </stunt>When militia are used for defending a region, their Fighting skill is improved to Decent (+2).
-<stunt>Backbone of Labor - </stunt>Each militia unit lost while attacking another faction causes a loss of one stability for the Stronghold (or attacking faction).
+<stunt>Homeland Defense: When militia are used to defend a region, their Fighting skill is improved to Fair (+2).</stunt>
+<stunt>Backbone of Labor: </stunt>Each militia unit lost while attacking another faction causes a loss of one stability for the Stronghold (or attacking faction).
 </stats>
-Militia are cheap, but ineffective and result in greater casualties if their morale breaks. They are not suited to campaigning in far off lands.
+Militia are cheap, but they’re ineffective and result in greater casualties if their morale breaks. They are not suited to campaigning in far off lands.
 <h1>Ramparts</h1>
-There are two defensive developments (keeps and castles) which may be placed on regions to help with defense. Keeps and castles are always on the strategic zone, and prevent movement onto the zone or ranged attacks on the units in the zone until they are destroyed or somehow neutralized. This is done via Siege attacks opposed by the Armor value of the structure. While this is going on, archers may rain down arrows from the ramparts onto opposing units without fear of reprisal.
+There are two defensive developments (keeps and castles) that may be placed on regions to help with defense. Keeps and castles are always on the strategic zone (page XX), and prevent movement onto the zone or ranged attacks on the units in the zone until they’re destroyed or somehow neutralized. This is done via Siege attacks opposed by the Armor value of the structure. While this is going on, archers may rain down arrows from the ramparts onto opposing units without fear of reprisal.
 <h2>Rampart Listing</h2>
-Wall Strength functions as a stress track similar to those used by characters. When the structure is taken out from an attack, it is no longer effective and provides no benefits.
+<term>Wall strength</term> functions as a stress track similar to those used by characters. When the structure is taken out from an attack, it is no longer effective and provides no benefits.
 <stats>
 <name>Castle (Regional Development)</name>
 <stress><b>Wall Strength</b>	<fate>3</fate></stress>
@@ -1714,7 +1755,7 @@ Wall Strength functions as a stress track similar to those used by characters. W
 <skill><b>Impenetrable (+10)</b>	Armor</skill>
 <aspect>Fire From the Ramparts!</aspect>
 <aspect>Thick Walls of Stone</aspect>
-<stunt>Rampart - </stunt>Only attacks from the Siege and Engineering skills cause the castle to take stress.
+<stunt>Rampart: Only attacks from the Siege and Engineering skills cause the castle to take stress.</stunt>
 </stats>
 <stats>
 <name>Keep (Regional Development)</name>
@@ -1723,14 +1764,14 @@ Wall Strength functions as a stress track similar to those used by characters. W
 <skill><b>Fantastic (+6)</b>	Armor</skill>
 <aspect>Boiling Oil</aspect>
 <aspect>Take Cover!</aspect>
-<stunt>Rampart - </stunt>Only attacks from the Siege and Engineering skills cause the keep to take stress.
+<stunt>Rampart: Only attacks from the Siege and Engineering skills cause the keep to take stress.</stunt>
 </stats>
 <h1>Opposition</h1>
-The opposing side gets one lieutenant with a skill cap equal to the mission difficulty for each hero. If the opponent in the conflict is a faction, the Autarch player can substitute any number of leaders from the faction for lieutenants.
+For each hero, the opposing side gets one lieutenant with a skill cap equal to the mission difficulty. If the opponent in the conflict is a faction, the Autarch player can substitute any number of leaders from the faction for lieutenants.
 <h2>Creating Commanders</h2>
 The most important skills in warfare are Tactics, Command, and Engineering, followed more distantly by Fighting, Athletics, Physique, and Marksmanship.
 <h2>Sample Commander</h2>
-Following is a sample commander that is easy to adjust for the campaign by sliding the given skills up or down as appropriate to meet the mission difficulty.
+This sample commander is easy to adjust for the campaign by sliding the given skills up or down as appropriate to meet the mission difficulty.
 <stats>
 <name>Defensive General (Lieutenant)</name>
 <stress><b>Physical</b>	<fate>2</fate></stress>
@@ -1739,75 +1780,79 @@ Following is a sample commander that is easy to adjust for the campaign by slidi
 <skill><b>Superb (+5)</b>	Command</skill>
 <skill><b>Great (+4)</b>	Tactics</skill>
 <skill><b>Good (+3)</b>	Will</skill>
-<skill><b>Decent (+2)</b>	Fighting</skill>
+<skill><b>Fair (+2)</b>	Fighting</skill>
 <skill><b>Average (+1)</b>	Engineering</skill>
 <aspect>Take the Hill!</aspect>
-<aspect>“Hold the line!”</aspect>
-<stunt>Band Together (Command)</stunt>
-<stunt>Set for Charge (Tactics)</stunt>
+<aspect>Hold the line!</aspect>
+<stunt>Band Together (Command): During warfare, after units have been assigned during a clash of arms action, may swap one defending unit under your command for a different unit that isn’t being attacked.</stunt>
+<stunt>Set for Charge (Tactics): During warfare, add +1 to the Armor of infantry and militia units when they defend against charging cavalry (only for the turn the cavalry moved).</stunt>
 </stats>
-This is a good defensive military leader, with solid <skill>Tactics</skill> and <skill>Command</skill>, and two stunts useful for Warfare. With the lower Engineering, this leader isn’t as suited to dealing with siege equipment.
+This is a good defensive military leader, with solid Tactics and Command, and two stunts useful for warfare. With the lower Engineering, this leader isn’t as suited to dealing with siege equipment.
 <h2>Units for Threats</h2>
-For threats which don’t involve enemy factions, it is necessary to determine the opposing army strength. In this case, gather a number of units equal to twice the difficulty of the threat. At least half of the opposing units should be infantry. The other half can be a mixture of any unit types chosen by the Autarch player.
+For threats that don’t involve enemy factions, it’s necessary to determine the opposing army strength. In this case, gather a number of units equal to twice the difficulty of the threat. At least half of the opposing units should be infantry. The other half can be a mixture of any unit types chosen by the Autarch player.
 <h1>Setup</h1>
 During setup, each side determines what set of units they have available and assigns them to commanders. The battlefield is created, along with the strategic zone and any terrain. Finally, leaders and attached units are placed onto the battlefield.
 <h2>Allocate Units</h2>
 Each side allocates units from their available total units. Allies for the Stronghold (minor factions with a disposition of 5 or higher) provide up to three units from their available totals. If warfare involves the Empire, allies for the Autarch (minor factions with a disposition of -4 or lower) provide up to three units to the Autarch.
 <h2>Attach Commanders</h2>
-Each unit must be attached to one commanding character (a hero, leader, or lieutenant). A commander may control a number of units equal to their Command skill or a minimum of three, whichever is higher. Commanders defending their capital may control one additional unit.
+Each unit must be attached to one commanding character (a hero, leader, or lieutenant). A commander may control a number of units equal to their Command skill, with a minimum of three. Commanders defending their capital may control one additional unit.
 <h2>Champions</h2>
-A character may start without commanding any units, in which case the character must be attached to a commander, just as units are. The character will move and act with their commander. They can’t take any actions which require units, but may take the heroic actions below.
+A character may start without commanding any units, in which case the character must be attached to a commander, just as units are. The character moves and acts with their commander. They can’t take any actions that require units, but may take the heroic actions on page XX.
 <h2>Create the Battlefield</h2>
-Assemble fifteen note cards for creating the battlefield. These zones represent much larger areas of terrain than the zones in the skirmish or infiltration conflicts. Areas potentially hundreds of yards across. One note card should be labeled as the strategic zone. This is a vital location that is being fought over, such as a city center or a valuable mine.
-Additionally, the defending side may place four physical obstacles onto the zones, such as marshes, hills, or forests. These may be drawn or written onto the note cards.
-The strategic zone is placed by the defending player, and the battlefield is built out from the strategic zone. One side of the strategic zone is designated as the top and one side is designated as the bottom. When placing note cards to build the battlefield, no zones may be placed below the bottom of the strategic zone. The battlefield builds out in three directions from the strategic zone.
-The attacking player and defending player alternate placing the zones onto the battlefield, keeping in mind the restriction of not placing zones below the strategic zone. Each note card must be placed next to a card already in play.
+Assemble fifteen notecards for creating the battlefield. These zones represent much larger areas of terrain—potentially hundreds of yards across—than the zones in the skirmish or infiltration conflicts. One notecard should be labeled as the <term>strategic zone</term>. This is a vital location that’s being fought over, such as a city center or a valuable mine.
+Additionally, the defending side may place four physical obstacles onto the zones, such as marshes, hills, or forests. These may be drawn or written onto the notecards.
+The strategic zone is placed by the defending player, and the battlefield is built out from the strategic zone. One side of the strategic zone is designated as the top and one side is designated as the bottom. When placing notecards to build the battlefield, no zones may be placed below the bottom of the strategic zone. The battlefield builds out in three directions from the strategic zone.
+The attacking player and defending player alternate placing the zones onto the battlefield, keeping in mind the restriction of not placing zones below the strategic zone. Each notecard must be placed next to a card already in play.
 <h2>Place Commanders</h2>
-Attacking commanders and attached units are placed first. They must be placed at least <strong>four</strong> zones away from the strategic zone. Defending commanders and attached units must be placed within <strong>two</strong> zones of the strategic zone. Use some marker for each commander (a token or miniature). It is also easier to visualize attached units if a token of some sort is used for each unit.
+Attacking commanders and attached units are placed first. They must be placed at least <strong>four</strong> zones away from the strategic zone. Defending commanders and attached units must be placed within <strong>two</strong> zones of the strategic zone. Use some marker for each commander (a token or miniature). It’s also easier to visualize attached units if a token of some sort is used for each unit.
 <h2>Aspect Burning</h2>
 Each free invoke burned may be used to add one new zone or one new terrain obstacle to the battlefield.
 <h1>Exchange</h1>
-Turns are taken by commanders in the order of their Command skills. Stronghold players go first in the case of ties. Commanders may move one zone and take an action or move more than one zone and spend their exchange doing nothing but moving. Cavalry and infantry also have the capability to move more than one zone and still attack.
+Turns are taken by commanders in the order of their Command skills. Stronghold players go first in the case of ties. Commanders may move one zone and take an action or move more than one zone and spend their exchange doing nothing but moving. Cavalry and infantry have the capability to move more than one zone and still attack.
 <h1>Movement</h1>
-If movement is unopposed (the moving commander does not leave a zone with enemy units), the commander may move a number of zones equal to the slowest unit’s movement.
-Obstacles increase the movement cost by one. As usual, commanders may always move at least one zone. Movement may be opposed as described in the <chapref>Conflicts</chapref> chapter.
+If movement is unopposed (the moving commander doesn’t leave a zone with enemy units), the commander may move a number of zones equal to the slowest unit’s movement.
+Obstacles increase the movement cost by one. As usual, commanders may always move at least one zone. Movement may be opposed as described in <chapref>Conflicts</chapref> (page XX).
 <h1>Ranged Attack</h1>
 When taking the ranged attack action, the attacking commander allocates units with ranged attack capabilities to fire at defending units under one commander’s control. First, select a defending commander within range. Next, one or more defending units under the commander’s control are targeted. One or more ranged attacking units are paired with each defending unit.
 One overcome action is resolved for each group of attackers. The attacking side draws a card, adding the result to the sum of all of the Marksmanship skills for the attacking units. The distance to the target is subtracted from the attack. The defending side draws a card, and adds the result to the defending unit’s Armor skill.
-If the attacking group is successful, the defending unit is taken out. On a tie, the attacking commander may take a stress card or give the opposing side a minor advantage in order to succeed. If either side succeeds with style, they get a minor advantage.
-If there are allied units in the same zone as the defending commander, the defending commander gains a minor advantage after the ranged action is resolved. Missile fire is risky when units are engaged with the enemy!
-<h2>Ranged Attack Example</h2>
-An attacking commander, controlling four archer units, targets an opposed commander in an adjacent zone. The opposing commander controls two infantry units and one battle mage unit.
-The attacker decides to divide up the attack as follows: three archers target one infantry unit and one archer targets the battle mage unit. The remaining infantry isn’t targeted. Assuming the archers didn’t move this turn (archers get a bonus to attack if they haven’t moved), their Marksmanship skill is +2. The defending units are one zone away, which lowers the attacking total by one (each zone away lowers the attack by one).
-The attack against the infantry is +5 vs. +4. The attack against the battle mages is +1 vs. +0. These attacks may be carried out in any order as desired by the attacking player.
-<diagram>Ranged Attack</diagram>
-<h1>Clash of Arms</h1>
-Clash of Arms works similarly to ranged attacks.  A defending commander in the same zone is chosen as the target of the attack. As in ranged attack, attacking units are allocated to defending units in any way the attacking player chooses. All attacking units must be allocated before checking to see if they successfully attack.
-One overcome action is resolved for each group of attacking units (in any order desired by the attacker). The attacking side draws a card, adding the result to the sum of all of the Fighting skills in the attacking group. The defending side draws a card, adding the result to the Armor skill of the defending unit.
-If the attacking group is successful, the defending unit is taken out. On a tie, the attacker may apply a stress card to the commanding attacker or grant the opposing commander a minor advantage in order to succeed (as usual for an overcome action). If the attacker or defender succeed with style, they get a minor advantage.
+If the attacking group is successful, the defending unit is taken out. On a tie, the attacking commander succeeds at minor cost. Take a stress card and the defending unit is taken out. If either side succeeds with style, they get a boost.
+If there are allied units in the same zone as the defending commander, the defending commander gains a boost after the ranged action is resolved. Missile fire is risky when units are engaged with the enemy!
 <example>
-An attacking commander, controlling three infantry and two militia, targets an opposed commander in an adjacent zone. The opposing commander controls three archers and two infantry. Archers have very poor armor, so are ripe for the picking!
-The militia aren’t defending their homeland, so their attack is only +1. The attacking commander decides to commit the two militia and one infantry to attack one archer. That’s a large advantage (+4 attack vs. +2 defense), so it may grant success with style. Then the attacking commander assigns one infantry each to the remaining archers. Those assignments are riskier, but it sets up a possible sweep of every defending archer.
-The attacking commander resolves the advantageous attack first, and gets success with style for a minor advantage! One archer unit is removed. The next attack results in a -3, bad luck! The attacking commander uses the minor advantage to draw again, but the result is still only a -2, failure! But not a bad enough failure to give the opposing side a minor advantage. The result of the final attack is a +1. Another archer is removed.
+An attacking commander, controlling four archer units, targets an opposed commander in an adjacent zone. The opposing commander controls two infantry units and one battle mage unit.
+The attacker decides to divide up the attack as follows: three archers target one infantry unit and one archer targets the battle mage unit. The remaining infantry isn’t targeted. Assuming the archers didn’t move this turn (archers get a bonus to attack if they haven’t moved), their Marksmanship skill is Fair (+2). The defending units are one zone away, which lowers the attacking total by one (each zone away lowers the attack by one).
+The attacking player may choose the order of the attacks. They decide to attack the infantry first. Prior to drawing cards, the attack against the infantry is +5 vs. +4. The attacking player draws a +0 and the defending player draws a +1. A tie! Unless the attacking player spends a fate point, they will need to draw a stress card to take out the opposing unit. The attacking player applies a stress card to their commander. There are three moons on the stress card. That’s quite a bit of mental stress! The commander is suffering from battle fatigue, but the defending infantry unit is taken out.
+The attack against the battle mages is +1 vs. +0 prior to drawing cards. The attacking player draws a +0 and the defending player draws a +2, for a total of +1 vs. +2. A failure! The attacking player decides to use a boost to draw a fortune card. Three suns! Now the total is +4 vs. +2. Success! The battle mage unit is removed. 
+<diagram>Ranged Attack</diagram>
+</example>
+<h1>Clash of Arms</h1>
+Clash of Arms works similarly to ranged attacks. A defending commander in the same zone is chosen as the target of the attack. As in ranged attack, attacking units are allocated to defending units in any way the attacking player chooses. All attacking units must be allocated before checking to see if they successfully attack.
+One overcome action is resolved for each group of attacking units (in any order desired by the attacker). The attacking side draws a card, adding the result to the sum of all of the Fighting skills in the attacking group. The defending side draws a card, adding the result to the Armor skill of the defending unit.
+If the attacking group is successful, the defending unit is taken out. On a tie, the attacking commander succeeds at minor cost. Take a stress card and the defending unit is taken out. If either side succeeds with style, they get a boost.
+<example>
+An attacking commander, controlling three infantry and two militia, targets an opposed commander in an adjacent zone. The opposing commander controls three archers and two infantry. Archers have very poor armor, so they’re ripe for the picking!
+The militia aren’t defending their homeland, so their attack is only Average (+1). The attacking commander decides to commit the two militia and one infantry to attack one archer. That’s a large advantage (+4 attack vs. +2 defense), so it may grant success with style. Then the attacking commander assigns one infantry each to the remaining archers. Those assignments are riskier (+2 attack vs. +2 defense), but it sets up a possible sweep of every defending archer.
+The attacking commander resolves the advantageous attack first, and gets success with style for a boost! One archer unit is removed.
+The next attack results in success with style for the defender, bad luck! The attacking commander uses the boost to draw a fortune card, getting enough suns to change it into a regular failure. The defender no longer has success with style and will not get a boost.
+Finally, the last attack is resolved. The attacker succeeds and another archer is removed! After the clash, the defending commander now has one archer and two infantry.
 </example>
 <h2>Outflank</h2>
-After the clash of arms is resolved in a zone, the defending side may be able to immediately make an attack with any surviving units. The commanders make opposed Tactics checks as an overcome action. If the defender succeeds, they may make attacks with surviving units. This does not count as the defending commander’s action (they may have already taken an action or may still have an action to take).
+After the clash of arms is resolved in a zone, the defending side may be able to immediately make an attack with any surviving units. The commanders make opposed Tactics checks as an overcome action. If the defender succeeds, they may make attacks with surviving units. This doesn’t count as the defending commander’s action (they may have already taken an action or may still have an action to take).
 <example>
-Following on from the previous example, the defending commander may be able to return the favor. The attacking commander’s Tactics is +3 and the defending commander’s Tactics is +4. The defending commander makes an overcome action, using opposed Tactics. The defending commander gets a +5 and the attacking commander gets a +3 - the defender outflanks the attacker attack and immediately gets to assign units and attack!
-The defending commander assigns an archer and an infantry to one of the militia and the final remaining infantry to the final militia. The militia should be easy enough to take out!
-The defending commander attacks with the archer and infantry first. The result of the attack is a +2, not enough for success with style, but enough to take out a militia! The final attack also goes well for the defending commander, resulting in a +1. Both militia are removed!
-Having a higher Tactics than opposing commanders comes in handy during the clash of arms! The defending commander still hasn’t acted, so will also get an action to either initiate an attack, or maybe move away and use archers while other units maneuver on the battlefield.
+The defending commander from the previous example may be able to return the favor. The attacking commander’s Tactics is Good (+3) and the defending commander’s Tactics is Great (+4). The defending commander makes an overcome action, using opposed Tactics. The defending commander gets Superb (+5) and the attacking commander gets Good (+3)—the defender outflanks the attacker and immediately gets to assign units and attack!
+The defending commander assigns an archer and an infantry to one of the militia and the remaining infantry to the final militia. The militia should be easy enough to take out!
+The defending commander attacks with the archer and infantry first. The result of the attack is Fair (+2), not enough for success with style, but enough to take out a militia! The final attack also goes well for the defending commander, resulting in Average (+1). Both militia are removed!
+Having a higher Tactics than opposing commanders comes in handy during the clash of arms. The defending commander still hasn’t acted, so they’ll also get an action to either initiate an attack, or maybe move away and use archers while other units maneuver on the battlefield.
 </example>
 <h1>Heroic Action</h1>
-Each champion or commander that hasn’t already taken an action may create a minor advantage or attack. These actions work much like the actions available in the <chapref>Skirmish</chapref> chapter.
+Each champion or commander that hasn’t already taken an action may take one of the actions below. These actions work much like the actions available in <chapref>Skirmish</chapref> (page XX).
 <h2>Focus</h2>
-This works as described in the <chapref>Conflicts</chapref> chapter.
+If a character has no boosts, they may use the focus action to take one boost. This action is not available to minions. Boosts may be spent as normal. See <chapref>Core Rules</chapref> (page XX) for more details.
 <h2>Attack</h2>
-A commander may be attacked directly. This works identically to the attack actions in the Skirmish chapter.
+A commander may be attacked directly. This works identically to the attack actions in <chapref>Skirmish</chapref> (page XX).
 <h2>Defend</h2>
 Commanders defend using standard skills (Fighting vs. Fighting or Athletics vs. Marksmanship or Fighting).
 <h1>Resolution</h1>
-If at least one attacking unit begins an exchange in the strategic zone with no opposing units in the same zone, the attacking force is successful. Warfare also ends if the attacking or defending force moves all units off the battlefield (moving off of the edge of the map will remove the commander and all associated units from the battle).
+If at least one attacking unit begins an exchange in the strategic zone with no opposing units in the same zone, the attacking force is successful. Warfare also ends if the attacking or defending force moves all units off the battlefield (moving off the edge of the map will remove the commander and all associated units from the battle).
 <chapter>Neutral Regions</chapter>
 Regions, abstract areas of land which can hold resources and developments, are described in more detail in the <chapref>Factions</chapref> chapter. This chapter lists all of the available neutral regions which may be gained via successful conquest missions by the Stronghold. Regions taken from other factions always use the Warfare conflict. The conflict used when conquering neutral regions depend on the specific region targeted. There are ten neutral regions available during the campaign.
 Each neutral region has a mission difficulty and conflict, which are used for the conquest mission. If the mission is successful, the neutral region is added to the Stronghold’s regions, and the Stronghold will begin gaining the listed resources. The neutral regions are also listed on the Stronghold sheet to make planning missions easier.

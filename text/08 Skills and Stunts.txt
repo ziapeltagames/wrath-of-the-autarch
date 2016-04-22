@@ -1,19 +1,19 @@
 <chapter>Skills and Stunts</chapter>
 Most actions taken by players during the game involve the use of skills and stunts. Typically, when the dice are rolled as part of an action, the result is added to an appropriate skill and compared against the opposition. Stunts provide additional effects that can modify how skills are used or provide special effects during different types of conflicts.
 <h1>Skills</h1>
-Skills in <book>Wrath of the Autarch</book> are broad descriptions of capabilities and areas of expertise. Skills are used in conjunction with the four core actions mentioned in the <chapref>Core Rules</chapref> chapter. Some skills are more suited to certain core actions than others (for instance, <skill>Survival</skill> isn't used for attacks). Every skill can be used as part of the create advantage.
+Skills in <book>Wrath of the Autarch</book> are broad descriptions of capabilities and areas of expertise. Skills are used in conjunction with the four core actions mentioned in <chapref>Core Rules</chapref> (page XX). Some skills are more suited to certain core actions than others (for instance, Survival isn't used for attacks). Every skill can be used to create an advantage.
 <h2>Skills and Conflicts</h2>
 The four types of conflicts tend to focus on distinct skills. For instance, Tactics is very useful in warfare, while Stealth is most useful during infiltration. Knowing which skills are best for each conflict is useful when determining which heroes to take on a mission. The skill description also describes what sorts of conflicts a skill is best suited for.
 <h1>Stunts</h1>
-Stunts are special applications of skills, accessible when a skill reaches rank five or higher. They allow for additional bonuses to rolls, special benefits during certain conflicts, or other advantages that go beyond the normal usages of a skill.
+Stunts are special applications of skills, accessible when a skill reaches Superb (+5) or higher. They allow for additional bonuses to rolls, special benefits during certain conflicts, or other advantages that go beyond the normal usages of a skill.
 <h2>Gaining Stunts</h2>
-Heroes start the campaign with one stunt for their skill of rank Great (+4). Each time a skill advances to the rank of Superb (+5) or higher, the hero gains one additional stunt from that skill’s stunt list. Some stunts have other stunts listed as prerequisites. In that case, the stunt is not available until the character also has all the listed prerequisite stunts.
+Heroes start the campaign with one stunt for their skill of rank Great (+4). Each time a skill advances to the rank of Superb (+5) or higher, the hero gains an additional stunt from that skill’s stunt list. Some stunts have other stunts listed as prerequisites. In that case, the stunt isn’t available until the character also has all the listed prerequisite stunts.
 <h2>Opposition Stunts</h2>
-Some stunts are only available to the opposition the heroes face (opposing leaders, monsters, and minions). These stunts are listed with the opposition tag and are not available for heroes to take. Some opposition stunts take more than one slot for purposes of the total number of stunts.
-For instance, if a leader is allowed to take three stunts, and one of them takes two slots, they are only allowed one more stunt. There is a general opposition stunts section for opposition stunts which don’t map to any particular skill. All stunts for heroes only take one slot.
+Some stunts are only available to the opposition the heroes face (opposing leaders, monsters, and minions). These stunts are listed in a general opposition stunts section at the end of the chapter (page XX).
+Some opposition stunts take more than one slot for purposes of the total number of stunts. For instance, if a leader is allowed to take three stunts, and one of them takes two slots, they’re only allowed one more stunt. All stunts for heroes only take one slot.
 <h1>Athletics</h1>
-Athletics encompasses not just physical fitness, but also body awareness and movement.  It is used for climbing, swimming, tumbling, and balancing.  If all that matters is raw power, and not some form of movement, then Physique is the more relevant skill.
-Athletics determines the maximum number of zones a character can move in skirmish and infiltration conflicts. See the <chapref>Conflicts</chapref> chapter for more details on character movement.
+Athletics encompasses not just physical fitness, but also body awareness and movement.  It’s used for climbing, swimming, tumbling, and balancing.  If all that matters is raw power, and not some form of movement, then Physique is the more relevant skill.
+Athletics determines the maximum number of zones a character can move in skirmish and infiltration conflicts. See <chapref>Conflicts</chapref> (page XX) for more details on character movement.
 <list>
 <b>Athletics 0-2: </b>2 movement points
 <b>Athletics 3-5: </b>3 movement points
@@ -27,35 +27,35 @@ Athletics determines the maximum number of zones a character can move in skirmis
 <stuntd>When defending against a Fighting attack with Athletics, may move one zone away after the attack. This movement may not be opposed.</stuntd>
 <stuntt>Shifty Dodge (Improved)</stuntt>
 <stuntp>Infiltration, Skirmish, Prerequisite: Shifty Dodge</stuntp>
-<stuntd>When Defending against a Fighting attack with Athletics, may move two zones away after the attack. This movement may not be opposed.</stuntd>
+<stuntd>When defending against a Fighting attack with Athletics, may move two zones away after the attack. This movement may not be opposed.</stuntd>
 <stuntt>Fast Feet</stuntt>
 <stuntp>Infiltration, Skirmish, Prerequisite: Tumbling</stuntp>
 <stuntd>May move two zones and still take a free action.</stuntd>
 <h1>Channeling</h1>
-Channeling is used to detect and harness the magic energies that can be found in the wildest regions of the Realm. Channeling is also used to determine the amount of starting mana a spellcaster has available. See the <chapref>Magic</chapref> chapter for more details on mana, spellcasting, and channeling.
-If a character takes Channeling stunts which require the spending of mana, the character should bind to a region as a spellcaster (no changes if already bound to a region). After any expenditure of mana, determine backlash as normal.
+Channeling is used to detect and harness the magic energies that can be found in the wildest regions of the Realm. Channeling is also used to determine the amount of starting mana a spellcaster has available. See <chapref>Magic</chapref> (page XX) for more details on mana, spellcasting, and channeling.
+If a character takes Channeling stunts that require the spending of mana, the character should bind to a region as a spellcaster (no changes if already bound to a region). After any expenditure of mana, determine backlash as normal.
 <stuntt>Arcane Defense</stuntt>
-<stuntd>For each mana spent, add +1 to any character’s defend action against arcane attacks (actions which require the use mana).</stuntd>
+<stuntd>For each mana spent, add +1 to any character’s defend action against arcane attacks (actions which require the use of mana).</stuntd>
 <stuntt>Chaotic Reserves</stuntt>
 <stuntd>For each mana spent, take one physical stress and add +1 to any character’s attack action which causes physical stress.</stuntd>
 <stuntt>Hurt the Ones You Love</stuntt>
-<stuntd>When this character generates backlash, it may be reduced by four. If reduced, choose a target character from the same faction as the caster. For heroes, the target character must be the hero they have a helpful aspect with. The target character immediately takes a severe consequence. If the target character doesn't have an open severe consequence slot, they are killed instead. The consequence should be thematically appropriate to the type of magic used.</stuntd>
+<stuntd>When this character generates backlash, it may be reduced by four. If reduced, choose a target character from the same faction as the caster. For heroes, the target character must be the hero they have a helpful aspect with. The target character immediately takes a severe consequence. The consequence should be thematically appropriate to the type of magic used. If the target character doesn't have an open severe consequence slot, they are killed—provided all the players agree. If the group doesn't agree, the full backlash should be applied to the bound region as normal. </stuntd>
 <stuntt>Fleeting Familiar</stuntt>
 <stuntd>Summon a magical entity to perform tasks. Spend three mana to add +3 to a create advantage action using Channeling. Create an aspect to describe a specialized arcane familiar or the result of using the familiar.</stuntd>
 <h1>Command</h1>
 The Command skill is used to get the most out of people. A character with a high Command is listened to and respected, if not always liked.
 <stuntt>Band Together</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>During Warfare, after units have been assigned during a clash of arms action, may swap one defending unit under your command for a different unit that is not being attacked.</stuntd>
+<stuntd>During warfare, after units have been assigned during a clash of arms action, may swap one defending unit under your command for a different unit that isn’t being attacked.</stuntd>
 <stuntt>Hold Your Ground!</stuntt>
 <stuntp>Warfare</stuntp>
 <stuntd>Add +2 to a defend action for a unit under your command once during each warfare exchange.</stuntd>
 <stuntt>Fight for Your Home!</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>When defending a home region, add two additional militia units to character’s command. These do not count against the total number of units that a commander may control.</stuntd>
+<stuntd>When defending a home region, add two additional militia units to character’s command. These don’t count against the total number of units that a commander may control.</stuntd>
 <stuntt>Heroic Action</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Spend a fate point to take a heroic action even if you have already taken a different action this exchange.</stuntd>
+<stuntd>Spend a fate point to take a heroic action even if you’ve already taken a different action this exchange.</stuntd>
 <stuntt>Battlefield Savagery</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
 <stuntd>You perform a vicious and disturbing attack. Draw a stress card to add your Command value to Fighting (max stress inflicted is equal to Command + Fighting). However, the target may mitigate the stress through using both the physical and mental stress tracks (one box in each may be checked).</stuntd>
@@ -65,7 +65,7 @@ Disguise is used when pretending to be someone else. This doesn’t have to involv
 <stuntd>Add +2 to Disguise checks made to create an advantage when blackmailing a target.</stuntd>
 <stuntt>Deep Cover</stuntt>
 <stuntp>Infiltration</stuntp>
-<stuntd>If captured during an Infiltration mission, the character may successfully shift blame to some other faction. Create an appropriate campaign aspect to indicate growing distrust and animosity toward the blamed faction. Although the Stronghold takes no disposition hits, the caught character is still detained as normal.</stuntd>
+<stuntd>If captured during an infiltration mission, the character may successfully shift blame to some other faction. Create an appropriate campaign aspect to indicate growing distrust and animosity toward the blamed faction. Although the Stronghold takes no disposition hits, the caught character is still detained as normal.</stuntd>
 <stuntt>Hasty Story</stuntt>
 <stuntd>Each stress card drawn adds three instead of two on Disguise defend actions.</stuntd>
 <stuntt>Inside Job</stuntt>
@@ -75,15 +75,15 @@ Disguise is used when pretending to be someone else. This doesn’t have to involv
 The knowledge of machinery, particularly machines of war, is covered by the Engineering skill.
 <stuntt>Range Calculations</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Catapults and cannons under this characters command have their range increased to four.</stuntd>
+<stuntd>Catapults and cannons under this character’s command have their range increased to four.</stuntd>
 <stuntt>Efficient Engineers</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Catapults or Cannons under the command of this character may move one additional zone as part of the movement action.</stuntd>
+<stuntd>Catapults or cannons under the command of this character may move one additional zone as part of the movement action.</stuntd>
 <stuntt>Makeshift Device</stuntt>
 <stuntd>Add +2 to Engineering checks made to create an advantage when crafting devices from ad-hoc supplies.</stuntd>
 <stuntt>Infantry Bombs</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>Infantry under this commander’s control gain the Siege skill at +1. This works as does normal siege, although the maximum range is one zone (the infantry must be adjacent to the fortified strategic zone).</stuntd>
+<stuntd>Infantry under this commander’s control gain the Siege skill at +1. This works as does normal Siege, although the maximum range is one zone (the infantry must be adjacent to the fortified strategic zone).</stuntd>
 <h1>Fighting</h1>
 Fighting is knowledge of weapons and the ability to utilize them to defeat others in martial combat. It also covers unarmed combat. However, it isn’t used for leading units of many men into battle, which falls under the Tactics skill.
 <stuntt>Powerful Attack</stuntt>
@@ -91,7 +91,7 @@ Fighting is knowledge of weapons and the ability to utilize them to defeat other
 <stuntd>The character is a bruising attacker, capable of delivering crushing blows. Add +2 to attack actions using Fighting.</stuntd>
 <stuntt>I’m on a Roll!</stuntt>
 <stuntp>Skirmish, Infiltration, Warfare</stuntp>
-<stuntd>On a successful attack action, gain a boost even if the Attack didn't succeed with style. If it succeeded with style, gain an extra boost.</stuntd>
+<stuntd>On a successful attack action, gain a boost even if the attack didn't succeed with style. If it succeeded with style, gain an extra boost.</stuntd>
 <stuntt>No Quarter Given</stuntt>
 <stuntp>Skirmish, Infiltration</stuntp>
 <stuntd>If an opponent leaves the zone your character is in, make an attack against them.</stuntd>
@@ -99,69 +99,69 @@ Fighting is knowledge of weapons and the ability to utilize them to defeat other
 <stuntp>Skirmish, Infiltration</stuntp>
 <stuntd>Draw a stress card to attack every opponent in the same zone using Fighting. Only determine the attack value once, but each defender may defend individually.</stuntd>
 <h1>Lore</h1>
-Lore is knowledge of the mystical and arcane facets of the Realm. Knowledge of spells, artifacts, and bizarre creatures of myth. Lore is also essential to learning Secrets, the harnessing of mana to produce magical effects.
+Lore is knowledge of the mystical and arcane facets of the Realm, knowledge of spells, artifacts, and bizarre creatures of myth. Lore is also essential to learning secrets, the harnessing of mana to produce magical effects.
 <stuntt>Initiate</stuntt>
-<stuntd>The character chooses a Secret and gains access to the Initiate spell from that Secret. Choose a region to bind with, and gain mana each season from the region. See the <chapref>Magic</chapref> chapter for more details.</stuntd>
+<stuntd>The character chooses a secret and gains access to the initiate spell from that secret. Choose a region to bind with, and gain mana each season from the region. See <chapref>Magic</chapref> (page XX) for more details.</stuntd>
 <stuntt>Apprentice</stuntt>
-<stuntp>Requirement: Initiate stunt for chosen Secret</stuntp>
-<stuntd>The character gains access to the Apprentice spell for the chosen Secret.</stuntd>
+<stuntp>Requirement: Initiate stunt for chosen secret</stuntp>
+<stuntd>The character gains access to the apprentice spell for the chosen secret.</stuntd>
 <stuntt>Adept</stuntt>
 <stuntp>Requirement: Apprentice ability within secret.</stuntp>
-<stuntd>The character gains access to the Adept spell for the chosen Secret.</stuntd>
+<stuntd>The character gains access to the adept spell for the chosen secret.</stuntd>
 <stuntt>Keeper</stuntt>
 <stuntp>Requirement: Adept ability within secret.</stuntp>
-<stuntd>The character gains access to the Keeper spell for the chosen Secret.</stuntd>
+<stuntd>The character gains access to the keeper spell for the chosen secret.</stuntd>
 <stuntt>Useful Trivia</stuntt>
-<stuntd>Add +2 to Lore checks made to create an advantage checks when recalling some bit of arcane lore.</stuntd>
+<stuntd>Add +2 to Lore checks made to create an advantage when recalling some bit of arcane lore.</stuntd>
 <h1>Marksmanship</h1>
 The Marksmanship skill works with any fired weapons, such as slings or bows of any sort. It also governs thrown weapons like spears or javelins.
 <stuntt>Hit the Weak Point</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
-<stuntd>Once per exchange may invoke a target’s consequence (of a physical nature) without spending a fate point. NOTE: Is “once per exchange” really the correct language? Trying to say that you can’t invoke multiple consequences for free – just one.</stuntd>
+<stuntd>Once per exchange, invoke a target’s consequence of a physical nature without spending a fate point.</stuntd>
 <stuntt>Rapid Fire</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
-<stuntd>Draw a stress card to make two separate Attack actions in the same turn. May target different opponents.</stuntd>
+<stuntd>Draw a stress card to make two separate attack actions in the same turn. May target different opponents.</stuntd>
 <stuntt>Covering Fire</stuntt>
 <stuntd>Add +1 when using boosts to provide covering fire.</stuntd>
 <stuntt>Eagle Eye</stuntt>
 <stuntp>Infiltration, Skirmish</stuntp>
-<stuntd>On Attack actions, the target is one zone closer for purposes of calculating range.</stuntd>
+<stuntd>On attack actions, the target is one zone closer for purposes of calculating range.</stuntd>
 <h1>Physique</h1>
-Where Athletics governs pure physical power, Physique is used to measure raw physical power and endurance. Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique. Bashing open doors or bending bars is also the province of Physique.
+Where Athletics governs pure physical power, Physique measures raw physical power and endurance. Shrugging off bumps, bruises, and continuing to perform a strenuous task are possible with a high Physique. Bashing open doors or bending bars is also the province of Physique.
 <stuntt>Improved Physical Stress</stuntt>
-<stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stunts. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Physique skill below to determine the bonus to physical stress.
+<stuntd>Instead of stunts, the Physique skill gives the character higher resistance to physical stress. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Physique skill below to determine the bonus to physical stress.
 Use the unlock check boxes on the character sheet to note newly available physical stress boxes.</stuntd>
 <list>
 +1 or +2: A 3-point physical stress box
 +3 or +4: A 4-point physical stress box
-+5 or +6: A 4-point physical stress box and an additional mild consequence slot
-+7 or +8: A 4-point physical stress box and an additional medium consequence slot
++5 or +6: An additional mild consequence slot
++7 or +8: An additional medium consequence slot
 </list>
 <h1>Rapport</h1>
 Rapport is the process of building lasting friendships. Characters with high Rapport have a grace and charm which allows them to easily make friends. It's also useful in brokering deals and creating alliances.
 <stuntt>Passive Aggressive</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>When a character addresses an issue, opposing characters on the same issue each take one mental stress.</stuntd>
+<stuntd>When a character successfully gains support, opposing characters on the same issue each take one mental stress.</stuntd>
 <stuntt>Related Point</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>When a character successfully addresses an issue, they gain a boost. If the character succeeds with style, they gain an additional boost</stuntd>
+<stuntd>When a character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stuntd>
 <stuntt>Captivating Features</stuntt>
 <stuntd>Add +1 when using boosts to leverage your looks.</stuntd>
 <stuntt>Winning Personality</stuntt>
 <stuntp>Diplomacy</stuntp>
 <stuntd>The character is better at fostering relationships with those close to them. The character may use Rapport instead of Society to defend against social attacks.</stuntd>
 <h1>Society</h1>
-A character with a high Society skill understands the cultural details for the different factions and peoples of the Realm.  These include the traditions, mannerisms, and trappings which the leadership of the Faction finds important, as well as other general details about each Faction. Society is a useful skill for avoiding an embarrassing faux pas.
+A character with a high Society skill understands the cultural details for the different factions and peoples of the Realm.  These include the traditions, mannerisms, and trappings the leadership of the faction finds important, as well as other general details about each faction. Society is a useful skill for avoiding an embarrassing faux pas.
 <stuntt>Socially Adept</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>For Diplomacy, the character’s Society skill is 2 higher for purposes of turn order.</stuntd>
+<stuntd>For diplomacy, the character’s Society skill is 2 higher for purposes of turn order.</stuntd>
 <stuntt>Commanding Word</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>Spend a fate point to add an additional point of influence when successfully addressing an issue.</stuntd>
+<stuntd>Spend a fate point to add an additional point of support when successfully gaining support.</stuntd>
 <stuntt>High Born</stuntt>
 <stuntd>Add +2 on Society checks when overcoming resistance by using charm and sophistication.</stuntd>
 <stuntt>Friends in High Places</stuntt>
-<stuntd>This character is well known throughout the Realm. They add +2 to create advantage actions when interacting with leaders from other factions.</stuntd>
+<stuntd>This character is well known throughout the Realm. Add +2 to create advantage actions when interacting with leaders from other factions.</stuntd>
 <stuntt>Intoxicating Power</stuntt>
 <stuntp>Diplomacy</stuntp>
 <stuntd>Add +2 to attack actions using Society.</stuntd>
@@ -169,7 +169,7 @@ A character with a high Society skill understands the cultural details for the d
 Stealth is the skill to use for moving silently and avoiding detection.
 <stuntt>Assassin’s Perch</stuntt>
 <stuntp>Skirmish</stuntp>
-<stuntd>The character is adept at finding hidden areas and attacking from them. During Skirmish setup, the character may set-up in any zone desired, and no opponents may be placed in the same zone as the character. Furthermore, the character starts the Skirmish with the <aspect>Hidden</aspect> aspect with one free invoke.</stuntd>
+<stuntd>The character is adept at finding hidden areas and attacking from them. During skirmish setup, the character may set-up in any zone desired, and no opponents may be placed in the same zone as the character. Furthermore, the character starts the skirmish with the <aspect>Hidden</aspect> aspect with one free invoke.</stuntd>
 <stuntt>Quiet as a Mouse</stuntt>
 <stuntd>Add +1 when using boosts to leverage a hidden position.</stuntd>
 <stuntt>Sneak Attack</stuntt>
@@ -178,13 +178,13 @@ Stealth is the skill to use for moving silently and avoiding detection.
 <h1>Survival</h1>
 Survival imparts an understanding of the flora and fauna of the wilds, as well as a keen awareness of enemies lying in wait.
 <stuntt>Animal Companion (Good)</stuntt>
-<stuntd>Create an asset with two helpful skills and two hindering skills (no need to burn aspects). See the <chapref>Characters</chapref> chapter for more details.</stuntd>
+<stuntd>Create an asset with two helpful aspects and two hindering aspects (no need to burn campaign aspects to create it). See <chapref>Characters</chapref> (page XX) for more details.</stuntd>
 <stuntt>Animal Companion (Great)</stuntt>
 <stuntp>Prerequisite: Animal Companion (Good)</stuntp>
-<stuntd>As basic animal companion, but the animal companion also gains a minor consequence which can be used to absorb physical attacks.</stuntd>
+<stuntd>As good animal companion, but the animal companion also gains a minor consequence which can be used to absorb physical attacks.</stuntd>
 <stuntt>Animal Companion (Superb)</stuntt>
 <stuntp>Prerequisite: Animal Companion (Great)</stuntp>
-<stuntd>As great animal companion, but draw two cards when using the helpful skills from the animal companion. Add all suns on both cards.</stuntd>
+<stuntd>As great animal companion, but draw two cards when using the helpful aspects from the animal companion. Add all suns on both cards.</stuntd>
 <stuntt>Tracker</stuntt>
 <stuntd>Add +2 to overcome actions when following tracks in the wilds.</stuntd>
 <stuntt>Poisoner</stuntt>
@@ -193,7 +193,7 @@ Survival imparts an understanding of the flora and fauna of the wilds, as well a
 Understanding the use of military force is the cornerstone of Tactics. Troop movements, weapons of war, combined arms, logistics, and using terrain all are covered by the Tactics skill.
 <stuntt>Battle Master</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>During Warfare, a group of units under a character’s command may act independently. The units no longer need to remain in the same zone as the commander, and may be controlled independently for the duration of the battle. However, the group of units is considered to have a Tactics and Command of Mediocre (+0) for the purposes of turn order.</stuntd>
+<stuntd>During warfare, a group of units under a character’s command may act independently. The units no longer need to remain in the same zone as the commander, and may be controlled independently for the duration of the battle. However, the group of units is considered to have a Tactics and Command of Mediocre (+0) for the purposes of turn order.</stuntd>
 <stuntt>Infantry Maneuver</stuntt>
 <stuntp>Warfare</stuntp>
 <stuntd>Once each exchange, add +2 to an attack utilizing infantry exclusively (no other unit type may be in the attacking group). The attacking commander may control other unit types.</stuntd>
@@ -202,7 +202,7 @@ Understanding the use of military force is the cornerstone of Tactics. Troop mov
 <stuntd>If you inflict more casualties than the other side in a clash of arms (taking into account possible outflanking), may move opposing commander and units to an empty adjacent zone. If no adjacent zone is empty, or if both sides lost the same number of units, they remain where they are.</stuntd>
 <stuntt>Set for Charge</stuntt>
 <stuntp>Warfare</stuntp>
-<stuntd>During Warfare, add +1 to the Armor of infantry and militia units when they defend against charging cavalry (only for the turn the cavalry moved).</stuntd>
+<stuntd>During warfare, add +1 to the Armor of infantry and militia units when they defend against charging cavalry (only for the turn the cavalry moved).</stuntd>
 <stuntt>Enemy Weakness</stuntt>
 <stuntd>Add +2 on Tactics checks when creating advantages that exploit a perceived flaw in the enemy’s battle strategies.</stuntd>
 <h1>Thievery</h1>
@@ -214,19 +214,19 @@ Understanding the use of military force is the cornerstone of Tactics. Troop mov
 <stuntd>Add +2 to Thievery checks for create advantage actions that leverage underworld contacts.</stuntd>
 <stuntt>Master Burglar</stuntt>
 <stuntp>Prerequisites: Disable Alarm, Master Lockpicker</stuntp>
-<stuntd>The character is able to recover all manner of illicit goods. When using create advantage to create a campaign aspect, the player may declare the aspect to be a luxury, listing it on the Stronghold Sheet where it may function as a luxury die during the next trading phase. Make a note of the aspect. Each free invoke burned gives one luxury die.</stuntd>
+<stuntd>The character is able to recover all manner of illicit goods. When using create advantage to create a campaign aspect, the player may declare the aspect to be a luxury, listing it on the Stronghold sheet where it may function as a luxury die during the next trading phase. Make a note of the aspect. Each free invoke burned gives one luxury die.</stuntd>
 <stuntt>Master Lockpicker</stuntt>
 <stuntd>Add +1 to boosts used when opening locks.</stuntd>
 <h1>Will</h1>
- A character with a high Will is less affected by witnessing horrors of all stripes. It is also the ability to focus mentally for long periods of time.
+ A character with a high Will is less affected by witnessing horrors of all stripes. It’s also the ability to focus mentally for long periods of time.
 <stuntt>Improved Mental Stress</stuntt>
 <stuntd>Instead of stunts, the Will skill gives the character higher resistance to mental stress. At lower ranks, it provides more stress boxes, while at higher ranks, it provides more consequences. Find the rating of the Will skill below to determine the bonus to mental stress.
 Use the unlock check boxes on the character sheet to note newly available mental stress boxes.</stuntd>
 <list>
 +1 or +2: A 3-point mental stress box
 +3 or +4: A 4-point mental stress box
-+5 or +6: A 4-point mental stress box and an additional mild consequence slot for mental stress only
-+7 or +8: A 4-point mental stress box and an additional medium consequence slot for mental stress only
++5 or +6: An additional mild consequence slot
++7 or +8: An additional medium consequence slot
 </list>
 <h1>Wits</h1>
 Wits is useful for spotting hidden things or determining when you’re being tricked.
@@ -234,7 +234,10 @@ Wits is useful for spotting hidden things or determining when you’re being trick
 <stuntd>Add +2 to overcome actions when trying to see through a character’s disguise.</stuntd>
 <stuntt>Undermine the Point</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>When defending against an Address the Issue action, opponent takes one mental stress.</stuntd>
+<stuntd>When defending against a gain support action, opponent takes one mental stress.</stuntd>
+<stuntt>Undermine the Point, Improved</stuntt>
+<stuntp>Diplomacy, Prerequisites: Undermine the Point</stuntp>
+<stuntd>When defending against a gain support action, opponent takes two mental stress.</stuntd>
 <stuntt>Assess the Situation</stuntt>
 <stuntd>Add +2 on Wits checks to create advantage when leveraging an unnoticed detail.</stuntd>
 <h1>Opposition Stunts</h1>
@@ -248,6 +251,9 @@ This section lists stunts only available to opposition (leaders, lieutenants, an
 <stuntt>Orb of Scrying</stuntt>
 <stuntp>Infiltration</stuntp>
 <stuntd>Secretly designate one zone to contain the Orb of Scrying. Heroes entering this zone must make a Stealth roll to avoid being detected. If detected, the character with the Orb of Scrying stunt is alerted.</stuntd>
+<stuntt>Quick</stuntt>
+<stuntp>Infiltration, Skirmish, Warfare</stuntp>
+<stuntd>Prior to making an attack action, may move one zone. Usual rules for moving out of an opposed zone apply.</stuntd>
 <stuntt>Trapmaster</stuntt>
 <stuntp>Infiltration</stuntp>
-<stuntd>Use Create Advantage to create permanent aspects in a zone that stop hero movement. Trap may be Overcome with Thievery in order to remove (at a passive opposition equal to mission difficulty).</stuntd>
+<stuntd>Use create advantage to create permanent aspects in a zone that stop hero movement. Trap may be removed with an overcome action with Thievery at a passive opposition equal to mission difficulty.</stuntd>
