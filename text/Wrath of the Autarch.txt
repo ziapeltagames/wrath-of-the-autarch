@@ -19,14 +19,14 @@ For Jennifer.
 Hello! This is Phil, the designer of <book>Wrath of the Autarch (WotA)</book>. Thanks for picking this up while browsing at your local game store! I’ll credit Doug’s awesome cover art.
 So, you’re trying to figure out what this is, right? Will you have fun playing it? Do you have friends that will like it? What the heck is this? Well, I’m about to spend many words telling you what this is and how it came about.
 I know it’s weird to put designer’s notes at the beginning of a book. But <book>WotA</book> is weird. My editor called <book>WotA</book> an “unusual approach” and said I should put this text at the beginning of the book to give you some context. She’s super smart about editing games, so I did. If you want to skip this, though, go ahead! Start at chapter one (page XX).
-If you haven’t played many hobby games, like <book>Dungeons & Dragons</book> or <book>Magic Realm</book>, it might even be better to skip this for now. You probably don’t have as many preconceptions about how games like this are supposed to work, so you don’t need someone to tell you how this game is different.
+If you haven’t played many hobby games, like <book>Dungeons and Dragons</book> or <book>Magic Realm</book>, it might even be better to skip this for now. You probably don’t have as many preconceptions about how games like this are supposed to work, so you don’t need someone to tell you how this game is different.
 But maybe you’re the type of person that listens to those director commentary tracks on Criterion Collection Blu-Rays. Maybe you’re not getting dirty looks from the owner of the store. Maybe you just live dangerously. I don’t judge. Read all of the words.
 <h1>What Is This?</h1>
-This game arose in a rather untoward fashion according to conventional game design wisdom. It began as the quintessential Fantasy Heartbreaker: “<book>Dungeons & Dragons</book> is so awesome, except for this one thing! And this other thing!” Be that as it may, I began to have ideas about game design that evolved past wanting to add material to <book>Dungeons & Dragons</book>.
+This game arose in a rather untoward fashion according to conventional game design wisdom. It began as the quintessential Fantasy Heartbreaker: “<book>Dungeons and Dragons</book> is so awesome, except for this one thing! And this other thing!” Be that as it may, I began to have ideas about game design that evolved past wanting to add material to <book>Dungeons and Dragons</book>.
 I really wanted to make a strategic kingdom building role-playing game. I enjoy video games like <book>Civilization</book> and <book>Crusader Kings</book>. They’re called 4X games for <i>explore</i>, <i>expand</i>, <i>exploit</i>, and <i>exterminate</i>. You build societies and watch them grow. They’re dangerous if you like having free time.
 But I like tabletop role-playing games more than I like video games. I like sitting around a table and talking with my friends. I wanted to make a game that had features of tabletop role-playing games and features of those video games. If that sounds interesting to you, you might like this game!
-Anyway, I studied role-playing games like <book>Birthright</book>, <book>Pendragon</book>, <book>Reign</book>, <book>Houses of the Blooded</book>, <book>Circle of Hands</book>, <book>Song of Ice and Fire</book>, <book>Ars Magica</book>, <book>Burning Empires</book>, <book>Chronica Feudalis</book>, and <book>Diaspora</book>, not to mention the many supplements for <book>D&D</book> and <book>Pathfinder (Kingmaker Campaign)</book>.
-Each of those games had elements of what I wanted, although none of them was exactly what I was after. So I set about making a new game. When I stopped trying to accrete stuff onto <book>D&D</book> and started over from scratch, I thought about the key pillars of design that the game would rest on:
+Anyway, I studied role-playing games like <book>Birthright</book>, <book>Pendragon</book>, <book>Reign</book>, <book>Houses of the Blooded</book>, <book>Circle of Hands</book>, <book>Song of Ice and Fire</book>, <book>Ars Magica</book>, <book>Burning Empires</book>, <book>Chronica Feudalis</book>, and <book>Diaspora</book>, not to mention the many supplements for <book>DandD</book> and <book>Pathfinder (Kingmaker Campaign)</book>.
+Each of those games had elements of what I wanted, although none of them was exactly what I was after. So I set about making a new game. When I stopped trying to accrete stuff onto <book>DandD</book> and started over from scratch, I thought about the key pillars of design that the game would rest on:
 <list>
 Shared Authority
 Troupe Style Play
@@ -50,7 +50,7 @@ In a kingdom building game, some sort of high level structure seems necessary so
 <h2>Integrated Setting</h2>
 I think it makes for better play if mechanics are adapted as closely as possible to the setting. There are certainly generic mechanics that are highly useful, as evidenced by the use of Fate Core in this game, but mechanics bring about different play styles and need to be adapted to the target genre. While generic toolkits can be very useful, it’s usually not trivial getting them to fit into a setting. I wanted to do as much of that heavy lifting as possible! You can certainly pull this game apart and use it as a toolkit, but I wanted to give you a car—not the tools to build the car yourself.
 As such, a fantasy kingdom building game is probably best built from the ground up as a cohesive whole. I’m fairly skeptical of rule sets that attempt to tack the mechanics of kingdom building onto a framework that was never designed to support maintaining a kingdom. In such a game, the kingdom becomes simply a possession that a character has, rather than the focus of the game. I really wanted the kingdom to be the focus!
-I think this should be extended to the setting. There are plenty of fantasy RPGs out there that throw all the standard tropes into a box and let the GM and players sort it out. That’s all well and good, but I’m more interested in giving the GM a world that’s partially fleshed out, since it becomes much easier to control how the setting and the mechanics interact. Rules frequently have implicit settings (such as <book>Dungeons & Dragons</book>), but it’s probably better to make the setting explicit to clarify exactly what sort of game works with the rules. Did I mention I like being explicit?
+I think this should be extended to the setting. There are plenty of fantasy RPGs out there that throw all the standard tropes into a box and let the GM and players sort it out. That’s all well and good, but I’m more interested in giving the GM a world that’s partially fleshed out, since it becomes much easier to control how the setting and the mechanics interact. Rules frequently have implicit settings (such as <book>Dungeons and Dragons</book>), but it’s probably better to make the setting explicit to clarify exactly what sort of game works with the rules. Did I mention I like being explicit?
 Finally, having a better defined setting makes it easier for players to construct missions quickly. Part of my goal with this game is to reduce preparation time without sacrificing interesting tactical options. This is possible only by essentially building the rules around a specific setting. While <book>WotA</book> is certainly not a simple game, it also isn’t a high prep game!
 <h1>Thanks!</h1>
 Thanks for taking a look! Hopefully that gives you some sense of whether or not this game will work for you. If this sounds like your kind of game, I hope you enjoy it!
@@ -565,7 +565,7 @@ The difficulty of the alliance mission depends on the faction chosen to trade wi
 <h3>Conflict</h3>
 Diplomacy is used to resolve alliance missions.
 <h3>Success</h3>
-The disposition with the faction is improved by one or more (developments may modify this).
+The disposition with the faction is improved by one or more (the Trade Capital development adds to this as well).
 <h3>Failure</h3>
 Either there is no change in disposition, or it could drop if things go very poorly. See <chapref>Diplomacy</chapref> (page XX) for more details.
 <h2>Sabotage</h2>
@@ -1064,7 +1064,7 @@ Rapport is the process of building lasting friendships. Characters with high Rap
 <stuntd>Add +1 when using boosts to leverage the character’s looks.</stuntd>
 <stuntt>Winning Personality</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>The character is better at fostering relationships with those close to them. The character may use Rapport instead of Society to defend against social attacks.</stuntd>
+<stuntd>The character is better at fostering relationships with those close to them. The character may use Rapport instead of Wits to defend against social attacks.</stuntd>
 <h1>Society</h1>
 A character with a high Society skill understands the cultural details for the different factions and peoples of the Realm. These include the traditions, mannerisms, and trappings the leadership of the faction finds important, as well as other general details about each faction. Society is a useful skill for avoiding an embarrassing faux pas.
 <stuntt>Socially Adept</stuntt>
@@ -1314,7 +1314,7 @@ The seven factions in <book>WotA</book> are the Stronghold, the Empire of the Au
 <h1>Faction Attributes</h1>
 Factions only have one core attribute: stability.
 <h2>Stability</h2>
-<term>Stability</term> measures the cohesion and unity within the faction. As it lowers, the faction becomes more disorganized and easier to target. Mission difficulties are one lower if faction stability drops below -2. Alternatively, if a faction has a disposition higher than +2, mission difficulties are increased by one.
+<term>Stability</term> measures the cohesion and unity within the faction. As it lowers, the faction becomes more disorganized and easier to target. Mission difficulties are one lower if faction stability drops below -2. Alternatively, if a faction has a stability higher than +2, mission difficulties are increased by one.
 For the Stronghold, higher stability gives heroes additional fate points at the start of missions. Lower stability means heroes start with fewer fate points.
 <h1>Common Features</h1>
 All factions share aspects, leaders, regions, developments, and units. The minor factions (as well as the resistance within the Empire) also have trade charts.
@@ -1794,7 +1794,7 @@ Cavalry are highly mobile, and have strong Fighting and Armor skills.
 <aspect>The War Is Won or Lost With Us!</aspect>
 <aspect>Most Important Piece</aspect>
 </stats>
-Infantry are the bread and butter of any fighting force. They’re cheaper, able to be improved by warfare developments, and help absorb blows as well as deal damage. They’re best paired with other unit types where they can help.
+Infantry are the bread and butter of any fighting force. They’re cheaper and help absorb blows as well as deal damage. They’re best paired with other unit types where they can help.
 <stats>
 <name>Militia</name> 
 <skill><b>Fair (+2)</b>	Movement, Armor</skill>
@@ -3608,7 +3608,7 @@ Avoid Green Haven patrols.
 Escape from an Ironjaw Briar trap.
 </list>
 <h1>Skirmish</h1>
-Given the very low difficulty of skirmish missions against Gravewood, there probably isn’t much motivation to choose this type of campaign threat. Early in the campaign might be an option, particularly if the Stronghold is weak in skirmish.
+Given the very low difficulty of skirmish missions against Gravewood, there probably isn’t much motivation to choose this type of enemy faction threat. Early in the campaign might be an option, particularly if the Stronghold is weak in skirmish.
 <b>Difficulty:</b> 3
 <h2>Sample Challenges</h2>
 <list>
@@ -4091,7 +4091,7 @@ Hogel looks for opportunities to get ahead, although he’s careful not to stoke A
 <aspect>“I Have Come to Expect a Great Deal of Pain in This Life”</aspect>
 <aspect>“Show Respect When You Speak to Me!”</aspect>
 <stunt>Never Forget a Face (Wits): Add +2 to overcome actions when trying to see through a character’s disguise.</stunt>
-<stunt>Shoot the Messenger (Wits): When this character defends against a gain support action, the acting character takes two mental stress.</stunt>	
+<stunt>Shoot the Messenger (Wits): When this character defends against a gain support action, the acting character takes one mental stress.</stunt>	
 </stats>
 Ile has accepted her tragic lot in life, and now looks to carve out a niche for herself within the Sunriders clan. She understands the arcane world better than most of the Sunriders.
 <h1>Diplomacy</h1>
@@ -4655,6 +4655,7 @@ Also in this section are the character sheets, challenge lists, tech trees, the 
 <l2s>Spend a fate point (or free invoke) to <b>invoke</b> an aspect and gain +2 or re-draw</l2s>
 <l2s>May use one <b>helpful</b> aspect (assets and relationships) on skill check, draw a card and add suns to the skill check</l2s>
 <l2s>May use one <b>hindering</b> aspect (assets and relationships) on skill check, draw a card and subtract moons, gain a skill advance</l2s>
+<l2s>Spend a boost to draw a card and add suns to the skill check</l2s>
 <l1s>Core Actions</l1s>
 <l2s><fate>c</fate> <b>create advantage: </b>Create an aspect with a free invocation</l2s>
 <l2s><fate>o</fate> <b>overcome: </b>Remove an aspect or accomplish a general goal</l2s>
@@ -4667,8 +4668,8 @@ Also in this section are the character sheets, challenge lists, tech trees, the 
 <l3s>Each sun results in one physical stress and each moon in one mental stress</l3s>
 <l3s>All cards must be drawn at the same time, adding all symbols together and taking all stress at once</l3s>
 <l1s>Challenge Phase</l1s>
-<l2s><b>Create advantage: </b>Mission and campaign aspects may be created during challenge phase (and only during challenge phase)</l2s>
-<l3s><b>Boost: </b>Mission difficulty -2</l3s>
+<l2s><b>Create advantage: </b></l2s>
+<l3s><b>Scene aspect: </b>Mission difficulty -2</l3s>
 <l3s><b>Mission aspect: </b>Mission difficulty</l3s>
 <l3s><b>Campaign aspect: </b>Mission difficulty +2 (make sure there’s an open slot on the Stronghold sheet)</l3s>
 <l2s><b>Remove campaign aspect (overcome): </b> On success, may remove one campaign aspect</l2s>
