@@ -11,10 +11,20 @@ Beta Edition Mini-game Playtesters: “Origins 2014: Merchant Princes” – Nathan Pa
 Beta Edition Feedback and Guidance: Jennifer Lewis, Adam Minnie, Jeremy Nighbert, Rob Donoghue, Ron Edwards, Mark Diaz-Truman, Pat DeMoss, Nick Hopkins, Shawn Maden, Auden Reiter, Andy Cowell, JMobius
 Draft Edition Campaign Playtesters: Terri Koontz, Jennifer Lewis, Pat DeMoss, Rebecca DeMoss, Shawn Maden, Jeremy Nighbert
 Draft Edition Mini-game Playtesters: Wendy Lopez, Lawrence Lopez, “Origins 2013: Blood for the Sun God!” – William Kniffin, Patrick Schifano, Scott Cameron, “Origins 2013: Property is Theft!” - Aidan Friesen, Luke Shannon, Avram R. Shannon, Samuel Shannon, Matthew A. Reed, “AI Meetup” – Nina Bice, Auden Reiter, Mike Vivian, Chris Halama, Nick Hopkins
-Copyright 2015 Ziapelta Games
-For Jennifer.
+Wrath of the Autarch
+http://www.ziapeltagames.com/wrath-of-the-autarch
+Copyright © 2016 Ziapelta Games, LLC
+All rights reserved.
+Select mechanics and minigames are available for use via a CC-BY license. See http://www.ziapeltagames.com/wrath-of-the-autarch for more details.
+Art is © 2016 by their respective creators (Alyssa Maynard, Doug Kovacs, Eric Quigley, John Sheldon, and Jonny Gray).
+This work is based on Fate Core System and Fate Accelerated Edition (found at http://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
+Fate™ is a trademark of Evil Hat Productions, LLC.
+The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.
+This work uses material from Infiltration: Cracking the House, published by Magpie Games in The Fate Codex Volume 1, Issue 2 and written by Phil Lewis, and is licensed under the Creative Commons Attribution 4.0 International license (http://creativecommons.org/licenses/by/4.0/).
+This work uses Thief  on the Walls, by John W. Sheldon, released under the Creative Commons Attribution 4.0 license (http://creativecommons.org/licenses/by/4.0/) and created as part of the (un)Common Adventure Gallery patreon.
+The award for “displaying the most patience while listening to never-ending thoughts about kingdom building games” goes to Jennifer. Couldn’t have done it without you!
 <TODO>Table of Contents</TODO>
-<TODO>Add CC_BY boilerplate for Fate Core, as well as any OGL boilerplate needed for Diaspora.</TODO>
+<Image name=”0A Nature Spot 2”/>
 <chapter>Warning: This Is a Weird Game</chapter>
 Hello! This is Phil, the designer of <book>Wrath of the Autarch (WotA)</book>. Thanks for picking this up while browsing at your local game store! I’ll credit Doug’s awesome cover art.
 So, you’re trying to figure out what this is, right? Will you have fun playing it? Do you have friends that will like it? What the heck is this? Well, I’m about to spend many words telling you what this is and how it came about.
@@ -31,7 +41,8 @@ Each of those games had elements of what I wanted, although none of them was exa
 Shared Authority
 Troupe Style Play
 Episodic Structure
-Integrated Setting</list>
+Integrated Setting
+</list>
 Here’s more about how these pillars are used in <book>WotA</book>.
 <h2>Shared Authority</h2>
 In most role-playing games, one player has quite a bit of authority over what’s going to happen. This player is usually called the Gamemaster or the Dungeonmaster or something like that. They control the pacing, the unfolding narrative, and the challenge.
@@ -54,6 +65,7 @@ I think this should be extended to the setting. There are plenty of fantasy RPGs
 Finally, having a better defined setting makes it easier for players to construct missions quickly. Part of my goal with this game is to reduce preparation time without sacrificing interesting tactical options. This is possible only by essentially building the rules around a specific setting. While <book>WotA</book> is certainly not a simple game, it also isn’t a high prep game!
 <h1>Thanks!</h1>
 Thanks for taking a look! Hopefully that gives you some sense of whether or not this game will work for you. If this sounds like your kind of game, I hope you enjoy it!
+<Image name=”01 Over the Mountains”/>
 <chapter>Battle Plans</chapter>
 Even during a time of war, the Autarch watches your settlement with a keen eye toward teaching you a painful lesson. It was years ago that you gathered the people up from under her nose and traveled beyond the dark mountains, looking to start a new life. Old grudges die hard, and catching the cloaked Freetrader within your village confirmed your worst fears; when the Empire is finished conquering the Gray Plains, you’re next.
 And there’s no longer any question of <i>if</i> the Gray City-State will fall. It will fall very soon, allowing the Autarch’s troops to begin the long trek back. Perhaps there are a few years yet before the threats begin in earnest, before the Empire’s thirst for expansion brings attackers beyond the mountains toward your stronghold, but no more than that. You have a dearth of time to prepare for the Autarch’s wrath. Will you use that time to build up a military force to stop her? Use diplomacy and convince the scattered factions around you to unite for a common cause? Or will you ignore the great risks to harness the power of the arcane arts? What will you sacrifice for independence?
@@ -165,6 +177,7 @@ All skills and action results are rated on the <term>ladder</term>, a series of 
 -1 Poor
 -2 Terrible
 </list>
+<Image name=”02 Lands Spot 2”/>
 <h1>Aspects</h1>
 Aspects are short descriptive words and phrases that add flavor to the narrative. Aspects are the most important part of the game and can be attached to almost anything: characters, factions, regions, relationships, terrain, and more. Furthermore, aspects are used to give mechanical advantages and disadvantages to die rolls.
 Character aspects relate to individuals, frequently heroes, and include examples like <aspect>Fiery Temper</aspect> or <aspect>The Last Disciple of the Order of the Eye</aspect>. Aspects which describe a faction might be something like <aspect>Imperialist Magocracy</aspect> or <aspect>Education Is not a Priority</aspect>. Aspects may also relate to a region, such as <aspect>Flush with Game</aspect>. They may even describe very transient effects, such as <aspect>Ambush Perch</aspect> or <aspect>Slippery Floor</aspect>.
@@ -214,6 +227,7 @@ Giving an aspect color adds to the story. For instance, a character could be a <
 <h2>Aspect Burning</h2>
 <term>Aspect burning</term> converts free invokes on aspects into other mechanical effects covered by the rules, like assets (henchmen, familiars, magical items) and military units. Aspect burning can also be used to modify the conflict setup, by adjusting how the situation is physically laid out or to give either side various advantages. Creating assets is covered in <chapref>Characters</chapref> (page XX), and the use of aspect burning to help in conflicts is covered in the different conflict chapters: <chapref>Diplomacy</chapref> (page XX), <chapref>Infiltration</chapref> (page XX), <chapref>Skirmish</chapref> (page XX), and <chapref>Warfare</chapref> (page XX).
 The cost to create these effects is the number of free invokes that are expended. The free invokes, along with the aspect they are tied to, are no longer available after having been burned. Campaign aspects can create permanent effects such as assets, while mission aspects create things that last until the end of the mission.
+<Image name=”02 Autumn”/>
 <h1>Core Actions</h1>
 There are four core actions used by players for most situations arising in play. They are <term>create advantage</term>, <term>overcome</term>, <term>attack</term>, and <term>defend</term>. These actions may be slightly different depending on whether they’re used during the challenge phase or during one of the conflicts, but for the most part they work as described here.
 Each core action involves a skill check—against either passive or active opposition. The attack and defend actions are almost always against active opposition. Also, the attack and defend actions are only usable with some skills, while the create advantage and overcome actions are possible using any applicable skill.
@@ -268,6 +282,7 @@ If a character or target can’t negate the stress by filling in a box on a releva
 Some effects cause a character to apply a <term>stress card</term>. In this case, a card is drawn and the number of suns and moons are noted. First, the number of suns on the card are taken as physical stress followed by taking the number of moons on the card as mental stress. If more than one stress card is applied at once, total all of the suns first and take those as physical stress. Next, total all of the moons and take those as mental stress.
 <h2>Stress for Success (Heroes Only)</h2>
 One option available when a hero fails an action is to use <term>stress for success</term> to possibly succeed. The Stronghold player may take up to two stress cards after the action is resolved. For each stress card that will be taken, the Stronghold player may add +2 to the action. Resolve the action first, then apply all of the stress cards to the hero.
+<Image name=”02 Kingdom Spot 1”/>
 <box>
 <bh>Using Fate Dice</bh>
 Although <book>WotA</book> is tuned to use the Deck of Fate, it’s possible to play with fate dice. Instead of drawing a card when making a skill check, roll the four dice and add them together.
@@ -308,6 +323,7 @@ The Stronghold may be kept as is. Trading with factions and creation of developm
 Rewards—such as artifacts, gaining new regions, gaining or losing disposition with a faction, or changes in stability—may also be left up to the discretion of the gamemaster. However, as in the case of building developments, the world should change fairly frequently, so applying changes to the Stronghold should occur at least every few sessions. The mission descriptions may be used as inspiration or taken largely as they are to provide opposition during scenes.
 The conflict rules may be sprinkled in to add variety or when more structure is called for. Reserving these for use during particularly climactic moments in the campaign is a good policy. Since a number of developments improve the ability of characters to succeed during conflicts, it’s a good idea to keep them around.
 </box>
+<Image name=”03 At Play”/>
 <h1>Stronghold Creation</h1>
 The Stronghold is the central character in the campaign, so most of the first session is dedicated to its creation. Keep in mind the strategic directions voted on by the players while working through its creation. The first step is to create the five Stronghold aspects. Get out five notecards, and write the five themes for the Stronghold’s aspects: wrath, rule, belief, culture, and history.
 <h2>Stronghold Aspects</h2>
@@ -462,6 +478,7 @@ If desired, the Stronghold players may purposefully not fully feed the populatio
 Festivals may be held at a price that’s equal to the number of regions in luxuries. Similar to feeding the population, this is the total value on luxury dice, not the number of dice. Spending luxuries in such a way increases stability by one.
 <h3>Prison Break</h3>
 A hero may be rescued from imprisonment by assigning heroes to break them out. These heroes may not go on the mission for the season. To see if they were successful, draw a card and add the highest Thievery skill of all heroes present. Any helping heroes also assigned to the break out may add one to the result provided they have a Thievery skill of one or higher. If this result is equal to or higher than the infiltration difficulty (page XX) of the faction that captured them, the hero is rescued and may be used in the future. The result may not be modified with free invokes or fate points.
+<Image name=”04 Summer”/>
 <h1>Mission</h1>
 After Stronghold upkeep, the chosen mission is played through. <chapref>Missions</chapref> (page XX) contains details on how missions are structured as well as the different sorts of missions available. The steps that must be taken before and after the mission are covered here.
 <h2>Choose Heroes</h2>
@@ -504,6 +521,7 @@ If the faction is an ally (they have a disposition of -1 or higher), check on th
 <h2>Autarch Schemes</h2>
 Each year, the Autarch player may reveal two schemes. At this time, the Autarch player decides if they would like to use a scheme, and if so, which track to advance.
 See <chapref>Threats and Schemes</chapref> (page XX) for available options. If a scheme is chosen, update the faction sheet to show the current Empire mission difficulties and scheme levels.
+<Image name=”04 Kingdom Spot 2”/>
 <h1>Next Mission</h1>
 The final activity of the season is planning what mission should be undertaken next. The spotlight player resolves any disagreements. If this is done at the end of the evening, it helps the group plan for next session. It may also be useful to resolve over e-mail or some other medium to allow for more involved discussions.
 <chapter>Missions</chapter>
@@ -547,6 +565,7 @@ If the region conquered was a faction’s capital, the faction immediately collaps
 Even with success, using warfare has potentially high costs in terms of stability. See <chapref>Warfare</chapref> (page XX) for more details.
 <h3>Failure</h3>
 If the heroes fail to conquer a region, there are no penalties other than the loss of time on the part of the heroes (and potentially consequences that heroes have sustained). If warfare is used, units could be lost and stability possibly lowered. The region is not added to the Stronghold sheet, but the mission for the same region may be attempted again.
+<Image name=”05 Units”/>
 <h2>Alliance</h2>
 Alliance missions are a way to increase the disposition with minor factions. Increased disposition gives access to better trade rates when building developments. A disposition of +3 or higher gives the Stronghold access to the quest mission provided by the faction, and a disposition of +5 or higher means the minor faction will commit military units for the Stronghold in war.
 <h3>Requirements</h3>
@@ -666,6 +685,7 @@ Schemes are the main method by which the Autarch player attacks the Stronghold. 
 The Autarch player chooses a scheme from the list in “Schemes” (page XX). The difficulty is based on relevant Empire conflict difficulty. The conflict used for resolution is also based on the particular threat chosen.
 <h3>Success, Failure, Ignore</h3>
 These depend on the scheme chosen. Usually ignoring the scheme carries a greater penalty than trying but failing.
+<Image name=”05 Lands Spot 3”/>
 <chapter>Challenge Phase</chapter>
 During the challenge phase, the players set <term>challenge scenes</term> to spotlight the heroes’ struggle to succeed at the mission. Stronghold players may also set <term>advantage scenes</term>, which showcase the creation of advantages for the heroes or Stronghold. The challenge phase is also the primary time for heroes to improve their skills.
 <h1>Goal</h1>
@@ -810,6 +830,7 @@ Since the “On the Run” scene has two <wingdings>R</wingdings>, Cadell takes two 
 All stress taken by a character from a resolve challenge action must be of one type, but each player may decide what type of stress to take.
 <example>Phil: Nice! It sounds like the werewolf has a lair out there somewhere. Maybe it’s not someone from town? Or maybe they just have a shelter in the woods.</example>
 <example>Jeremy: I still haven’t gone this exchange. I wanted to create a campaign aspect this mission, but time is starting to run short. Hopefully the last challenge scene isn’t too bad.</example>
+<Image name=”06 Werewolf”/>
 <h3>Jeremy’s Turn</h3>
 Jeremy draws the <fate>---+</fate> card, which has three <wingdings2>ƒƒƒ</wingdings2>. Looking at the Skirmish Challenges for <fate>---</fate> (the first three symbols), the challenge uses Survival and the hint is “Behind Enemy Lines.” The opposition of the challenge is Fair (+2)—the result of the draw, <fate>---+</fate>, plus the mission difficulty of Great (+4).
 <example>Jeremy: Well, it’s going to take some time, but it’s not hard. Maelgwn is the best at Survival, so I could take an action now to chip away at it, as well as the first action next exchange. That would leave you two to create a campaign or mission aspect.</example>
@@ -864,6 +885,7 @@ Heroes can go on missions when they have consequences, although naturally it’s r
 As described in “Taking Damage” in <chapref>Core Rules</chapref> (page XX), if a character must take stress but has no more stress boxes or consequences to mitigate the stress, they’re taken out.
 A character getting taken out doesn’t necessarily mean they’re killed. It means the character is removed from the mission and may take no more actions. The nature of what it means to be taken out depends on the type of conflict. In a social situation, it could mean the character is shamed or embarrassed and doesn’t want to continue. Or they owe a debt to another character. In combat, the character might not be in any shape to fight any longer.
 Faction leaders and heroes in particular may only be killed through assassination. Even if they’re taken out during skirmish or warfare, they’re presumed to not be killed. Monsters, lieutenants, and minions are killed for good if they’re taken out.
+<Image name=”07 Spring1”/>
 <h1>Leaders</h1>
 <term>Leaders</term> are important and possibly recurring characters in the campaign aside from the heroes. Leaders include the faction leaders, the set of influential characters described for each faction, as well as boss monsters and other central adversaries. Leaders are built very similarly to heroes, with the key difference coming from how skills and stunts are chosen.
 <h2>Aspects</h2>
@@ -957,6 +979,7 @@ If a character takes Channeling stunts that require the spending of mana, the ch
 <stuntd>When this character generates backlash, it may be reduced by four. If reduced, choose a target character from the same faction as the caster. For heroes, the target character must be the hero they have a helpful aspect with. The target character immediately takes a severe consequence. The consequence should be thematically appropriate to the type of magic used. If the target character doesn't have an open severe consequence slot, they are killed—provided all the players agree. If the group doesn't agree, the full backlash should be applied to the bound region as normal. </stuntd>
 <stuntt>Fleeting Familiar</stuntt>
 <stuntd>Summon a magical entity to perform tasks. Spend three mana to add +3 to a create advantage action using Channeling. Create an aspect to describe a specialized arcane familiar or the result of using the familiar.</stuntd>
+<Image name=”08 Monster Spot 4”/>
 <h1>Command</h1>
 The Command skill is used to get the most out of people. A character with a high Command is listened to and respected, if not always liked.
 <stuntt>Band Together</stuntt>
@@ -1004,6 +1027,9 @@ Fighting is knowledge of weapons and the ability to utilize them to defeat other
 <stuntt>Powerful Attack</stuntt>
 <stuntp>Infiltration, Skirmish, Warfare</stuntp>
 <stuntd>The character is a bruising attacker, capable of delivering crushing blows. Add +2 to attack actions using Fighting.</stuntd>
+<stuntt>Legendary Champion</stuntt>
+<stuntp>Warfare</stuntp>
+<stuntd>While the character is a champion, they may add fortune to one attacking group during a clash of arms action. This counts as the character’s action for the exchange.</stuntd>
 <stuntt>I’m on a Roll!</stuntt>
 <stuntp>Skirmish, Infiltration, Warfare</stuntp>
 <stuntd>On a successful attack action, gain a boost even if the attack didn't succeed with style. If it succeeded with style, gain an extra boost.</stuntd>
@@ -1059,7 +1085,7 @@ Rapport is the process of building lasting friendships. Characters with high Rap
 <stuntd>When the character successfully gains support, opposing characters on the same issue each take one mental stress.</stuntd>
 <stuntt>Related Point</stuntt>
 <stuntp>Diplomacy</stuntp>
-<stuntd>When the character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stuntd>
+<stuntd>When an actively opposed character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stuntd>
 <stuntt>Captivating Features</stuntt>
 <stuntd>Add +1 when using boosts to leverage the character’s looks.</stuntd>
 <stuntt>Winning Personality</stuntt>
@@ -1221,6 +1247,7 @@ The white ships which sail to the island of the dead usually make no return trip
 <aspect>Gleefully Seek Destruction </aspect>
 <stunt><b>Aura of Terror</b>: A commander wishing to take units into the same zone as the undead soldiers must succeed at a Great (+4) Command roll.</stunt>
 </stats>
+<Image name=”09 Shadow Walker”/>
 <h1>Secrets of the Elements</h1>
 Mastering the elements requires a keen eye for detail. Elemental magic is primarily used for its offensive capabilities, and is well suited to skirmish and warfare.
 <stuntt>Fire Strike</stuntt>
@@ -1309,6 +1336,7 @@ During a conflict, each additional mana spent gives the character one additional
 <stunt><b>Flying (General Stunt)</b></stunt>
 <stunt><b>Fiery Breath</b>: May use Marksmanship to attack all characters and units in the target zone.</stunt>
 </stats>
+<Image name=”09 Snake Wizard”/>
 <chapter>Factions</chapter>
 The seven factions in <book>WotA</book> are the Stronghold, the Empire of the Autarch, and the five minor factions. Each faction has stability attributes, as well as aspects, regions, and leaders. Additionally, the Stronghold tracks developments and disposition towards other factions and the Empire tracks available schemes.
 <h1>Faction Attributes</h1>
@@ -1344,6 +1372,7 @@ The Stronghold may trade resources with each minor faction. The Stronghold may a
 If a faction’s capital falls in warfare, it collapses and is no longer in the campaign. A faction with no capital doesn’t generate threats, may not trade goods or contribute units to allies, and may not be the target of any missions.
 Factions may still defend their other regions using any remaining troops they have available. But they will not mount any offensive attacks.
 If the Stronghold collapses for any reason, the campaign is over, and the Empire has emerged victorious.
+<Image name=”10 Lands Spot 1”/>
 <h1>The Stronghold</h1>
 The Stronghold has many of the same attributes as the rest of the factions. Since the Stronghold is the focal point of the campaign, there is additional tracking and growth that takes place.
 <h2>Stronghold Aspects</h2>
@@ -1369,6 +1398,7 @@ The Empire gains additional units when their warfare threat pool increases. The 
 <b>Lily Manor</b>	6	5	4	3
 <b>Sunriders</b>	4	3	5	6
 </table>
+<Image name=”10 Winter”/>
 <chapter>Developments</chapter>
 <term>Developments</term> are cultural, technological, and civic improvements to the Stronghold. Developments might be physical structures like a mage tower, scientific advancements such as gunpowder, or even skilled groups of people, like diplomats.
 Developments may affect the Stronghold directly, such as by improving defensive capabilities, or developments might affect the heroes, giving them situational benefits during play. The latter sorts of developments are like stunts, except they affect all heroes from the Stronghold, not just one.
@@ -1382,6 +1412,7 @@ Keeps and castles are very closely related to a particular region. When these de
 The developments are divided into five tech trees. There’s one tech tree for each type of conflict (diplomacy, infiltration, skirmish, and warfare) as well as a tech tree for arcane developments. The four conflict tech trees have effects that mainly help in each of those four conflict types, while the developments in the arcane tech tree benefit spellcaster heroes. The better developments in each tech tree have prerequisite developments that must be built first. The peak developments in each tree are difficult to obtain, and it’s only possible to at most build a few of them over the course of the campaign.
 <h2>Defensive Developments</h2>
 Some developments give the Stronghold certain defensive capabilities to cancel threats. Each defensive development may only be used once per year to cancel a threat of a certain difficulty or less. There’s space on the developments summary sheet to track when these have been used. In the Spring, the defensive developments may be cleared so they can be used again.
+<Image name=”11 Construction”/>
 <h2>Units</h2>
 Units function much like other developments. Their costs are listed in <chapref>Warfare</chapref> (page XX). Multiple units of the same type may be purchased during the Stronghold upkeep phase. Each unit purchased is added to the total on the Stronghold sheet.
 <h1>Arcane Developments</h1>
@@ -1403,6 +1434,7 @@ Draw three, keep one on backlash checks.
 Spellcasters begin each session with three additional mana.
 <devel_title>Mages Guild</devel_title>
 All heroes gain one Lore stunt. Current rank of Lore skill doesn’t matter, but stunt prerequisites must still be met.
+<Image name=”11 Priming the Mana Forge”/>
 <h1>Diplomacy Developments</h1>
 <devel_title>Arts and Entertainment</devel_title>
 May redraw on Society actions when officially representing the Stronghold.
@@ -1489,6 +1521,7 @@ Zones are placed on the table such that one edge of a zone is adjacent to one or
 In diplomacy, zones aren’t physical spaces. Instead, zones represent issues that the two sides are arguing about. As such, zone placement restrictions don’t apply. All zones in diplomacy are considered adjacent to each other.
 <h2>Obstacles</h2>
 Zones may have obstacles in them. These are usually physical features, like dense foliage, each of which makes movement into the zone more difficult. Obstacles are written or drawn on the zone.
+<Image name=”12 Monster Spot 3”/>
 <h1>Actions</h1>
 Conflicts are played over exchanges, just like the challenge scene. Each player gets one action each exchange (the specific available actions are based on the type of conflict and are listed in the following chapters).
 Unlike the challenge phase, the order of actions is usually based on a particular skill, and isn’t up to the Stronghold players to decide. The create advantage action is not available during a conflict. Instead, two new action types, <term>focus</term> and <term>movement</term>, are available.
@@ -1527,6 +1560,7 @@ For alliance missions, if the target faction has zero disposition or less, the A
 The Stronghold players may burn a free invoke (from a mission or campaign aspect) to place one support on an issue. Each free invoke burned allows the Stronghold players to place one support, although no more than one support may be placed on each issue (they have to be spread out).
 <h2>Place Characters</h2>
 Characters are placed onto issues in reverse order of Society (the character with the lowest Society is placed first). Heroes break ties. A character placed onto or next to an issue is said to be <term>attached</term> to the issue.
+<Image name=”13 Friends at Court”/>
 <h1>The Exchange</h1>
 Turns are taken in order of the Society skill, with the highest character going first, working down. If tied, the Stronghold player may choose the order. Each character takes one action on their turn before a new exchange begins. Diplomacy continues until all issues are claimed by one of the two sides.
 <h1>Actions</h1>
@@ -1609,6 +1643,7 @@ These sample guards can get you started. It’s easiest if all the guards share th
 <skill><b>Average (+1)</b>	Physique</skill>
 <stunt><b>Never Forget a Face (Wits)</b>: Add +2 to overcome actions when trying to see through a character’s disguise.</stunt>
 </stats>
+<Image name=”14 Map Room”/>
 <h1>Setup</h1>
 The players collaboratively come up with a plan, make a map of the house, flesh out the security challenges, and then place the heroes, initial guards, and alarms. First, gather together a number of notecards equal to three times the number of Stronghold players for use in creating the zones of the house. Add to this one notecard with the label <i>Outside the House</i>.
 <h2>Security Challenges</h2>
@@ -1629,6 +1664,7 @@ The Autarch player starts with a number of guards equal to half the heroes (roun
 Each free invoke burned can be used to allow a hero unrestricted access to a zone (by default heroes are not allowed in any zones) or to add a new zone to the map.
 <h1>The Exchange</h1>
 Each hero takes an action in any order desired by the spotlight player. Next, unalerted guards patrol, moving one zone. Alerted guards may optionally move. After movement, each guard and leader takes one action in any order desired by the Autarch player. Finally, more guards may arrive.
+<Image name=”14 Thief on the Wall”/>
 <h1>Actions</h1>
 When a character takes a turn, they choose one of the following actions: 
 <list>
@@ -1688,6 +1724,7 @@ The Autarch player and the spotlight player take turns placing the notecards on 
 The Autarch player places all of the opposition on any desired zones, with the exception of the <i>Hero Start</i> zone, which must be free from opposition. Following that, the spotlight player places tokens to represent the heroes on the <i>Hero Start</i> zone.
 <h2>Aspect Burning</h2>
 The Stronghold players may burn free invokes (from a mission or campaign aspect) to allow a hero to start in a different zone instead of the given starting zone, add a new obstacle to a zone, or add a new zone to the map. Each of these costs one free invoke.
+<Image name=”15 Steingrimr Attacks”/>
 <h1>The Exchange</h1>
 Turns are taken in order of the Survival skill. Stronghold players go first in the case of ties. Characters may delay their action until later in the exchange, potentially forcing characters with lower Survival skills to go first.
 <h1>Actions</h1>
@@ -1851,6 +1888,7 @@ This sample commander is easy to adjust for the campaign by sliding the given sk
 This is a good defensive military leader, with solid Tactics and Command, and two stunts useful for warfare. With the lower Engineering, this leader isn’t as suited to dealing with siege equipment.
 <h2>Units for Threats</h2>
 For threats that don’t involve enemy factions, it’s necessary to determine the opposing army strength. In this case, gather a number of units equal to twice the difficulty of the threat. At least half of the opposing units should be infantry. The other half can be a mixture of any unit types chosen by the Autarch player.
+<Image name=”16 Flee”/>
 <h1>Setup</h1>
 During setup, each side determines what set of units they have available and assigns them to commanders. The battlefield is created, along with the strategic zone and any terrain. Finally, leaders and attached units are placed onto the battlefield.
 <h2>Allocate Units</h2>
@@ -2008,7 +2046,7 @@ Hargeth’s passion is using engineering to more efficiently use the spare resourc
 <aspect>“Not All Issues Have Two Sides.”</aspect>
 <aspect>Disarming Smile</aspect>
 <aspect>“What Impact Will This Have on Our Future Generations?”</aspect>
-<stunt>Related Point (Rapport): When a character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
+<stunt>Related Point (Rapport): When an actively opposed character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
 <stunt>Undermine the Point (Wits): When defending against a gain support action, opponent takes one mental stress.</stunt>
 </stats>
 Gerda is skeptical of the Stronghold’s intentions, and is fearful that an alliance could bring unnecessary war and bloodshed.
@@ -2154,6 +2192,7 @@ Arankh, the most powerful living thing in the Realm.
 Arankh is unfathomably ancient and powerful. There’s no sorcerer his equal, he has never been bested in combat, and armies can’t be brought to meet him because of his remote position.
 <h2>Tactics</h2>
 Arankh will hang back at first, blasting the heroes with ranged attacks until they close in. Then, he will take to the sky, swooping in to claw and bite at who he surmises is the weakest target, hoping to inflict psychological damage on the remaining heroes.
+<Image name=”17 Monster Spot 1”/>
 <mission>Fennel Marshes</mission>
 <missionentry>
 <table>
@@ -2199,6 +2238,7 @@ Ur-Akti’s singular goal is to purge the land of any humans, which it perceives a
 Place Ur-Akti near the largest group of heroes. Add <aspect>Swampy Terrain</aspect> obstacles on four of the zones. Ur-Akti is not slowed by these obstacles. Alternatively, if the opponents don’t have much in the way of ranged attacks, placing grappling vines in key locations may help set up a funnel for Ur-Akti’s attacks.
 <h2>Tactics</h2>
 The beast tries to get close to the largest group of heroes, and attacks them relentlessly.
+<Image name=”17 Ur-Akhti”/>
 <mission>Ferry’s Glenn</mission>
 <missionentry>
 <table>
@@ -2478,6 +2518,7 @@ The formless spawn sits in a large chamber, at the lowest point in the network o
 When creating the map, use all available obstacles to create zones that are partly filled with water. The spawn remains in these zones as much as possible, since it has poorer movement on land.
 <h2>Tactics</h2>
 The spawn picks on the mentally weakest character, lashing out with psychic attacks that drain their will to fight. It moves around water zones, trying to avoid the heaviest hitters.
+<Image name=”17 Monster Spot 2”/>
 <mission>Sunset Isles</mission>
 <missionentry>
 <table>
@@ -2707,6 +2748,7 @@ Meet with Tatlia in the back room of the Plump Guildmaster.
 Watch guard movements outside of the Guild of Maps, a Gray Cloak front.
 Plot a course through the Dawncaves.
 </list>
+<Image name=”18 Stickup!”/>
 <h1>Skirmish</h1>
 The Empire is only too willing to send capable soldiers and mercenaries to attack targets within the Stronghold. Nalah is typically sent on such missions, backed up by guards or mercenaries from other factions.
 <b>Base Difficulty:</b> 4
@@ -2967,6 +3009,7 @@ What happens to the people of the Empire?
 Who is bound to the forest in the Autarch’s place and what happens to their personality?
 What does the future hold for the Stronghold?
 </list>
+<Image name=”18 Animaelic Forest”/>
 <mission>Wrath of the Autarch</mission>
 <missionentry>
 <table>
@@ -3043,6 +3086,7 @@ Militia	8
 Infantry	5
 Archers	3
 Mages	8
+<Image name=”19 Burgan Vale”/>
 <h1>Leaders</h1>
 <stats>
 <name>Marellus (Leader)</name>
@@ -3266,6 +3310,7 @@ Archers	9
 Cavalry	3
 Catapults	3
 Cannons	3
+<Image name=”20 Dwelling”/>
 <h1>Leaders</h1>
 <stats>
 <name>Agatha (Leader)</name>
@@ -3457,6 +3502,7 @@ The Stealer of Hope along with one Fire Imp for each hero.
 The Stealer of Hope will seek out the weakest hero, focusing its energy on taking them out. The imps fly around, trying not to get pinned down, helping to pick off vulnerable heroes.
 <h2>Resolution</h2>
 The heroes gain access to weapons from Aren’s Forge. When using the attack action with Fighting or Marksmanship, the suns on the card played apply directly as physical stress to the target, even if the action wasn’t successful. All stress is applied at one time.
+<Image name=”20 Hellforge”/>
 <chapter>Gravewood</chapter>
 The old and wild forests known as Gravewood are—in defiance of their name—rich and vibrant with beauty. Mixed with idyllic streams and rocky outcroppings, they are nothing if not breathtaking. However, they’re also incredibly treacherous to the human traveler, home to many horrific beasts, and further infested with traps and barriers set by xenophobic natives.
 The people of Gravewood are difficult to approach. They pride themselves on a certain amount of self-sufficiency, able to exist and thrive without much contact with the outside world. The biggest task for the locals is to maintain safe trails through the forest—although this treacherous land also helps discourage visitors.
@@ -3489,6 +3535,7 @@ Militia	6
 Infantry	6
 Archers	8
 Cavalry	4
+<Image name=”21 Chosen of Gravewood”/>
 <h1>Leaders</h1>
 <stats>
 <name>Sdila (Leader)</name>
@@ -3561,7 +3608,7 @@ Radia and Galya are old friends, both relying on their accumulated wisdom to hel
 <aspect>Grimly Reserved</aspect>
 <aspect>Egalitarian</aspect>
 <stunt>Commanding Word (Society): Spend a fate point to add an additional point of support when successfully gaining support.</stunt>
-<stunt>Related Point (Rapport): When the character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>	
+<stunt>Related Point (Rapport): When an actively opposed character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>	
 </stats>
 Galya made her way up to become leader through hard-nosed determination. She’s concerned about the treatment of women within Gravewood, who tend not to be respected.
 <stats>
@@ -3597,6 +3644,7 @@ Help Galya create a more egalitarian society in Green Haven.
 Escort children between the Green Haven and First Haven.
 Prepare for a frost troll attack.
 </list>
+<Image name=”21 Bearer Of Gifts”/>
 <h1>Infiltration</h1>
 Gravewood is adept at guarding against infiltration. They have a network of traps set up to guard against hostile forces, and they use the same traps to guard important information. They’re also highly distrusting of outsiders, and keen to detect disguises adopted by would be infiltrators.
 <b>Difficulty:</b> 6
@@ -3736,8 +3784,8 @@ Cavalry	4
 <aspect>Confident Speaker for Lily Manor</aspect>
 <aspect>Charming Polymath</aspect>
 <aspect>“Art and Culture Lives and Dies with Lily Manor”</aspect>
-<aspect>Excellent Judge of Character</aspect>	
-<stunt>Related Point (Rapport): When the character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
+<aspect>Excellent Judge of Character</aspect>
+<stunt>Related Point (Rapport): When an actively opposed character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
 <stunt>Winning Personality (Rapport): The character is better at fostering relationships with those close to them. The character may use Rapport instead of Society to defend against social attacks.</stunt>
 <stunt>Commanding Word (Society): Spend a fate point to add an additional point of support when successfully gaining support.</stunt>
 </stats>
@@ -3814,6 +3862,7 @@ Azene is one of the principal characters involved in infiltrating other factions
 <stunt>No Quarter Given (Fighting): If an opponent leaves the zone the character is in, make an attack against them.</stunt>
 </stats>
 Idris serves as Zarrah’s main guard. Idris is also more than capable of handling any heavy lifting that needs doing.
+<Image name=”22 Pleas for Support”/>
 <h1>Diplomacy</h1>
 The people of Lily Manor are at once more open and liberated than most of the other factions, yet also coldly calculating. Lily Manor relies very heavily on trade, mostly for food, and have perfected diplomacy to an art form.
 <b>Base Difficulty:</b> 6
@@ -3892,7 +3941,7 @@ The heroes must address the issues posed by the Sapphire Djinn in its currently 
 <aspect>Champion of the Common Man</aspect>
 <aspect>Visions of a Utopian Future</aspect>
 <aspect>Shadow of the Sapphire Djinn’s Ambition</aspect>
-<stunt>Related Point (Rapport): When the character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
+<stunt>Related Point (Rapport): When an actively opposed character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
 <stunt>Passive Aggressive (Rapport): When the character successfully gains support, opposing characters on the same issue each take one mental stress.</stunt>
 </stats>
 Ulu has made her mark quickly within Crow Manor, displacing the previous speaker and winning the hearts and minds of the people. Ulu’s stellar rise quickly brought her to Zarrah’s attention. Ulu is a true people’s champion and a reformer.
@@ -4001,6 +4050,7 @@ Infantry	8
 Archers	5
 Sunriders	8
 Catapults	2
+<Image name=”23 Sunrider Ovoo”/>
 <h1>Leaders</h1>
 <stats>
 <name>Arban the Swift (Leader)</name>
@@ -4137,6 +4187,7 @@ Prepare horse traps in the Sunset Gorge.
 Shore up weaknesses during advance into Sunrider line.
 Survive winter march through the Long Wastes.
 </list>
+<Image name=”23 Sunriders”/>
 <h2>Special Units</h2>
 The Sunriders have access to a special unit type, from which their name derives. These are highly trained cavalry capable of shooting accurately while moving about the battlefield, combining the best of both archers and cavalry.
 <stats>
@@ -4204,6 +4255,7 @@ Furthermore, if Pelakhar isn’t used in warfare at least once a year, it grows bo
 <stunt>Nowhere Is Safe: May attack units within a keep or castle.</stunt>
 </stats>
 Unlike most units, Pelakhar has a stress track. Pelakhar takes stress equal to the number of shifts on the attack check, as with the regular attack action.
+<Image name=”23 Sunrider Dragon”/>
 <chapter>Threats and Schemes</chapter>
 Threats and schemes are the primary source of adversity for the Stronghold. There are two types of threats: region and faction. Each season there’s a chance that any number of these threats might occur.
 Region threats affect the land the Stronghold controls, possibly altering supply and stability. Faction threats potentially harm relationships with allied factions. If a faction is negatively disposed toward the Stronghold, a faction threat could result in stability loss.
@@ -4232,6 +4284,7 @@ If a region threat is ignored, the region produces no resources for that season.
 If the spotlight player decides to go on a mission to address the threat, but fails, the Stronghold loses one stability. Since the threat wasn’t ignored, the Stronghold may use resources from the region.
 <h3>Mission Success</h3>
 If a region threat mission is successful, the Stronghold gains one stability.
+<Image name=”24 Mob”/>
 <h1>Faction Threats</h1>
 Faction threats are determined similarly to region threats. At the end of each season, a fate card is drawn for each minor faction (all of the factions except for the Autarch). If the result is a +3 or +4, a faction threat occurs.
 <h2>Ally vs. Enemy Factions</h2>
@@ -4508,7 +4561,7 @@ Eurich is a straight shooter who is well respected in the region. He blames a fa
 <skill><b>Average (+1)</b>	Society</skill>
 <aspect>Star Crossed Farmer</aspect>
 <aspect>“At Least the Empire Doesn’t Attack Their Own!”</aspect>
-<stunt>Related Point (Rapport): When the character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
+<stunt>Related Point (Rapport): When an actively opposed character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>
 <stunt>Passive Aggressive (Rapport): When the character successfully gains support, opposing characters on the same issue each take one mental stress.</stunt>
 </stats>
 Pasha puts on a friendly face and has a certain grace and charm, but underneath she’s seething and blames the heroes for a failure of leadership.
@@ -4524,7 +4577,7 @@ Pasha puts on a friendly face and has a certain grace and charm, but underneath 
 <aspect>Hot Headed Instigator</aspect>
 <aspect>“We Demand More than This!”</aspect>
 <stunt>Captivating Features (Rapport): Add +1 when using boosts to leverage the character’s looks.</stunt>
-<stunt>Related Point (Rapport): When the character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>	
+<stunt>Related Point (Rapport): When an actively opposed character successfully gains support, they gain a boost. If the character succeeds with style, they gain an additional boost.</stunt>	
 </stats>
 Safrich is a young idealist, not very willing to see compromise or the practical realities of creating a system of rule. Instead, his demands center on egalitarian solutions that aren’t very practical but appeal as populist rabble rousing.
 <stats>
@@ -4599,6 +4652,7 @@ Thievery: Pick the lock on Jebe’s cell
 </list>
 <h2>Resolution</h2>
 The Stronghold gains one disposition with the Sunriders if they’re successful (as usual for an ally threat). Any captured heroes are detained as normal.
+<Image name=”25 Nature”/>
 <chapter>Quick Reference</chapter>
 Following are summaries of the core procedures used in <book>Wrath of the Autarch</book>. The summaries may be used for reference during play.
 Also in this section are the character sheets, challenge lists, tech trees, the Stronghold sheet, the faction sheet, and the Chronicle of Seasons.
@@ -4667,6 +4721,18 @@ Also in this section are the character sheets, challenge lists, tech trees, the 
 <l3s>Max two cards</l3s>
 <l3s>Each sun results in one physical stress and each moon in one mental stress</l3s>
 <l3s>All cards must be drawn at the same time, adding all symbols together and taking all stress at once</l3s>
+<l1s>Stability</l1s>
+<l2s>High Stronghold stability gives the heroes extra starting fate points at the start of a mission, while low Stronghold stability takes away starting fate points at the start of a mission</l2s>
+<l3s>The Stronghold can lose stability from threats and schemes</l3s>
+<l3s>Stronghold stability is gained from festivals and successfully dealing with different threats</l3s>
+<l2s>High faction stability makes missions with the faction more difficult, while low faction stability makes missions with the faction easier</l2s>
+<l3s>Factions lose stability by successful sabotage missions</l3s>
+<l3s>Factions gain stability during Spring faction growth</l3s>
+<l1s>Disposition</l1s>
+<l2s>High disposition with factions enables better trade rates</l2s>
+<l3s>Disposition with factions is increased by successful alliance missions</l2s>
+<l3s>If disposition increases to +5 or higher, the faction is a military ally of the Stronghold</l2s>
+<l2s>Disposition is lowered by threats and schemes</l2s>
 <l1s>Challenge Phase</l1s>
 <l2s><b>Create advantage: </b></l2s>
 <l3s><b>Scene aspect: </b>Mission difficulty -2</l3s>
